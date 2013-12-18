@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Aws on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/aws.xml</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2013-05-11 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Netflix OSS</title>
+      <link>http://theb0ardside.com/netflixoss/</link>
+      <pubDate>Sat, 11 May 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/netflixoss/</guid>
+      <description>&lt;p&gt;Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/A69uTnfQgB8?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>jedberg talk at Airbnb</title>
+      <link>http://theb0ardside.com/jedbergtalkatairbnb/</link>
+      <pubDate>Wed, 08 May 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/jedbergtalkatairbnb/</guid>
+      <description>&lt;p&gt;I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/cCAO9moDucI?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL on AWS</title>
+      <link>http://theb0ardside.com/postgresqlonaws/</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/postgresqlonaws/</guid>
+      <description>&lt;p&gt;Excellent video specifically for PostgreSQL on AWS, however the principles are pretty universal information for running anything on AWS -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/2fHRX-u1X4A?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

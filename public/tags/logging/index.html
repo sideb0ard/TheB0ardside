@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <base href="http://theb0ardside.com/">
+    <title> TheB0ardside.com </title>
+    <link rel="canonical" href="http://theb0ardside.com/tags/logging.html">
+    <link href="http://theb0ardside.com/static/css/b0ardstrap.min.css" rel="stylesheet"/>
+    <link href="http://theb0ardside.com/static/css/b0ardstyle.css" rel="stylesheet"/>
+
+</head>
+<body lang="en">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  
+  <div class="navbar-header">
+    <a class="navbar-brand" href="http://theb0ardside.com/">The B0ardside</a>
+  </div>
+
+  <div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">hello<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li><img src="http://theb0ardside.com/static/img/thor.jpg"></li>
+            <li><a href="mailto:thorsten@theb0ardside.com?subject=hullo">Email</a></li>
+            <li><a href="http://twitter.com/sideb0ard">Twitter</a></li>
+            <li><a href="http://github.com/sideb0ard">Github</a></li>
+            <li><a href="http://drawingb0ard.blogspot.com/">Drawings</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+  <div class="container">
+  <div id="page">
+
+
+<section id="main">
+  <div>
+   <h1 id="title">Logging</h1>
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/graylog2andpartygorilla/'> Graylog2 and Party Gorilla</a> </h2>
+      <div class="post-meta">Thu, Jun 7, 2012</div>
+    </header>
+    <p><a href="http://www.theb0ardside.com/wp-content/uploads/2012/06/partygorrila.png"><img src="http://www.theb0ardside.com/wp-content/uploads/2012/06/partygorrila.png" alt="" title="partygorrila" width="650" height="354" class="aligncenter size-full wp-image-122" /></a></p><p>I discovered <a href="http://www.splunk.com/" title="Splunk" target="_blank">Splunk</a> about 6 months ago, and aside from the unfortunate name and the truly evil pricing model, I was quite taken with the app itself, a searchable realtime interface to a centralized logging server. </p><p>I read about <a href="http://logstash.net/" title="Logstash" target="_blank">Logstash</a> and <a href="http://www.graylog2.org/" title="Graylog2" target="_blank">Graylog2</a> a few months back, which seemed to offer a similar functionality, but just had never had the time or opportunity to implement it until now. There are many moving pieces so it can be a bit confusing at first, but the confusion simply stems from the flexibility of how you configure the components. I found the <a href="http://redbluemagenta.com/2011/08/19/modern-log-management-and-monitoring/" target="_blank">explanation on this blog piece</a> to be the simplest way to explain how the components can be connected. </p><p>Graylog2 by itself can take the place of your central Syslog server. It utilizes quite a few other pieces of software to run - Elasticsearch, MongoDB and some ruby gems for the web interface, so even in this most simplified setup, there are still quite a few steps to getting it up and running. There are several tutorials online and linked from the Graylog2 website - the one I followed, and would highly recommend was <a href="http://blog.dean.io/2012/04/getting-started-with-graylog2-for-logging-updated-for-0-9-6/" title="Dean Perry&#039;s Blog" target="_blank">this blog post</a> - took me a few hours from initial futzing around to having a working setup.</p><p>If you already have a central Syslog server up and running, you might not be so keen to change all your hosts (why not? you're running Puppet surely! :) - in which case, you can configure Rsyslog or Syslog-ng to forward to your Graylog2, or alternatively, use Logstash to parse, optionally transform and forward your syslogs. This <a href="http://petes-brain.com/2011/12/my-logging-setup-rsyslog-logstash-and-graylog2/" title="mo blog" target="_blank">post</a> has some decent info on setting up like this.</p><p>But of course, the most important thing is that they have a &#8220;motherfucking party gorilla with a motherfucking party hat&#8221; for their logo, and how can you argue with that??! </p><p><a href="http://www.theb0ardside.com/wp-content/uploads/2012/06/graylogdashboard.png"><img src="http://www.theb0ardside.com/wp-content/uploads/2012/06/graylogdashboard.png" alt="" title="graylogdashboard" width="600" height="160" class="aligncenter size-full wp-image-123" /></a></p><p>( <a href="http://www.lennartkoopmann.net/post/2170204127" title="party gorilla" target="_blank">Here's why!</a> )</p>
+
+</article>
+
+    
+  </div>
+</section>
+
+      <script src="http://theb0ardside.com/static/js/jquery.js"></script>
+      <script src="http://theb0ardside.com/static/js/bootstrap.min.js"></script>
+      </div>
+      </div>
+      <div id="footer"></div>
+  </body>
+
+</html>
+

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <base href="http://theb0ardside.com/">
+    <title> TheB0ardside.com </title>
+    <link rel="canonical" href="http://theb0ardside.com/puppetstagesandapt/">
+    <link href="http://theb0ardside.com/static/css/b0ardstrap.min.css" rel="stylesheet"/>
+    <link href="http://theb0ardside.com/static/css/b0ardstyle.css" rel="stylesheet"/>
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://theb0ardside.com/index.xml" />
+
+</head>
+<body lang="en">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  
+  <div class="navbar-header">
+    <a class="navbar-brand" href="http://theb0ardside.com/">The B0ardside_</a>
+  </div>
+
+  <div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">hello<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li><img src="http://theb0ardside.com/static/img/thor.jpg"></li>
+            <li><a target="new" href="mailto:thorsten@theb0ardside.com?subject=hullo">Email</a></li>
+            <li><a target="new" href="http://twitter.com/sideb0ard">Twitter</a></li>
+            <li><a target="new" href="http://github.com/sideb0ard">Github</a></li>
+            <li><a target="new" href="http://drawingb0ard.blogspot.com/">Drawings</a></li>
+            <li><a target="new" href="http://theb0ardside.com/index.xml">Rss Feed</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+  <div class="container">
+  <div id="page">
+
+
+
+<section id="main">
+  <h1 id="title">Puppet stages and APT</h1>
+  <div>
+        <article id="content">
+           <p><img src="http://www.stixrideshop.com/blog/wp-content/uploads/2012/03/gonz-3.bmp" alt="gonz -- for no reason except he&#039;s the MAN!" /></p><p>At work, our old code deployment strategy was basically a wrapper script doing an svn checkout and some symlinking. With our move to Puppet for config management, we also moved to using Apt packaging for our code deployment, tying them together with a line similar to :</p><p><code>class foo-export {<br />    package { &#039;foo-export&#039;: ensure => latest }<br />}</code></p><p>So that whenever we deploy a new version of a package to our apt-repo, it can then be installed with a:</p><p><code>puppet agent --test</code><br />(and with an initial dry-run using <code>--noop</code>)</p><p>( I should mention I manage our Puppet runs via our own distributed scripts, rather than having the nodes set up to check in every 30mins - when I'm doing so much work on our Puppet setup and config, I'd rather not having machines check in automatically in case the config is in a broken state )</p><p>Inevitably I would run the above Puppet command and it would not find any new packages, because &#8216;d'uh!', of course I still need to run an <code>apt-get update</code>.</p><p>I've been using Puppet stages for a while now, in order to group package installations in a broader sense rather than manually spelling out every dependency with a <code>require =></code> stanza, so it was a simple addition to add in a <code>pre</code> stage, and have the nodes run <code>apt-get update</code> before any runs.</p><p>In order to use stages, you need to first define them in your site.pp. By default every defined class runs under Stage[main], so you just need to add the new stages and define the running order. (full Puppet stage documentation is <a href="http://docs.puppetlabs.com/guides/language_guide.html" title="Puppet Stages" target="_blank">here</a>)</p><p>At the top of my site.pp file, I added a pre and post stage, then define the execution order via:</p><p><code>stage { [pre, post]: }<br />Stage[pre] -> Stage[main] -> Stage[post]</code></p><p>Then I created a class called apt-hupdate (sorry, i use stupid naming conventions!) in<br /><code>modules/apt-hupdate/manifests/init.pp</code></p><p>which contained:<br /><code>class apt-hupdate {</p><p>    exec { "aptHupdate":<br />        command => "/usr/bin/apt-get update",<br />    }<br />}</code></p><p>And finally, include that in your site.pp with:</p><p><code>class { apt-hupdate: stage => pre }</code></p><p>Now every time you do a Puppet run, <code>apt-get update</code> will be the first task run.</p>
+
+        </article>
+  </div>
+</section>
+
+<aside id="meta">
+    <div>
+    <section>
+      <h4 id="date"> Tue Apr 3, 2012 </h4>
+    </section>
+    <ul id="tags">
+      
+        <li> <a href="http://theb0ardside.com//tags/configuration-management">configuration management</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/debian">debian</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/distribution">distribution</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/howto">howto</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/puppet">puppet</a> </li>
+      
+    </ul>
+    </div>
+    <div>
+        
+          <a class="previous" href="http://theb0ardside.com/goinggoogleeyed/">Previous:: going google eyed</a>
+        
+    </div>
+    <div>
+        
+          <a class="next" href="http://theb0ardside.com/thebiologyofcode/">Next:: the biology of code</a>
+        
+    </div>
+</aside>
+
+      <script src="http://theb0ardside.com/static/js/jquery.js"></script>
+      <script src="http://theb0ardside.com/static/js/bootstrap.min.js"></script>
+      </div>
+      </div>
+      <div id="footer"></div>
+  </body>
+
+</html>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Static on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/static.xml</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2013-11-30 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Hugo A Go-Go</title>
+      <link>http://theb0ardside.com/hugoagogo/</link>
+      <pubDate>Sat, 30 Nov 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/hugoagogo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.internationalhero.co.uk/h/hugoagogo.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Seems like there is quite a move towards more simple blogging platforms, with a number of static site generators all popping up, building upon the simplicity and growing popularity of &lt;a href=&#34;http://en.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt;, a stripped back text-to-HTML syntax, and touting the lack of a needed database. These site generators work usually via uploading or editing the markdown files and have a pre-processor convert the markdown to static html files, alongside some form of templating system. The benefits of such simplicity are the ease of backups, being file based, there is no need for database dumps - standard tools are perfect; and secondly, speed - there is very little overheard for the webserver to serve and cache, without the need to hit the DB on each call.&lt;/p&gt;
+
+&lt;p&gt;I was previously running a hosted Wordpress installation on Dreamhost, and it was fine, it was easy and it was running; However, it would slow down sometimes to the point of unusability, and well, I wanted to play with something new!&lt;/p&gt;
+
+&lt;p&gt;I decided to spin up an AWS instance and play with some of the static site generators out there.&lt;/p&gt;
+
+&lt;p&gt;There were a number turned up on my initial search - &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;, &lt;a href=&#34;https://ghost.org/&#34;&gt;Ghost&lt;/a&gt;, &lt;a href=&#34;http://dropplets.com/&#34;&gt;Dropplets&lt;/a&gt;, &lt;a href=&#34;http://docs.getpelican.com/en/3.3.0/&#34;&gt;Pelican&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dropplets was the first I looked at - it has a nice clean site, quotes a &amp;ldquo;30 seconds installation&amp;rdquo;, and has all the buzzwords. After downloading it however, i discovered it was written in PHP. next!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been doing a lot of Javascript lately, so &lt;strong&gt;Ghost&lt;/strong&gt; sounded pretty good. However, I had problems with some of the required node libraries, specifically the sqlite library - i faffed around for a while trying to build from source, but after 30mins I figured a static site generator should not be this hard to install, so moved on.&lt;/p&gt;
+
+&lt;p&gt;Next up i tried &lt;strong&gt;Pelican&lt;/strong&gt; (( I must admit, as a Systems Engineer, i feel slightly embarrassed by not being more fluent in Python - I was a Perl guy for many years, and since moving on from there, Ruby has been my lingua franca, mostly due to how essential it is for Chef/Puppet. )). Pelican was up and running pretty quickly, no troubles with the install or running. I left that running for a day or two, but didn&amp;rsquo;t really get around to styling it or finishing it up.&lt;/p&gt;
+
+&lt;p&gt;A day or so later, however, I discovered &lt;a href=&#34;http://hugo.spf13.com/&#34;&gt;Hugo&lt;/a&gt; - which just suddenly seemed like the obvious choice. I&amp;rsquo;ve been playing around with GoLang, and although you don&amp;rsquo;t need to actually program anything to get it running, i still liked the idea of using Go. In the end that&amp;rsquo;s the one I&amp;rsquo;ve went with for redoing the site - the documentation is really good, and the speed of the Hugo server seems awesome. So - there it is! Now a Hugo A Go-Go powered site!&lt;/p&gt;
+
+&lt;p&gt;p.s.
+Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the script&lt;/a&gt; I used for importing a text dump from a Wordpress export to Markdown files.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

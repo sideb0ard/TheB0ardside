@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Jvm on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/jvm.xml</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2013-12-09 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Troubleshooting the JVM at Twitter</title>
+      <link>http://theb0ardside.com/troubleshootingjvmtwitter/</link>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/troubleshootingjvmtwitter/</guid>
+      <description>&lt;p&gt;This talk is incredibly informative - Twitter have their own fork of OpenJDK, in which they have enabled registers on the CPU, normally used by the Java Compiler - this enables Frame Pointers which &lt;a href=&#34;https://perf.wiki.kernel.org/index.php/Main_Page&#34;&gt;perf&lt;/a&gt; can read and translate, enabling a full Stack trace from JVM bytecode right down into the kernel.&lt;/p&gt;
+
+&lt;p&gt;Beyond simply CPU counters and stack trace, they also tie in other JVM flags which export DTrace counters, and use these to construct connections between memory allocation and the running process, so in the end you have a tool which can spans JVM -&amp;gt; kernel connections, alongside CPU -&amp;gt; memory.&lt;/p&gt;
+
+&lt;p&gt;Sounds very useful, i look forward to them open-sourcing it..&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Yg6_ulhwLw0?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

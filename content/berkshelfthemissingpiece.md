@@ -1,0 +1,10 @@
+---
+Title: "Berkshelf - the missing piece"
+Description: "Berkshelf - the missing piece"
+Tags: ["chef","configuration management","devops","engineering","howto","vagrant","video"]
+Date: "2013-05-29"
+Categories:
+  - "blog"
+Slug: "berkshelfthemissingpiece"
+---
+<p>If you've been following my past few posts, you've seen i was investigating how best to integrate the plethora of Chef testing tools that've been coming out &#8212; foodcritic, chefspec, test-kitchen, mini-test &#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo? Inside a cookbook directory? How many Vagrant files am I going to create here?</p><p>If, like myself, you weren't along at this year's ChefConf 2013, you may also have missed on a major conceptual shift that has happened. Instead of the all-inclusive Chef-repo design pattern, as implied by the OpsCode Chef Repo - https://github.com/opscode/chef-repo - which, when used with all the community cookbooks out there, creates a mess of forked, modified and sub-moduled cookbooks and recipes. </p><p>The conceptual shift away and now recommended way, is to treat each cookbook as a separate piece of software and to give it it's own git repo, keeping them separate from from your Chef-repo. This combined, with a distinction between Library and Application cookbooks, and then bundled together via Berkshelf, enables a much cleaner and modular way of working. When you accept this move, it's much easier to then fit all the testing pieces together as they all live within each separate cookbook/repo.</p><p><a href="https://github.com/RiotGames/berkshelf/issues/535" title="Berk Comment" target="_blank">This Comment Thread</a> was what really drew it together for me, and then to fully clarify this way of working, watch Jamie Winsor's ChefConf talk which is the original starting point:</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/hYt0E84kYUI?feature=oembed" frameborder="0" allowfullscreen></iframe></p>

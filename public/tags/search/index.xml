@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Search on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/search.xml</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2013-06-05 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Search - not a solved problem</title>
+      <link>http://theb0ardside.com/searchnotasolvedproblem/</link>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/searchnotasolvedproblem/</guid>
+      <description>&lt;p&gt;Very good talk from &lt;a href=&#34;http://www.hilarymason.com/&#34; title=&#34;Hilary Mason&#34; target=&#34;_blank&#34;&gt;Hilary Mason&lt;/a&gt; from a recent Lucene Revolution keynote.&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jVMWT7I3ATM?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

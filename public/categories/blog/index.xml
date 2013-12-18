@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Blog on The B0ardside </title>
+    <link>http://theb0ardside.com/categories/blog.xml</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2013-12-09 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Troubleshooting the JVM at Twitter</title>
+      <link>http://theb0ardside.com/troubleshootingjvmtwitter/</link>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/troubleshootingjvmtwitter/</guid>
+      <description>&lt;p&gt;This talk is incredibly informative - Twitter have their own fork of OpenJDK, in which they have enabled registers on the CPU, normally used by the Java Compiler - this enables Frame Pointers which &lt;a href=&#34;https://perf.wiki.kernel.org/index.php/Main_Page&#34;&gt;perf&lt;/a&gt; can read and translate, enabling a full Stack trace from JVM bytecode right down into the kernel.&lt;/p&gt;
+
+&lt;p&gt;Beyond simply CPU counters and stack trace, they also tie in other JVM flags which export DTrace counters, and use these to construct connections between memory allocation and the running process, so in the end you have a tool which can spans JVM -&amp;gt; kernel connections, alongside CPU -&amp;gt; memory.&lt;/p&gt;
+
+&lt;p&gt;Sounds very useful, i look forward to them open-sourcing it..&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Yg6_ulhwLw0?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The B0ardside Top 13 records 2013</title>
+      <link>http://theb0ardside.com/toprecords2013/</link>
+      <pubDate>Fri, 06 Dec 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/toprecords2013/</guid>
+      <description>&lt;p&gt;Was hard to cut two out from this selection, so here&amp;rsquo;s my top 12 for the past year, as usual a bit of a mix between the rock n roll and the electronic noise..&lt;/p&gt;
+
+&lt;p&gt;The Pastels &amp;ndash; Slow Summit
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/70V_PcW1om8?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;The Spook School &amp;ndash; Dress Up
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/0eEVPHnHW7g?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Radiator Hospital &amp;ndash; Something Wild
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Z2eelBo0afQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Zomby &amp;ndash; With Love
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/E5fccx15b2k?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Wyatt Blair &amp;ndash; Banana Cream Dream
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jCf2tEZy7_Q?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Four Tet &amp;ndash; Beautiful Rewind
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/RD5_t69RTc4?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Basic House &amp;ndash; Oats
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/ZVwlB3qv2qs?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Patricia &amp;ndash; Body Issues
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Y85nYo0KS64?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Colour Me Wednesday &amp;ndash; I Thought It Was Morning
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Lkni5QYgcvE?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Fear Of Men &amp;ndash; Early Fragments
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/IAcMJPnYoMQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Anna Hillburg &amp;ndash; s/t
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/s5lsxLVcVNU?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Dalglish &amp;ndash; Niaiw Ot Vile
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/TeBbSbF_y_c?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;oh! scratch that, make it 13 then! How could i forget ma wedding singer?!
+The Hive Dwellers &amp;ndash; Hewn From The Wilderness
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Y6Bi8NSGvjQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consumer Drones Have Arrived (almost)</title>
+      <link>http://theb0ardside.com/consumerdrones/</link>
+      <pubDate>Mon, 02 Dec 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/consumerdrones/</guid>
+      <description>&lt;p&gt;oh wow&amp;hellip;&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/98BIu9dpwHU?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Micro Men</title>
+      <link>http://theb0ardside.com/micromen/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/micromen/</guid>
+      <description>&lt;p&gt;I bookmarked this to watch after &lt;a href=&#34;http://www.hilarymason.com/&#34;&gt;Hilary Mason&lt;/a&gt; tweeted it recently - i thought i had previously watched it but after seeing it tonite I realised i hadn&amp;rsquo;t - super fun history, really taking me back to my youth! It tells the story of Sir Clive Sinclair and his rivalry with Acorn computers who produced the BBC Micro - the BBC Micro was the first machine I ever used, back in High School sometime in the mid 1980s, and the Sinclair ZX Spectrum was the first computer i owned. Read on MacDuff..&lt;/p&gt;
+
+&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/sIcAyFVK0gE?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo A Go-Go</title>
+      <link>http://theb0ardside.com/hugoagogo/</link>
+      <pubDate>Sat, 30 Nov 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/hugoagogo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.internationalhero.co.uk/h/hugoagogo.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Seems like there is quite a move towards more simple blogging platforms, with a number of static site generators all popping up, building upon the simplicity and growing popularity of &lt;a href=&#34;http://en.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt;, a stripped back text-to-HTML syntax, and touting the lack of a needed database. These site generators work usually via uploading or editing the markdown files and have a pre-processor convert the markdown to static html files, alongside some form of templating system. The benefits of such simplicity are the ease of backups, being file based, there is no need for database dumps - standard tools are perfect; and secondly, speed - there is very little overheard for the webserver to serve and cache, without the need to hit the DB on each call.&lt;/p&gt;
+
+&lt;p&gt;I was previously running a hosted Wordpress installation on Dreamhost, and it was fine, it was easy and it was running; However, it would slow down sometimes to the point of unusability, and well, I wanted to play with something new!&lt;/p&gt;
+
+&lt;p&gt;I decided to spin up an AWS instance and play with some of the static site generators out there.&lt;/p&gt;
+
+&lt;p&gt;There were a number turned up on my initial search - &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;, &lt;a href=&#34;https://ghost.org/&#34;&gt;Ghost&lt;/a&gt;, &lt;a href=&#34;http://dropplets.com/&#34;&gt;Dropplets&lt;/a&gt;, &lt;a href=&#34;http://docs.getpelican.com/en/3.3.0/&#34;&gt;Pelican&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dropplets was the first I looked at - it has a nice clean site, quotes a &amp;ldquo;30 seconds installation&amp;rdquo;, and has all the buzzwords. After downloading it however, i discovered it was written in PHP. next!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been doing a lot of Javascript lately, so &lt;strong&gt;Ghost&lt;/strong&gt; sounded pretty good. However, I had problems with some of the required node libraries, specifically the sqlite library - i faffed around for a while trying to build from source, but after 30mins I figured a static site generator should not be this hard to install, so moved on.&lt;/p&gt;
+
+&lt;p&gt;Next up i tried &lt;strong&gt;Pelican&lt;/strong&gt; (( I must admit, as a Systems Engineer, i feel slightly embarrassed by not being more fluent in Python - I was a Perl guy for many years, and since moving on from there, Ruby has been my lingua franca, mostly due to how essential it is for Chef/Puppet. )). Pelican was up and running pretty quickly, no troubles with the install or running. I left that running for a day or two, but didn&amp;rsquo;t really get around to styling it or finishing it up.&lt;/p&gt;
+
+&lt;p&gt;A day or so later, however, I discovered &lt;a href=&#34;http://hugo.spf13.com/&#34;&gt;Hugo&lt;/a&gt; - which just suddenly seemed like the obvious choice. I&amp;rsquo;ve been playing around with GoLang, and although you don&amp;rsquo;t need to actually program anything to get it running, i still liked the idea of using Go. In the end that&amp;rsquo;s the one I&amp;rsquo;ve went with for redoing the site - the documentation is really good, and the speed of the Hugo server seems awesome. So - there it is! Now a Hugo A Go-Go powered site!&lt;/p&gt;
+
+&lt;p&gt;p.s.
+Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the script&lt;/a&gt; I used for importing a text dump from a Wordpress export to Markdown files.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>substack beep boop</title>
+      <link>http://theb0ardside.com/substackbeepboop/</link>
+      <pubDate>Fri, 25 Oct 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/substackbeepboop/</guid>
+      <description>&lt;p&gt;dang, this is awesome::&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/2oz_SwhBixs?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/substack/nodepdx-beep-boop-examples/tree/master/example/waves&#34; title=&#34;github&#34;&gt;github code here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apollo Computer</title>
+      <link>http://theb0ardside.com/apollocomputer/</link>
+      <pubDate>Fri, 20 Sep 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/apollocomputer/</guid>
+      <description>&lt;p&gt;awesome sauce.&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/YIBhPsyYCiM?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bret Victor - Future Of Programming</title>
+      <link>http://theb0ardside.com/bretvictorfutureofprogramming/</link>
+      <pubDate>Thu, 22 Aug 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/bretvictorfutureofprogramming/</guid>
+      <description>&lt;p&gt;great stuff!&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/71278954&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computers For Cynics</title>
+      <link>http://theb0ardside.com/computersforcynics/</link>
+      <pubDate>Sun, 11 Aug 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/computersforcynics/</guid>
+      <description>&lt;p&gt;hah, nice counterpart to all the recent good, but hyperbole books i&#39;ve been reading (&lt;a href=&#34;http://www.amazon.com/What-Dormouse-Said-Counterculture-Personal/dp/0143036769/ref=sr_1_1?s=books&amp;#038;ie=UTF8&amp;#038;qid=1376258195&amp;#038;sr=1-1&amp;#038;keywords=what+the+dormouse+said&#34; title=&#34;What The Dormouse Said&#34; target=&#34;_blank&#34;&gt;What The Dormouse Said&lt;/a&gt;, and &lt;a href=&#34;http://www.amazon.com/Dealers-Lightning-Xerox-PARC-Computer/dp/0887309895/ref=pd_sim_b_4&#34; title=&#34;Dealers Of Lightning&#34; target=&#34;_blank&#34;&gt;Dealers Of Lightning&lt;/a&gt;) -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/KdnGPQaICjk?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Steve Souders on Cacheing</title>
+      <link>http://theb0ardside.com/stevesoudersoncacheing/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/stevesoudersoncacheing/</guid>
+      <description>&lt;p&gt;from january of this year, HTML5DevConf ::&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/HKNZ-tQQnSY?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Old School</title>
+      <link>http://theb0ardside.com/oldschool/</link>
+      <pubDate>Fri, 21 Jun 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/oldschool/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/cozcXiSSkwE?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;(( &lt;a href=&#34;http://googleblog.blogspot.com/2013/06/youve-come-long-way-baby-remembering.html&#34; title=&#34;Google Blog&#34; target=&#34;_blank&#34;&gt;via google&lt;/a&gt; ))&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brendan Gregg, Linux Performance</title>
+      <link>http://theb0ardside.com/brendangregglinuxperformance/</link>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/brendangregglinuxperformance/</guid>
+      <description>&lt;p&gt;The always interesting Brendan Greg &amp;#8212; &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/0yyorhl6IjM?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Search - not a solved problem</title>
+      <link>http://theb0ardside.com/searchnotasolvedproblem/</link>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/searchnotasolvedproblem/</guid>
+      <description>&lt;p&gt;Very good talk from &lt;a href=&#34;http://www.hilarymason.com/&#34; title=&#34;Hilary Mason&#34; target=&#34;_blank&#34;&gt;Hilary Mason&lt;/a&gt; from a recent Lucene Revolution keynote.&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jVMWT7I3ATM?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Berkshelf - the missing piece</title>
+      <link>http://theb0ardside.com/berkshelfthemissingpiece/</link>
+      <pubDate>Wed, 29 May 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/berkshelfthemissingpiece/</guid>
+      <description>&lt;p&gt;If you&#39;ve been following my past few posts, you&#39;ve seen i was investigating how best to integrate the plethora of Chef testing tools that&#39;ve been coming out &amp;#8212; foodcritic, chefspec, test-kitchen, mini-test &amp;#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&amp;#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo? Inside a cookbook directory? How many Vagrant files am I going to create here?&lt;/p&gt;&lt;p&gt;If, like myself, you weren&#39;t along at this year&#39;s ChefConf 2013, you may also have missed on a major conceptual shift that has happened. Instead of the all-inclusive Chef-repo design pattern, as implied by the OpsCode Chef Repo - https://github.com/opscode/chef-repo - which, when used with all the community cookbooks out there, creates a mess of forked, modified and sub-moduled cookbooks and recipes. &lt;/p&gt;&lt;p&gt;The conceptual shift away and now recommended way, is to treat each cookbook as a separate piece of software and to give it it&#39;s own git repo, keeping them separate from from your Chef-repo. This combined, with a distinction between Library and Application cookbooks, and then bundled together via Berkshelf, enables a much cleaner and modular way of working. When you accept this move, it&#39;s much easier to then fit all the testing pieces together as they all live within each separate cookbook/repo.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/RiotGames/berkshelf/issues/535&#34; title=&#34;Berk Comment&#34; target=&#34;_blank&#34;&gt;This Comment Thread&lt;/a&gt; was what really drew it together for me, and then to fully clarify this way of working, watch Jamie Winsor&#39;s ChefConf talk which is the original starting point:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/hYt0E84kYUI?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mo&#39; Chef Testing</title>
+      <link>http://theb0ardside.com/mocheftesting/</link>
+      <pubDate>Mon, 27 May 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/mocheftesting/</guid>
+      <description>&lt;p&gt;Following on from my last post about Test Driven Chef, this latest Food Fight show is a great roundup of the current testing tools landscape -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/DhcXXOIerIc?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test-Driven Chef</title>
+      <link>http://theb0ardside.com/testdrivenchef/</link>
+      <pubDate>Wed, 15 May 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/testdrivenchef/</guid>
+      <description>&lt;p&gt;I&#39;m looking to start using Test-Kitchen and Berkshelf, and basically trying to get my head round setting up a proper test driven Chef setup.&lt;/p&gt;&lt;p&gt;I found this video from last year to be quite a good introduction to some of the setup -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/o2e0aZUAVGw?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Netflix OSS</title>
+      <link>http://theb0ardside.com/netflixoss/</link>
+      <pubDate>Sat, 11 May 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/netflixoss/</guid>
+      <description>&lt;p&gt;Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/A69uTnfQgB8?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>jedberg talk at Airbnb</title>
+      <link>http://theb0ardside.com/jedbergtalkatairbnb/</link>
+      <pubDate>Wed, 08 May 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/jedbergtalkatairbnb/</guid>
+      <description>&lt;p&gt;I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/cCAO9moDucI?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL on AWS</title>
+      <link>http://theb0ardside.com/postgresqlonaws/</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/postgresqlonaws/</guid>
+      <description>&lt;p&gt;Excellent video specifically for PostgreSQL on AWS, however the principles are pretty universal information for running anything on AWS -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/2fHRX-u1X4A?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grizzled</title>
+      <link>http://theb0ardside.com/grizzled/</link>
+      <pubDate>Tue, 09 Apr 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/grizzled/</guid>
+      <description>&lt;p&gt;yow, the latest &lt;a href=&#34;http://www.openstack.org/software/&#34; title=&#34;OpenStack&#34; target=&#34;_blank&#34;&gt;OpenStack&lt;/a&gt; release is looking rather slick..&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/p4eW78gHfCg?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gene Kim and Etsy</title>
+      <link>http://theb0ardside.com/genekimandetsy/</link>
+      <pubDate>Tue, 02 Apr 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/genekimandetsy/</guid>
+      <description>&lt;p&gt;*tumbleweeds rolling through*&lt;/p&gt;&lt;p&gt;sorry, not being finding much video content to post recently - tho heres a couple of half decent ones.&lt;/p&gt;&lt;p&gt;Gene Kim at DevOps Days London on Maximizing Flow -&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/62491066&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;( I just &lt;a href=&#34;http://www.goodreads.com/review/show/523219724&#34; title=&#34;Goodreads review&#34; target=&#34;_blank&#34;&gt;recently read his Phoenix Projects book&lt;/a&gt; which was way more enjoyable than it should have been!)&lt;/p&gt;&lt;p&gt;And a corny but well done April Fools video from John Allspaw at Etsy -&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/63087035&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PBS&#39;s Silicon Valley</title>
+      <link>http://theb0ardside.com/pbsssiliconvalley/</link>
+      <pubDate>Tue, 12 Feb 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/pbsssiliconvalley/</guid>
+      <description>&lt;p&gt;Really enjoying this doc:&lt;/p&gt;&lt;p&gt;&lt;object width = &#34;512&#34; height = &#34;328&#34; &gt;&lt;param name = &#34;movie&#34; value = &#34;http://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf&#34; &gt;&lt;/param&gt;&lt;param name=&#34;flashvars&#34; value=&#34;video=http://video.pbs.org/videoPlayerInfo/2328264748&amp;#038;player=viral&amp;#038;end=1003000&#34; /&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param &gt;&lt;param name = &#34;allowscriptaccess&#34; value = &#34;always&#34; &gt;&lt;/param&gt;&lt;param name=&#34;wmode&#34; value=&#34;transparent&#34;&gt;&lt;/param &gt;&lt;embed src=&#34;http://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf&#34; flashvars=&#34;video=http://video.pbs.org/videoPlayerInfo/2328264748&amp;#038;player=viral&amp;#038;end=1003000&#34; type=&#34;application/x-shockwave-flash&#34; allowscriptaccess=&#34;always&#34; wmode=&#34;transparent&#34; allowfullscreen=&#34;true&#34; width=&#34;512&#34; height=&#34;328&#34; bgcolor=&#34;#000000&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p style=&#34;font-size:11px; font-family:Arial, Helvetica, sans-serif; color: #808080; margin-top: 5px; background: transparent; text-align: center; width: 512px;&#34;&gt;Watch &lt;a style=&#34;text-decoration:none !important; font-weight:normal !important; height: 13px; color:#4eb2fe !important;&#34; href=&#34;http://video.pbs.org/video/2328264748&#34; target=&#34;_blank&#34;&gt;Silicon Valley Chapter 1&lt;/a&gt; on PBS. See more from &lt;a style=&#34;text-decoration:none !important; font-weight:normal !important; height: 13px; color:#4eb2fe !important;&#34; href=&#34;http://www.pbs.org/wgbh/americanexperience/&#34; target=&#34;_blank&#34;&gt;American Experience.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Full episode available on the &lt;a href=&#34;http://www.pbs.org/wgbh/americanexperience/films/silicon/&#34; title=&#34;PBS&#34; target=&#34;_blank&#34;&gt;PBS website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Etsy Scaling vid from 2011</title>
+      <link>http://theb0ardside.com/etsyscalingvidfrom2011/</link>
+      <pubDate>Thu, 17 Jan 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/etsyscalingvidfrom2011/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/eenrfm50mXw?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;All well accepted practices by now, but still a good watch.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>immutability</title>
+      <link>http://theb0ardside.com/immutability/</link>
+      <pubDate>Thu, 10 Jan 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/immutability/</guid>
+      <description>&lt;p&gt;Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/52831373&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;https://twitter.com/igrigorik/status/288758137190772736&#34; target=&#34;_blank&#34;&gt;igrigorik&#39;s twitter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JVM and GC Performance Tuning</title>
+      <link>http://theb0ardside.com/jvmandgcperformancetuning/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/jvmandgcperformancetuning/</guid>
+      <description>&lt;p&gt;Been working a lot of JVM GC performance problems of late, so this video interview my friend &lt;a href=&#34;https://twitter.com/skr&#34; target=&#34;_blank&#34;&gt;Johan&lt;/a&gt; turned me on has some great info  -&lt;p&gt;&lt;a href=&amp;#039;http://www.infoq.com/interviews/szegedi-performance-tuning#.UOU0FUyxAz4.wordpress&amp;#039;&gt;Attila Szegedi on JVM and GC Performance Tuning at Twitter&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/interviews/szegedi-performance-tuning&#34; target=&#34;_blank&#34;&gt;http://www.infoq.com/interviews/szegedi-performance-tuning&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Usenix/Lisa 12</title>
+      <link>http://theb0ardside.com/usenixlisa12/</link>
+      <pubDate>Sun, 16 Dec 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/usenixlisa12/</guid>
+      <description>&lt;p&gt;Just got back from the Usenix/Lisa 12 conference in San Diego, and had a great time, super inspiring talks and content.&lt;/p&gt;&lt;p&gt;Highlight of the conference for me was Brendan Gregg speaking on Performance Analysis Methodologies - most of his talk was based upon a paper he just published in ACM - &lt;a href=&#34;https://queue.acm.org/detail.cfm?id=2413037&#34; title=&#34;ACM&#34; target=&#34;_blank&#34;&gt;Thinking Methodically About Performance&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The talks haven&#39;t yet been published on the Usenix website, but Brendan&#39;s blog has a ton of great looking content and older talks including this one on Visualisations for Performance Analysis&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/ml-t-9g6Mjc?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Food Fight Show on Chef Cookbook Best Practises</title>
+      <link>http://theb0ardside.com/foodfightshowonchefcookbookbestpractises/</link>
+      <pubDate>Mon, 26 Nov 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/foodfightshowonchefcookbookbestpractises/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/slF72K03ixM?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;this google+ hangout, combined with this &lt;a href=&#34;http://devopsanywhere.blogspot.it/2012/11/how-to-write-reusable-chef-cookbooks.html&#34; title=&#34;Reusable Chef Cookbooks&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt; and all it&#39;s links, provides plenty of good discussion and ideas for Chef.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t use nosql</title>
+      <link>http://theb0ardside.com/dontusenosql/</link>
+      <pubDate>Mon, 05 Nov 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/dontusenosql/</guid>
+      <description>&lt;p&gt;enjoyed this talk by Mathias Meyer :&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/49713827&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Percona Table Checksum</title>
+      <link>http://theb0ardside.com/perconatablechecksum/</link>
+      <pubDate>Thu, 11 Oct 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/perconatablechecksum/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;http://blip.tv/play/AYLoizwC.html?p=1&#34; width=&#34;550&#34; height=&#34;443&#34; scrolling=&#34;no&#34; class=&#34;iframe-class&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;p&gt;I must admit MySQL replication is something I&amp;rsquo;ve never felt too comfortable with - in most of my positions, I&amp;rsquo;ve had the luxury of working with a full time DBA who would handle all database related work. In my current workplace we have three major pairs of database machines, and have been going through upgrading them all to Percona MySQL 5.5. As you&amp;rsquo;d expect data integrity is of the highest importance, so discovering this Percona Table Checksum tool is a real life saver, providing an amazing tool for verifying and fixing any drift or problems with MySQL slaves.&lt;/p&gt;&lt;p&gt;I can&amp;rsquo;t take any credit for these instructions or the trial and error in assembling them, as they were penned by my workmate, the awesome &lt;a href=&#34;http://www.linkedin.com/pub/trystan-leftwich/12/19b/8a2&#34; target=&#34;_blank&#34;&gt;Trystan Leftwich&lt;/a&gt; - these are his notes for use at our place, with some additional clarifications from myself from working through them.&lt;/p&gt;&lt;p&gt;First things first, grab &lt;a href=&#34;http://www.percona.com/doc/percona-toolkit&#34; title=&#34;PT&#34; target=&#34;_blank&#34;&gt;the Percona Toolkit&lt;/a&gt; and install.&lt;/p&gt;&lt;p&gt;Now on the master DB do the following:&lt;/p&gt;&lt;p&gt;&lt;code&gt;create database BLAH;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;This will be the database you store your checksums, so something like &lt;strong&gt;pt_checksums&lt;/strong&gt; will do.&lt;/p&gt;&lt;p&gt;Now on the master as the mysql user, run&lt;/p&gt;&lt;p&gt;&lt;code&gt;pt-table-checksum &amp;ndash;create-replicate &amp;ndash;replicate [db_name].[table_name] &amp;ndash;databases [comma_separated_list_of_databases_you_want_to_check] &amp;ndash;empty-replicate-table &amp;ndash;chunk-size=5000 localhost&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;Where [db_name].[table_name] is the database you created before, and a table name you will be able to remember. &lt;/p&gt;&lt;p&gt;EG &lt;strong&gt;pt_checksums.myimportanttables_checksums&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;(If you get a &amp;#8220;can not connect to host: blah, this is ok, ignore)&lt;/p&gt;&lt;p&gt;Now, when this is complete, go to the slave DB. (ensure replication is up to date - if you have errors, just skip them to get it up to date)&lt;/p&gt;&lt;p&gt;Then run the following&lt;/p&gt;&lt;p&gt;&lt;code&gt;connect [db_you_created_above];&lt;br /&gt;select * from [table_name_you_created_above] where this_crc != master_crc;&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;If this returns an empty set, Then your DB is in sync - go straight to Go, collect $200. &lt;/p&gt;&lt;p&gt;If not you will have to try and sync it -&lt;/p&gt;&lt;p&gt;Create a user with the following permissions (pretty much everything)  (Also it may not need all of these, but couldn&amp;rsquo;t find what exactly it needed)&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, RELOAD, SHUTDOWN, PROCESS, FILE, REFERENCES, INDEX, ALTER, SHOW DATABASES, SUPER, CREATE TEMPORARY TABLES, LOCK TABLES, EXECUTE, REPLICATION SLAVE, REPLICATION CLIENT&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;You can create with:&lt;/p&gt;&lt;p&gt;&lt;code&gt;create user &amp;#039;pt_checksum_maint&amp;#039;@&amp;#039;%&amp;#039; identified by &amp;#039;blah&amp;#039;;&lt;br /&gt;GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, RELOAD, SHUTDOWN, PROCESS, FILE, REFERENCES, INDEX, ALTER, SHOW DATABASES, SUPER, CREATE TEMPORARY TABLES, LOCK TABLES, EXECUTE, REPLICATION SLAVE, REPLICATION CLIENT on &lt;em&gt;.&lt;/em&gt; to  &amp;#039;pt_checksum_maint&amp;#039;@&amp;#039;%&amp;#039;;&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;Then, still on the master, run the following command&lt;/p&gt;&lt;p&gt;&lt;code&gt;pt-table-sync &amp;ndash;execute &amp;ndash;replicate [db_name].[table_name] master_db_ip/hostname &amp;ndash;user user_you_created_above &amp;ndash;ask-pass &amp;ndash;no-foreign-key-checks&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;(At first I assumed this would be run on the slave to fix it up, however the man page for pt-table-checksum explains: &lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;it always makes the changes on the replication master, never the replication slave directly.  This is in general the only safe way to bring a replica back in sync with its master; changes to the replica are usually the source of the problems in the first place.  However, the changes it makes on the master should be no-op changes that set the data to their current values, and actually affect only the replica.&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;)&lt;/p&gt;&lt;p&gt;Once this table sync has been run, re-run the pt-table-checksum command, then verify your results on the slave - should be good .&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(short) history of DevOps</title>
+      <link>http://theb0ardside.com/shorthistoryofdevops/</link>
+      <pubDate>Sat, 22 Sep 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/shorthistoryofdevops/</guid>
+      <description>&lt;p&gt;nice lil vid - i didn&#39;t know some of these details of how DevOps emerged -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/o7-IuYS0iSE?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;http://itrevolution.com/the-history-of-devops/&#34; title=&#34;History of DevOps&#34; target=&#34;_blank&#34;&gt;http://itrevolution.com/the-history-of-devops/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Unix Way</title>
+      <link>http://theb0ardside.com/theunixway/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/theunixway/</guid>
+      <description>&lt;p&gt;Ace early Unix infomercial -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/tc4ROCJYbm0?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>perl parp parp</title>
+      <link>http://theb0ardside.com/perlparpparp/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/perlparpparp/</guid>
+      <description>&lt;p&gt;I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating.  First stop was the exceptionally useful &lt;a href=&#34;http://www.whatsmydns.net/ &#34; title=&#34;What&amp;#039;s My DNS?&#34; target=&#34;_blank&#34;&gt;Whats My DNS&lt;/a&gt;&lt;/p&gt;&lt;p&gt;At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host. I googled around for a timer utility which run a command for a given time, so i could quantify the difference. Perfect answer was &lt;a href=&#34;http://stackoverflow.com/questions/601543/command-line-command-to-auto-kill-a-command-after-a-certain-amount-of-time&#34; title=&#34;Stack Overflow&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, a simple perl wrapper function.&lt;/p&gt;&lt;p&gt;Here&#39;s how to use it to run tcpdump command for sixty seconds, and count the packets seen:&lt;/p&gt;&lt;p&gt;&lt;small&gt;&lt;code&gt;# doalarm () { perl -e &amp;#039;alarm shift; exec @ARGV&amp;#039; &#34;$@&#34;; }&lt;br /&gt;# doalarm 60 tcpdump -u  -i eth0 port 53  -n  |wc -l&lt;br /&gt;tcpdump: verbose output suppressed, use -v or -vv for full protocol decode&lt;br /&gt;listening on eth0, link-type EN10MB (Ethernet), capture size 65535 bytes&lt;br /&gt;19504&lt;/code&gt;&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Coming War Over General-Purpose Computing</title>
+      <link>http://theb0ardside.com/thecomingwarovergeneralpurposecomputing/</link>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/thecomingwarovergeneralpurposecomputing/</guid>
+      <description>&lt;p&gt;I saw &lt;a href=&#34;http://longnow.org/seminars/02012/jul/31/coming-century-war-against-your-computer/&#34; title=&#34;Long Now Foundation&#34; target=&#34;_blank&#34;&gt;Cory Doctorow give this same talk a few weeks back as part of the Long Now Foundation&lt;/a&gt;, and would highly recommend it..&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/gbYXBJOFgeI?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>old school Mac design team</title>
+      <link>http://theb0ardside.com/oldschoolmacdesignteam/</link>
+      <pubDate>Thu, 16 Aug 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/oldschoolmacdesignteam/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/oTtQ0l0ukvQ?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://osxdaily.com/2012/08/10/retro-mac-commercial-from-1983-unaired/&#34; title=&#34;OS X Daily&#34; target=&#34;_blank&#34;&gt;via OS X Daily&lt;/a&gt; //&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chef Lessons from Etsy</title>
+      <link>http://theb0ardside.com/cheflessonsfrometsy/</link>
+      <pubDate>Sun, 05 Aug 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/cheflessonsfrometsy/</guid>
+      <description>&lt;p&gt;really good video from this year&#39;s ChefConf::&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/nSnJCJiZDDU?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sight Systems</title>
+      <link>http://theb0ardside.com/sightsystems/</link>
+      <pubDate>Tue, 31 Jul 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/sightsystems/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/46304267&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;cool lil 7min sci-fi short via &lt;a href=&#34;http://news.ycombinator.com/item?id=4311593&#34; title=&#34;hn&#34; target=&#34;_blank&#34;&gt;Hacker News&lt;/a&gt;. As they point out in the comment section, it&#39;s very close to &lt;a href=&#34;http://en.wikipedia.org/wiki/Black_Mirror_(TV_series)&#34; title=&#34;black mirror&#34; target=&#34;_blank&#34;&gt;Charlie Brooker&#39;s Black Mirror&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>webkit and chrome internals</title>
+      <link>http://theb0ardside.com/webkitandchromeinternals/</link>
+      <pubDate>Wed, 25 Jul 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/webkitandchromeinternals/</guid>
+      <description>&lt;p&gt;I went along to the SF Web Performance Meetup last night, for a talk by &lt;a href=&#34;http://www.igvita.com/&#34; target=&#34;_blank&#34;&gt;Ilya Grigorik&lt;/a&gt; which was one of the best and most informative Meetups I&#39;ve been along to - lots of meaty details on how Webkit in general works, and specifically how Chrome uses it across the many platforms it runs on. &lt;/p&gt;&lt;p&gt;The video has just been posted here - &lt;/p&gt;&lt;p&gt;&lt;object width=&#34;480&#34; height=&#34;296&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34;&gt;&lt;param name=&#34;flashvars&#34; value=&#34;vid=24227835&amp;amp;autoplay=false&#34;/&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34;/&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34;/&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.ustream.tv/flash/viewer.swf&#34;/&gt;&lt;embed flashvars=&#34;vid=24227835&amp;amp;autoplay=false&#34; width=&#34;480&#34; height=&#34;296&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; src=&#34;http://www.ustream.tv/flash/viewer.swf&#34; type=&#34;application/x-shockwave-flash&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&#34;http://www.ustream.tv/&#34; style=&#34;padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;&#34; target=&#34;_blank&#34;&gt;Video streaming by Ustream&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Ilya starts speaking around the 12 minute mark..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leap Motion</title>
+      <link>http://theb0ardside.com/leapmotion/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/leapmotion/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/_d6KuiuteIA?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;ooh, nice. Just saw this company mentioned in the &lt;a href=&#34;http://news.ycombinator.com/item?id=4189793&#34; title=&#34;HN&#34; target=&#34;_blank&#34;&gt;comments of an HN thread&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>scaling at dropbox</title>
+      <link>http://theb0ardside.com/scalingatdropbox/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/scalingatdropbox/</guid>
+      <description>&lt;p&gt;I highly recommend this &lt;a href=&#34;http://devopsweekly.com/&#34; title=&#34;DevOps Weekly&#34; target=&#34;_blank&#34;&gt;DevOps Weekly mail out&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://image-host.appspot.com/i/img?id=agppbWFnZS1ob3N0cg0LEgVJbWFnZRiJpAEM&#34; title=&#34;DevOps Weekly&#34; class=&#34;aligncenter&#34; width=&#34;798&#34; height=&#34;362&#34; /&gt;&lt;/p&gt;&lt;p&gt;The latest one has a bunch of good links, and one i found especially was this &amp;#8220;&lt;a href=&#34;http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1&#34; title=&#34;Scaling at Dropbox&#34; target=&#34;_blank&#34;&gt;Scaling lessons learned at Dropbox, part 1&lt;/a&gt;&amp;#8220;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>some fav Velocity talks</title>
+      <link>http://theb0ardside.com/somefavvelocitytalks/</link>
+      <pubDate>Mon, 02 Jul 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/somefavvelocitytalks/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://velocityconf.com/velocity2012&#34; title=&#34;Velocity&#34; target=&#34;_blank&#34;&gt;Velocity&lt;/a&gt; was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!&lt;/p&gt;&lt;p&gt;Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/2S0k12uZR14?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/bM0yL0eQ9EM?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>tcpdump patterns</title>
+      <link>http://theb0ardside.com/tcpdumppatterns/</link>
+      <pubDate>Fri, 29 Jun 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/tcpdumppatterns/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7185/6844034348_50dd1c5f32_b.jpg&#34; alt=&#34;McCarthy&#34; /&gt;&lt;/p&gt;&lt;p&gt;I use tcpdump a lot, but mostly at a reasonably high level, only really restricting the capture to host and port info, then pulling the dump back into Wireshark for nicer visualisation and easier filtering.&lt;/p&gt;&lt;p&gt;A couple of months back I read &lt;a href=&#34;http://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/159420229X&#34; title=&#34;Moonwalking With Einstein&#34; target=&#34;_blank&#34;&gt;Moonwalking With Einsten&lt;/a&gt;, which is a nice pop-science history of the importance of memory in previous societies, alongside the contemporary phenomena of &lt;a href=&#34;http://www.worldmemorychampionships.com/&#34; title=&#34;World Memory Competitions&#34; target=&#34;_blank&#34;&gt;competitive memory competitions&lt;/a&gt;. The book is great, and explains how feats of memory are achieved via the technique of &lt;a href=&#34;http://en.wikipedia.org/wiki/Method_of_loci&#34; title=&#34;Memory Palaces&#34; target=&#34;_blank&#34;&gt;memory palaces&lt;/a&gt;, a technique dating back to Roman times - spatial memory relationships. I&#39;ve been using the technique a lot since I read this book, and truly, no magic to it, it really works. Basically, when you have a list of items to remember, you weave each item, in order, into a spatially focussed narrative.&lt;/p&gt;&lt;p&gt;So, last night, I get out my copy of TCP/IP Illustrated, Volume 1*, one of my most-returned-to tech books - I&#39;ve always wanted to have a more encyclopedic knowledge of the lower level details of TCP/IP, and last night applied the Memory Palace Technique to the structure of a TCP packet.&lt;br/&gt;
+(( read the &lt;a href=&#34;http://en.wikipedia.org/wiki/Method_of_loci&#34; title=&#34;Memory Palace - Wikipedia&#34; target=&#34;_blank&#34;&gt;wikipedia article&lt;/a&gt; for more details)) &lt;/p&gt;
+&lt;p&gt;In my memory palace I was walking down the path towards the house where I grew up, and seeing a &amp;#8216;&lt;strong&gt;S&lt;/strong&gt;o&lt;strong&gt;RC&lt;/strong&gt;erer/&lt;strong&gt;Src Port&lt;/strong&gt;&amp;#8216; battling with &amp;#8216;Dick &lt;strong&gt;D&lt;/strong&gt;a&lt;strong&gt;ST&lt;/strong&gt;ardly and Mutley/&lt;strong&gt;Dst Port&lt;/strong&gt;&amp;#8216;, then walk into my mothers front hallway with a &lt;strong&gt;Sequence Number&lt;/strong&gt; along the front hall, then my Grandfather sitting in a chair in the living room saying &amp;#8220;&lt;strong&gt;ACK&lt;/strong&gt;!&amp;#8221; because the soccer is on the television and he&#39;s complaining about the &lt;strong&gt;Header Length&lt;/strong&gt; &amp;#8230; you get the idea - but yeah, you need to make your own memory palace.&lt;/p&gt;&lt;p&gt;Now that I have a complete image of this TCP packet in my head suddenly expressions like :&lt;/p&gt;&lt;p&gt;&lt;code&gt;tcpdump -ni en1 tcp[13] == 18 and host 172.16.1.200 and port 80 &lt;/code&gt;&lt;/p&gt;&lt;p&gt;are way easier to understand and use - the &lt;code&gt;tcp[13]&lt;/code&gt; part refers to the 13th Octet of the packet, which is the Flags octet, then the &lt;code&gt;18&lt;/code&gt; part is a simple decimal representation of the binary flags, in the order they are in the diagram above - i.e the Flags are &lt;/p&gt;&lt;p&gt;&lt;code&gt;CWR | ECE | URG | ACK | PSH | RST | SYN | FIN&lt;/code&gt; &lt;/p&gt;&lt;p&gt;so in my example 18 refers to having both the ACK and SYN flags set - 00010010 which if you&#39;re used to dealing with netmasks math is quite an easy translation. My example, then, will only capture the first response packet from the server, as it would be the only part of the conversation to have both an ACK and SYN flag set. (I used a separate memory palace for the flags themselves)&lt;/p&gt;&lt;p&gt;To capture all SYN packets, including the ACK/SYN ones, you would use:&lt;/p&gt;&lt;p&gt;&lt;code&gt;tcpdump -ni en1 &amp;#039;tcp[13] == 18 or tcp[13] == 2&amp;#039; and host 172.16.1.200 and port 80&lt;/code&gt;.&lt;/p&gt;&lt;p&gt;Memory Palaces are pretty damn useful!&lt;/p&gt;&lt;p&gt;** Most Engineers are aware of TCP/IP Illustrated, however a lot of people I&#39;ve spoken to aren&#39;t aware there was a &lt;a href=&#34;http://www.amazon.com/TCP-Illustrated-Volume-Addison-Wesley-Professional/dp/0321336313/ref=pd_sim_b_1&#34; title=&#34;TCP/IP Illustrated Vol 1 Edition 2&#34; target=&#34;_blank&#34;&gt;2nd Edition published in November of 2011, updated by a guy named Kevin R. Fall&lt;/a&gt; - I would absolutely recommend it, an amazing book and especially with the updates, just seems an essential addition to any Engineer&#39;s library..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Ono-Sendai SLB-10 ORB system</title>
+      <link>http://theb0ardside.com/theonosendaislb10orbsystem/</link>
+      <pubDate>Fri, 29 Jun 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/theonosendaislb10orbsystem/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5083/5381778688_f94f95fa71_z.jpg&#34; alt=&#34;Ono-Sendai SLB-10 ORB System&#34; /&gt;&lt;/p&gt;&lt;p&gt;&amp;#8220;The SLB-10 is the latest generation of ORB manufactured by Ono-Sendai, utilizing state of the art EM pulse powered flotation; archive-quality audio and visual recording capabilities; fully CMYK coloured, tactile holographic capability; and guaranteed always-on connection to your personal encrypted data storage facility.&lt;/p&gt;&lt;p&gt;ORBs have become so integral to our life and yet they are barely a 7 year old technology. It is worth reflecting on the brief history of these astounding devices, upon which we now rely so heavily.&lt;/p&gt;&lt;p&gt;In 2027, a group of engineers, skaterboarders and film-makers came together to work on a project utilizing the first commercial Shawyer/EmDrive propulsion system released by the British National Space Centre. Their early device was designed initially as a simple anti-gravity camera to be able to follow a moving person, while filming and streaming the data. It was a personal project for their own use, but they also expected it would be useful for other filming niches. What they hadn&amp;rsquo;t expected was the enormous demand from the general public, as real-time life-recording and live-blogging quickly took off, finding a multitude of personal and business uses. They formed a company to market their ORB devices, calling themselves Ono-Sendai, in joking homage to William Gibson.&lt;/p&gt;&lt;p&gt;The market for ORBs exploded, with feature upon feature being added in response to consumer demand: multiple cameras, higher definition a/v recording, voice control and audio speakers, automated laser protection systems, and crucially - the visual feed became integrated with in-Frame overlays. In those days Frames were still competing with handheld devices, before we perfected the means to spatially interact with data.&lt;/p&gt;&lt;p&gt;Two more pieces were necessary to bring us up to date with the contemporary ORB experience - the addition of the holo-projector in 2030, in order to finally disperse with a physical interface; and, more recently in 2032, the first mature ultrasound-based haptic holographic interface was introduced to provide a truly tactile experience.&lt;/p&gt;&lt;p&gt;As many imitators as there are on the market, Ono-Sendai manages to stay one step ahead of the competitors due its truly innovative operating system, SOLX - Son Of LinuX, the most advanced and personable decision-taking, realtime smart O/S. With Ono-Sendai and SOLX assisting your life, you be sure of trusted network access, personal security, and reliable data archive - Get on with enjoying your life!&amp;#8221;&lt;/p&gt;&lt;p&gt;// reblog from &lt;a href=&#34;http://drawingb0ard.blogspot.com/2011/01/ono-sendai-slb-10-orb-system.html&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;old Drawing B0ard post&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Around the Earth in 200ms</title>
+      <link>http://theb0ardside.com/aroundtheearthin200ms/</link>
+      <pubDate>Wed, 20 Jun 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/aroundtheearthin200ms/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://farm9.staticflickr.com/8144/7130704573_e6954f496e_z.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&lt;p&gt;A month or two back, i saw an interesting figure on Bram Cohen&#39;s blog:&lt;/p&gt;&lt;p&gt;&amp;#8220;The speed of light in a fiber optic cable around the earth&amp;rsquo;s circumference is about 200 milliseconds.&amp;#8221;&lt;br /&gt;(from &lt;a href=&#34;http://bramcohen.com/2012/05/04/engineering-ip-telephony&#34; title=&#34;Bram Cohen&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of those useful metrics to know. I&#39;ve referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -&lt;/p&gt;&lt;p&gt;So - speed of light in a vacuum is 186,000 miles per second. However according to &lt;a href=&#34;http://en.wikipedia.org/wiki/Optical_fiber#Index_of_refraction&#34; title=&#34;optical fiber on wikipedia&#34; target=&#34;_blank&#34;&gt;this wikipedia article&lt;/a&gt;, the index of refraction for the cladding of an optical fiber is 1.52. &amp;#8220;From this information, a good rule of thumb is that signal using optical fiber for communication will travel at around 200 million meters per second&amp;#8221;. &lt;/p&gt;&lt;p&gt;Ok, so 200, 000,000 meters / second = 200, 000 meters / ms&lt;/p&gt;&lt;p&gt;&amp;#8220;The circumference of the earth at the equator is 24,901.55 miles (40,075.16 kilometers).&amp;#8221; // from &lt;a href=&#34;http://geography.about.com/library/faq/blqzcircumference.htm&#34; title=&#34;earth circumerfence&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;40,075.15km = 40,075,000 meters&lt;/p&gt;&lt;p&gt;&lt;strong&gt;With all figures then, Earth Circumference is 40,075,000 meters, and the speed of light in fiber is 200,000 meters per ms:&lt;br /&gt;40,075,000 /2 00,000 = 200.375 ms&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;// or to be even smarter, I could have just followed the Wolfram Alpha link from Bram&#39;s blog &lt;a href=&#34;http://www.wolframalpha.com/input/?i=circumference+of+the+earth+%2F+speed+of+light+in+glass&#34; title=&#34;Wolfram Alpha&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; - gotta love the &lt;a href=&#34;http://en.wikipedia.org/wiki/Stephen_Wolfram&#34; title=&#34;Stephen Wolfram&#34; target=&#34;_blank&#34;&gt;Wolfram&lt;/a&gt; // &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Allspaw on Anticipation</title>
+      <link>http://theb0ardside.com/allspawonanticipation/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/allspawonanticipation/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/gy2lTFD4560?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://www.kitchensoap.com/2012/06/18/resilience-engineering-part-ii-lenses/&#34; title=&#34;Resilience Engineering Part II: Lenses&#34; target=&#34;_blank&#34;&gt;via John&#39;s blog at Kitchen Soap&lt;/a&gt; //&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>21st Century Internet</title>
+      <link>http://theb0ardside.com/21stcenturyinternet/</link>
+      <pubDate>Wed, 06 Jun 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/21stcenturyinternet/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/-Uwjt32NvVA?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;http://googleblog.blogspot.com/2012/06/world-ipv6-launch-keeping-internet.html&#34; title=&#34;google blog&#34; target=&#34;_blank&#34;&gt;Google Blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Von Neumann and the Institute For Advanced Study</title>
+      <link>http://theb0ardside.com/vonneumannandtheinstituteforadvancedstudy/</link>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/vonneumannandtheinstituteforadvancedstudy/</guid>
+      <description>&lt;p&gt;I&#39;ve started reading &lt;a href=&#34;http://www.amazon.com/Turings-Cathedral-Origins-Digital-Universe/dp/0375422773&#34; title=&#34;amazon book link&#34; target=&#34;_blank&#34;&gt;George Dyson&#39;s &amp;#8220;Turing&#39;s Cathedral&amp;#8221;&lt;/a&gt;, and really enjoying it - I love reading the historical context of technological progress, feels like a lot of sociological reading, filling in another of the endless jigsaw pieces of a larger all-encompassing narrative.&lt;/p&gt;&lt;p&gt;Here&#39;s George Dyson doing a lecture on the material in the book :&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/Tg5gJxXBh8s?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hitchhikers guide to the googleverse</title>
+      <link>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</link>
+      <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</guid>
+      <description>&lt;p&gt;Maybe they ain&#39;t doing so well with Social, and so what if people are stupid enough to try Bing - It&#39;s visionary efforts like this that show Google still leave most  other companies behind in a dust ball of mundanity&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/mmQl6VGvX-c?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;(( personally, I actually think Google+ is doing fine too - its full of way more techie interesting people and content than all the FB posts by yer aunties and people you went to school with.. ))&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>another cardboard computer scientist portrait</title>
+      <link>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</link>
+      <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Seymour Cray&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7234/7201335100_51b91c38da_b.jpg&#34; alt=&#34;Seymour Cray&#34; /&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://drawingb0ard.blogspot.com/search/label/cardboard%20computer%20scientists&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;The Cardboard Computer Scientists series 2012&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Backblaze</title>
+      <link>http://theb0ardside.com/backblaze/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/backblaze/</guid>
+      <description>&lt;p&gt;the legendary Mike Hoover turned me on to Backblaze a few months back - they&#39;re a cloud storage provider, who opened up the design for their chassis and storage pod solution so you can build your own &amp;#8220;Storage Pod 2.0: a 135-terabyte, 4U server for $7,384&amp;#8243; (&lt;a href=&#34;http://blog.backblaze.com/2011/07/20/petabytes-on-a-budget-v2-0revealing-more-secrets/&#34; target=&#34;_blank&#34;&gt;blog post here&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/LQPVBnqzNu0?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technology As Society&#39;s Engine</title>
+      <link>http://theb0ardside.com/technologyassocietysengine/</link>
+      <pubDate>Thu, 03 May 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/technologyassocietysengine/</guid>
+      <description>&lt;p&gt;Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -&lt;/p&gt;&lt;!-- iframe plugin v:2.3 - wordpress.org/extend/plugins/iframe/ --&gt;&lt;iframe width=&#34;560&#34; height=&#34;340&#34; src=&#34;http://cdn.livestream.com/embed/techonomy?layout=4&amp;amp;clip=pla_e0493fff-f62c-4a9c-bf6b-2844f9ad8d58&amp;amp;height=340&amp;amp;width=560&amp;amp;autoplay=false&#34; style=&#34;border:0;outline:0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;iframe-class&#34;&gt;&lt;/iframe&gt;&lt;p&gt;A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. &lt;/p&gt;&lt;p&gt;I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.&lt;/p&gt;&lt;p&gt;Technology on the other hand: absolutely it&#39;s what will drive the economy, but even that view completely misses the big picture, which is the Medium itself, The Universal Network. I believe we have created a whole new dimension, an evolutionary mathematical abstracted form of biology. This is the beginning of History, Year Zero.&lt;/p&gt;&lt;p&gt;One hundred years from now, or two thousand - people will be able to look back in time and know with a rich level of detail what our life is like now. Thousands, upon millions of instances of video and audio, images, writings, geo locations, online trails, all readily accessible, interlinked and searchable. This level of detail will only increase, as we start recording every aspect of life. &lt;/p&gt;&lt;p&gt;With such archives of data, I can easily imagine the kids of 2123 being able to walk through and interact with a virtual London in the swinging 2020&amp;#8242;s, or San Francisco&#39;s roaring 2030&amp;#8242;s. Whereas, for future generations, any time predating the late 1990&amp;#8242;s will essentially be a static foreign place in comparison. We have created time-travel - we just don&#39;t know it yet.&lt;/p&gt;&lt;p&gt;This Network has already achieved a basic level of independence from humanity - where now it is possible for a Something to exist outwith a single containing computer system using techniques like redundancy and geographic load-balancing. I don&#39;t mean to imply there is any intelligence there, but there is a level of resilience we&#39;ve never seen in nature before. To give a more concrete example, I&#39;m referring to something like you as a user interacting with the amazon website to purchase something, meanwhile the power goes out in the datacentre hosting the server your browser was communicating with, and, if engineered correctly, your interaction could continue, picked up by a secondary datacentre with no loss of data, nor interruption of service. This isn&#39;t exactly life as we know it, but if you squint your eyes just a little, its not too hard to see an analogy to biological cell life.&lt;/p&gt;&lt;p&gt;Over the next few years, Society&#39;s experience of reality is going to go through the biggest change in history, as our physical world merges completely with this new virtual world of realtime interconnected information and communication, completely warping our sense of time and geography.&lt;/p&gt;&lt;p&gt;The iPhone was stage one, Google Glasses or &lt;a href=&#34;http://www.theb0ardside.com/?p=32&#34; target=&#34;_blank&#34;&gt;something very similar&lt;/a&gt; will be stage two, and its right around the corner.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JVM tuning for VMs</title>
+      <link>http://theb0ardside.com/jvmtuningforvms/</link>
+      <pubDate>Fri, 13 Apr 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/jvmtuningforvms/</guid>
+      <description>&lt;p&gt;This is an excellent talk about the interaction between the various layers of memory abstraction from the a machine&#39;s physical memory down through the Hypervisor&#39;s view, to the Guest OS&#39;s and down into the JVM:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/V3o4VNkTyTY?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// found via &lt;a href=&#34;http://marakana.com/s/tuning_jvm_for_a_vm_lessons_learned_directly_from_vmware_video,1138/index.html&#34; target=&#34;_blank&#34;&gt;Marakana&lt;/a&gt; //&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Networked City</title>
+      <link>http://theb0ardside.com/thenetworkedcity/</link>
+      <pubDate>Tue, 10 Apr 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/thenetworkedcity/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.lboro.ac.uk/gawc/rb/images/rb152f1.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;[[ image half-inched from &lt;a href=&#34;http://www.lboro.ac.uk/gawc/rb/rb152.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;]]&lt;/p&gt;&lt;p&gt;I started studying Sociology a few years back with the Open University, but never managed to complete my course as I got a job here in the States and turned my study-time back towards practical technology. I did however study it long enough for it have quite a profound effect on my understanding and conceptualisation of networking, and felt especially influenced by the works of &lt;a href=&#34;http://en.wikipedia.org/wiki/Manuel_Castells&#34; target=&#34;_blank&#34;&gt;Manuel Castells&lt;/a&gt; and &lt;a href=&#34;http://books.google.com/books/about/Splintering_Urbanism.html?id=zCKNS5Yn4pkC&#34; target=&#34;_blank&#34;&gt;Stephen Graham&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;I just came across a paper i wrote almost a year ago which covers a lot of these ideas and ties in quite well with the general theme of this blog, so i thought i&#39;d post it up here instead of languishing on my hard drive&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why is it important to understand how a city&amp;rsquo;s fortunes are shaped by its connections?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The City is our personal gateway to the wider world. It resonates with a dense polyrhythm constructed of the flow and foci of innumerable networks. From the physical infrastructure under and around us: the travel and power networks, water, gas and telecommunications lines; to the more ephemeral flows of culture, people, information, finance, and commodities. These structures, relationships and their interconnections are the very essence of a city, connecting the local to the global. In order to fully comprehend the economic and social wellbeing of an urban spatiality, it is essential to look at how a city is positioned within a wider global system, and conversely to examine how these global flows connect to local networks. I would like to answer the above question by first looking at the role of connections in a city&amp;rsquo;s formation and then explain how these connections extend out to form a global network of influence, including the historically new form we now find ourselves in, the Network Society. Within this framework, we shall then examine how these flows connect locally, explaining the new forms of social division created by a combination of technology and ideology, and why now, more than ever, it is critical to understand how a city&amp;rsquo;s fortunes are shaped by its connections.&lt;/p&gt;&lt;p&gt;Although we have no concrete proof of the origins of the first cities, Jane Jacobs has a particularly convincing argument for their establishment as trading centres, locations of some geographic or social convenience that became a permanent market place. According to the theory, as more people settle in one place, more opportunities for connections are easily made, and local networks of cooperation and competition would grow and drive innovation. Initially they would be trading with local neighbouring lands, but as trade would increase, these local connections would stretch out more and more to form part of a larger network. Trade would quickly diversify through the division of labour, where the commodity itself would be &amp;ldquo;&lt;em&gt;one export. The other export is a service: the service of obtaining, handling and trading goods that are brought in from outside and are destined for secondary customers who also come from outside&lt;/em&gt;&amp;rdquo; (Jacobs, 1970, p21). &lt;/p&gt;&lt;p&gt;Chicago is a good example of one such city whose growth was predicated upon positioning itself within emerging trade networks. A small trading centre since the late seventeenth century, its growth was assured when it was connected to the first rail and telegraph networks in 1848. With travel time between Chicago and the East Coast cut from over two weeks to two days, and the near instantaneous messaging of the telegraph, &amp;ldquo;&lt;em&gt;the pace of life had speeded up and the distances covered by flows of goods, people and information were ever greater&lt;/em&gt;&amp;rdquo;. Chicago managed to place itself at the centre of a voluminous pan-American trade and travel network, thereby establishing itself as a thriving and vibrant financial and social hub. As easy it would be to equate this fortune with Chicago&amp;rsquo;s geographic positioning, the reality was that it achieved and maintained this dominant position through political and economic manoeuvring - before the construction of the railway, Chicago was competing with St Louis, which had a more capable waterway system. Chicago&amp;rsquo;s good fortune was due to some canny businessmen who realised they needed an alternative network to compete with the waterways, and who set up a railway company by persuading the local farmers to invest in them. (Pile, 2010, p24-35) &lt;/p&gt;&lt;p&gt;Competition over trade routes is a recurring story throughout the development of the modern interstate system.  The early capitalist city-states of fifteenth century northern Italy, of which Venice was the most prominent, established their wealth and power through a monopolistic control of trade routes to India and China. Other northern European countries, mainly Spain and Portugal, tried to find alternative routes to bypass the Venetian monopoly, and it was through this process of exploration that Columbus &amp;ldquo;discovered&amp;rdquo; the Americas, thereby creating a whole new network of connections. The sixteenth century saw a great deal of change as Spain, Portugal and the mini-empires of France, England and Sweden all vied for world power through territorialist expansion of their respective networks (Arrighi, 2010). Although I digress here and talk of nation states, the unit of power and of management remains that of the city. We can see this in the conquest of Mexico City by the Spanish in 1521, which transformed the Aztec City, then known as Tenochititlan. Until that point, its dominant network of social relations and trade was confined around Mexico, but with the arrival of the Spanish, that network changed, as the flow of power now came from Madrid, and Mexico City&amp;rsquo;s &amp;ldquo;&lt;em&gt;local dominance was now in turn subordinated to an even greater power, a new imperial capital across the Atlantic&lt;/em&gt;&amp;rdquo; (Massey, 2010, p105). &lt;/p&gt;&lt;p&gt;The Dutch Republic, operating from its capital, The Hague, managed to shape its own fortune and usurp Spain&amp;rsquo;s might by creating a new network of connections atop trade routes, a level of abstraction beyond the trading of physical goods: financial networks. It became the hegemonic power on the world stage by innovating forms of financial speculation based on capitalist expansion rather than territorialist expansion. &amp;ldquo;&lt;em&gt;These networks encircled the world and could not easily be bypassed or superseded&lt;/em&gt;&amp;rdquo; (Arrighi, 2010, p46). Over successive centuries we have seen the balance of world power shift through manipulations in these network of connections, with first the United Kingdom and then the United States, leveraging themselves into subsequent positions of economic strength. &lt;/p&gt;&lt;p&gt;Immanuel Wallerstein&amp;rsquo;s World System Theory provides a useful framework for understanding the nature of these global flows of power, conceiving the world not as separate nations with separate economies but as one interlinked capitalist world economy. His conceptualization of the modern world system distinguishes between the Core (developed) and Periphery (developing) countries, with the core countries exploiting the resources of the periphery through monopolistic control of network connections (Arrighi, 2010). Within this widescreen view the relationship between a city&amp;rsquo;s fortunes and its connections to the network of power becomes clear, that it has to be actively aware of, and strive to maintain it&amp;rsquo;s position within the global &amp;ldquo;&lt;em&gt;&amp;rsquo;power geometry&amp;rsquo; &amp;ndash; different cities have their own trajectories and there is a constant process of the making and unmaking of connections&lt;/em&gt;&amp;rdquo; (Massey, 2010 p124).&lt;/p&gt;&lt;p&gt;Society is now entering a new form of space-time experience &amp;ndash; the Informational Age, a new form of network and thus, new forms of connection for a city. Although today&amp;rsquo;s main network of power is still finance, Manuel Castells points out a crucial difference: Although we have had interconnecting networks of influence and a world economy going back now to the sixteenth century, it is only now due to computer networks that we have a truly global economy &amp;ldquo;&lt;em&gt;with the capacity to work as a unit in real time, or chosen time, on a planetary scale&lt;/em&gt;&amp;rdquo; (Castells, 2010, p101). Following similar societal changes as the train and the telegraph, the mass adoption of broadband Internet connectivity in many aspects of our everyday life is drastically changing our lived experience of space and time. The Internet has its roots in military scientific work of the 1960s and 1970s, however the mass adoption of the technology into everyday life only began in the mid 1990s with the advent of the World Wide Web, essentially an easy to understand and use interface to the Internet; In just over ten years, Core countries of the West have migrated whole areas of life onto this digital network, affecting everything from work and education to banking, government, leisure, travel, media, relationships and much more. A whole new network space of power, from its physical fibre-optic network infrastructure, to the new virtual realms it allows. &lt;/p&gt;&lt;p&gt;Since the Haussmannisation of Paris in the mid-nineteenth century, the overarching ethos behind urban planning was a scientific-minded belief in a comprehensive and unified infrastructure. Guided by Keynesian welfare states, the modern infrastructural idea for most of the 20th century was based on universal access and cross-subsidized provision provided by a government or private monopoly, such as the railway or telephone networks. Since the 1980s, this way of thinking has become eroded as ideas of privatisation and liberalisation of the markets gained popularity. The monolithic conception of a city as a coherent unified machine no longer fit with postmodern ideas of identity while technological advances allowed for the creation of tiered and premium network services. Technological control now allows secessionary network infrastructure such as private tolled highways, gated communities, enclosed malls, and Business Improvement Districts - an idea originating in the US, but now &amp;ldquo;&lt;em&gt;found in Europe, the Caribbean, Australia and South Africa&lt;/em&gt;&amp;rdquo; (Hannigan, quoted in Graham/Marvin, 2009 p261). Business Improvement Districts take over the running of their own network connections: street cleaning, lighting, garbage, policing etc., leaving remaining areas to deal with their own problems. Although in theory the market should provide for all who have a requirement, according to the work of Castells what we are seeing is a new social division, &amp;ldquo;&lt;em&gt;structurally irrelevant people&lt;/em&gt;&amp;rdquo;, people who have no economic power and who therefore, the market can simply ignore because the &amp;ldquo;&lt;em&gt;architecture of global networks connects places selectively, according to their relative value to the network&lt;/em&gt;&amp;rdquo; (Castells, 2010 pXXXV) &lt;/p&gt;&lt;p&gt;Stephen Graham and Simon Marvin call this phenomenon &amp;ldquo;Splintering Urbanism&amp;rdquo;. They outline the physical geography of the network society by looking at the powers behind, and embodied in the urban infrastructure that services the network. They highlight that this area is often overlooked due its technical nature, often dismissed by architects, sociologists and geographers as a politics-neutral engineering problem, outwith their area of expertise. Graham and Marvin demonstrate a rise in &amp;ldquo;&lt;em&gt;premium networked spaces of the splintering metropolis&lt;/em&gt;&amp;rdquo; across the globe, a new geography transcending ideas of Core and Periphery countries, centring on cities from Shanghai to Manhattan, Sao Paolo to Montreal, Dubai, London, Bombay, and beyond. We see express highways and train routes connecting business centres to international airports, bypassing surrounding local areas to create virtual network topologies. (Graham, Marvin, 2009). We should strive to see that not all inhabitants of a city feel the benefits of these global connections of power and financial flows equally, a problem exasperated by the dual effects of government ideology - the prevailing idea to allow the market to manage all aspects of society - combined with the technological sophistication to allow very selective and granular unbundling of network services. &lt;/p&gt;&lt;p&gt;However, we must also be aware that the situation is more complex that this binary description of the Included and Excluded. Doreen Massey adds definition to the Network Society concept, using examples of poverty in Bombay and Los Angeles to show how these dominant spaces of capital flows are contested urban areas, with differing rhythms sharing a shaky co-existence. There are a multiplicity of flows within a city which stretch beyond it boundaries, and though certain people may be excluded from certain flows, &amp;ldquo;they are all the products of complicated interweavings of networks of social relations&amp;rdquo; (Massey, 2010, p 130)&lt;/p&gt;&lt;p&gt;Drawing together the various threads of this topic, we can see that a city&amp;rsquo;s fortunes are one and the same as its connections to larger network flows. Originally a city&amp;rsquo;s connections would be with neighbouring regions, but society has evolved over the centuries into one worldwide flow of influences and trade. Now, as an Informational Society, we see the emergence of a singular realtime global economic network, yet in sharp contrast we see a greater division of wealth and power. As we enter this new stage of Society the old systems and language for understanding structure and inequality are no longer adequate to express this new historical reality. An understanding of the mechanics and flows of this new virtual geography and multi-tiered network society becomes an absolute necessity for anyone involved in the planning and governance of urban space, or indeed for anyone simply living or working in a city.&lt;/p&gt;&lt;p&gt;References:&lt;br /&gt;Allen, J., Massey, D., and Pile S. (2010) Understanding Cities: City Worlds, Oxon, The Open University.&lt;br /&gt;Arrighi, G. (2010), The Long Twentieth Century: Money, Power and the Origins Of Our Times London, Verso&lt;br /&gt;Castells, M., (2010) The Rise Of The Network Society, Oxford, Wiley-Blackwell&lt;br /&gt;Jacobs, J. (1970) The Economy Of Cities, New York, Random House&lt;br /&gt;Graham, S., and Marvin, S., (2009) Splintering Urbanism: Networked Infrastructures, Technological Mobilities and The Urban Condition, New York, Routledge&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>the real google eyed</title>
+      <link>http://theb0ardside.com/therealgoogleeyed/</link>
+      <pubDate>Mon, 09 Apr 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/therealgoogleeyed/</guid>
+      <description>&lt;p&gt;ha, my friend &lt;a href=&#34;http://www.mandalastudio.net/&#34; target=&#34;_blank&#34;&gt;Mat&lt;/a&gt; turned me on to this spoof version -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/t3TAOYXT840?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>going google eyed</title>
+      <link>http://theb0ardside.com/goinggoogleeyed/</link>
+      <pubDate>Thu, 05 Apr 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/goinggoogleeyed/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/9c6W4CCU9M4?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Ah, see, &lt;a href=&#34;http://drawingb0ard.blogspot.com/2011/01/physic-or-surgery-issue-1.html&#34; title=&#34;Physic Or Surgery&#34; target=&#34;_blank&#34;&gt;my comic&lt;/a&gt; is all true! :D&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Puppet stages and APT</title>
+      <link>http://theb0ardside.com/puppetstagesandapt/</link>
+      <pubDate>Tue, 03 Apr 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/puppetstagesandapt/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.stixrideshop.com/blog/wp-content/uploads/2012/03/gonz-3.bmp&#34; alt=&#34;gonz -- for no reason except he&amp;#039;s the MAN!&#34; /&gt;&lt;/p&gt;&lt;p&gt;At work, our old code deployment strategy was basically a wrapper script doing an svn checkout and some symlinking. With our move to Puppet for config management, we also moved to using Apt packaging for our code deployment, tying them together with a line similar to :&lt;/p&gt;&lt;p&gt;&lt;code&gt;class foo-export {&lt;br /&gt;    package { &amp;#039;foo-export&amp;#039;: ensure =&gt; latest }&lt;br /&gt;}&lt;/code&gt;&lt;/p&gt;&lt;p&gt;So that whenever we deploy a new version of a package to our apt-repo, it can then be installed with a:&lt;/p&gt;&lt;p&gt;&lt;code&gt;puppet agent --test&lt;/code&gt;&lt;br /&gt;(and with an initial dry-run using &lt;code&gt;--noop&lt;/code&gt;)&lt;/p&gt;&lt;p&gt;( I should mention I manage our Puppet runs via our own distributed scripts, rather than having the nodes set up to check in every 30mins - when I&#39;m doing so much work on our Puppet setup and config, I&#39;d rather not having machines check in automatically in case the config is in a broken state )&lt;/p&gt;&lt;p&gt;Inevitably I would run the above Puppet command and it would not find any new packages, because &amp;#8216;d&#39;uh!&#39;, of course I still need to run an &lt;code&gt;apt-get update&lt;/code&gt;.&lt;/p&gt;&lt;p&gt;I&#39;ve been using Puppet stages for a while now, in order to group package installations in a broader sense rather than manually spelling out every dependency with a &lt;code&gt;require =&gt;&lt;/code&gt; stanza, so it was a simple addition to add in a &lt;code&gt;pre&lt;/code&gt; stage, and have the nodes run &lt;code&gt;apt-get update&lt;/code&gt; before any runs.&lt;/p&gt;&lt;p&gt;In order to use stages, you need to first define them in your site.pp. By default every defined class runs under Stage[main], so you just need to add the new stages and define the running order. (full Puppet stage documentation is &lt;a href=&#34;http://docs.puppetlabs.com/guides/language_guide.html&#34; title=&#34;Puppet Stages&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;At the top of my site.pp file, I added a pre and post stage, then define the execution order via:&lt;/p&gt;&lt;p&gt;&lt;code&gt;stage { [pre, post]: }&lt;br /&gt;Stage[pre] -&gt; Stage[main] -&gt; Stage[post]&lt;/code&gt;&lt;/p&gt;&lt;p&gt;Then I created a class called apt-hupdate (sorry, i use stupid naming conventions!) in&lt;br /&gt;&lt;code&gt;modules/apt-hupdate/manifests/init.pp&lt;/code&gt;&lt;/p&gt;&lt;p&gt;which contained:&lt;br /&gt;&lt;code&gt;class apt-hupdate {&lt;/p&gt;&lt;p&gt;    exec { &#34;aptHupdate&#34;:&lt;br /&gt;        command =&gt; &#34;/usr/bin/apt-get update&#34;,&lt;br /&gt;    }&lt;br /&gt;}&lt;/code&gt;&lt;/p&gt;&lt;p&gt;And finally, include that in your site.pp with:&lt;/p&gt;&lt;p&gt;&lt;code&gt;class { apt-hupdate: stage =&gt; pre }&lt;/code&gt;&lt;/p&gt;&lt;p&gt;Now every time you do a Puppet run, &lt;code&gt;apt-get update&lt;/code&gt; will be the first task run.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>the biology of code</title>
+      <link>http://theb0ardside.com/thebiologyofcode/</link>
+      <pubDate>Tue, 27 Mar 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/thebiologyofcode/</guid>
+      <description>&lt;p&gt;Fabulous piece and video chat with George Dyson over at the always reliable Edge -&lt;/p&gt;&lt;p&gt;&lt;a href=&amp;#039;http://edge.org/conversation/a-universe-of-self-replicating-code#.T3E3c83Cv8w.wordpress&amp;#039;&gt;A Universe Of Self-replicating Code | Conversation | Edge&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Claude Shannon and the Clams</title>
+      <link>http://theb0ardside.com/claudeshannonandtheclams/</link>
+      <pubDate>Fri, 16 Mar 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/claudeshannonandtheclams/</guid>
+      <description>&lt;p&gt;I finished reading James Gleick&#39;s &lt;a href=&#34;http://www.goodreads.com/book/show/12279559-the-information&#34; target=&#34;_blank&#34;&gt;The Information&lt;/a&gt; tonite - so good!&lt;/p&gt;&lt;p&gt;Really, the central character is &lt;a href=&#34;http://en.wikipedia.org/wiki/Claude_Shannon&#34; target=&#34;_blank&#34;&gt;Claude Shannon&lt;/a&gt;, who I&#39;m ashamed to admit I didn&#39;t previously know much about. Had a quick search when i finished it and found this decent little 30 min documentary which gives a good overview -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/z2Whj_nL-x8?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Information</title>
+      <link>http://theb0ardside.com/theinformation/</link>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/theinformation/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/iyOzSzcDwg8?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;I started reading James Gleick&#39;s &amp;#8220;The Information&amp;#8221; last week and haven&#39;t been able to put it down yet - so good!&lt;br /&gt;I just found this video of a talk he presented at Google last year on the book, looks ace, i&#39;ll save it for watching this evening.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</title>
+      <link>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</link>
+      <pubDate>Sun, 19 Feb 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
+      <description>&lt;p&gt;I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. &lt;/p&gt;&lt;p&gt;I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows. We were pretty much stumped, and the other engineer recommend i look into &lt;a href=&#34;http://www.psc.edu/networking/projects/hpn-ssh/&#34;&gt;HPN-SSH&lt;/a&gt;, which does indeed sound very good, but first i started playing around with trying different ciphers and compression.&lt;/p&gt;&lt;p&gt;Our uploads are all run via a perl framework, which utilises Net::SFTP in order to do the transfers.&lt;a href=&#34;https://github.com/sideb0ard/speedTester&#34; target=&#34;_blank&#34;&gt; My test program was also written in perl&lt;/a&gt; and using the same library. In order to try different cyphers i started testing uploads with the interactive command line SFTP. Boom! 6Mb/s upload speed. Biiiig difference from the Net::SFTP client. I started playing with blowfish cipher and trying to enable compression with Net::SFTP - it wasn&#39;t really working, it can only do Zlib compression, which my SSHD server wouldn&#39;t play with until i specifically enabled compression in the sshd_config file.&lt;/p&gt;&lt;p&gt;After much more digging around, i came across reference to &lt;a href=&#34;http://search.cpan.org/~salva/Net-SFTP-Foreign-1.69/lib/Net/SFTP/Foreign.pm&#34;&gt;Net::SFTP::Foreign&lt;/a&gt;, which uses the installed ssh binary on your system for transport rather than relying on the pure perl Net::SSH.&lt;/p&gt;&lt;p&gt;Syntax is very similar, so it was a minor rewrite to switch modules, yet such a massive payback, from 0.30Mb/s up to 6Mb/s. &lt;/p&gt;&lt;p&gt;(It turns out the DSPs i mentioned earlier who could achieve 60Mb/s were actually FTP transfers, not SFTP)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>building a DEB package from a perl script</title>
+      <link>http://theb0ardside.com/buildingadebpackagefromaperlscript/</link>
+      <pubDate>Thu, 16 Feb 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/buildingadebpackagefromaperlscript/</guid>
+      <description>&lt;p&gt;I have a speedtest perl script i wrote - nothing complicated, takes a file and uploads it to a remote FTP or SFTP server, while calculating how long, then gives you a a measure of the MB/per second bandwidth between two sites.&lt;/p&gt;&lt;p&gt;I want it available on a selection of machines so it can run from wherever, so I thought i&#39;d package it up as a .DEB file and stick it in our local repo. Nothing complicated in that, and there are a &lt;a href=&#34;http://www.debian-administration.org/articles/336&#34; target=&#34;_blank&#34;&gt;number&lt;/a&gt; of &lt;a href=&#34;http://www.debian-administration.org/articles/337&#34; target=&#34;_blank&#34;&gt;online&lt;/a&gt; &lt;a href=&#34;http://www.debian.org/doc/manuals/debian-faq/ch-pkg_basics.en.html&#34; target=&#34;_blank&#34;&gt;tutorials&lt;/a&gt; about building your own debs. The main drawback with most I found was that they assume you are actually building from source rather than just distributing a script, although I also found &lt;a href=&#34;http://askubuntu.com/questions/27715/create-a-deb-package-from-scripts-or-binaries&#34; target=&#34;_blank&#34;&gt;a relevant Ubuntu thread&lt;/a&gt; which is pretty simple and to the point.&lt;/p&gt;&lt;p&gt;However, even using these tutorials it still took me a few hours to figure out. There are just a couple of non-obvious points, so i figure writing out my own steps is worth recording -&lt;/p&gt;&lt;p&gt;So first, grab your required packages:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;apt-get install dh-make dpkg-dev debhelper devscripts fakeroot lintian&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You will need to build from a directory with the name of your script in the form &lt;code&gt;packagename-version&lt;/code&gt;, so for mine i created &lt;strong&gt;/tmp/speedtest-1.0&lt;/strong&gt;, then copied in my script &amp;#8216;&lt;strong&gt;speedtest&lt;/strong&gt;&amp;#8216; and it&#39;s data file &lt;strong&gt;25MBFLAC.file&lt;/strong&gt; ( which i could have created with &lt;strong&gt;dd&lt;/strong&gt; on the box rather than copy over, but downloading the file is actually quicker in this situation ).&lt;/p&gt;&lt;p&gt;The first step is to run:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;dh_make -s --indep --createorig -e thor@valhalla.com&lt;/code&gt;&lt;/strong&gt;&lt;br /&gt;(dash-s means create a single binary .deb - i.e. no source version; indep means architecture-independent; and createorig is to indicate you are the original maintainer)&lt;/p&gt;&lt;p&gt;this creates a top-level &amp;#8216;&lt;strong&gt;debian&lt;/strong&gt;&amp;#8216; directory containing all the necessary config files.&lt;br /&gt;The main one you need to edit is &lt;strong&gt;debian/control&lt;/strong&gt; - you prob only need fill in &amp;#8220;section&amp;#8221;, &amp;#8220;homepage&amp;#8221; and &amp;#8220;Description&amp;#8221;&lt;/p&gt;&lt;p&gt;Mine looks like:&lt;/p&gt;&lt;p&gt;&lt;code&gt;Source: speedtest&lt;br /&gt;Section: web&lt;br /&gt;Priority: extra&lt;br /&gt;Maintainer: Thorsten Sideboard &amp;lt;thor@valhalla.com&amp;gt;&lt;br /&gt;Build-Depends: debhelper (&gt;= 7.0.50~)&lt;br /&gt;Standards-Version: 3.8.4&lt;br /&gt;Homepage: http://github.com/sideboard/speedtest.git&lt;/p&gt;&lt;p&gt;Package: speedtest&lt;br /&gt;Architecture: all&lt;br /&gt;Depends: ${misc:Depends}&lt;br /&gt;Description: Test Upload Speeds&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;One of the things which baffled me for a while, which was answered in the &lt;a href=&#34;http://askubuntu.com/questions/27715/create-a-deb-package-from-scripts-or-binaries&#34; target=&#34;_blank&#34;&gt;askubuntu link above&lt;/a&gt;, was how to specify where something is installed &amp;#8212; it goes in a file &amp;#8216;&lt;strong&gt;debian/install&lt;/strong&gt;&amp;#8216; which isn&#39;t created for you. The format of the file is &amp;#8216;&lt;strong&gt;filename location/to/be/installed&lt;/strong&gt;&amp;#8221; (without the initial slash)&lt;/p&gt;&lt;p&gt;so in my case, i ran:&lt;br /&gt;&lt;code&gt;echo &#34;speedtest usr/local/Scriptz/&#34; &gt; debian/install&lt;br /&gt;echo &#34;25MBFLAC.file usr/local/Scriptz/&#34; &gt;&gt; debian/install&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;At this point, you should then be able to run:&lt;br /&gt;&lt;code&gt;debuild -us -uc&lt;/code&gt;&lt;/p&gt;&lt;p&gt;and you &lt;em&gt;should&lt;/em&gt; have a deb file built. but..&lt;/p&gt;&lt;p&gt;First i ran into :&lt;/p&gt;&lt;p&gt;&lt;code&gt;dpkg-source: error: can&amp;#039;t build with source format &amp;#039;3.0 (quilt)&amp;#039;: no orig.tar file found&lt;/code&gt;&lt;/p&gt;&lt;p&gt;As the above-mentioned askubuntu post says, you can &lt;/p&gt;&lt;p&gt;&lt;code&gt;echo &#34;1.0&#34; &gt; debian/source/format&lt;/code&gt;&lt;/p&gt;&lt;p&gt;then re-running the &lt;code&gt;debuild -us -uc&lt;/code&gt; i ran into &lt;/p&gt;&lt;p&gt;&lt;code&gt;dpkg-source: error: cannot represent change to speedtemp-1.0/25MBFLAC.file: binary file contents changed&lt;/code&gt;&lt;/p&gt;&lt;p&gt;This error is due to leftover build-cruft from my last run - if you check the directory one step up from where you are, you&#39;ll see debuild has already built some files for you, typically a tar.gz, a .dsc and a .build file. Delete all them, then re-run &lt;code&gt;debuild -us -uc&lt;/code&gt; &amp;#8212; now it should build properly!&lt;/p&gt;&lt;p&gt;ah! &lt;/p&gt;&lt;p&gt;&lt;code&gt;dh_usrlocal: debian/speedtemp/usr/local/Scriptz/speedtest is not a directory&lt;/code&gt;&lt;/p&gt;&lt;p&gt;This one also caught me out for a while - turns out this is caused by my specifying &amp;#8220;/usr/local/Scriptz&amp;#8221; as my install location - &lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;Most third-party software installs itself in the /usr/local directory hierarchy. On Debian this is reserved for private use by the system administrator, so packages must not use directories such as /usr/local/bin but should instead use system directories such as /usr/bin, obeying the Filesystem Hierarchy Standard (FHS).&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt; (from &lt;a href=&#34;http://www.debian.org/doc/manuals/maint-guide/modify.en.html#destdir&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;So, yeah, i changed my &lt;strong&gt;debian/install&lt;/strong&gt; file to be &amp;#8220;&lt;strong&gt;speedtest usr/bin&lt;/strong&gt;&amp;#8221;&lt;/p&gt;&lt;p&gt;and finally! running &lt;code&gt;debuild -us -uc&lt;/code&gt; completes properly, outputting a &lt;strong&gt;/tmp/speedtest_1.0-1_all.deb&lt;/strong&gt; which can then be installed via&lt;br /&gt;&lt;strong&gt;&lt;code&gt;dpkg -i /tmp/speedtest_1.0-1_all.deb &lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One last note &amp;#8212; there are four useful scripts to also know about &amp;#8212; &lt;strong&gt;&lt;code&gt;preinst, postinst, prerm, postrm&lt;/code&gt;&lt;/strong&gt; &amp;#8212; these should be in the &lt;code&gt;debian/&lt;/code&gt; directory - pretty self-explanatory - pre- and post- install and remove scripts - if these exist, they will be run exactly as they are named, so for example, i wanted my 25MBFLAC.file still to be installed under /usr/local/Scriptz, so i listed it to be installed in the debian/install file as &amp;#8220;25MBFLAC.file tmp&amp;#8221; and then in my postinst file, i added:&lt;/p&gt;&lt;p&gt;&lt;code&gt;#!/bin/sh&lt;br /&gt;mv /tmp/25MBFLAC.file /usr/local/Scriptz/&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>evolution of the cloud</title>
+      <link>http://theb0ardside.com/evolutionofthecloud/</link>
+      <pubDate>Thu, 02 Feb 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/evolutionofthecloud/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://gigaom.com/cloud/why-2013-is-the-year-of-noops-for-programmers-infographic/?utm_source=feedburner&amp;#038;utm_medium=feed&amp;#038;utm_campaign=Feed%3A+OmMalik+%28GigaOM%3A+Tech%29&#34; target=&#34;_blank&#34;&gt;&lt;img width=&#34;600&#34;  src=&#34;http://gigaom2.files.wordpress.com/2012/01/appfog_infographic_013012.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apple culture</title>
+      <link>http://theb0ardside.com/appleculture/</link>
+      <pubDate>Tue, 31 Jan 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/appleculture/</guid>
+      <description>&lt;p&gt;Quite an interesting interview with Adam Lashinsky, author of a new book &amp;#8220;Inside Apple&amp;#8221;:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/tOf_2HCX51w?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;/* via &lt;a href=&#34;http://osxdaily.com/2012/01/29/author-of-inside-apple-talks-apple-corporate-culture-and-secrecy-video/?utm_source=feedburner&amp;#038;utm_medium=feed&amp;#038;utm_campaign=Feed%3A+osxdaily+%28OS+X+Daily%29&#34; target=&#34;_blank&#34;&gt;OS X Daily&lt;/a&gt; */&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>a moose loose aboot this hoose</title>
+      <link>http://theb0ardside.com/amooselooseabootthishoose/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/amooselooseabootthishoose/</guid>
+      <description>&lt;p&gt;Really enjoyed programming along with this &lt;a href=&#34;http://www.linuxjournal.com/content/moose&#34; title=&#34;moose&#34; target=&#34;_blank&#34;&gt;perl Moose introduction at Linux Journal&lt;/a&gt; - The piece and code are nice and concise.&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://www.linuxjournal.com/files/linuxjournal.com/ufiles/imagecache/node-page/nodeimage/story/moose.png&#34; alt=&#34;Moose&#34; /&gt; &lt;img src=&#34;http://www.linuxjournal.com/files/linuxjournal.com/ufiles/logo-lj.jpg&#34; alt=&#34;lj&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>robot</title>
+      <link>http://theb0ardside.com/robot/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/robot/</guid>
+      <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Edge Question 2012</title>
+      <link>http://theb0ardside.com/theedgequestion2012/</link>
+      <pubDate>Thu, 19 Jan 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/theedgequestion2012/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://edge.org/images/edge_logo.jpg&#34; alt=&#34;Edge&#34; /&gt;&lt;/p&gt;&lt;p&gt;The Edge just published their annual Q/A in which they pose a question and ask a group of artists, scientists, and various kinds of intellectuals for their answer. This year the question was &lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;#8220;&lt;em&gt;What Is Your Favorite Deep, Elegant, Or Beautiful Explanation?&lt;/em&gt;&amp;#8220;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The list of contributors stretches to 192, most of whom i can&amp;rsquo;t claim to know, however three names I&amp;rsquo;m particularly interested in stick out:&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/response-detail/2738/what-is-your-favorite-deep-elegant-or-beautiful-explanation&#34; target=&#34;_blank&#34;&gt;Rudy Rucker on Inverse Power Laws&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/response-detail/2942/what-is-your-favorite-deep-elegant-or-beautiful-explanation&#34; target=&#34;_blank&#34;&gt;Tim O Reilly on Pascal&amp;rsquo;s Wager&lt;/a&gt; &lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/response-detail/2954/what-is-your-favorite-deep-elegant-or-beautiful-explanation&#34; target=&#34;_blank&#34;&gt;Stewart Brand on Fitness Landscapes&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Worth taking a dig through, tons of good stuff.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1923 video of Einstein&#39;s Theory Of Relativity</title>
+      <link>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity/</link>
+      <pubDate>Wed, 28 Dec 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity/</guid>
+      <description>&lt;p&gt;found via &lt;a href=&#34;http://boingboing.net/2011/12/27/1923-animated-film-about-einst.html&#34; title=&#34;Boing Boing&#34; target=&#34;_blank&#34;&gt;Boing Boing&lt;/a&gt;, excellent 20min short from 1923 -&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/9832926&#34; width=&#34;480&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CPAN Diff script</title>
+      <link>http://theb0ardside.com/cpandiffscript/</link>
+      <pubDate>Fri, 16 Dec 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/cpandiffscript/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://theslowbullet.files.wordpress.com/2011/01/clonecover.jpg&#34; alt=&#34;diff&#34; /&gt;&lt;/p&gt;&lt;p&gt;I put together a quick perl script for comparing installed CPAN modules between two hosts. Find it &lt;a href=&#34;https://github.com/sideb0ard/CPANDiff&#34; title=&#34;CPANDiff&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Quite easy to use:&lt;br /&gt;Usage: ./CompareHostCpanModules.pl login@host1 login@host2&lt;/p&gt;&lt;p&gt;The script ssh&#39;s into both hosts (so it&#39;s easier if you have your ssh-keys setup) and grabs a list of installed CPAN modules and versions, then outputs the differences - it returns two lists - one of modules installed but having different versions, and another list of modules missing from the second host. &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bank robber, Moran Cerf</title>
+      <link>http://theb0ardside.com/bankrobbermorancerf/</link>
+      <pubDate>Fri, 09 Dec 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/bankrobbermorancerf/</guid>
+      <description>&lt;p&gt;hah, great (real-life) story -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/RJVHTQSvUIo?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;(( &lt;a href=&#34;http://www.schneier.com/blog/archives/2011/12/robbing_a_bank.html&#34;&gt;via Bruce Schneier&lt;/a&gt; ))&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NeXT documentary</title>
+      <link>http://theb0ardside.com/nextdocumentary/</link>
+      <pubDate>Thu, 08 Dec 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/nextdocumentary/</guid>
+      <description>&lt;p&gt;Bookmarked this video via &lt;a href=&#34;http://boingboing.net/2011/11/30/20-minute-biography-of-steve-j.html&#34; title=&#34;Boing Boing&#34; target=&#34;_blank&#34;&gt;Boing Boing&lt;/a&gt; last week, but only got round to watching it tonite - pretty interesting little 20 minute documentary series called &amp;#8220;Entrepreneurs&amp;#8221; doing an episode on Steve Jobs and NeXT back in 1985&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/sOlqqriBvUM?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>puppet mastering</title>
+      <link>http://theb0ardside.com/puppetmastering/</link>
+      <pubDate>Sat, 03 Dec 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/puppetmastering/</guid>
+      <description>&lt;p&gt;At my work, we&#39;re now really digging into using &lt;a href=&#34;http://puppetlabs.com/&#34; target=&#34;_blank&#34;&gt;Puppet&lt;/a&gt; - no longer just as a TechOps tools, but for our whole development cycle.&lt;/p&gt;&lt;p&gt;The hardest thing I&#39;ve come across so far is in deploying Perl CPAN packages, although i have been using manifest/recipe i found here -&lt;br /&gt;&lt;a href=&#34;http://www.windley.com/archives/2008/10/using_puppet_and_cpan.shtml&#34; target=&#34;_blank&#34;&gt;http://www.windley.com/archives/2008/10/using_puppet_and_cpan.shtml&lt;/a&gt;&lt;/p&gt;&lt;p&gt;It had been working quite well, but now as we&#39;ve been adding more and more to Puppet, I started seeing an error message:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;root@machine:~ $ puppet agent -test&lt;br /&gt;err: Could not retrieve catalog from remote server: Could not intern from pson: expected value in object at &amp;#8216;&amp;#8221;i&#39;!&lt;br /&gt;warning: Not using cache on failed catalog&lt;br /&gt;err: Could not retrieve catalog; skipping run&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; - the error was intermittent and always slightly differently, making it quite hard to track down. I found a number of people running into similar problems on forums and mailing lists, but no satisfactory answers. &lt;/p&gt;&lt;p&gt;Aiiight, so the problem is due to the default HTTP server within Puppet, which is called &lt;a href=&#34;http://en.wikipedia.org/wiki/WEBrick&#34; target=&#34;_blank&#34;&gt;WEBrick&lt;/a&gt; - I didn&#39;t dig into why, but after having re-double-triple-checked my manifest syntax and having tried a million other solutions, i thought to switch out the webserver component to see what would happen (I wasn&#39;t being completely original here - any article which talks about scaling Puppet says that you have to move to using a different server).&lt;/p&gt;&lt;p&gt;Instructions for switching to Apache2/Passenger (mod_rails) are &lt;a href=&#34;http://projects.puppetlabs.com/projects/puppet/wiki/Using_Passenger&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; - they&#39;re quite simple and it&#39;s easy to setup. &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bring the Noyce</title>
+      <link>http://theb0ardside.com/bringthenoyce/</link>
+      <pubDate>Mon, 14 Nov 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/bringthenoyce/</guid>
+      <description>&lt;p&gt;yow, sorry, that title&#39;s a really bad pun! &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/AfxUq_QrpyY?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;So two things here - i started to watch this video with Robert Noyce talking about the development of the IC, but in the introduction and in his opening, they talk about an article written by Tom Wolfe about Noyce - now, Tom Wolfe was a massive influence on my teenage self, or at least one of his books, The Electric Kool Aid Acid Test, which a friends older brother passed on to me when i was fifteen. Apart from being an excellent writer, the book, as I&#39;m sure most know, was about Ken Kesey and The Merry Pranksters, and the birth of acid culture. Wolfe&#39;s way with words is incredible, and the mythologizing he manages to paint is deliciously enjoyable. He applies the same magic to telling the story of Robert Noyce in &lt;a href=&#34;http://www.stanford.edu/class/e140/e140a/content/noyce.html&#34; title=&#34;Wolfe on Noyce&#34; target=&#34;_blank&#34;&gt;this truly amazing article from Esquire magazine, written in 1984&lt;/a&gt;. Well worth an hour of your time to read the article - i had no idea how much he had influenced the whole culture of Silicon Valley.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>the mysterious MegaCLI</title>
+      <link>http://theb0ardside.com/themysteriousmegacli/</link>
+      <pubDate>Thu, 27 Oct 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/themysteriousmegacli/</guid>
+      <description>&lt;p&gt;I&#39;ve inherited some Production Sun Fire X4470 boxes, which upon first look appeared to only have 2 x 140GB drives. Checking the purchase orders however, revealed that they should in fact have 4 x 140GB drives, a fact confirmed by &amp;#8220;dmesg |grep scsi&amp;#8221;.&lt;/p&gt;&lt;p&gt;These Sun Fire servers come with an internal 6Gb SAS PCIe RAID HBA which are managed via the LSI MegaRAID Management Suite. Unfortunately, the LSI website is a nightmare to navigate and has been re-arranged with no-redirects, requires a login and in general makes it very hard to find and download the MegaCLI utility.&lt;br /&gt;I eventually found a working download link at &lt;a href=&#34;http://www.lsi.com/downloads/Public/MegaRAID%20Common%20Files/8.02.16_MegaCLI.zip&#34;&gt;http://www.lsi.com/downloads/Public/MegaRAID%20Common%20Files/8.02.16_MegaCLI.zip&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The zip file contains an RPM file, so if like myself, you run Debian, you&#39;ll need to run:&lt;br /&gt;&lt;strong&gt;rpm2cpio MegaCli-8.02.16-1.i386.rpm  | cpio -idmv&lt;/strong&gt;&lt;br /&gt;The binaries are statically compiled so actually run fine.&lt;/p&gt;&lt;p&gt;In this situation, it simply turned out my drives were setup as RAID 1 mirrors, which was easy to discern using:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;./MegaCli64 -CfgDsply -aALL &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;I came across a couple of good cheat sheets for MegaCLI -&lt;br /&gt;&lt;a href=&#34;http://thatlinuxbox.com/blog/article.php/lsi-megaraid-megacli&#34;&gt;http://thatlinuxbox.com/blog/article.php/lsi-megaraid-megacli&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://www.theserve.co.uk/web-hosting-blog/megacli-commands&#34;&gt;http://www.theserve.co.uk/web-hosting-blog/megacli-commands&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://ftzdomino.blogspot.com/2009/03/some-useful-megacli-commands.html&#34;&gt;http://ftzdomino.blogspot.com/2009/03/some-useful-megacli-commands.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://tools.rapidsoft.de/perc/perc-cheat-sheet.html&#34;&gt;http://tools.rapidsoft.de/perc/perc-cheat-sheet.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://www.5dollarwhitebox.org/drupal/node/82&#34;&gt;http://www.5dollarwhitebox.org/drupal/node/82&lt;/a&gt;&lt;/p&gt;&lt;p&gt;For me, the most useful ones were:&lt;/p&gt;&lt;p&gt;#Physical Disk List&lt;br /&gt;&lt;strong&gt;./MegaCli64 -PDList -aALL&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;#Physical Drive Info&lt;br /&gt;&lt;strong&gt;./MegaCli64 -pdInfo -PhysDrv \[252:4\] -aALL |less&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;#Logical Disk Info&lt;br /&gt;&lt;strong&gt;./MegaCli64  -LDInfo -LAll -aAll | less&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;# Config Display&lt;br /&gt;&lt;strong&gt;./MegaCli64 -CfgDsply -aALL &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;# Config add Logical Drive&lt;br /&gt;&lt;strong&gt;./MegaCli64  -CfgLdAdd -r0 \[252:4,252:5\] -a0&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;# Logical Drive Init&lt;br /&gt;&lt;strong&gt;./MegaCli64 -LDInit -Start -L2 -a0&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We installed another two drives in the machine, which i was able to bring online in a RAID 0 volume using:&lt;br /&gt;&lt;strong&gt;./MegaCli64  -CfgLdAdd -r0 \[252:4,252:5\] -a0&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;However, even after having created this RAID 0 volume, my OS couldn&#39;t see it when using &amp;#8216;&lt;strong&gt;fdisk -l&lt;/strong&gt;&amp;#8216; - i had to run&lt;br /&gt;&lt;strong&gt;echo &amp;#8220;- - -&amp;#8221; &gt; /sys/class/scsi_host/host0/scan &lt;/strong&gt;&lt;br /&gt;which forces a SCSI bus rescan, and made available the new drive.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gen Xen</title>
+      <link>http://theb0ardside.com/genxen/</link>
+      <pubDate>Mon, 10 Oct 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/genxen/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;&#34; width=&#34;600&#34; src=&#34;http://www.just-marvel-x-men.com/image-files/astonishing-x-men-1-100k.jpg&#34; title=&#34;Xen&#34; class=&#34;alignnone&#34;  /&gt;&lt;/p&gt;&lt;p&gt;I&#39;ve been working pretty extensively with Xen and Puppet in my new job, really loving it! I&#39;ve been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I&#39;ve just finished a script which is over on &lt;a href=&#34;https://github.com/sideb0ard/GenXen&#34; title=&#34;GitHub&#34; target=&#34;_blank&#34;&gt;my github page&lt;/a&gt;, which basically automates what was previously a manual process.&lt;/p&gt;&lt;p&gt;Basically, it copies your existing disk.img and swap.img, generates a new xen.cfg file based on some interactive input (desired hostname, IP, memory and number of vCPUs) plus a random Xen mac address, then mounts the disk.img file and changes some appropriate system files - /etc/hostname, hosts, and network/interfaces.&lt;/p&gt;&lt;p&gt;All quite simple and straight forward, but quite nice to have automated.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sideb0ard/GenXen&#34; title=&#34;GenXen&#34; target=&#34;_blank&#34;&gt;GenXen&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s the README:&lt;/p&gt;&lt;p&gt;GenXen #&lt;br /&gt;#############################&lt;/p&gt;&lt;p&gt;A script for automating Xen VM deployment.&lt;/p&gt;&lt;p&gt;It requires that you have a base disk.img and swap.img already created.&lt;br /&gt;I created mine with:&lt;br /&gt;xen-create-image -pygrub -size=50Gb -swap=9Gb -vcpus=2 -memory 6Gb -dist=squeeze -dhcp -passwd -dir=/var/virt-machines -hostname=xen-squeeze-base&lt;/p&gt;&lt;p&gt;Fill in some of the variables at the top of GenXen.pl before running, then simply:&lt;br /&gt;./GenXen.pl&lt;/p&gt;&lt;p&gt;The interactive part will ask for hostname, memory size, vCPUs, IP address, then generate a unique Xen mac address, and write these all to a xen config file which will be saved in /etc/xen/&lt;/p&gt;&lt;p&gt;It&#39;ll copy your disk.img and swap.img to destination dir, mount the disk.img and create appropriate files for:&lt;br /&gt;/etc/hostname&lt;br /&gt;/etc/hosts&lt;br /&gt;/etc/network/interfaces &lt;/p&gt;&lt;p&gt;After that you should be good to launch with:&lt;/p&gt;&lt;p&gt;xm create -c /etc/xen/whatever-your-hostname-is.cfg&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>physical internet</title>
+      <link>http://theb0ardside.com/physicalinternet/</link>
+      <pubDate>Mon, 03 Oct 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/physicalinternet/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://flowingdata.com/2011/10/03/submarine-cable-system-connecting-the-world/&#34; target=&#34;_blank&#34;&gt;&lt;img alt=&#34;&#34; src=&#34;http://flowingdata.com/wp-content/uploads/2011/10/Submarine-cable-map-625x405.png&#34; title=&#34;submarine cable map&#34; class=&#34;alignnone&#34; width=&#34;625&#34; height=&#34;405&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Ever since reading Neal Stephenson&#39;s &lt;a href=&#34;http://www.wired.com/wired/archive/4.12/ffglass_pr.html&#34; title=&#34;mother earth mother board&#34; target=&#34;_blank&#34;&gt;Mother Earth Mother Board&lt;/a&gt; article, I&#39;ve been quite fascinated with the undersea cables which physically connect the land masses of the world. This map, linked above is an amazing view into this part of the Internet&#39;s current infrastructure.&lt;/p&gt;&lt;p&gt;(via &lt;a href=&#34;http://flowingdata.com/2011/10/03/submarine-cable-system-connecting-the-world/&#34; title=&#34;Flowing Data&#34; target=&#34;_blank&#34;&gt;flowingdata.com&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iperf and virtualisation and clouds and clouds</title>
+      <link>http://theb0ardside.com/iperfandvirtualisationandcloudsandclouds/</link>
+      <pubDate>Mon, 05 Sep 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/iperfandvirtualisationandcloudsandclouds/</guid>
+      <description>&lt;p&gt;One of the tools i&#39;ve been using a lot of recently is iperf - a really simple and sleek tool for measuring bandwidth between two hosts - rather than write up a full tutorial myself, i&#39;ll simply point you at &lt;a href=&#34;http://jaysonbroughton.com/2011/04/iperf-measuring-network-performance-in-an-enterprise-environment/&#34; target=&#34;_blank&#34;&gt;this one&lt;/a&gt; by Jayson Broughton&lt;/p&gt;&lt;p&gt;more soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internets 1962 till now</title>
+      <link>http://theb0ardside.com/internets1962tillnow/</link>
+      <pubDate>Wed, 10 Aug 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/internets1962tillnow/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://www.computerhistory.org/internet_history/full_size_images/1969_4-node_map.gif&#34; title=&#34;first 4 nodes&#34; class=&#34;aligncenter&#34; width=&#34;432&#34; height=&#34;393&#34; /&gt;&lt;/p&gt;&lt;p&gt;Excellent &lt;a href=&#34;http://www.computerhistory.org/internet_history/&#34; target=&#34;_blank&#34;&gt;timeline of the Internet&lt;/a&gt;&amp;#8216;s evolution from 1962 till the present day..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vagrant and Chef setup</title>
+      <link>http://theb0ardside.com/vagrantandchefsetup/</link>
+      <pubDate>Fri, 05 Aug 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/vagrantandchefsetup/</guid>
+      <description>&lt;p&gt;I&#39;ve been reading through ThoughtWorks&#39; latest &amp;#8216;&lt;a href=&#34;http://www.thoughtworks.com/radar&#34; title=&#34;radar&#34; target=&#34;_blank&#34;&gt;technology radar&lt;/a&gt;&amp;#8216; which led me to look up &lt;a href=&#34;http://vagrantup.com/&#34; title=&#34;Vagrant&#34; target=&#34;_blank&#34;&gt;Vagrant&lt;/a&gt;, one of the tools they list as worth exploring.&lt;/p&gt;&lt;p&gt;Vagrant is a framework for building and deploying Virtual Machine environments, using Oracle VirtualBox for the actual VMs and utilizing Chef for configuration management.  &lt;/p&gt;&lt;p&gt;Watching through this intro video:&lt;/p&gt;&lt;p&gt;http://vimeo.com/9976342&lt;/p&gt;&lt;p&gt;i was quite intrigued as it is very similar to what i was looking to achieve earlier when i was &lt;a href=&#34;http://www.theb0ardside.com/?p=22&#34; title=&#34;Xen and Puppet&#34; target=&#34;_blank&#34;&gt;experimenting with installing Xen and configuring with Puppet.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;So here&#39;s what I experienced during the setup of Vagrant on my Macbook - I decided to start with a simple Chef install to familiarise myself with Chef itself and it&#39;s own requirements CouchDB, RabbitMQ and Solr, mostly by following &lt;a href=&#34;http://wiki.opscode.com/display/chef/Manual+Chef+Server+Configuration&#34; title=&#34;Chef Manual Install OS X&#34; target=&#34;_blank&#34;&gt;these instructions&lt;/a&gt; - &lt;/p&gt;&lt;p&gt;&lt;strong&gt;-CHEF INSTALL-&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;sudo gem install chef&lt;br /&gt;sudo gem install ohai&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Chef uses couchDB as it&#39;s datastore, so we need to install it using the instructions &lt;a href=&#34;http://wiki.apache.org/couchdb/Installing_on_OSX&#34; title=&#34;CouchDB install OS X&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;brew install couchdb&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The instructions I list above also contains steps to install a couchDB user and set it up as a daemon. They didn&#39;t work for me, and after 30mins of troubleshooting, i gave up and went with the simpler option of running it under my own user - in production this will be running on a Linux server rather than my Macbook, so it seemed fair enough -&lt;/p&gt;&lt;p&gt;&lt;strong&gt;cp /usr/local/Cellar/couchdb/1.1.0/Library/LaunchDaemons/org.apache.couchdb.plist ~/Library/LaunchAgents/&lt;/p&gt;&lt;p&gt;launchctl load -w ~/Library/LaunchAgents/org.apache.couchdb.plist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Check its running okay by going to&lt;br /&gt;&lt;a href=&#34;http://127.0.0.1:5984/&#34; title=&#34;Localhost&#34; target=&#34;_blank&#34;&gt;http://127.0.0.1:5984/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;which should provide something akin to :&lt;br /&gt;&lt;strong&gt;{&amp;#8220;couchdb&amp;#8221;:&amp;#8221;Welcome&amp;#8221;,&amp;#8221;version&amp;#8221;:&amp;#8221;1.1.0&amp;#8243;}&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;- INSTALL RABBITMQ -&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;brew install rabbitmq&lt;br /&gt;/usr/local/sbin/rabbitmq-server -detached&lt;/p&gt;&lt;p&gt;sudo rabbitmqctl add_vhost /chef&lt;br /&gt;sudo rabbitmqctl add_user chef testing&lt;br /&gt;sudo rabbitmqctl set_permissions -p /chef chef &amp;#8220;.*&amp;#8221; &amp;#8220;.*&amp;#8221; &amp;#8220;.*&amp;#8221;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ok, Gettin&#39; back to my mission, break out the whipped cream and the cherries, then I go through all the fly positions - oh, wrong mission! &lt;/p&gt;&lt;p&gt;Ok..&lt;/p&gt;&lt;p&gt;&lt;strong&gt;brew install gecode&lt;br /&gt;brew install solr&lt;/p&gt;&lt;p&gt;sudo gem install chef-server chef-server-api chef-server chef-solr&lt;br /&gt;sudo gem install chef-server-webui&lt;br /&gt;sudo chef-solr-installer&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Setup a conf file -&lt;br /&gt;&lt;strong&gt;sudo mkdir /etc/chef&lt;br /&gt;sudo vi /etc/chef/server.rb&lt;/strong&gt; - paste in the example from:&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://wiki.opscode.com/display/chef/Manual+Chef+Server+Configuration&#34; title=&#34;chef conf&#34; target=&#34;_blank&#34;&gt;http://wiki.opscode.com/display/chef/Manual+Chef+Server+Configuration&lt;/a&gt; - making the appropriate changes for your FQDN&lt;/p&gt;&lt;p&gt;At this point, the above instructions ask you to start the indexer however the instructions haven&#39;t been updated to reflect changes to Chef version 0.10.2 in which chef-solr-indexer has been replaced with chef-expander&lt;/p&gt;&lt;p&gt;So, instead of running:&lt;br /&gt;&lt;strong&gt;sudo chef-solr-indexer &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;you instead need to run:&lt;br /&gt;&lt;strong&gt;sudo chef-expander -n1 -d&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Next i tried&lt;br /&gt;&lt;strong&gt;sudo chef-solr&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;which ran into&lt;br /&gt;&lt;em&gt;&amp;#8220;`configure_chef&#39;: uninitialized constant Chef::Application::SocketError (NameError)&amp;#8221;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;i had to create an &lt;strong&gt;/etc/chef/solr.rb&lt;/strong&gt; file and simply add this to the file:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;require &amp;#8216;socket&#39;&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;startup now worked -&lt;br /&gt;if you want to daemonize it, use:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;sudo chef-solr -d&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Next start Chef Server with:&lt;br /&gt;&lt;strong&gt;sudo chef-server -N -e production -d&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;and finally:&lt;br /&gt;&lt;strong&gt;sudo chef-server-webui -p 4040 -e production&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Now you should be up and running - you need to configure the command client &amp;#8216;Knife&#39; follwing the instructions &lt;a href=&#34;http://wiki.opscode.com/display/chef/Manual+Chef+Server+Configuration&#34; title=&#34;Knife setup&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; - under the section &amp;#8216;&lt;strong&gt;Configure the Command Line Client&lt;/strong&gt;&amp;#8216;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;mkdir -p ~/.chef&lt;br /&gt;sudo cp /etc/chef/validation.pem /etc/chef/webui.pem ~/.chef&lt;br /&gt;sudo chown -R $USER ~/.chef&lt;/p&gt;&lt;p&gt;knife configure -i&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;(follow the instructions at the link - you only need to change the location of the two pem files you copied above)&lt;/p&gt;&lt;p&gt;Ok, so hopefully you&#39;re at the same place as me with this all working at least as far as being able to log into CouchDB, and verifying that Chef/Knife are both working.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;- VAGRANT SETUP -&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Now, onward with the original task of Vagrant setup&amp;#8230;&lt;br /&gt;Have a read over the &lt;a href=&#34;http://vagrantup.com/docs/getting-started/index.html &#34; title=&#34;Vagrant Getting Started&#34; target=&#34;_blank&#34;&gt;getting started guide:&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Install VirtualBox - download from &lt;a href=&#34;http://www.virtualbox.org/wiki/Downloads&#34; title=&#34;VirtualBox&#34; target=&#34;_blank&#34;&gt;http://www.virtualbox.org/wiki/Downloads&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Run the installer, which should all work quite easily. Next..&lt;/p&gt;&lt;p&gt;&lt;strong&gt;gem install vagrant&lt;/p&gt;&lt;p&gt;mkdir vagrant_guide&lt;br /&gt;cd vagrant_guide/&lt;br /&gt;vagrant init&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;this creates the base Vagrantfile, which the documentation compares to a Makefile, basically a reference file for the project to work with.&lt;/p&gt;&lt;p&gt;Setup our first VM -&lt;br /&gt;&lt;strong&gt;vagrant box add lucid32 http://files.vagrantup.com/lucid32.box&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is downloaded and saved in ~/.vagrant.d/boxes/ &lt;/p&gt;&lt;p&gt;edit the Vagrantfile which was created and change the &amp;#8220;box&amp;#8221; entry to be &amp;#8220;lucid32&amp;#8243;, the name of the file we just saved. &lt;/p&gt;&lt;p&gt;Bring it online with:&lt;br /&gt;&lt;strong&gt;vagrant up&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;then ssh into with&lt;br /&gt;&lt;strong&gt;vargrant ssh&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ace, that worked quite easily. After a little digging around, I  logged out and tore the machine down again with&lt;br /&gt;&lt;strong&gt;vagrant destroy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;- TYING IT ALL TOGETHER -&lt;/strong&gt;&lt;br /&gt;Now we need to connect our Vagrant install with our Chef server&lt;/p&gt;&lt;p&gt;First, clone the Chef repository with:&lt;br /&gt;&lt;strong&gt;git clone git://github.com/opscode/chef-repo.git &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;add this dir to your &lt;strong&gt;~/.chef/knife.rb&lt;/strong&gt; file&lt;br /&gt;i.e&lt;br /&gt;&lt;strong&gt;cookbook_path           [&#34;/Users/thorstensideboard/chef-repo/cookbooks&#34;]&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Download the Vagrant cookbook they use in their examples -&lt;/p&gt;&lt;p&gt;&lt;strong&gt;wget http://files.vagrantup.com/getting_started/cookbooks.tar.gz&lt;br /&gt;tar xzvf cookbooks.tar.gz&lt;br /&gt;mv cookbooks/* chef-repo/cookbooks/&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Add it to our Chef server using Knife:&lt;br /&gt;&lt;strong&gt;knife cookbook upload -a&lt;/strong&gt;&lt;br /&gt;(knife uses the cookbook_path we setup above)&lt;/p&gt;&lt;p&gt;If you browse to your localhost at&lt;br /&gt;&lt;strong&gt;http://sbd-ioda.local:4040/cookbooks/&lt;/strong&gt;&lt;br /&gt;you should see the three new cookbooks which have been added.&lt;/p&gt;&lt;p&gt;Now to edit Vagrantfile and add your Chef details:&lt;br /&gt;&lt;code&gt;&lt;br /&gt;Vagrant::Config.run do |config|&lt;/p&gt;&lt;p&gt;    config.vm.box = &#34;lucid32&#34;&lt;/p&gt;&lt;p&gt;    config.vm.provision :chef_client do |chef|&lt;/p&gt;&lt;p&gt;    chef.chef_server_url = &#34;http://SBD-IODA.local:4000&#34;&lt;br /&gt;    chef.validation_key_path = &#34;/Users/thorsten/.chef/validation.pem&#34;&lt;br /&gt;    chef.add_recipe(&#34;vagrant_main&#34;)&lt;br /&gt;    chef.add_recipe(&#34;apt&#34;)&lt;br /&gt;    chef.add_recipe(&#34;apache2&#34;)&lt;/p&gt;&lt;p&gt;    end&lt;br /&gt;end&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;I tried to load this up with&lt;br /&gt;&lt;strong&gt;vagrant up&lt;/strong&gt;&lt;br /&gt;however received:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&amp;#8220;[default] [Fri, 05 Aug 2011 09:27:07 -0700] INFO: *** Chef 0.10.2 ***&lt;br /&gt;: stdout&lt;br /&gt;[default] [Fri, 05 Aug 2011 09:27:07 -0700] INFO: Client key /etc/chef/client.pem is not present - registering&lt;br /&gt;: stdout&lt;br /&gt;[default] [Fri, 05 Aug 2011 09:27:28 -0700] FATAL: Stacktrace dumped to /srv/chef/file_store/chef-stacktrace.out&lt;br /&gt;: stdout&lt;br /&gt;[default] [Fri, 05 Aug 2011 09:27:28 -0700] FATAL: SocketError: Error connecting to http://SBD-IODA.local:4000/clients - getaddrinfo: Name or service not known&amp;#8221;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;I figured this was a networking issue, and yeah, within the VM it has no idea of my Macbook&#39;s local hostname, which i fixed by editing its /etc/hosts file and manually adding it.&lt;/p&gt;&lt;p&gt;Upon issuing a&lt;br /&gt;&lt;strong&gt;vagrant reload&lt;/strong&gt;, boom! you can see the Vagrant host following the recipes and loading up a bunch of things including apache2&lt;/p&gt;&lt;p&gt;However at this point, you can still only access it&#39;s webserver from within the VM, so in order to access it from our own desktop browser, we can add the following line to the Vagrantfile:&lt;br /&gt;&lt;strong&gt;config.vm.forward_port(&amp;#8220;web&amp;#8221;, 80, 8080)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After another reload, you should now be able to connect to localhost:8080 and access your new VM&#39;s apache host.&lt;/p&gt;&lt;p&gt;In order to use this setup in any sort of dev environment will still need a good deal more work, but for the moment, this should be enough to get you up and running and able to explore both Vagrant and Chef. &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Network Reconnaissance with Nmap 2006</title>
+      <link>http://theb0ardside.com/advancednetworkreconnaissancewithnmap2006/</link>
+      <pubDate>Thu, 04 Aug 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/advancednetworkreconnaissancewithnmap2006/</guid>
+      <description>&lt;p&gt;yow, this is some hardcore indepth port scanning shizzle -&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/1728216&#34; width=&#34;400&#34; height=&#34;296&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multicore UFOs</title>
+      <link>http://theb0ardside.com/multicoreufos/</link>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/multicoreufos/</guid>
+      <description>&lt;p&gt;Interesting &lt;a href=&#34;http://gigaom.com/cloud/facebook-tilera/&#34; title=&#34;GigaOm FB Tilera &#34; target=&#34;_blank&#34;&gt;article on GigaOm&lt;/a&gt; this morning about Facebook benchmarking a 64-core chip from &lt;a href=&#34;http://www.tilera.com/&#34; title=&#34;Tilera&#34; target=&#34;_blank&#34;&gt;Tilera&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://www.tilera.com/sites/default/files/products/TILE64_0.jpg&#34; title=&#34;Tilera TILE64&#34; class=&#34;aligncenter&#34; width=&#34;160&#34; height=&#34;160&#34; /&gt;&lt;/p&gt;&lt;p&gt;The X86 processor architecture has been in a dominant for so many years, not based upon any inherent sophistication, but more based upon chance and circumstance (see &lt;a href=&#34;http://developer.yahoo.com/yui/theater/video.php?v=crockonjs-1&#34; title=&#34;Doug Crockford&#34; target=&#34;_blank&#34;&gt;this vid&lt;/a&gt; for more details around the 48min mark), so it does feel about time for a new advancement in hardware architecture. &lt;/p&gt;&lt;p&gt;Be interesting to watch this space and see what develops..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Mother Of All Demos, 1968</title>
+      <link>http://theb0ardside.com/themotherofalldemos1968/</link>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://sloan.stanford.edu/MouseSite/dce1968conferenceannouncement.jpg&#34; title=&#34;advert&#34; class=&#34;aligncenter&#34; width=&#34;566&#34; height=&#34;760&#34; /&gt;&lt;/p&gt;&lt;p&gt;Watch it &lt;a href=&#34;http://sloan.stanford.edu/MouseSite/1968Demo.html#complete&#34; title=&#34;Mother Of All Demos complete&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>real-time stats &gt;</title>
+      <link>http://theb0ardside.com/realtimestats/</link>
+      <pubDate>Wed, 20 Jul 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/realtimestats/</guid>
+      <description>&lt;p&gt;Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB&#39;s new real-time analytics system: &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;340&#34; src=&#34;http://cdn.livestream.com/embed/facebookeducation?layout=4&amp;#038;clip=pla_da30a53a-5399-43cc-a615-62874db1c567&amp;#038;color=0x000000&amp;#038;autoPlay=false&amp;#038;mute=false&amp;#038;iconColorOver=0xe7e7e7&amp;#038;iconColor=0xcccccc&amp;#038;allowchat=true&#34; style=&#34;border:0;outline:0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size:11px;padding-top:10px;text-align:center;width:560px&#34;&gt;Watch &lt;a href=http://www.livestream.com/?utm_source=lsplayer&amp;amp;utm_medium=embed&amp;amp;utm_campaign=footerlinks title=live streaming video&gt;live streaming video&lt;/a&gt; from &lt;a href=http://www.livestream.com/facebookeducation?utm_source=lsplayer&amp;amp;utm_medium=embed&amp;amp;utm_campaign=footerlinks title=Watch facebookeducation at livestream.com&gt;facebookeducation&lt;/a&gt; at livestream.com&lt;/div&gt;&lt;p&gt;In the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::&lt;/p&gt;&lt;div style=&#34;width:425px&#34; id=&#34;__ss_6814442&#34;&gt; &lt;strong style=&#34;display:block;margin:12px 0 4px&#34;&gt;&lt;a href=&#34;http://www.slideshare.net/kevinweil/rainbird-realtime-analytics-at-twitter-strata-2011&#34; title=&#34;Rainbird: Realtime Analytics at Twitter (Strata 2011)&#34; target=&#34;_blank&#34;&gt;Rainbird: Realtime Analytics at Twitter (Strata 2011)&lt;/a&gt;&lt;/strong&gt; &lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/6814442&#34; width=&#34;425&#34; height=&#34;355&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;padding:5px 0 12px&#34;&gt; View more &lt;a href=&#34;http://www.slideshare.net/&#34; target=&#34;_blank&#34;&gt;presentations&lt;/a&gt; from &lt;a href=&#34;http://www.slideshare.net/kevinweil&#34; target=&#34;_blank&#34;&gt;Kevin Weil&lt;/a&gt; &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;(hello &lt;a href=&#34;https://twitter.com/#!/skr&#34; title=&#34;skr&#34; target=&#34;_blank&#34;&gt;Johan&lt;/a&gt;!)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mo&#39; history lessons</title>
+      <link>http://theb0ardside.com/mohistorylessons/</link>
+      <pubDate>Sat, 09 Jul 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/mohistorylessons/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2712/4366716421_2ec13d6ec4.jpg&#34; alt=&#34;Douglas Crockford&#34; /&gt;&lt;/p&gt;&lt;p&gt;wow, been finding so many good online video talks. I&#39;ve been genning up on node.js, which has led me into studying more javascript, and this latest lecture, is a massive five part series of talks about javascript. It&#39;s the first one which really stands out, and which fits in with the theme of historical lectures i&#39;ve been posting, covering the history of computing from the Jacquard Loom through the evolution of processors and programming languages up to Javascript. Check them all online &lt;a href=&#34;http://www.yuiblog.com/crockford/&#34; title=&#34;Douglas Crockford&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;[[image by &lt;a href=&#34;http://www.flickr.com/photos/equanimity/4366716421/sizes/m/in/photostream/&#34; title=&#34;equanimity&#34;&gt;equanimity&lt;/a&gt;]]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>secret military history of Silicon Valley</title>
+      <link>http://theb0ardside.com/secretmilitaryhistoryofsiliconvalley/</link>
+      <pubDate>Wed, 29 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/secretmilitaryhistoryofsiliconvalley/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ZTC_RxWN_xo?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;This video ties in so well with a lot of other recent histories - from Adam Curtis&#39; &amp;#8220;All Watched Over By Machines Of Loving Grave&amp;#8221; to the Ken Holling&#39;s book I&#39;m in the middle of reading - &amp;#8220;Welcome To Mars&amp;#8221;.&lt;/p&gt;&lt;p&gt;Video found via &lt;a href=&#34;http://www.boingboing.net/2011/06/28/silicon-valleys-secr.html&#34;&gt;Boing Boing&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The General and Logical Theory Of Automata&#39;</title>
+      <link>http://theb0ardside.com/thegeneralandlogicaltheoryofautomata/</link>
+      <pubDate>Tue, 28 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/thegeneralandlogicaltheoryofautomata/</guid>
+      <description>&lt;p&gt;After hearing &lt;a href=&#34;http://www.kenhollings.com/&#34;&gt;Ken Hollings&lt;/a&gt; read an excerpt from &lt;a href=&#34;http://strangeattractor.co.uk/shoppe/welcome-to-mars-2/&#34;&gt;Welcome To Mars&lt;/a&gt; at the &lt;a href=&#34;http://erstlaub.co.uk/wordpress/atom-town/&#34;&gt;Atom Town screening&lt;/a&gt; last week, I borrowed a copy at the weekend and began reading it. I&#39;m only 47 pages in so far, but it&#39;s already amazing. One of the things referenced in it was John Von Neumann&#39;s 1948 paper &amp;#8216;The General and Logical Theory Of Automata&#39; which &amp;#8220;&lt;em&gt;enlarges upon Turing&#39;s idea of a Universal Machine by proposing a tape-driven, self-producing &amp;#8216;automaton whose output is other automata&#39;&lt;/em&gt;&amp;#8221; - &lt;/p&gt;&lt;p&gt;A swift google search turns up a pdf of the published paper &lt;a href=&#34;http://www.pensamientocomplejo.com.ar/docs/files/Von%20Neuman%20-%20Central%20and%20Logical%20Theory%20of%20Automata.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>zettabytez</title>
+      <link>http://theb0ardside.com/zettabytez/</link>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/zettabytez/</guid>
+      <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Node.js</title>
+      <link>http://theb0ardside.com/nodejs/</link>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/nodejs/</guid>
+      <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physic Or Surgery.</title>
+      <link>http://theb0ardside.com/physicorsurgery/</link>
+      <pubDate>Tue, 14 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/physicorsurgery/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/frontcover.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page1.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page2.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page3.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page4.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page5.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page6.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page7.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page8.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page9.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page10.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page11.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page12.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page13.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page14.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page15.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page16.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3424/5832979671_f9ebeb4c40_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5144/5832979817_586d56c9c3_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2527/5832980309_5ce8dfe189_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3047/5832979985_c26fe743d8_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3052/5832980669_02c0a348bc_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2686/5833534632_0797eeefec_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5181/5833534866_723770ced7_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5228/5832981387_3398914d9e_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3618/5833535466_bc7b666e92_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3315/5832982223_1b8b091534_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5239/5832981967_ebcf59e3a0_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2489/5832982445_8bd3ab1d96_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3006/5833536534_3769b5795a_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3606/5832982869_6c7bfe6e90_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/backcover.jpg&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>80s hair unixz</title>
+      <link>http://theb0ardside.com/80shairunixz/</link>
+      <pubDate>Sat, 11 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/80shairunixz/</guid>
+      <description>&lt;p&gt;History of BSD - this is awesome:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;425&#34; height=&#34;349&#34; src=&#34;http://www.youtube.com/embed/ds77e3aO9nA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Brief history of NCP -&amp;gt; IP/TCP transition, also awesome:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;349&#34; src=&#34;http://www.youtube.com/embed/yqOS5d4gJz8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Record Store Bot</title>
+      <link>http://theb0ardside.com/recordstorebot/</link>
+      <pubDate>Tue, 24 May 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/recordstorebot/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;aligncenter&#34; title=&#34;specz&#34; src=&#34;http://farm6.static.flickr.com/5244/5309938590_21a2f8d308_z.jpg&#34; alt=&#34;&#34; width=&#34;452&#34; height=&#34;640&#34; /&gt;&lt;/p&gt;&lt;p&gt;First draft of my Record Store Bot is live over on &lt;a title=&#34;Record Store Bot&#34; href=&#34;https://github.com/sideb0ard/RecordStoreBot&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; - basically tying a Chatbot::Eliza style interface to Last.fm web services for an interactive (hopefully amusing) music recommendation bot.&lt;/p&gt;&lt;p&gt;Works surprisingly well - although only has one method at the moment..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>time travelling with Unix</title>
+      <link>http://theb0ardside.com/timetravellingwithunix/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/timetravellingwithunix/</guid>
+      <description>&lt;div&gt;&lt;img class=&#34;aligncenter&#34; title=&#34;SRI International &#34; src=&#34;http://www.urigeller.com/pics/sri.jpg&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;323&#34; /&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;I discovered Unix back in 1998. At the time i was a lowly Windows desktop support engineer when i started dabbling with Red Hat Linux v 4.2. Compared to the process of fixing Windows 3.1 systems ( i.e. reinstall drivers and reboot - if that doesn&amp;rsquo;t work, reinstall OS and drivers - repeat until it does work), playing with Linux was a joy of knowledge. Every part of the installation process was a problem hiding a wormhole of required knowledge. Eventually, we managed to start X - very literally, all we had was a grey screen with an &amp;lsquo;X&amp;rsquo; to represent the mouse pointer. However, it was addictive - every time you had to fix something, there was a reason for it, and you learned from that experience, and once fixed, it would stay fixed.&lt;/p&gt;&lt;p&gt;So, fast forward 13 years, and I find myself in a wiki loop, reading up on Bell Labs, then early iterations of Unix, and especially Version 7 Unix - &lt;a href=&#34;http://en.wikipedia.org/wiki/Version_7_Unix&#34;&gt;http://en.wikipedia.org/wiki/Version_7_Unix&lt;/a&gt; - Back in 1998, i had my head full learning Linux and the newly released SunOS 5.7, so even though i was surrounded by older Vax, SGI, and Digital, I didn&amp;rsquo;t explore much historical software at the time even though i did have a bit of a fixation with the PDP-11.&lt;/p&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;p&gt;What caught my eye on the wiki page was this line - &amp;ldquo;Bootable images for V7 can still be &lt;a href=&#34;http://ftp.fibranet.cat/UnixArchive/PDP-11/Boot_Images/&#34;&gt;downloaded&lt;/a&gt; today, and can be run on modern hosts using PDP-11 emulators such as &lt;a href=&#34;http://en.wikipedia.org/wiki/SIMH&#34;&gt;SIMH&lt;/a&gt;.&amp;rdquo;.&lt;/p&gt;&lt;p&gt;whut??&lt;/p&gt;&lt;p&gt;Yeah! So, this is my step-by-step instructions for compiling SIMH on OS X (Snow Leopard 10.6.7), running the PDP-11 emulator and getting a V7 Unix image up and running on it. There are other HOWTOs out there and the documentation with SIMH does explain all this, but even so, I found it took me several hours of reading and searching to get things working, so I figure theres still room on the internets for what hopefully is a bit more of a concise howto..&lt;/p&gt;&lt;p&gt;You can find the SIMH homepage at:&lt;br /&gt;&lt;a href=&#34;http://simh.trailing-edge.com/&#34;&gt;http://simh.trailing-edge.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The SIMH project consists of emulators for a bunch of historical machines, load of DEC machines from the VAX, through to the PDP range, plus IBMs, Honeywell, and even the Altair 8080.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&amp;ldquo;&lt;em&gt;The Computer History Simulation Project is a loose Internet-based collective of people interested in restoring historically significant computer hardware and software systems by simulation. The goal of the project is to create highly portable system simulators and to publish them as freeware on the Internet, with freely available copies of significant or representative software.&lt;/em&gt;&amp;rdquo;&lt;/div&gt;&lt;div&gt;&lt;p&gt;(You can also find a precompiled OS X binary at &lt;a href=&#34;http://homepage.mac.com/mba/simh/index.html&#34;&gt;http://homepage.mac.com/mba/simh/index.html&lt;/a&gt; however compiling wasn&amp;rsquo;t hard, and its all part of the fun, right?!)&lt;/p&gt;&lt;p&gt;First, if you don&#39;t already have it, you&#39;ll need to install Libpcap for network support, which you can get from &lt;a href=&#34;http://www.tcpdump.org/&#34;&gt;http://www.tcpdump.org/&lt;/a&gt; - Install libpcap with the usual ./configure, make, make install dance, then download the simh source.&lt;/p&gt;&lt;p&gt;To install on OS X you need to export the OSTYPE environment variable.&lt;br /&gt;(Or you&#39;ll get:&lt;br /&gt;ld: library not found for -lrt&lt;br /&gt;collect2: ld returned 1 exit status&lt;br /&gt;make: *** [BIN/pdp1] Error 1)&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;echo $OSTYPE&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt; &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;export OSTYPE&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;make USE_NETWORK=1&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;I encountered my first failure here, no BIN directory. Easily fixed with:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;mkdir BIN&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;make USE_NETWORK=1&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;boom!&lt;/div&gt;&lt;div&gt;&lt;strong&gt;cd BIN&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;./pdp11&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;After compiling, you can fire up any of the emulators and you&amp;rsquo;ll find yourself in a &lt;strong&gt;sim&amp;gt;&lt;/strong&gt; shell.&lt;/p&gt;&lt;p&gt;&amp;ldquo;Now what the hell do i do?&amp;rdquo; was my first thought.&lt;/p&gt;&lt;p&gt;It took me a bit of reading to understand how to use the simulators, basically they are composed of the devices such as the CPU, disk, memory etc, plus Registers for which you set values. They are quite fully explained in - &lt;a href=&#34;http://simh.trailing-edge.com/pdf/simh_doc.pdf&#34;&gt;http://simh.trailing-edge.com/pdf/simh_doc.pdf&lt;/a&gt; -&lt;/p&gt;&lt;p&gt;In order to load up any of the software, you have to set some device options, map your software image to a device then load it up. You&amp;rsquo;ll find the software at:&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://simh.trailing-edge.com/software.html&#34;&gt;http://simh.trailing-edge.com/software.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;(and for more thorough explanation, read the doc at &lt;a href=&#34;http://simh.trailing-edge.com/pdf/simh_swre.pdf&#34;&gt;http://simh.trailing-edge.com/pdf/simh_swre.pdf&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;The correct V7 Unix to run on the PDP-11 is :&lt;br /&gt;&lt;a href=&#34;http://simh.trailing-edge.com/kits/uv7swre.zip&#34;&gt; http://simh.trailing-edge.com/kits/uv7swre.zip&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The instructions given in the documentation are:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;sim&amp;gt; set cpu u18 &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; sim&amp;gt; set rl0 RL02 &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; sim&amp;gt; att rl0 unix_v7_rl.dsk &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; sim&amp;gt; boot rl0 &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;@boot &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; New Boot, known devices are hp ht rk rl rp tm vt &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; : rl(0,0)rl2unix &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;#&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;They are absolutely correct, however, a gotcha for me was that after i typed &amp;ldquo;&lt;strong&gt;boot rl0&lt;/strong&gt;&amp;rdquo; I only got an &amp;ldquo;&lt;strong&gt;@&lt;/strong&gt;&amp;rdquo; sign, and nothing more. I thought perhaps i had a corrupt image or something was different with my emulator. But no, i was just being a numpty, you actually need to type &amp;ldquo;&lt;strong&gt;boot&lt;/strong&gt;&amp;rdquo; and press return, then type in the &amp;#8220;&lt;strong&gt;rl(0,0)rl2unix &lt;/strong&gt;&amp;#8221; line too.&lt;/p&gt;&lt;p&gt;I also had to create a &lt;strong&gt;/tmp&lt;/strong&gt; directory so i could view man pages, but yeah, apart from that, you should be good to go!&lt;/p&gt;&lt;p&gt;I also had fun playing with 2.11 BSD which i got from :&lt;br /&gt;&lt;a title=&#34;2.11&#34; href=&#34;http://ftp.fibranet.cat/UnixArchive/PDP-11/Boot_Images/2.11_on_Simh/&#34;&gt; http://ftp.fibranet.cat/UnixArchive/PDP-11/Boot_Images/2.11_on_Simh/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This is a really well put together package, with a clear README file on how to use it.&lt;/p&gt;&lt;p&gt;download, unzip and run as:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;./pdp11 211bsd.simh&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You can even telnet into your virtual host:&lt;/p&gt;&lt;p&gt;rar!&lt;/p&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

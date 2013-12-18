@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <base href="http://theb0ardside.com/">
+    <title> TheB0ardside.com </title>
+    <link rel="canonical" href="http://theb0ardside.com/termcap/">
+    <link href="http://theb0ardside.com/static/css/b0ardstrap.min.css" rel="stylesheet"/>
+    <link href="http://theb0ardside.com/static/css/b0ardstyle.css" rel="stylesheet"/>
+
+</head>
+<body lang="en">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  
+  <div class="navbar-header">
+    <a class="navbar-brand" href="http://theb0ardside.com/">The B0ardside</a>
+  </div>
+
+  <div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">hello<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li><img src="http://theb0ardside.com/static/img/thor.jpg"></li>
+            <li><a target="new" href="mailto:thorsten@theb0ardside.com?subject=hullo">Email</a></li>
+            <li><a target="new" href="http://twitter.com/sideb0ard">Twitter</a></li>
+            <li><a target="new" href="http://github.com/sideb0ard">Github</a></li>
+            <li><a target="new" href="http://drawingb0ard.blogspot.com/">Drawings</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+  <div class="container">
+  <div id="page">
+
+
+
+<section id="main">
+  <h1 id="title">Termcap</h1>
+  <div>
+        <article id="content">
+           <p>Termcap is super ancient Unix tech, from back when terminals were physical hardware devices such as the <a title="vt100" href="http://en.wikipedia.org/wiki/VT100" target="_blank">DEC VT100</a> or <a title="Wyse" href="http://en.wikipedia.org/wiki/Wyse" target="_blank">Wyse</a> 60&#8242;s connected to Mainframes or Minicomputers. Rather than each program having to know about the capabilities of the terminal being used, such as which Escape/Control characters are used to position the cursor on screen, scroll, colors blinking etc., Termcap was a  library and database which abstracted the physical terminal away from the program. It was later replaced by Terminfo back in 1981/82.</p><p><img class="aligncenter" title="Richard Stallman" src="http://farm1.static.flickr.com/60/160405823_70f1a57ec5.jpg" alt="" width="500" height="375" /></p><p>So why am i writing about it now? Well, bizarrely, after installing a binary of the *latest* PostgreSQL 9.1 beta today, when i then went to run the psql client program i experienced this:</p><p><strong>postgres@invincible:~$ psql -p 5434<br />Password:<br />psql (9.1beta1)<br />Type &#8220;help&#8221; for help.</strong></p><p><strong> </strong></p><p><strong>Cannot read termcap database;<br />using dumb terminal settings.<br />Aborted<br /></strong><br />d'oh. You can read a thread about the problem <a title="postgres 9 bug" href="http://postgresql.1045698.n5.nabble.com/BUG-5807-psql-fails-to-launch-with-quot-Cannot-read-termcap-database-using-dumb-terminal-settings-Ab-td3321689.html" target="_blank">here</a>. They mention various workarounds and hacks, but none seemed to work for me on Ubuntu.</p><p>I assume this wouldn't be a problem if you compile from source, it would correctly find and use the ncurses library to discover terminal capabilities, but it also seemed quite a trivial problem and after a little reading up, and strace'ing, it actually worked out quite easy to fix. The <strong>infocmp </strong>should be installed on your system, which prints out the capabilities of your system from terminfo. Terminfo and Termcap use slightly different variable names to represent capabilites, however if you pass the <strong>-C</strong> switch to <strong>infocmp</strong>, it will output the Termcap names for them. Turns out it was as simple as running:</p><p><strong>infocmp -C &gt; /etc/termcap</strong></p><p>I did this for both xterm and vt100. My exact command sequence was:</p><p><strong>root@invincible:~# echo $TERM</strong><br /><strong>xterm</strong><br /><strong><strong><strong>root@invincible:~# </strong>infocmp -C &gt; /etc/termcap</strong></strong><br /><strong><strong><strong>root@invincible:~# </strong>export TERM=vt100</strong></strong><br /><strong><strong>root@invincible:~# </strong>infocmp -C &gt;&gt; /etc/termcap</strong></p><p>boom! all good after that..</p><p><strong>postgres@invincible:~$ psql -p 5434</strong><br /><strong> Password:</strong><br /><strong> psql (9.1beta1)</strong><br /><strong> Type &#8220;help&#8221; for help.</strong></p><p><strong>postgres=#</strong></p><p>If you fancy some historical readings, more info here:</p><p><a href="http://tldp.org/HOWTO/Text-Terminal-HOWTO.html#toc16">http://tldp.org/HOWTO/Text-Terminal-HOWTO.html#toc16</a><br /><a href="http://www.delorie.com/gnu/docs/termcap/termcap_toc.html">http://www.delorie.com/gnu/docs/termcap/termcap_toc.html</a></p><p>&nbsp;</p><p>(Richard Stallman LEGO figure by <a title="Andrew Brecraft" href="http://www.flickr.com/photos/dunechaser/160405823/" target="_blank">Andrew Becraft</a> taken under <a title="CC" href="http://creativecommons.org/licenses/by-nc-sa/2.0/deed.en" target="_blank">CC licence</a>)</p>
+
+        </article>
+  </div>
+</section>
+
+<aside id="meta">
+    <div>
+    <section>
+      <h4 id="date"> Wed May 4, 2011 </h4>
+    </section>
+    <ul id="tags">
+      
+        <li> <a href="http://theb0ardside.com//tags/abstraction">abstraction</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/history">history</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/unix">unix</a> </li>
+      
+    </ul>
+    </div>
+    <div>
+        
+          <a class="previous" href="http://theb0ardside.com/recordstorebot/">Previous:: Record Store Bot</a>
+        
+    </div>
+    <div>
+        
+          <a class="next" href="http://theb0ardside.com/altcashandthediysociety/">Next:: alt.cash and the DIY society</a>
+        
+    </div>
+</aside>
+
+      <script src="http://theb0ardside.com/static/js/jquery.js"></script>
+      <script src="http://theb0ardside.com/static/js/bootstrap.min.js"></script>
+      </div>
+      </div>
+      <div id="footer"></div>
+  </body>
+
+</html>
+

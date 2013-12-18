@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <base href="http://theb0ardside.com/">
+    <title> TheB0ardside.com </title>
+    <link rel="canonical" href="http://theb0ardside.com/diskdestroyer/">
+    <link href="http://theb0ardside.com/static/css/b0ardstrap.min.css" rel="stylesheet"/>
+    <link href="http://theb0ardside.com/static/css/b0ardstyle.css" rel="stylesheet"/>
+
+</head>
+<body lang="en">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  
+  <div class="navbar-header">
+    <a class="navbar-brand" href="http://theb0ardside.com/">The B0ardside</a>
+  </div>
+
+  <div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">hello<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li><img src="http://theb0ardside.com/static/img/thor.jpg"></li>
+            <li><a href="mailto:thorsten@theb0ardside.com?subject=hullo">Email</a></li>
+            <li><a href="http://twitter.com/sideb0ard">Twitter</a></li>
+            <li><a href="http://github.com/sideb0ard">Github</a></li>
+            <li><a href="http://drawingb0ard.blogspot.com/">Drawings</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+  <div class="container">
+  <div id="page">
+
+
+
+<section id="main">
+  <h1 id="title">Disk Destroyer!</h1>
+  <div>
+        <article id="content">
+           <p><a href="http://www.theb0ardside.com/wp-content/uploads/2011/05/5373473879_fed359a1c4_z.jpg"><img class="aligncenter size-full wp-image-21" title="Disk Destroyer" src="http://www.theb0ardside.com/wp-content/uploads/2011/05/5373473879_fed359a1c4_z.jpg" alt="" width="500" height="562" /></a></p><p>Today, one of my tasks was identifying and transferring approx 403k MP3 recordings from an office in the states over a VPN to a local NFS mount here in London. Each file is approx 4MB (128kbps files), so a total of ~1,6TB of data.</p><p>I tried a few test copies with rsync and scp but both were giving me ridiculous transfer rates, taking ~3mins to transfer 10 test files even though each file individually was achieving around 2.65MB/s. With that transfer rate I should have been able to copy 10files in about 15 seconds. I attribute the extra time to the connection setup and tear down for each file coming through. No way, thats gonna work.</p><p>I've had several bosses over the years who've been complete Unix masters - One of them showed me the wonders of DD - supposedly meaning &#8220;Data Description&#8221;  but also known as &#8220;Disk Destroyer&#8221; because of how, if you get your Input and Outputs wrong, it can easily (and quietly) destroy your data. (<a title="dd" href="http://en.wikipedia.org/wiki/Dd_(Unix)" target="_blank">info here</a>).</p><p>DD is used for low-level block copying of data, but like many unix tools is quite versatile.  My old boss used it for creating files of any specified size, and then timed how long it took to copy across a network link, thereby giving a measurement of transfer rate, which is how i was using it today.</p><p>To create a file of 1GB in size:</p><p><strong>dd if=/dev/zero of=./1000MB bs=1024 count=1024000</strong></p><p>(/dev/zero is a special Unix file which will return as many null characters as you ask it for. It's of the same family as /dev/null and /dev/full)</p><p>Back then, we were using FTP, but these days SCP does actually tell you the transfer rate:</p><p><strong>thorsten@invincible:~$ time scp 1000MB foreignhost:</strong></p><p>Scp tells me transfer rate was 10.0MB/s however real time says it tooks 1m54sec, so my calculations actually say 8.77MB/s</p><p>So, 403k x 4MB = 1612000MB. With a transfer rate of 8.77MB it should take 183808.43 seconds = 3063mins = 2.12 days.</p><p>Just over 2 days is acceptable, it is a decent amount of data, and certainly better than 3mins for 10MP3s which would be, what, 121083.3 mins=84 days? phew! Thankfully in this case, there's a decent amount of space on both servers, so I can tar up the required files up and do a single rsync and hopefully should be able to use the full bandwidth.</p><p>&nbsp;</p><p>&nbsp;</p>
+
+        </article>
+  </div>
+</section>
+
+<aside id="meta">
+    <div>
+    <section>
+      <h4 id="date"> Tue May 10, 2011 </h4>
+    </section>
+    <ul id="tags">
+      
+        <li> <a href="http://theb0ardside.com//tags/music">music</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/pain">pain</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/unix">unix</a> </li>
+      
+    </ul>
+    </div>
+    <div>
+        
+          <a class="previous" href="http://theb0ardside.com/recordstorebot/">Previous:: Record Store Bot</a>
+        
+    </div>
+    <div>
+        
+          <a class="next" href="http://theb0ardside.com/musicbrainzngsinstall/">Next:: Musicbrainz NGS install</a>
+        
+    </div>
+</aside>
+
+      <script src="http://theb0ardside.com/static/js/jquery.js"></script>
+      <script src="http://theb0ardside.com/static/js/bootstrap.min.js"></script>
+      </div>
+      </div>
+      <div id="footer"></div>
+  </body>
+
+</html>
+

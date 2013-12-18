@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <base href="http://theb0ardside.com/">
+    <title> TheB0ardside.com </title>
+    <link rel="canonical" href="http://theb0ardside.com/tags/xen.html">
+    <link href="http://theb0ardside.com/static/css/b0ardstrap.min.css" rel="stylesheet"/>
+    <link href="http://theb0ardside.com/static/css/b0ardstyle.css" rel="stylesheet"/>
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://theb0ardside.com/index.xml" />
+
+</head>
+<body lang="en">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  
+  <div class="navbar-header">
+    <a class="navbar-brand" href="http://theb0ardside.com/">The B0ardside_</a>
+  </div>
+
+  <div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">hello<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li><img src="http://theb0ardside.com/static/img/thor.jpg"></li>
+            <li><a target="new" href="mailto:thorsten@theb0ardside.com?subject=hullo">Email</a></li>
+            <li><a target="new" href="http://twitter.com/sideb0ard">Twitter</a></li>
+            <li><a target="new" href="http://github.com/sideb0ard">Github</a></li>
+            <li><a target="new" href="http://drawingb0ard.blogspot.com/">Drawings</a></li>
+            <li><a target="new" href="http://theb0ardside.com/index.xml">Rss Feed</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+  <div class="container">
+  <div id="page">
+
+
+<section id="main">
+  <div>
+   <h1 id="title">Xen</h1>
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/genxen/'> Gen Xen</a> </h2>
+      <div class="post-meta">Mon, Oct 10, 2011</div>
+    </header>
+    <p><img alt="" width="600" src="http://www.just-marvel-x-men.com/image-files/astonishing-x-men-1-100k.jpg" title="Xen" class="alignnone"  /></p><p>I've been working pretty extensively with Xen and Puppet in my new job, really loving it! I've been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I've just finished a script which is over on <a href="https://github.com/sideb0ard/GenXen" title="GitHub" target="_blank">my github page</a>, which basically automates what was previously a manual process.</p><p>Basically, it copies your existing disk.img and swap.img, generates a new xen.cfg file based on some interactive input (desired hostname, IP, memory and number of vCPUs) plus a random Xen mac address, then mounts the disk.img file and changes some appropriate system files - /etc/hostname, hosts, and network/interfaces.</p><p>All quite simple and straight forward, but quite nice to have automated.</p><p><a href="https://github.com/sideb0ard/GenXen" title="GenXen" target="_blank">GenXen</a></p><p>Here's the README:</p><p>GenXen #<br />#############################</p><p>A script for automating Xen VM deployment.</p><p>It requires that you have a base disk.img and swap.img already created.<br />I created mine with:<br />xen-create-image -pygrub -size=50Gb -swap=9Gb -vcpus=2 -memory 6Gb -dist=squeeze -dhcp -passwd -dir=/var/virt-machines -hostname=xen-squeeze-base</p><p>Fill in some of the variables at the top of GenXen.pl before running, then simply:<br />./GenXen.pl</p><p>The interactive part will ask for hostname, memory size, vCPUs, IP address, then generate a unique Xen mac address, and write these all to a xen config file which will be saved in /etc/xen/</p><p>It'll copy your disk.img and swap.img to destination dir, mount the disk.img and create appropriate files for:<br />/etc/hostname<br />/etc/hosts<br />/etc/network/interfaces </p><p>After that you should be good to launch with:</p><p>xm create -c /etc/xen/whatever-your-hostname-is.cfg</p>
+
+</article>
+
+    
+  </div>
+</section>
+
+      <script src="http://theb0ardside.com/static/js/jquery.js"></script>
+      <script src="http://theb0ardside.com/static/js/bootstrap.min.js"></script>
+      </div>
+      </div>
+      <div id="footer"></div>
+  </body>
+
+</html>
+

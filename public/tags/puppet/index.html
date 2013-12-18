@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <base href="http://theb0ardside.com/">
+    <title> TheB0ardside.com </title>
+    <link rel="canonical" href="http://theb0ardside.com/tags/puppet.html">
+    <link href="http://theb0ardside.com/static/css/b0ardstrap.min.css" rel="stylesheet"/>
+    <link href="http://theb0ardside.com/static/css/b0ardstyle.css" rel="stylesheet"/>
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://theb0ardside.com/index.xml" />
+
+</head>
+<body lang="en">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  
+  <div class="navbar-header">
+    <a class="navbar-brand" href="http://theb0ardside.com/">The B0ardside_</a>
+  </div>
+
+  <div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">hello<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li><img src="http://theb0ardside.com/static/img/thor.jpg"></li>
+            <li><a target="new" href="mailto:thorsten@theb0ardside.com?subject=hullo">Email</a></li>
+            <li><a target="new" href="http://twitter.com/sideb0ard">Twitter</a></li>
+            <li><a target="new" href="http://github.com/sideb0ard">Github</a></li>
+            <li><a target="new" href="http://drawingb0ard.blogspot.com/">Drawings</a></li>
+            <li><a target="new" href="http://theb0ardside.com/index.xml">Rss Feed</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+  <div class="container">
+  <div id="page">
+
+
+<section id="main">
+  <div>
+   <h1 id="title">Puppet</h1>
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/puppetstagesandapt/'> Puppet stages and APT</a> </h2>
+      <div class="post-meta">Tue, Apr 3, 2012</div>
+    </header>
+    <p><img src="http://www.stixrideshop.com/blog/wp-content/uploads/2012/03/gonz-3.bmp" alt="gonz -- for no reason except he&#039;s the MAN!" /></p><p>At work, our old code deployment strategy was basically a wrapper script doing an svn checkout and some symlinking. With our move to Puppet for config management, we also moved to using Apt packaging for our code deployment, tying them together with a line similar to :</p><p><code>class foo-export {<br />    package { &#039;foo-export&#039;: ensure => latest }<br />}</code></p><p>So that whenever we deploy a new version of a package to our apt-repo, it can then be installed with a:</p><p><code>puppet agent --test</code><br />(and with an initial dry-run using <code>--noop</code>)</p><p>( I should mention I manage our Puppet runs via our own distributed scripts, rather than having the nodes set up to check in every 30mins - when I'm doing so much work on our Puppet setup and config, I'd rather not having machines check in automatically in case the config is in a broken state )</p><p>Inevitably I would run the above Puppet command and it would not find any new packages, because &#8216;d'uh!', of course I still need to run an <code>apt-get update</code>.</p><p>I've been using Puppet stages for a while now, in order to group package installations in a broader sense rather than manually spelling out every dependency with a <code>require =></code> stanza, so it was a simple addition to add in a <code>pre</code> stage, and have the nodes run <code>apt-get update</code> before any runs.</p><p>In order to use stages, you need to first define them in your site.pp. By default every defined class runs under Stage[main], so you just need to add the new stages and define the running order. (full Puppet stage documentation is <a href="http://docs.puppetlabs.com/guides/language_guide.html" title="Puppet Stages" target="_blank">here</a>)</p><p>At the top of my site.pp file, I added a pre and post stage, then define the execution order via:</p><p><code>stage { [pre, post]: }<br />Stage[pre] -> Stage[main] -> Stage[post]</code></p><p>Then I created a class called apt-hupdate (sorry, i use stupid naming conventions!) in<br /><code>modules/apt-hupdate/manifests/init.pp</code></p><p>which contained:<br /><code>class apt-hupdate {</p><p>    exec { "aptHupdate":<br />        command => "/usr/bin/apt-get update",<br />    }<br />}</code></p><p>And finally, include that in your site.pp with:</p><p><code>class { apt-hupdate: stage => pre }</code></p><p>Now every time you do a Puppet run, <code>apt-get update</code> will be the first task run.</p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/robot/'> robot</a> </h2>
+      <div class="post-meta">Tue, Jan 24, 2012</div>
+    </header>
+    <p>crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -</p><p><iframe width="590" height="443" src="http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>// <a href="http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/" title="robot" target="_blank">found via Laughing Squid</a> //</p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/puppetmastering/'> puppet mastering</a> </h2>
+      <div class="post-meta">Sat, Dec 3, 2011</div>
+    </header>
+    <p>At my work, we're now really digging into using <a href="http://puppetlabs.com/" target="_blank">Puppet</a> - no longer just as a TechOps tools, but for our whole development cycle.</p><p>The hardest thing I've come across so far is in deploying Perl CPAN packages, although i have been using manifest/recipe i found here -<br /><a href="http://www.windley.com/archives/2008/10/using_puppet_and_cpan.shtml" target="_blank">http://www.windley.com/archives/2008/10/using_puppet_and_cpan.shtml</a></p><p>It had been working quite well, but now as we've been adding more and more to Puppet, I started seeing an error message:</p><p><strong>root@machine:~ $ puppet agent -test<br />err: Could not retrieve catalog from remote server: Could not intern from pson: expected value in object at &#8216;&#8221;i'!<br />warning: Not using cache on failed catalog<br />err: Could not retrieve catalog; skipping run</strong></p><p> - the error was intermittent and always slightly differently, making it quite hard to track down. I found a number of people running into similar problems on forums and mailing lists, but no satisfactory answers. </p><p>Aiiight, so the problem is due to the default HTTP server within Puppet, which is called <a href="http://en.wikipedia.org/wiki/WEBrick" target="_blank">WEBrick</a> - I didn't dig into why, but after having re-double-triple-checked my manifest syntax and having tried a million other solutions, i thought to switch out the webserver component to see what would happen (I wasn't being completely original here - any article which talks about scaling Puppet says that you have to move to using a different server).</p><p>Instructions for switching to Apache2/Passenger (mod_rails) are <a href="http://projects.puppetlabs.com/projects/puppet/wiki/Using_Passenger" target="_blank">here</a> - they're quite simple and it's easy to setup. </p>
+
+</article>
+
+    
+  </div>
+</section>
+
+      <script src="http://theb0ardside.com/static/js/jquery.js"></script>
+      <script src="http://theb0ardside.com/static/js/bootstrap.min.js"></script>
+      </div>
+      </div>
+      <div id="footer"></div>
+  </body>
+
+</html>
+

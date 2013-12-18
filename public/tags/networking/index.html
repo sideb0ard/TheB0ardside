@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <base href="http://theb0ardside.com/">
+    <title> TheB0ardside.com </title>
+    <link rel="canonical" href="http://theb0ardside.com/tags/networking.html">
+    <link href="http://theb0ardside.com/static/css/b0ardstrap.min.css" rel="stylesheet"/>
+    <link href="http://theb0ardside.com/static/css/b0ardstyle.css" rel="stylesheet"/>
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://theb0ardside.com/index.xml" />
+
+</head>
+<body lang="en">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  
+  <div class="navbar-header">
+    <a class="navbar-brand" href="http://theb0ardside.com/">The B0ardside_</a>
+  </div>
+
+  <div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">hello<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li><img src="http://theb0ardside.com/static/img/thor.jpg"></li>
+            <li><a target="new" href="mailto:thorsten@theb0ardside.com?subject=hullo">Email</a></li>
+            <li><a target="new" href="http://twitter.com/sideb0ard">Twitter</a></li>
+            <li><a target="new" href="http://github.com/sideb0ard">Github</a></li>
+            <li><a target="new" href="http://drawingb0ard.blogspot.com/">Drawings</a></li>
+            <li><a target="new" href="http://theb0ardside.com/index.xml">Rss Feed</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+  <div class="container">
+  <div id="page">
+
+
+<section id="main">
+  <div>
+   <h1 id="title">Networking</h1>
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/perlparpparp/'> perl parp parp</a> </h2>
+      <div class="post-meta">Sun, Sep 2, 2012</div>
+    </header>
+    <p>I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating.  First stop was the exceptionally useful <a href="http://www.whatsmydns.net/ " title="What&#039;s My DNS?" target="_blank">Whats My DNS</a></p><p>At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host. I googled around for a timer utility which run a command for a given time, so i could quantify the difference. Perfect answer was <a href="http://stackoverflow.com/questions/601543/command-line-command-to-auto-kill-a-command-after-a-certain-amount-of-time" title="Stack Overflow" target="_blank">here</a>, a simple perl wrapper function.</p><p>Here's how to use it to run tcpdump command for sixty seconds, and count the packets seen:</p><p><small><code># doalarm () { perl -e &#039;alarm shift; exec @ARGV&#039; "$@"; }<br /># doalarm 60 tcpdump -u  -i eth0 port 53  -n  |wc -l<br />tcpdump: verbose output suppressed, use -v or -vv for full protocol decode<br />listening on eth0, link-type EN10MB (Ethernet), capture size 65535 bytes<br />19504</code></small></p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/tcpdumppatterns/'> tcpdump patterns</a> </h2>
+      <div class="post-meta">Fri, Jun 29, 2012</div>
+    </header>
+    <p><img src="http://farm8.staticflickr.com/7185/6844034348_50dd1c5f32_b.jpg" alt="McCarthy" /></p><p>I use tcpdump a lot, but mostly at a reasonably high level, only really restricting the capture to host and port info, then pulling the dump back into Wireshark for nicer visualisation and easier filtering.</p><p>A couple of months back I read <a href="http://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/159420229X" title="Moonwalking With Einstein" target="_blank">Moonwalking With Einsten</a>, which is a nice pop-science history of the importance of memory in previous societies, alongside the contemporary phenomena of <a href="http://www.worldmemorychampionships.com/" title="World Memory Competitions" target="_blank">competitive memory competitions</a>. The book is great, and explains how feats of memory are achieved via the technique of <a href="http://en.wikipedia.org/wiki/Method_of_loci" title="Memory Palaces" target="_blank">memory palaces</a>, a technique dating back to Roman times - spatial memory relationships. I've been using the technique a lot since I read this book, and truly, no magic to it, it really works. Basically, when you have a list of items to remember, you weave each item, in order, into a spatially focussed narrative.</p><p>So, last night, I get out my copy of TCP/IP Illustrated, Volume 1*, one of my most-returned-to tech books - I've always wanted to have a more encyclopedic knowledge of the lower level details of TCP/IP, and last night applied the Memory Palace Technique to the structure of a TCP packet.<br/>
+(( read the <a href="http://en.wikipedia.org/wiki/Method_of_loci" title="Memory Palace - Wikipedia" target="_blank">wikipedia article</a> for more details)) </p>
+<p>In my memory palace I was walking down the path towards the house where I grew up, and seeing a &#8216;<strong>S</strong>o<strong>RC</strong>erer/<strong>Src Port</strong>&#8216; battling with &#8216;Dick <strong>D</strong>a<strong>ST</strong>ardly and Mutley/<strong>Dst Port</strong>&#8216;, then walk into my mothers front hallway with a <strong>Sequence Number</strong> along the front hall, then my Grandfather sitting in a chair in the living room saying &#8220;<strong>ACK</strong>!&#8221; because the soccer is on the television and he's complaining about the <strong>Header Length</strong> &#8230; you get the idea - but yeah, you need to make your own memory palace.</p><p>Now that I have a complete image of this TCP packet in my head suddenly expressions like :</p><p><code>tcpdump -ni en1 tcp[13] == 18 and host 172.16.1.200 and port 80 </code></p><p>are way easier to understand and use - the <code>tcp[13]</code> part refers to the 13th Octet of the packet, which is the Flags octet, then the <code>18</code> part is a simple decimal representation of the binary flags, in the order they are in the diagram above - i.e the Flags are </p><p><code>CWR | ECE | URG | ACK | PSH | RST | SYN | FIN</code> </p><p>so in my example 18 refers to having both the ACK and SYN flags set - 00010010 which if you're used to dealing with netmasks math is quite an easy translation. My example, then, will only capture the first response packet from the server, as it would be the only part of the conversation to have both an ACK and SYN flag set. (I used a separate memory palace for the flags themselves)</p><p>To capture all SYN packets, including the ACK/SYN ones, you would use:</p><p><code>tcpdump -ni en1 &#039;tcp[13] == 18 or tcp[13] == 2&#039; and host 172.16.1.200 and port 80</code>.</p><p>Memory Palaces are pretty damn useful!</p><p>** Most Engineers are aware of TCP/IP Illustrated, however a lot of people I've spoken to aren't aware there was a <a href="http://www.amazon.com/TCP-Illustrated-Volume-Addison-Wesley-Professional/dp/0321336313/ref=pd_sim_b_1" title="TCP/IP Illustrated Vol 1 Edition 2" target="_blank">2nd Edition published in November of 2011, updated by a guy named Kevin R. Fall</a> - I would absolutely recommend it, an amazing book and especially with the updates, just seems an essential addition to any Engineer's library..</p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/aroundtheearthin200ms/'> Around the Earth in 200ms</a> </h2>
+      <div class="post-meta">Wed, Jun 20, 2012</div>
+    </header>
+    <p><img src="http://farm9.staticflickr.com/8144/7130704573_e6954f496e_z.jpg" alt="" /></p><p>A month or two back, i saw an interesting figure on Bram Cohen's blog:</p><p>&#8220;The speed of light in a fiber optic cable around the earth&rsquo;s circumference is about 200 milliseconds.&#8221;<br />(from <a href="http://bramcohen.com/2012/05/04/engineering-ip-telephony" title="Bram Cohen" target="_blank">here</a>)</p><p>I clipped it for my ever expanding Evernote tech tips, thinking it's one of those useful metrics to know. I've referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -</p><p>So - speed of light in a vacuum is 186,000 miles per second. However according to <a href="http://en.wikipedia.org/wiki/Optical_fiber#Index_of_refraction" title="optical fiber on wikipedia" target="_blank">this wikipedia article</a>, the index of refraction for the cladding of an optical fiber is 1.52. &#8220;From this information, a good rule of thumb is that signal using optical fiber for communication will travel at around 200 million meters per second&#8221;. </p><p>Ok, so 200, 000,000 meters / second = 200, 000 meters / ms</p><p>&#8220;The circumference of the earth at the equator is 24,901.55 miles (40,075.16 kilometers).&#8221; // from <a href="http://geography.about.com/library/faq/blqzcircumference.htm" title="earth circumerfence" target="_blank">here</a></p><p>40,075.15km = 40,075,000 meters</p><p><strong>With all figures then, Earth Circumference is 40,075,000 meters, and the speed of light in fiber is 200,000 meters per ms:<br />40,075,000 /2 00,000 = 200.375 ms</strong></p><p>// or to be even smarter, I could have just followed the Wolfram Alpha link from Bram's blog <a href="http://www.wolframalpha.com/input/?i=circumference+of+the+earth+%2F+speed+of+light+in+glass" title="Wolfram Alpha" target="_blank">here</a> - gotta love the <a href="http://en.wikipedia.org/wiki/Stephen_Wolfram" title="Stephen Wolfram" target="_blank">Wolfram</a> // </p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/21stcenturyinternet/'> 21st Century Internet</a> </h2>
+      <div class="post-meta">Wed, Jun 6, 2012</div>
+    </header>
+    <p><iframe width="590" height="332" src="http://www.youtube.com/embed/-Uwjt32NvVA?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>via <a href="http://googleblog.blogspot.com/2012/06/world-ipv6-launch-keeping-internet.html" title="google blog" target="_blank">Google Blog</a></p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/thenetworkedcity/'> The Networked City</a> </h2>
+      <div class="post-meta">Tue, Apr 10, 2012</div>
+    </header>
+    <p><img src="http://www.lboro.ac.uk/gawc/rb/images/rb152f1.jpg" alt="" /><br />[[ image half-inched from <a href="http://www.lboro.ac.uk/gawc/rb/rb152.html" target="_blank">here</a>]]</p><p>I started studying Sociology a few years back with the Open University, but never managed to complete my course as I got a job here in the States and turned my study-time back towards practical technology. I did however study it long enough for it have quite a profound effect on my understanding and conceptualisation of networking, and felt especially influenced by the works of <a href="http://en.wikipedia.org/wiki/Manuel_Castells" target="_blank">Manuel Castells</a> and <a href="http://books.google.com/books/about/Splintering_Urbanism.html?id=zCKNS5Yn4pkC" target="_blank">Stephen Graham</a>. </p><p>I just came across a paper i wrote almost a year ago which covers a lot of these ideas and ties in quite well with the general theme of this blog, so i thought i'd post it up here instead of languishing on my hard drive&#8230;</p><p><strong>Why is it important to understand how a city&rsquo;s fortunes are shaped by its connections?</strong></p><p>The City is our personal gateway to the wider world. It resonates with a dense polyrhythm constructed of the flow and foci of innumerable networks. From the physical infrastructure under and around us: the travel and power networks, water, gas and telecommunications lines; to the more ephemeral flows of culture, people, information, finance, and commodities. These structures, relationships and their interconnections are the very essence of a city, connecting the local to the global. In order to fully comprehend the economic and social wellbeing of an urban spatiality, it is essential to look at how a city is positioned within a wider global system, and conversely to examine how these global flows connect to local networks. I would like to answer the above question by first looking at the role of connections in a city&rsquo;s formation and then explain how these connections extend out to form a global network of influence, including the historically new form we now find ourselves in, the Network Society. Within this framework, we shall then examine how these flows connect locally, explaining the new forms of social division created by a combination of technology and ideology, and why now, more than ever, it is critical to understand how a city&rsquo;s fortunes are shaped by its connections.</p><p>Although we have no concrete proof of the origins of the first cities, Jane Jacobs has a particularly convincing argument for their establishment as trading centres, locations of some geographic or social convenience that became a permanent market place. According to the theory, as more people settle in one place, more opportunities for connections are easily made, and local networks of cooperation and competition would grow and drive innovation. Initially they would be trading with local neighbouring lands, but as trade would increase, these local connections would stretch out more and more to form part of a larger network. Trade would quickly diversify through the division of labour, where the commodity itself would be &ldquo;<em>one export. The other export is a service: the service of obtaining, handling and trading goods that are brought in from outside and are destined for secondary customers who also come from outside</em>&rdquo; (Jacobs, 1970, p21). </p><p>Chicago is a good example of one such city whose growth was predicated upon positioning itself within emerging trade networks. A small trading centre since the late seventeenth century, its growth was assured when it was connected to the first rail and telegraph networks in 1848. With travel time between Chicago and the East Coast cut from over two weeks to two days, and the near instantaneous messaging of the telegraph, &ldquo;<em>the pace of life had speeded up and the distances covered by flows of goods, people and information were ever greater</em>&rdquo;. Chicago managed to place itself at the centre of a voluminous pan-American trade and travel network, thereby establishing itself as a thriving and vibrant financial and social hub. As easy it would be to equate this fortune with Chicago&rsquo;s geographic positioning, the reality was that it achieved and maintained this dominant position through political and economic manoeuvring - before the construction of the railway, Chicago was competing with St Louis, which had a more capable waterway system. Chicago&rsquo;s good fortune was due to some canny businessmen who realised they needed an alternative network to compete with the waterways, and who set up a railway company by persuading the local farmers to invest in them. (Pile, 2010, p24-35) </p><p>Competition over trade routes is a recurring story throughout the development of the modern interstate system.  The early capitalist city-states of fifteenth century northern Italy, of which Venice was the most prominent, established their wealth and power through a monopolistic control of trade routes to India and China. Other northern European countries, mainly Spain and Portugal, tried to find alternative routes to bypass the Venetian monopoly, and it was through this process of exploration that Columbus &ldquo;discovered&rdquo; the Americas, thereby creating a whole new network of connections. The sixteenth century saw a great deal of change as Spain, Portugal and the mini-empires of France, England and Sweden all vied for world power through territorialist expansion of their respective networks (Arrighi, 2010). Although I digress here and talk of nation states, the unit of power and of management remains that of the city. We can see this in the conquest of Mexico City by the Spanish in 1521, which transformed the Aztec City, then known as Tenochititlan. Until that point, its dominant network of social relations and trade was confined around Mexico, but with the arrival of the Spanish, that network changed, as the flow of power now came from Madrid, and Mexico City&rsquo;s &ldquo;<em>local dominance was now in turn subordinated to an even greater power, a new imperial capital across the Atlantic</em>&rdquo; (Massey, 2010, p105). </p><p>The Dutch Republic, operating from its capital, The Hague, managed to shape its own fortune and usurp Spain&rsquo;s might by creating a new network of connections atop trade routes, a level of abstraction beyond the trading of physical goods: financial networks. It became the hegemonic power on the world stage by innovating forms of financial speculation based on capitalist expansion rather than territorialist expansion. &ldquo;<em>These networks encircled the world and could not easily be bypassed or superseded</em>&rdquo; (Arrighi, 2010, p46). Over successive centuries we have seen the balance of world power shift through manipulations in these network of connections, with first the United Kingdom and then the United States, leveraging themselves into subsequent positions of economic strength. </p><p>Immanuel Wallerstein&rsquo;s World System Theory provides a useful framework for understanding the nature of these global flows of power, conceiving the world not as separate nations with separate economies but as one interlinked capitalist world economy. His conceptualization of the modern world system distinguishes between the Core (developed) and Periphery (developing) countries, with the core countries exploiting the resources of the periphery through monopolistic control of network connections (Arrighi, 2010). Within this widescreen view the relationship between a city&rsquo;s fortunes and its connections to the network of power becomes clear, that it has to be actively aware of, and strive to maintain it&rsquo;s position within the global &ldquo;<em>&rsquo;power geometry&rsquo; &ndash; different cities have their own trajectories and there is a constant process of the making and unmaking of connections</em>&rdquo; (Massey, 2010 p124).</p><p>Society is now entering a new form of space-time experience &ndash; the Informational Age, a new form of network and thus, new forms of connection for a city. Although today&rsquo;s main network of power is still finance, Manuel Castells points out a crucial difference: Although we have had interconnecting networks of influence and a world economy going back now to the sixteenth century, it is only now due to computer networks that we have a truly global economy &ldquo;<em>with the capacity to work as a unit in real time, or chosen time, on a planetary scale</em>&rdquo; (Castells, 2010, p101). Following similar societal changes as the train and the telegraph, the mass adoption of broadband Internet connectivity in many aspects of our everyday life is drastically changing our lived experience of space and time. The Internet has its roots in military scientific work of the 1960s and 1970s, however the mass adoption of the technology into everyday life only began in the mid 1990s with the advent of the World Wide Web, essentially an easy to understand and use interface to the Internet; In just over ten years, Core countries of the West have migrated whole areas of life onto this digital network, affecting everything from work and education to banking, government, leisure, travel, media, relationships and much more. A whole new network space of power, from its physical fibre-optic network infrastructure, to the new virtual realms it allows. </p><p>Since the Haussmannisation of Paris in the mid-nineteenth century, the overarching ethos behind urban planning was a scientific-minded belief in a comprehensive and unified infrastructure. Guided by Keynesian welfare states, the modern infrastructural idea for most of the 20th century was based on universal access and cross-subsidized provision provided by a government or private monopoly, such as the railway or telephone networks. Since the 1980s, this way of thinking has become eroded as ideas of privatisation and liberalisation of the markets gained popularity. The monolithic conception of a city as a coherent unified machine no longer fit with postmodern ideas of identity while technological advances allowed for the creation of tiered and premium network services. Technological control now allows secessionary network infrastructure such as private tolled highways, gated communities, enclosed malls, and Business Improvement Districts - an idea originating in the US, but now &ldquo;<em>found in Europe, the Caribbean, Australia and South Africa</em>&rdquo; (Hannigan, quoted in Graham/Marvin, 2009 p261). Business Improvement Districts take over the running of their own network connections: street cleaning, lighting, garbage, policing etc., leaving remaining areas to deal with their own problems. Although in theory the market should provide for all who have a requirement, according to the work of Castells what we are seeing is a new social division, &ldquo;<em>structurally irrelevant people</em>&rdquo;, people who have no economic power and who therefore, the market can simply ignore because the &ldquo;<em>architecture of global networks connects places selectively, according to their relative value to the network</em>&rdquo; (Castells, 2010 pXXXV) </p><p>Stephen Graham and Simon Marvin call this phenomenon &ldquo;Splintering Urbanism&rdquo;. They outline the physical geography of the network society by looking at the powers behind, and embodied in the urban infrastructure that services the network. They highlight that this area is often overlooked due its technical nature, often dismissed by architects, sociologists and geographers as a politics-neutral engineering problem, outwith their area of expertise. Graham and Marvin demonstrate a rise in &ldquo;<em>premium networked spaces of the splintering metropolis</em>&rdquo; across the globe, a new geography transcending ideas of Core and Periphery countries, centring on cities from Shanghai to Manhattan, Sao Paolo to Montreal, Dubai, London, Bombay, and beyond. We see express highways and train routes connecting business centres to international airports, bypassing surrounding local areas to create virtual network topologies. (Graham, Marvin, 2009). We should strive to see that not all inhabitants of a city feel the benefits of these global connections of power and financial flows equally, a problem exasperated by the dual effects of government ideology - the prevailing idea to allow the market to manage all aspects of society - combined with the technological sophistication to allow very selective and granular unbundling of network services. </p><p>However, we must also be aware that the situation is more complex that this binary description of the Included and Excluded. Doreen Massey adds definition to the Network Society concept, using examples of poverty in Bombay and Los Angeles to show how these dominant spaces of capital flows are contested urban areas, with differing rhythms sharing a shaky co-existence. There are a multiplicity of flows within a city which stretch beyond it boundaries, and though certain people may be excluded from certain flows, &ldquo;they are all the products of complicated interweavings of networks of social relations&rdquo; (Massey, 2010, p 130)</p><p>Drawing together the various threads of this topic, we can see that a city&rsquo;s fortunes are one and the same as its connections to larger network flows. Originally a city&rsquo;s connections would be with neighbouring regions, but society has evolved over the centuries into one worldwide flow of influences and trade. Now, as an Informational Society, we see the emergence of a singular realtime global economic network, yet in sharp contrast we see a greater division of wealth and power. As we enter this new stage of Society the old systems and language for understanding structure and inequality are no longer adequate to express this new historical reality. An understanding of the mechanics and flows of this new virtual geography and multi-tiered network society becomes an absolute necessity for anyone involved in the planning and governance of urban space, or indeed for anyone simply living or working in a city.</p><p>References:<br />Allen, J., Massey, D., and Pile S. (2010) Understanding Cities: City Worlds, Oxon, The Open University.<br />Arrighi, G. (2010), The Long Twentieth Century: Money, Power and the Origins Of Our Times London, Verso<br />Castells, M., (2010) The Rise Of The Network Society, Oxford, Wiley-Blackwell<br />Jacobs, J. (1970) The Economy Of Cities, New York, Random House<br />Graham, S., and Marvin, S., (2009) Splintering Urbanism: Networked Infrastructures, Technological Mobilities and The Urban Condition, New York, Routledge</p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/theinformation/'> The Information</a> </h2>
+      <div class="post-meta">Wed, Mar 14, 2012</div>
+    </header>
+    <p><iframe width="590" height="332" src="http://www.youtube.com/embed/iyOzSzcDwg8?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>I started reading James Gleick's &#8220;The Information&#8221; last week and haven't been able to put it down yet - so good!<br />I just found this video of a talk he presented at Google last year on the book, looks ace, i'll save it for watching this evening.</p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/'> Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</a> </h2>
+      <div class="post-meta">Sun, Feb 19, 2012</div>
+    </header>
+    <p>I've been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn't local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren't hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. </p><p>I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark's IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows. We were pretty much stumped, and the other engineer recommend i look into <a href="http://www.psc.edu/networking/projects/hpn-ssh/">HPN-SSH</a>, which does indeed sound very good, but first i started playing around with trying different ciphers and compression.</p><p>Our uploads are all run via a perl framework, which utilises Net::SFTP in order to do the transfers.<a href="https://github.com/sideb0ard/speedTester" target="_blank"> My test program was also written in perl</a> and using the same library. In order to try different cyphers i started testing uploads with the interactive command line SFTP. Boom! 6Mb/s upload speed. Biiiig difference from the Net::SFTP client. I started playing with blowfish cipher and trying to enable compression with Net::SFTP - it wasn't really working, it can only do Zlib compression, which my SSHD server wouldn't play with until i specifically enabled compression in the sshd_config file.</p><p>After much more digging around, i came across reference to <a href="http://search.cpan.org/~salva/Net-SFTP-Foreign-1.69/lib/Net/SFTP/Foreign.pm">Net::SFTP::Foreign</a>, which uses the installed ssh binary on your system for transport rather than relying on the pure perl Net::SSH.</p><p>Syntax is very similar, so it was a minor rewrite to switch modules, yet such a massive payback, from 0.30Mb/s up to 6Mb/s. </p><p>(It turns out the DSPs i mentioned earlier who could achieve 60Mb/s were actually FTP transfers, not SFTP)</p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/physicalinternet/'> physical internet</a> </h2>
+      <div class="post-meta">Mon, Oct 3, 2011</div>
+    </header>
+    <p><a href="http://flowingdata.com/2011/10/03/submarine-cable-system-connecting-the-world/" target="_blank"><img alt="" src="http://flowingdata.com/wp-content/uploads/2011/10/Submarine-cable-map-625x405.png" title="submarine cable map" class="alignnone" width="625" height="405" /></a></p><p>Ever since reading Neal Stephenson's <a href="http://www.wired.com/wired/archive/4.12/ffglass_pr.html" title="mother earth mother board" target="_blank">Mother Earth Mother Board</a> article, I've been quite fascinated with the undersea cables which physically connect the land masses of the world. This map, linked above is an amazing view into this part of the Internet's current infrastructure.</p><p>(via <a href="http://flowingdata.com/2011/10/03/submarine-cable-system-connecting-the-world/" title="Flowing Data" target="_blank">flowingdata.com</a>)</p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/iperfandvirtualisationandcloudsandclouds/'> iperf and virtualisation and clouds and clouds</a> </h2>
+      <div class="post-meta">Mon, Sep 5, 2011</div>
+    </header>
+    <p>One of the tools i've been using a lot of recently is iperf - a really simple and sleek tool for measuring bandwidth between two hosts - rather than write up a full tutorial myself, i'll simply point you at <a href="http://jaysonbroughton.com/2011/04/iperf-measuring-network-performance-in-an-enterprise-environment/" target="_blank">this one</a> by Jayson Broughton</p><p>more soon!</p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/advancednetworkreconnaissancewithnmap2006/'> Advanced Network Reconnaissance with Nmap 2006</a> </h2>
+      <div class="post-meta">Thu, Aug 4, 2011</div>
+    </header>
+    <p>yow, this is some hardcore indepth port scanning shizzle -</p><p><iframe src="http://player.vimeo.com/video/1728216" width="400" height="296" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/themotherofalldemos1968/'> The Mother Of All Demos, 1968</a> </h2>
+      <div class="post-meta">Mon, Jul 25, 2011</div>
+    </header>
+    <p><img alt="" src="http://sloan.stanford.edu/MouseSite/dce1968conferenceannouncement.jpg" title="advert" class="aligncenter" width="566" height="760" /></p><p>Watch it <a href="http://sloan.stanford.edu/MouseSite/1968Demo.html#complete" title="Mother Of All Demos complete" target="_blank">here</a></p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/multicoreufos/'> Multicore UFOs</a> </h2>
+      <div class="post-meta">Mon, Jul 25, 2011</div>
+    </header>
+    <p>Interesting <a href="http://gigaom.com/cloud/facebook-tilera/" title="GigaOm FB Tilera " target="_blank">article on GigaOm</a> this morning about Facebook benchmarking a 64-core chip from <a href="http://www.tilera.com/" title="Tilera" target="_blank">Tilera</a>. </p><p><img alt="" src="http://www.tilera.com/sites/default/files/products/TILE64_0.jpg" title="Tilera TILE64" class="aligncenter" width="160" height="160" /></p><p>The X86 processor architecture has been in a dominant for so many years, not based upon any inherent sophistication, but more based upon chance and circumstance (see <a href="http://developer.yahoo.com/yui/theater/video.php?v=crockonjs-1" title="Doug Crockford" target="_blank">this vid</a> for more details around the 48min mark), so it does feel about time for a new advancement in hardware architecture. </p><p>Be interesting to watch this space and see what develops..</p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/realtimestats/'> real-time stats &gt;</a> </h2>
+      <div class="post-meta">Wed, Jul 20, 2011</div>
+    </header>
+    <p>Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB's new real-time analytics system: </p><p><iframe width="560" height="340" src="http://cdn.livestream.com/embed/facebookeducation?layout=4&#038;clip=pla_da30a53a-5399-43cc-a615-62874db1c567&#038;color=0x000000&#038;autoPlay=false&#038;mute=false&#038;iconColorOver=0xe7e7e7&#038;iconColor=0xcccccc&#038;allowchat=true" style="border:0;outline:0" frameborder="0" scrolling="no"></iframe><div style="font-size:11px;padding-top:10px;text-align:center;width:560px">Watch <a href=http://www.livestream.com/?utm_source=lsplayer&amp;utm_medium=embed&amp;utm_campaign=footerlinks title=live streaming video>live streaming video</a> from <a href=http://www.livestream.com/facebookeducation?utm_source=lsplayer&amp;utm_medium=embed&amp;utm_campaign=footerlinks title=Watch facebookeducation at livestream.com>facebookeducation</a> at livestream.com</div><p>In the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::</p><div style="width:425px" id="__ss_6814442"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/kevinweil/rainbird-realtime-analytics-at-twitter-strata-2011" title="Rainbird: Realtime Analytics at Twitter (Strata 2011)" target="_blank">Rainbird: Realtime Analytics at Twitter (Strata 2011)</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/6814442" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/kevinweil" target="_blank">Kevin Weil</a> </div></p></div><p>(hello <a href="https://twitter.com/#!/skr" title="skr" target="_blank">Johan</a>!)</p>
+
+</article>
+
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/nodejs/'> Node.js</a> </h2>
+      <div class="post-meta">Fri, Jun 24, 2011</div>
+    </header>
+    <p>I keep coming across mentions of <a href="http://nodejs.org/">node.js</a>, but wasn't sure what it was. This morning I've been watching some tutorials and reading up a little, and from what I understand it's basically a network server framework built on top of Google's V8 JavaScript engine, really an abstraction for socket programming. It's main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. </p><p>This video from node's creator, Ryan Dahl is a pretty funny and very informative introductory video. I'd recommend programming along with watching it:</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>Here's some further links:<br /><a href="http://nodejs.org/docs/v0.4.8/api/synopsis.html">http://nodejs.org/docs/v0.4.8/api/synopsis.html</a><br /><a href="http://howtonode.org/">http://howtonode.org/</a></p><p>This podcast is also a good source of information:<br /><a href="http://herdingcode.com/?p=299">http://herdingcode.com/?p=299</a></p>
+
+</article>
+
+    
+  </div>
+</section>
+
+      <script src="http://theb0ardside.com/static/js/jquery.js"></script>
+      <script src="http://theb0ardside.com/static/js/bootstrap.min.js"></script>
+      </div>
+      </div>
+      <div id="footer"></div>
+  </body>
+
+</html>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Security on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/security.xml</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2011-08-04 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Advanced Network Reconnaissance with Nmap 2006</title>
+      <link>http://theb0ardside.com/advancednetworkreconnaissancewithnmap2006/</link>
+      <pubDate>Thu, 04 Aug 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/advancednetworkreconnaissancewithnmap2006/</guid>
+      <description>&lt;p&gt;yow, this is some hardcore indepth port scanning shizzle -&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/1728216&#34; width=&#34;400&#34; height=&#34;296&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

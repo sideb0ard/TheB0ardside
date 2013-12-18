@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <base href="http://theb0ardside.com/">
+    <title> TheB0ardside.com </title>
+    <link rel="canonical" href="http://theb0ardside.com/puppetmastering/">
+    <link href="http://theb0ardside.com/static/css/b0ardstrap.min.css" rel="stylesheet"/>
+    <link href="http://theb0ardside.com/static/css/b0ardstyle.css" rel="stylesheet"/>
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://theb0ardside.com/index.xml" />
+
+</head>
+<body lang="en">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  
+  <div class="navbar-header">
+    <a class="navbar-brand" href="http://theb0ardside.com/">The B0ardside_</a>
+  </div>
+
+  <div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">hello<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li><img src="http://theb0ardside.com/static/img/thor.jpg"></li>
+            <li><a target="new" href="mailto:thorsten@theb0ardside.com?subject=hullo">Email</a></li>
+            <li><a target="new" href="http://twitter.com/sideb0ard">Twitter</a></li>
+            <li><a target="new" href="http://github.com/sideb0ard">Github</a></li>
+            <li><a target="new" href="http://drawingb0ard.blogspot.com/">Drawings</a></li>
+            <li><a target="new" href="http://theb0ardside.com/index.xml">Rss Feed</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+  <div class="container">
+  <div id="page">
+
+
+
+<section id="main">
+  <h1 id="title">puppet mastering</h1>
+  <div>
+        <article id="content">
+           <p>At my work, we're now really digging into using <a href="http://puppetlabs.com/" target="_blank">Puppet</a> - no longer just as a TechOps tools, but for our whole development cycle.</p><p>The hardest thing I've come across so far is in deploying Perl CPAN packages, although i have been using manifest/recipe i found here -<br /><a href="http://www.windley.com/archives/2008/10/using_puppet_and_cpan.shtml" target="_blank">http://www.windley.com/archives/2008/10/using_puppet_and_cpan.shtml</a></p><p>It had been working quite well, but now as we've been adding more and more to Puppet, I started seeing an error message:</p><p><strong>root@machine:~ $ puppet agent -test<br />err: Could not retrieve catalog from remote server: Could not intern from pson: expected value in object at &#8216;&#8221;i'!<br />warning: Not using cache on failed catalog<br />err: Could not retrieve catalog; skipping run</strong></p><p> - the error was intermittent and always slightly differently, making it quite hard to track down. I found a number of people running into similar problems on forums and mailing lists, but no satisfactory answers. </p><p>Aiiight, so the problem is due to the default HTTP server within Puppet, which is called <a href="http://en.wikipedia.org/wiki/WEBrick" target="_blank">WEBrick</a> - I didn't dig into why, but after having re-double-triple-checked my manifest syntax and having tried a million other solutions, i thought to switch out the webserver component to see what would happen (I wasn't being completely original here - any article which talks about scaling Puppet says that you have to move to using a different server).</p><p>Instructions for switching to Apache2/Passenger (mod_rails) are <a href="http://projects.puppetlabs.com/projects/puppet/wiki/Using_Passenger" target="_blank">here</a> - they're quite simple and it's easy to setup. </p>
+
+        </article>
+  </div>
+</section>
+
+<aside id="meta">
+    <div>
+    <section>
+      <h4 id="date"> Sat Dec 3, 2011 </h4>
+    </section>
+    <ul id="tags">
+      
+        <li> <a href="http://theb0ardside.com//tags/puppet">puppet</a> </li>
+      
+    </ul>
+    </div>
+    <div>
+        
+          <a class="previous" href="http://theb0ardside.com/nextdocumentary/">Previous:: NeXT documentary</a>
+        
+    </div>
+    <div>
+        
+          <a class="next" href="http://theb0ardside.com/bringthenoyce/">Next:: Bring the Noyce</a>
+        
+    </div>
+</aside>
+
+      <script src="http://theb0ardside.com/static/js/jquery.js"></script>
+      <script src="http://theb0ardside.com/static/js/bootstrap.min.js"></script>
+      </div>
+      </div>
+      <div id="footer"></div>
+  </body>
+
+</html>
+

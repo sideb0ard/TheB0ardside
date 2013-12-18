@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <base href="http://theb0ardside.com/">
+    <title> TheB0ardside.com </title>
+    <link rel="canonical" href="http://theb0ardside.com/tags/pain.html">
+    <link href="http://theb0ardside.com/static/css/b0ardstrap.min.css" rel="stylesheet"/>
+    <link href="http://theb0ardside.com/static/css/b0ardstyle.css" rel="stylesheet"/>
+
+</head>
+<body lang="en">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  
+  <div class="navbar-header">
+    <a class="navbar-brand" href="http://theb0ardside.com/">The B0ardside</a>
+  </div>
+
+  <div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">hello<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li><img src="http://theb0ardside.com/static/img/thor.jpg"></li>
+            <li><a href="mailto:thorsten@theb0ardside.com?subject=hullo">Email</a></li>
+            <li><a href="http://twitter.com/sideb0ard">Twitter</a></li>
+            <li><a href="http://github.com/sideb0ard">Github</a></li>
+            <li><a href="http://drawingb0ard.blogspot.com/">Drawings</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+  <div class="container">
+  <div id="page">
+
+
+<section id="main">
+  <div>
+   <h1 id="title">Pain</h1>
+    
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/musicbrainzngsinstall/'> Musicbrainz NGS install</a> </h2>
+      <div class="post-meta">Thu, May 5, 2011</div>
+    </header>
+    <p>yow. must admit, I had to overcome a couple of obstacles during the installation and setup of a <a title="NGS" href="http://musicbrainz.org/doc/Next_Generation_Schema" target="_blank">Musicbrainz Next Generation Schema</a> replicated DB.</p><p><img class="aligncenter" title="musicbrainz logo" src="http://logo.cafepress.com/nocache/8/981218.jpg" alt="" width="150" height="102" /></p><p>I'm not sure this will prove to be a particularly useful post, but I'll post it up here as a record of my own, in case I need to do it again.</p><p>The NGS requires <a title="psql9" href="http://www.postgresql.org/about/news.1313" target="_blank">PostgreSQL 9</a> and a bunch of perl modules be installed.</p><p>Initially I started with a PSQL9.1 beta binary provided by <a title="EnterpriseDB" href="http://www.enterprisedb.com/products-services-training/pgdevdownload" target="_blank">EnterpriseDB</a>, however later ran into problems with missing  user contributed modules for Cube, a &#8220;Multidimensional-cube datatype&#8221;. After much faffing about I just removed the binary install, then grabbed the sources and compiled PSQL9 from source. Mostly quite simple except for one issue,</p><p><strong>undefined reference to `optreset'</strong></p><p>Fixed via installing <strong>libreadline6-dev </strong>(I'm running Ubuntu 11.04 on x86_64). Also had to <strong>make clean</strong>, before it would then compile and install.</p><p>After it's installed, you'll need to do all the standard post-install steps - create system user, init DB, start server etc. (Follow the INSTALL file in the source dir, under the &#8216;Getting Started' section).</p><p>In order to install the contrib/cube modules, from the postgres9 source dir:</p><p><strong>cd contrib/</strong><br /><strong> make</strong><br /><strong> cd cube</strong><br /><strong> sudo make install</strong><br /><strong> cp sql/cube.sql /usr/local/pgsql/share/contrib/</strong> &lt;- required for musicbrainz install later..</p><p>Once you have the postgres server up and running, <strong>su </strong>to the postgres user you've created and create a user to own the musicbrainz DB you'll be creating. Depending on your security requirements you might want to alter this next line, i set options to allow the musicbrainz user to create DBs, but not be a superuser or create other roles, with this line:</p><p><strong>createuser -d -S -R musicbrainz -P</strong></p><p>Next create a system user to own and run the musicbrainz-server software. I simply named the account &#8216;musicbrainz' too.</p><p>For the actual NGS Server setup, you can find the provided Setup instructions <a title="nsg setup" href="http://wiki.musicbrainz.org/NGS_Server_Setup" target="_blank">here</a>, most of what I type in the next section will be a repeat of them:</p><p>Launch CPAN shell:</p><p><strong>cpan&gt;</strong><br /><strong> Install local::lib</strong><br /><strong> install App:cpanminus</strong></p><p>Exit cpan then install some more modules via apt:<br /><strong>apt-get install libossp-uuid-perl</strong><br /><strong> apt-get install libtest-www-mechanize-perl</strong><br /><strong> apt-get install libicu-dev</strong></p><p>Then grab the musicbrainz-server from git (you might need to install git first)<br /><strong>git clone git://git.musicbrainz.org/musicbrainz-server.git musicbrainz-server</strong><br /><strong> cd musicbrainz-server</strong><br /><strong> cpanm .</strong></p><p>Barfs at Module-signature - you have to install a specific version:</p><p><strong>cpanm http://search.cpan.org/CPAN/authors/id/F/FL/FLORA/Module-Signature-0.66.tar.gz</strong><br />Rerun: <strong>cpanm .</strong></p><p>I had to manually install <strong>Test::WWW::Selenium::Catalyst</strong> via CPAN as it was launching Firefox to do *something* but just hanging there. Also manually installed <strong>Cache::Memcached::Fast</strong> as it was failing due to the Musicbrainz DB not being installed yet. duh!</p><p>Next, download the NGS SQL tables we'll be importing:<br /><strong>wget ftp://ftp.musicbrainz.org/pub/musicbrainz/data/ngs/20110427/mbdump.tar.bz2</strong><br /><strong>wget ftp://ftp.musicbrainz.org/pub/musicbrainz/data/ngs/20110427/mbdump-editor.tar.bz2</strong><br /><strong>wget ftp://ftp.musicbrainz.org/pub/musicbrainz/data/ngs/20110427/mbdump-derived.tar.bz2</strong></p><p><strong>cp lib/DBDefs.pm.default lib/DBDefs.pm</strong><br /><strong> vi lib/DBDefs.pmlib/DBDefs.pm</strong></p><p>Change <strong>sub REPLICATION_TYPE { RT_SLAVE }</strong> // (WAS RT_STANDALONE)<br />Change<strong> sub DB_STAGING_SERVER { 0 }</strong> // (WAS 1)</p><p>Amend the login details to the musicbrainz DB user you created.</p><p>Install <strong>postgresql-unaccent</strong> (under the musicbrainz-server directory - just make and make install)<br />Do the same for <strong>postgresql-musicbrainz-collate</strong></p><p>Finally with all supporting modules installed, su to the musicbrainz system user. Ensure you can login to the postgres9 DB, using the same details you have entered in the <strong>DBDefs.pm</strong> file. Then, from the musicbrainz-server directory:</p><p><strong>./admin/InitDb.pl -createdb -import &lt;DIR-WHERE-YOU-DOWNLOADED-DUMPFILES&gt;/mbdump*.tar.bz2 -echo</strong></p><p>If all is successful, in about 30mins you should have a working MusicbrainzDB up and running. If you encounter any error messages, and need to re-run InitDb, you'll first need to login to postgres and drop the two DBs it has installed - musicbrainz_db and musicbrainz_db_raw, but hopefully I think i've covered all the errors I ran into..</p><p><a href="http://www.theb0ardside.com/wp-content/uploads/2011/05/mbdb.png"><img class="aligncenter size-full wp-image-16" title="mbdb" src="http://www.theb0ardside.com/wp-content/uploads/2011/05/mbdb.png" alt="" width="400" height="321" /></a></p><p>&nbsp;</p>
+
+</article>
+
+    
+  </div>
+</section>
+
+      <script src="http://theb0ardside.com/static/js/jquery.js"></script>
+      <script src="http://theb0ardside.com/static/js/bootstrap.min.js"></script>
+      </div>
+      </div>
+      <div id="footer"></div>
+  </body>
+
+</html>
+

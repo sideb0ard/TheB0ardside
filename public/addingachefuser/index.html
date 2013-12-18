@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <base href="http://theb0ardside.com/">
+    <title> TheB0ardside.com </title>
+    <link rel="canonical" href="http://theb0ardside.com/addingachefuser/">
+    <link href="http://theb0ardside.com/static/css/b0ardstrap.min.css" rel="stylesheet"/>
+    <link href="http://theb0ardside.com/static/css/b0ardstyle.css" rel="stylesheet"/>
+
+</head>
+<body lang="en">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  
+  <div class="navbar-header">
+    <a class="navbar-brand" href="http://theb0ardside.com/">The B0ardside</a>
+  </div>
+
+  <div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">hello<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li><img src="http://theb0ardside.com/static/img/thor.jpg"></li>
+            <li><a href="mailto:thorsten@theb0ardside.com?subject=hullo">Email</a></li>
+            <li><a href="http://twitter.com/sideb0ard">Twitter</a></li>
+            <li><a href="http://github.com/sideb0ard">Github</a></li>
+            <li><a href="http://drawingb0ard.blogspot.com/">Drawings</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+  <div class="container">
+  <div id="page">
+
+
+
+<section id="main">
+  <h1 id="title">Adding a Chef User</h1>
+  <div>
+        <article id="content">
+           <p><a href="http://www.theb0ardside.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-19-at-9.56.28-PM.png"><img src="http://www.theb0ardside.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-19-at-9.56.28-PM.png" alt="" title="Screen Shot 2012-07-19 at 9.56.28 PM" width="612" height="195" class="aligncenter size-full wp-image-140" /></a></p><p>I've just started an ace new job and really enjoying getting to work with <a href="http://www.opscode.com/chef/" title="Chef" target="_blank">Chef</a>. Coming from using Puppet for over a year, my head is still in the mindset of working out how to do things the Puppet way - some thing I'm finding better, some not so good, but all in all, it feels like a more ambitious project, and a lot of fun to play with. </p><p>One of the first things I've found is that the documentation isn't so cohesive - there is a lot of it and it's good, but nothing like the James Turnbull <a href="git clone https://github.com/opscode/chef-repo" title="Pro Puppet" target="_blank">&#8216;Pro Puppet' book</a> to hold your hand and guide you. The one I found most useful initially was <a href="http://blog.afistfulofservers.net/post/2011/03/16/a-brief-chef-tutorial-from-concentrate/" title="A FIstful Of Servers" target="_blank">this post</a>, however the one thing i wanted to get straight in my head was how to create admin users for Chef, which is glossed over in that brief tutorial, by using the web-ui. The Opscode site documentation for doing this can be found <a href="http://wiki.opscode.com/display/chef/Installing+Chef+Server+on+Debian+or+Ubuntu+using+Packages#InstallingChefServeronDebianorUbuntuusingPackages-CreateaKnifeClientforYourLaptop%2FDesktop" title="install Chef client" target="_blank">here</a>, but again, kinda buried down there, and as it took me a while to find, I figured a quick post was worth it.</p><p>Aiight, so long winded introduction, but the gist of it is, after install you have one admin user and cert setup on the actual server during install which is for the webui. On my Debian Squeeze install, this live at /etc/chef/webui.pem and is mode 600, owned by user &#8216;chef'. We can use this user/cert to create a client user/cert for ourselves with:<br /><code>sudo knife configure -i</code></p><p><a href="http://www.theb0ardside.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-19-at-10.33.23-PM.png"><img src="http://www.theb0ardside.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-19-at-10.33.23-PM.png" alt="" title="Screen Shot 2012-07-19 at 10.33.23 PM" width="856" height="258" class="aligncenter size-full wp-image-141" /></a></p><p>^ Start with the URL for where you have installed the Chef server, then a name for your client. Notice where it asks for the existing admin username and location of the certificate - enter <strong>chef-webui</strong> for the user and the <strong>/etc/chef/webui.pem</strong> file i mentioned. Next it also asks for the validation client name and pem which is &#8220;a special account used to auto-register new nodes.&#8221; Go with the default clientname and again, the key file lives in /etc/chef.</p><p>If that all worked fine, you should now have two new files in your ~/.chef directory - your knife.rb file and a private key file.<br />As we ran that as sudo however, you'll need to chown the files to your own username -<br /><code>sudo chown -R $USER ~/.chef</code><br />Test that works by running<br /><code>knife client list</code><br />which should then list the clients setup by the install like chef-validator and chef-webui, and most importantly your new username. If that worked fine, you can now copy the private key and knife.rb files to your own workstation, adjusting the file locations in the knife.rb as required.</p><p>With yourself now setup, you can create keys for other users with:<br /><code>knife client create NEWUSER -d -a -f NEWUSER.pem</code><br />Securely copy that key to the new user and create/generate a suitable knife.rb file for them (e.g. by copying and adjusting your own), and you should be done, multiple admins!</p>
+
+        </article>
+  </div>
+</section>
+
+<aside id="meta">
+    <div>
+    <section>
+      <h4 id="date"> Fri Jul 20, 2012 </h4>
+    </section>
+    <ul id="tags">
+      
+        <li> <a href="http://theb0ardside.com//tags/chef">chef</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/configuration-management">configuration management</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/devops">devops</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/howto">howto</a> </li>
+      
+    </ul>
+    </div>
+    <div>
+        
+          <a class="previous" href="http://theb0ardside.com/webkitandchromeinternals/">Previous:: webkit and chrome internals</a>
+        
+    </div>
+    <div>
+        
+          <a class="next" href="http://theb0ardside.com/scalingatdropbox/">Next:: scaling at dropbox</a>
+        
+    </div>
+</aside>
+
+      <script src="http://theb0ardside.com/static/js/jquery.js"></script>
+      <script src="http://theb0ardside.com/static/js/bootstrap.min.js"></script>
+      </div>
+      </div>
+      <div id="footer"></div>
+  </body>
+
+</html>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Puppet on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/puppet.xml</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2012-04-03 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Puppet stages and APT</title>
+      <link>http://theb0ardside.com/puppetstagesandapt/</link>
+      <pubDate>Tue, 03 Apr 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/puppetstagesandapt/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.stixrideshop.com/blog/wp-content/uploads/2012/03/gonz-3.bmp&#34; alt=&#34;gonz -- for no reason except he&amp;#039;s the MAN!&#34; /&gt;&lt;/p&gt;&lt;p&gt;At work, our old code deployment strategy was basically a wrapper script doing an svn checkout and some symlinking. With our move to Puppet for config management, we also moved to using Apt packaging for our code deployment, tying them together with a line similar to :&lt;/p&gt;&lt;p&gt;&lt;code&gt;class foo-export {&lt;br /&gt;    package { &amp;#039;foo-export&amp;#039;: ensure =&gt; latest }&lt;br /&gt;}&lt;/code&gt;&lt;/p&gt;&lt;p&gt;So that whenever we deploy a new version of a package to our apt-repo, it can then be installed with a:&lt;/p&gt;&lt;p&gt;&lt;code&gt;puppet agent --test&lt;/code&gt;&lt;br /&gt;(and with an initial dry-run using &lt;code&gt;--noop&lt;/code&gt;)&lt;/p&gt;&lt;p&gt;( I should mention I manage our Puppet runs via our own distributed scripts, rather than having the nodes set up to check in every 30mins - when I&#39;m doing so much work on our Puppet setup and config, I&#39;d rather not having machines check in automatically in case the config is in a broken state )&lt;/p&gt;&lt;p&gt;Inevitably I would run the above Puppet command and it would not find any new packages, because &amp;#8216;d&#39;uh!&#39;, of course I still need to run an &lt;code&gt;apt-get update&lt;/code&gt;.&lt;/p&gt;&lt;p&gt;I&#39;ve been using Puppet stages for a while now, in order to group package installations in a broader sense rather than manually spelling out every dependency with a &lt;code&gt;require =&gt;&lt;/code&gt; stanza, so it was a simple addition to add in a &lt;code&gt;pre&lt;/code&gt; stage, and have the nodes run &lt;code&gt;apt-get update&lt;/code&gt; before any runs.&lt;/p&gt;&lt;p&gt;In order to use stages, you need to first define them in your site.pp. By default every defined class runs under Stage[main], so you just need to add the new stages and define the running order. (full Puppet stage documentation is &lt;a href=&#34;http://docs.puppetlabs.com/guides/language_guide.html&#34; title=&#34;Puppet Stages&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;At the top of my site.pp file, I added a pre and post stage, then define the execution order via:&lt;/p&gt;&lt;p&gt;&lt;code&gt;stage { [pre, post]: }&lt;br /&gt;Stage[pre] -&gt; Stage[main] -&gt; Stage[post]&lt;/code&gt;&lt;/p&gt;&lt;p&gt;Then I created a class called apt-hupdate (sorry, i use stupid naming conventions!) in&lt;br /&gt;&lt;code&gt;modules/apt-hupdate/manifests/init.pp&lt;/code&gt;&lt;/p&gt;&lt;p&gt;which contained:&lt;br /&gt;&lt;code&gt;class apt-hupdate {&lt;/p&gt;&lt;p&gt;    exec { &#34;aptHupdate&#34;:&lt;br /&gt;        command =&gt; &#34;/usr/bin/apt-get update&#34;,&lt;br /&gt;    }&lt;br /&gt;}&lt;/code&gt;&lt;/p&gt;&lt;p&gt;And finally, include that in your site.pp with:&lt;/p&gt;&lt;p&gt;&lt;code&gt;class { apt-hupdate: stage =&gt; pre }&lt;/code&gt;&lt;/p&gt;&lt;p&gt;Now every time you do a Puppet run, &lt;code&gt;apt-get update&lt;/code&gt; will be the first task run.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>robot</title>
+      <link>http://theb0ardside.com/robot/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/robot/</guid>
+      <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>puppet mastering</title>
+      <link>http://theb0ardside.com/puppetmastering/</link>
+      <pubDate>Sat, 03 Dec 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/puppetmastering/</guid>
+      <description>&lt;p&gt;At my work, we&#39;re now really digging into using &lt;a href=&#34;http://puppetlabs.com/&#34; target=&#34;_blank&#34;&gt;Puppet&lt;/a&gt; - no longer just as a TechOps tools, but for our whole development cycle.&lt;/p&gt;&lt;p&gt;The hardest thing I&#39;ve come across so far is in deploying Perl CPAN packages, although i have been using manifest/recipe i found here -&lt;br /&gt;&lt;a href=&#34;http://www.windley.com/archives/2008/10/using_puppet_and_cpan.shtml&#34; target=&#34;_blank&#34;&gt;http://www.windley.com/archives/2008/10/using_puppet_and_cpan.shtml&lt;/a&gt;&lt;/p&gt;&lt;p&gt;It had been working quite well, but now as we&#39;ve been adding more and more to Puppet, I started seeing an error message:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;root@machine:~ $ puppet agent -test&lt;br /&gt;err: Could not retrieve catalog from remote server: Could not intern from pson: expected value in object at &amp;#8216;&amp;#8221;i&#39;!&lt;br /&gt;warning: Not using cache on failed catalog&lt;br /&gt;err: Could not retrieve catalog; skipping run&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; - the error was intermittent and always slightly differently, making it quite hard to track down. I found a number of people running into similar problems on forums and mailing lists, but no satisfactory answers. &lt;/p&gt;&lt;p&gt;Aiiight, so the problem is due to the default HTTP server within Puppet, which is called &lt;a href=&#34;http://en.wikipedia.org/wiki/WEBrick&#34; target=&#34;_blank&#34;&gt;WEBrick&lt;/a&gt; - I didn&#39;t dig into why, but after having re-double-triple-checked my manifest syntax and having tried a million other solutions, i thought to switch out the webserver component to see what would happen (I wasn&#39;t being completely original here - any article which talks about scaling Puppet says that you have to move to using a different server).&lt;/p&gt;&lt;p&gt;Instructions for switching to Apache2/Passenger (mod_rails) are &lt;a href=&#34;http://projects.puppetlabs.com/projects/puppet/wiki/Using_Passenger&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; - they&#39;re quite simple and it&#39;s easy to setup. &lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

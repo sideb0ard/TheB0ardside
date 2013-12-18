@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <base href="http://theb0ardside.com/">
+    <title> TheB0ardside.com </title>
+    <link rel="canonical" href="http://theb0ardside.com/berkshelf8211themissingpiece/">
+    <link href="http://theb0ardside.com/static/css/b0ardstrap.min.css" rel="stylesheet"/>
+    <link href="http://theb0ardside.com/static/css/b0ardstyle.css" rel="stylesheet"/>
+
+</head>
+<body lang="en">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  
+  <div class="navbar-header">
+    <a class="navbar-brand" href="http://theb0ardside.com/"><i class="icon-rocket "></i>&nbsp; The B0ardside</a>
+  </div>
+
+  <div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Meta <b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            
+        </ul>
+      </li>
+      <li><a href="http://twitter.com/sideb0ard"><i class="icon-arrow-down "> </i></a></li>
+      <li><a href="http://github.com/sideb0ard"><i class="icon-octocat icon-2x"> </i></a></li>
+    </ul>
+  </div>
+</nav>
+
+  <div class="container">
+
+
+
+<section id="main">
+  <h1 id="title">Berkshelf &amp;#8211; the missing piece</h1>
+  <div>
+        <article id="content">
+           <p>If you&#8217;ve been following my past few posts, you&#8217;ve seen i was investigating how best to integrate the plethora of Chef testing tools that&#8217;ve been coming out &#8212; foodcritic, chefspec, test-kitchen, mini-test &#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile &#8211; at the top of the repo? Inside a cookbook directory? How many Vagrant files am I going to create here?</p><p>If, like myself, you weren&#8217;t along at this year&#8217;s ChefConf 2013, you may also have missed on a major conceptual shift that has happened. Instead of the all-inclusive Chef-repo design pattern, as implied by the OpsCode Chef Repo &#8211; https://github.com/opscode/chef-repo &#8211; which, when used with all the community cookbooks out there, creates a mess of forked, modified and sub-moduled cookbooks and recipes. </p><p>The conceptual shift away and now recommended way, is to treat each cookbook as a separate piece of software and to give it it&#8217;s own git repo, keeping them separate from from your Chef-repo. This combined, with a distinction between Library and Application cookbooks, and then bundled together via Berkshelf, enables a much cleaner and modular way of working. When you accept this move, it&#8217;s much easier to then fit all the testing pieces together as they all live within each separate cookbook/repo.</p><p><a href="https://github.com/RiotGames/berkshelf/issues/535" title="Berk Comment" target="_blank">This Comment Thread</a> was what really drew it together for me, and then to fully clarify this way of working, watch Jamie Winsor&#8217;s ChefConf talk which is the original starting point:</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/hYt0E84kYUI?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+
+        </article>
+  </div>
+</section>
+
+<aside id="meta">
+    <div>
+    <section>
+      <h4 id="date"> Wed May 29, 2013 </h4>
+      <h5 id="wc"> 300 Words </h5>
+    </section>
+    <ul id="categories">
+      
+    </ul>
+    <ul id="tags">
+      
+        <li> <a href="http://theb0ardside.com//tags/chef">chef</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/configuration-management">configuration management</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/devops">devops</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/engineering">engineering</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/howto">howto</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/vagrant">vagrant</a> </li>
+      
+        <li> <a href="http://theb0ardside.com//tags/video">video</a> </li>
+      
+    </ul>
+    </div>
+    <div>
+        
+          <a class="previous" href="http://theb0ardside.com/search8211notasolvedproblem/"> Search &amp;#8211; not a solved problem</a>
+        
+        
+          <a class="next" href="http://theb0ardside.com/mocheftesting/"> Mo&#39; Chef Testing</a>
+        
+    </div>
+</aside>
+
+      <script src="http://theb0ardside.com/static/js/jquery.js"></script>
+      <script src="http://theb0ardside.com/static/js/bootstrap.min.js"></script>
+      </div>
+  </body>
+
+</html>
+

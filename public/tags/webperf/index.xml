@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Webperf on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/webperf.xml</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2013-07-01 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Steve Souders on Cacheing</title>
+      <link>http://theb0ardside.com/stevesoudersoncacheing/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/stevesoudersoncacheing/</guid>
+      <description>&lt;p&gt;from january of this year, HTML5DevConf ::&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/HKNZ-tQQnSY?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
