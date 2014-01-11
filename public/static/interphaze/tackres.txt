@@ -1,0 +1,94 @@
+Daniel "Tack" Trudell
+1461 San Carlos Ave
+Concord, CA 94518
+(925) 687-8574
+
+Objective:  To define humanity in the information age using art, technology and interaction.
+
+Relevant Skills: 
+
+Languages:
+	Mastery:
+		HTML, JavaScript, CSS
+	Proficiency:
+		XML, XSLT, Lingo, PHP, SQL, JSP
+	Syntax Familiarity:
+		C, Java (J2EE), AppleScript
+       			
+Systems:
+	Macintosh:
+		Systems 1-9 (17 years)
+		MacOS X Public Beta (3 months as primary OS)
+	Windows:
+		Win 9x, NT
+	UNIX:
+		Linux:
+			Linux Mandrake 7.x (9 months)
+			Red Hat 4.2+ (3 years)
+			MKLinux DR3 (6 months)
+		BSD:
+			Darwin (3 months)
+       				
+Protocols:
+HTTP, FTP, CVS, SSH, RTP/RTSP, Kerberos, LDAP, SMB, AFP
+       
+Software:
+Adobe:
+	Photoshop, ImageReady, After Effects, Premiere
+       		
+BBEdit, HomeSite, VI, The GIMP, Media100, Media Cleaner Pro, Director, Edit*, 
+
+Capabilities: 
+
+Develop, design, script, and program Web pages.
+Design, plan and implement database driven websites.
+Plan, produce, direct, shoot and edit video.
+Wire, design, hang and focus theatrical lighting.
+
+
+Work History: 
+
+The Robot6 Experience Inc 3/2000 - 12/2000
+Production Engineer, Engineer
+
+Produce well formed cross platform/browser html pages.  Integrate JSP into static
+HTML templates.  Debug and optimize JavaScript from 3rd parties.  Create web based
+corporate contact management application for internal intranet using PHP,
+JavaScript and MySQL.  Port entire html sites into new look and feel using existing
+source.  Conduct Research and Development efforts to extend design department
+ability to control look and feel of websites.Participate in requirement/design 
+stages for network application software.  Digitize and compress media for streaming
+video.
+
+	
+       
+CNTV, CSUH, Hayward CA, 5/99 - 3/2000
+Playback Operator, Videographer
+
+Shoot Video for production using professional grade digital video equipment, operate
+cable television station playback system.  Produce, direct, and shoot special
+presentations.  Create slides for cable TV bulletin board system.  Produce
+animated bumpers and station ID's.  Production art.
+       
+One Click Systems, San Mateo, CA, 7/97 - 8/98
+Senior Technical Support.
+
+Provide Technical support for email gateways and LDAP servers.  Create Web
+Administration interface for LDAP server using JavaScript, LDAP/SLAPD and HTML.
+       
+CSU Cablenet CSUH, Hayward, CA, 1/96 - 1/97
+Student Assitant
+
+Create interactive CD-ROM for University Department of Student Affairs using
+Macromedia Diector.  Create Web Site for same.  Create prototype media for Media100
+based cable television bulletin board system.
+       
+KRON channel 4/ New Media News, San Jose, CA, 8/96 - 11/96
+Intern
+
+Log Footage.  Assist in the shooting of New Media News.  Appear as Santa Clause in
+same show (1 episode).  Product research
+
+Education: 
+California State University Hayward, Hayward, CA
+Senior, Multimedia Art.

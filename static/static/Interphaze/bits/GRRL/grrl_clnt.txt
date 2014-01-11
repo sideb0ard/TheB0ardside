@@ -1,0 +1,35 @@
+#!/usr/bin/perl
+#
+# UDP CLient program. Takes vmstat output and sends to monitroing server.
+#
+# Thor Sideb0ard, Dec 2000
+#
+
+use IO::Socket;
+
+# Set up server ip and port assignments
+$HOSTNAME = "4.20.5.205";
+$PORTNO = "5151";
+
+# Get new socket for sending
+$handle = IO::Socket::INET->new(Proto => 'udp')
+	|| die "Socket: $@\n";
+
+chomp($myname = `uname -n`);
+
+chomp($foo = `vmstat 1 2 | tail -1`); # Get the neccessary counters
+$foo =~ s/^.?//;                  # And clean it up somewhat
+@vmfields = split (/\s+/,$foo);
+
+$swapfree = $vmfields[3];
+$memfree = $vmfields[4];
+$cpuusr = $vmfields[19];       # Self explantory
+$cpusys = $vmfields[20];
+$cpuidle = $vmfields[21];
+
+$MSG="$myname $swapfree $memfree $cpuusr $cpusys $cpuidle";
+
+$ipaddr = inet_aton($HOSTNAME);
+$portaddr = sockaddr_in($PORTNO, $ipaddr);
+send ($handle, $MSG, 0, $portaddr) == length($MSG)
+	|| die "Cannot send to $HOSTNAME($PORTNO): $!";

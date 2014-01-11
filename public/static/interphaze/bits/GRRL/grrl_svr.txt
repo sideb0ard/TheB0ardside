@@ -1,0 +1,34 @@
+#!/usr/bin/perl
+
+use IO::Socket;
+my($sock, $msg, $clientaddr, $clienthost, $MAXLEN, $PORTNO);
+$MAXLEN = 2048;
+$PORTNO = 5151;
+
+# rrdtool variables
+$rrdtool = "/usr/local/rrdtool/bin/rrdtool";
+
+$server = IO::Socket::INET->new(LocalPort => $PORTNO,
+				Proto => "udp",
+				Reuse => 1)
+	|| die "Couldn't bind to UDP $server_port : $@\n";
+
+print "Awaiting vmstat info connections on $PORTNO...\n";
+
+while ($server->recv($msg, $MAXLEN)) {
+	my($port, $ipaddr) = sockaddr_in($server->peername);
+	my($clienthost) = gethostbyaddr($ipaddr, AF_INET);
+	my(@vmfields) = split (/\s+/,$msg);
+	my($hostname) = $vmfields[0];
+	my($swapfree) = $vmfields[1];
+	my($memfree) = $vmfields[2];
+	my($cpuusr) = $vmfields[3];
+	my($cpusys) = $vmfields[4];
+	my($cpuidle) = $vmfields[5];
+	my ($unixtime) =time;
+	my ($db) = "/usr/local/grrl/dbz/$hostname.rrd";
+
+print "Updating $db with vmstats. at $unixtime..\n";
+print "swapfree-> $swapfree, memfree-> $memfree, cpu usr -> $cpuusr, cpu sys -> $cpusys, cpu idle -> $cpuidle\n";
+system("$rrdtool update $db N:$swapfree:$memfree:$cpuusr:$cpusys:$cpuidle");
+}

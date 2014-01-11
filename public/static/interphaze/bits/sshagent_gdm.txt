@@ -1,0 +1,102 @@
+Just a quick note, more personal really, than a paper.
+
+So... ssh-agent is one of the coolest things ever.
+ssh-agent allows you to type your passphrase once, unlocking your private ssh
+key. To use it, you call 'ssh-agent <prog>' where prog is usually a shell,
+and every sub-process under that shell has access to your key, allowing
+you to ssh to any host you've setup previously without typing your password.
+I ain't gonna go into the details of how it works, check the man 
+pages for that, but basically i'v had to set this up on a few systems
+and i always forgot what i had to do, so this is my notes to remember.
+
+Step 1
+------
+
+Generate ssh public/private key pair
+type:
+'ssh-keygen'
+[thorsten@winux thorsten]$ ssh-keygen
+Generating RSA keys:  ....................................ooooooO..................ooooooO
+Key generation complete.
+Enter file in which to save the key (/home/thorsten/.ssh/identity):
+
+enter a pass phrase for your key. I shan't rant about pass phrase security.
+
+Step 2
+------
+Copy your ~/.ssh/identity.pub to remote host you want to log into, and cat the 
+contents into your remote file .ssh/authorized_keys.
+[thorsten@winux thorsten]$ scp .ssh/identity.pub thorsten@muzak.interphaze.org:id.myhomemachine
+thorsten@muzak.interphaze.org's password:
+
+[thorsten@winux thorsten]$ ssh muzak.interphaze.org
+thorsten@muzak.interphaze.org's password: 
+Last login: Fri Jan 26 17:52:11 2001 from winux.sideb0ard.
+OpenBSD 2.7 (GENERIC) #25: Sat May 13 18:04:26 MDT 2000
+
+Welcome to muzak.interphaze.org
+
+non-welcome visitors must sign the guest book.
+
+bash-2.04$ cat id.myhomemachine >> .ssh/authorized_keys 
+
+Step 3 
+------
+
+Let's test it. Get back on our local machine.
+First we fire up ssh-agent with a shell:
+[thorsten@winux thorsten]$ ssh-agent bash
+
+then using 'ssh-add' we can get access to the key
+[thorsten@winux thorsten]$ ssh-add 
+Need passphrase for /home/thorsten/.ssh/identity
+Enter passphrase for thorsten@winux: 
+Identity added: /home/thorsten/.ssh/identity (thorsten@winux)
+[thorsten@winux thorsten]$ 
+
+
+Now you should be able to now:
+
+[thorsten@winux thorsten]$ ssh muzak
+Warning: Remote host denied X11 forwarding.
+Last login: Mon Jan 29 04:02:43 2001 from winux
+[thorsten@muzak thorsten]$ 
+
+Step 4
+------
+
+Auto starting ssh-agent
+
+sweet, so now it's working. This article was about how to set this up 
+to start automatically. I did numerous web search's and most of em had different
+files where it said to insert ssh-agent, but none of them worked for me,
+so this is what worked for me, on a RedHat 7.0 system, running Helix
+Gnome and GDM as the login manager.
+
+I did some detecive work to find out which files were called.
+So from the boot, init reads /etc/inittab which specifies gdm as
+the login manager. I go looking around in /etc/X11/gdm
+and in there in the Session/ directory is a  Gnome file.
+Basically it does a check in there for init files and runs them
+It didn't seem to work for me, so i ripped out what was there,
+and replaced it with:
+[thorsten@winux thorsten]$ more /etc/X11/gdm/Sessions/Gnome 
+#!/bin/bash -login
+
+for errfile in "$HOME/.gnomerc-errors" "${TMPDIR-/tmp}/gnomerc-$USER" "/tmp/gnomerc-$USER"
+do
+  if ( cp /dev/null "$errfile" 2> /dev/null )
+	then
+	chmod 600 "$errfile"
+	exec > "$errfile" 2>&1
+	break
+  fi
+done
+/usr/bin/ssh-agent  /usr/bin/gnome-session
+[thorsten@winux thorsten]$ 
+
+Now, when i login, first thing i do is run ssh-add once, and from then on 
+passwordless logins! sweee-eet!
+
+
+thor, late at night, stoned, drunk and going to bed.

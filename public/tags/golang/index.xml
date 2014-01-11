@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Golang on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/golang.xml</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2013-12-30 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Go Presentation</title>
+      <link>http://theb0ardside.com/gopresentation/</link>
+      <pubDate>Mon, 30 Dec 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/gopresentation/</guid>
+      <description>&lt;p&gt;More and more I&amp;rsquo;ve been dabbling with Go, which, mainly due to Hacker News, i&amp;rsquo;ve been reading so many good things about. The syntax is super easy to pick up, but the killer feature seems to be the concurrency primitives - the Go Functions and message passing Channels seem like a super tight, rock solid implementation of Hoare&amp;rsquo;s Communicating Sequential Processes. The following video is a really succinct walk through of building a concurent multi-protocol chat application ala Chat Roulette..&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//player.vimeo.com/video/53221560&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;http://vimeo.com/53221560&#34;&gt;Go: code that grows with grace&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user4280938&#34;&gt;&amp;Oslash;redev Conference&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

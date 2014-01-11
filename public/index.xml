@@ -9,6 +9,169 @@
     <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
     
     <item>
+      <title>Oh yeah, Codetraxx</title>
+      <link>http://theb0ardside.com/codetraxx/</link>
+      <pubDate>Tue, 07 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/codetraxx/</guid>
+      <description>&lt;p&gt;Oh yeah, that &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project I mentioned, which me and &lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..&lt;/p&gt;
+
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124516248&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joshua Davis - Beyond Play</title>
+      <link>http://theb0ardside.com/joshua-davis-beyond-play/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/joshua-davis-beyond-play/</guid>
+      <description>&lt;p&gt;Wow. just wow&amp;hellip;&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/LJS4fBjdPM4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?!&lt;/p&gt;
+
+&lt;p&gt;This was following me and Tack&amp;rsquo;s &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while. Another friend of mine, &lt;a href=&#34;https://twitter.com/mattspendlove&#34;&gt;Matt Spendlove&lt;/a&gt;, had told me about &lt;a href=&#34;http://natureofcode.com/book/&#34;&gt;The Nature Of Code&lt;/a&gt; which i&amp;rsquo;ve been wanting to read, so I suggested we play with Processing - seems awesome already! So yeah, Codetraxx on hold for a while, and work on a couple of Processing projects for a while &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Cardb0ard Computer Scientists</title>
+      <link>http://theb0ardside.com/cardboard-computer-scientists/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/cardboard-computer-scientists/</guid>
+      <description>&lt;p&gt;A wee slideshow of my Cardb0ard Computer Scientists project..&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;.&#34; onclick=&#34;return changeImage(-1);&#34;&gt;Previous&lt;/a&gt; // &lt;a href=&#34;.&#34; onclick=&#34;return changeImage(1);&#34;&gt;Next&lt;/a&gt;
+// or better yet - use your left and right arrow-&amp;gt; keys //&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/static/img/cs/babbage.jpg&#34; id=&#34;cardboardscience&#34;&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;These are all drawn on scraps of cardboard i had around, most are either from frozen pizzas or record mailers!&lt;/p&gt;
+
+&lt;p&gt;So far i have:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Charles_Babbage&#34;&gt;Charles Babbage&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Ada_Lovelace&#34;&gt;Ada Lovelace&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Alan_Turing&#34;&gt;Alan Turing&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/John_von_Neumann&#34;&gt;John Von Neumann&lt;/a&gt; // not pictured&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Claude_Shannon&#34;&gt;Claude Shannon&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Konrad_Zuse&#34;&gt;Konrad Zuse&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Vannevar_Bush&#34;&gt;Vannevar Bush&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Doug_Engelbart&#34;&gt;Doug Engelbart&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist&#34;&gt;John McCarthy&lt;/a&gt;)&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Dennis_Ritchie&#34;&gt;Dennis Ritchie&lt;/a&gt; &lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Ken_Thompson&#34;&gt;ken Thompson&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Ted_Nelson&#34;&gt;Ted Nelson&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Seymour_Cray&#34;&gt;Seymour Cray&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;(Using the (Mousetrap)[&lt;a href=&#34;http://craig.is/killing/mice&#34;&gt;http://craig.is/killing/mice&lt;/a&gt;] library)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Street Punk</title>
+      <link>http://theb0ardside.com/streetpunk/</link>
+      <pubDate>Sat, 04 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/streetpunk/</guid>
+      <description>&lt;p&gt;Oh man, just found &lt;a href=&#34;http://www.hardlyart.com/hunxandhispunx.html&#34;&gt;this Hunx album from 2013&lt;/a&gt; - i had seen this following video for Bad Skin but forgot about the album when it came out - this video is so disgusting and totally my anthem!&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/rOM5jKK9pSU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stop Breaking The Web</title>
+      <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
+      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Better Vim With Damian Conway</title>
+      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
+      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acoustic Levitation</title>
+      <link>http://theb0ardside.com/acoustic-levitation/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
+      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Go Presentation</title>
+      <link>http://theb0ardside.com/gopresentation/</link>
+      <pubDate>Mon, 30 Dec 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/gopresentation/</guid>
+      <description>&lt;p&gt;More and more I&amp;rsquo;ve been dabbling with Go, which, mainly due to Hacker News, i&amp;rsquo;ve been reading so many good things about. The syntax is super easy to pick up, but the killer feature seems to be the concurrency primitives - the Go Functions and message passing Channels seem like a super tight, rock solid implementation of Hoare&amp;rsquo;s Communicating Sequential Processes. The following video is a really succinct walk through of building a concurent multi-protocol chat application ala Chat Roulette..&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//player.vimeo.com/video/53221560&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;http://vimeo.com/53221560&#34;&gt;Go: code that grows with grace&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user4280938&#34;&gt;&amp;Oslash;redev Conference&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computer Chess</title>
+      <link>http://theb0ardside.com/computerchess/</link>
+      <pubDate>Sun, 29 Dec 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/computerchess/</guid>
+      <description>&lt;p&gt;This movie is new up on Netflix, from Mumblecore director Andrew Bujalski - really good!&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/NuGT_L13bQ8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Arrival of UNIX in the UK</title>
+      <link>http://theb0ardside.com/unix70suk/</link>
+      <pubDate>Tue, 24 Dec 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/unix70suk/</guid>
+      <description>&lt;p&gt;Lovely wee video talking about the arrival of UNIX into 70&amp;rsquo;s UK Academia &amp;hellip;&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-rPPqm44xLs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ken Thompson, Cardboard Computer Scientist</title>
+      <link>http://theb0ardside.com/cardboardken/</link>
+      <pubDate>Mon, 23 Dec 2013 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/cardboardken/</guid>
+      <description>&lt;p&gt;Latest is &lt;a href=&#34;http://www.flickr.com/photos/sideb0ard/sets/72157629239791822/&#34;&gt;my series of Cardboard Computer Scientists&lt;/a&gt; is Ken Thompson, badman of Unix hisself..&lt;p&gt;
+&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7397/11508740873_bd63327b7b_o.jpg&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Troubleshooting the JVM at Twitter</title>
       <link>http://theb0ardside.com/troubleshootingjvmtwitter/</link>
       <pubDate>Mon, 09 Dec 2013 00:00:00 UTC</pubDate>
@@ -478,6 +641,16 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
+      <title>The Ono-Sendai SLB-10 ORB system</title>
+      <link>http://theb0ardside.com/theonosendaislb10orbsystem/</link>
+      <pubDate>Fri, 29 Jun 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/theonosendaislb10orbsystem/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5083/5381778688_f94f95fa71_z.jpg&#34; alt=&#34;Ono-Sendai SLB-10 ORB System&#34; /&gt;&lt;/p&gt;&lt;p&gt;&amp;#8220;The SLB-10 is the latest generation of ORB manufactured by Ono-Sendai, utilizing state of the art EM pulse powered flotation; archive-quality audio and visual recording capabilities; fully CMYK coloured, tactile holographic capability; and guaranteed always-on connection to your personal encrypted data storage facility.&lt;/p&gt;&lt;p&gt;ORBs have become so integral to our life and yet they are barely a 7 year old technology. It is worth reflecting on the brief history of these astounding devices, upon which we now rely so heavily.&lt;/p&gt;&lt;p&gt;In 2027, a group of engineers, skaterboarders and film-makers came together to work on a project utilizing the first commercial Shawyer/EmDrive propulsion system released by the British National Space Centre. Their early device was designed initially as a simple anti-gravity camera to be able to follow a moving person, while filming and streaming the data. It was a personal project for their own use, but they also expected it would be useful for other filming niches. What they hadn&amp;rsquo;t expected was the enormous demand from the general public, as real-time life-recording and live-blogging quickly took off, finding a multitude of personal and business uses. They formed a company to market their ORB devices, calling themselves Ono-Sendai, in joking homage to William Gibson.&lt;/p&gt;&lt;p&gt;The market for ORBs exploded, with feature upon feature being added in response to consumer demand: multiple cameras, higher definition a/v recording, voice control and audio speakers, automated laser protection systems, and crucially - the visual feed became integrated with in-Frame overlays. In those days Frames were still competing with handheld devices, before we perfected the means to spatially interact with data.&lt;/p&gt;&lt;p&gt;Two more pieces were necessary to bring us up to date with the contemporary ORB experience - the addition of the holo-projector in 2030, in order to finally disperse with a physical interface; and, more recently in 2032, the first mature ultrasound-based haptic holographic interface was introduced to provide a truly tactile experience.&lt;/p&gt;&lt;p&gt;As many imitators as there are on the market, Ono-Sendai manages to stay one step ahead of the competitors due its truly innovative operating system, SOLX - Son Of LinuX, the most advanced and personable decision-taking, realtime smart O/S. With Ono-Sendai and SOLX assisting your life, you be sure of trusted network access, personal security, and reliable data archive - Get on with enjoying your life!&amp;#8221;&lt;/p&gt;&lt;p&gt;// reblog from &lt;a href=&#34;http://drawingb0ard.blogspot.com/2011/01/ono-sendai-slb-10-orb-system.html&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;old Drawing B0ard post&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>tcpdump patterns</title>
       <link>http://theb0ardside.com/tcpdumppatterns/</link>
       <pubDate>Fri, 29 Jun 2012 00:00:00 UTC</pubDate>
@@ -486,16 +659,6 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
       <description>&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7185/6844034348_50dd1c5f32_b.jpg&#34; alt=&#34;McCarthy&#34; /&gt;&lt;/p&gt;&lt;p&gt;I use tcpdump a lot, but mostly at a reasonably high level, only really restricting the capture to host and port info, then pulling the dump back into Wireshark for nicer visualisation and easier filtering.&lt;/p&gt;&lt;p&gt;A couple of months back I read &lt;a href=&#34;http://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/159420229X&#34; title=&#34;Moonwalking With Einstein&#34; target=&#34;_blank&#34;&gt;Moonwalking With Einsten&lt;/a&gt;, which is a nice pop-science history of the importance of memory in previous societies, alongside the contemporary phenomena of &lt;a href=&#34;http://www.worldmemorychampionships.com/&#34; title=&#34;World Memory Competitions&#34; target=&#34;_blank&#34;&gt;competitive memory competitions&lt;/a&gt;. The book is great, and explains how feats of memory are achieved via the technique of &lt;a href=&#34;http://en.wikipedia.org/wiki/Method_of_loci&#34; title=&#34;Memory Palaces&#34; target=&#34;_blank&#34;&gt;memory palaces&lt;/a&gt;, a technique dating back to Roman times - spatial memory relationships. I&#39;ve been using the technique a lot since I read this book, and truly, no magic to it, it really works. Basically, when you have a list of items to remember, you weave each item, in order, into a spatially focussed narrative.&lt;/p&gt;&lt;p&gt;So, last night, I get out my copy of TCP/IP Illustrated, Volume 1*, one of my most-returned-to tech books - I&#39;ve always wanted to have a more encyclopedic knowledge of the lower level details of TCP/IP, and last night applied the Memory Palace Technique to the structure of a TCP packet.&lt;br/&gt;
 (( read the &lt;a href=&#34;http://en.wikipedia.org/wiki/Method_of_loci&#34; title=&#34;Memory Palace - Wikipedia&#34; target=&#34;_blank&#34;&gt;wikipedia article&lt;/a&gt; for more details)) &lt;/p&gt;
 &lt;p&gt;In my memory palace I was walking down the path towards the house where I grew up, and seeing a &amp;#8216;&lt;strong&gt;S&lt;/strong&gt;o&lt;strong&gt;RC&lt;/strong&gt;erer/&lt;strong&gt;Src Port&lt;/strong&gt;&amp;#8216; battling with &amp;#8216;Dick &lt;strong&gt;D&lt;/strong&gt;a&lt;strong&gt;ST&lt;/strong&gt;ardly and Mutley/&lt;strong&gt;Dst Port&lt;/strong&gt;&amp;#8216;, then walk into my mothers front hallway with a &lt;strong&gt;Sequence Number&lt;/strong&gt; along the front hall, then my Grandfather sitting in a chair in the living room saying &amp;#8220;&lt;strong&gt;ACK&lt;/strong&gt;!&amp;#8221; because the soccer is on the television and he&#39;s complaining about the &lt;strong&gt;Header Length&lt;/strong&gt; &amp;#8230; you get the idea - but yeah, you need to make your own memory palace.&lt;/p&gt;&lt;p&gt;Now that I have a complete image of this TCP packet in my head suddenly expressions like :&lt;/p&gt;&lt;p&gt;&lt;code&gt;tcpdump -ni en1 tcp[13] == 18 and host 172.16.1.200 and port 80 &lt;/code&gt;&lt;/p&gt;&lt;p&gt;are way easier to understand and use - the &lt;code&gt;tcp[13]&lt;/code&gt; part refers to the 13th Octet of the packet, which is the Flags octet, then the &lt;code&gt;18&lt;/code&gt; part is a simple decimal representation of the binary flags, in the order they are in the diagram above - i.e the Flags are &lt;/p&gt;&lt;p&gt;&lt;code&gt;CWR | ECE | URG | ACK | PSH | RST | SYN | FIN&lt;/code&gt; &lt;/p&gt;&lt;p&gt;so in my example 18 refers to having both the ACK and SYN flags set - 00010010 which if you&#39;re used to dealing with netmasks math is quite an easy translation. My example, then, will only capture the first response packet from the server, as it would be the only part of the conversation to have both an ACK and SYN flag set. (I used a separate memory palace for the flags themselves)&lt;/p&gt;&lt;p&gt;To capture all SYN packets, including the ACK/SYN ones, you would use:&lt;/p&gt;&lt;p&gt;&lt;code&gt;tcpdump -ni en1 &amp;#039;tcp[13] == 18 or tcp[13] == 2&amp;#039; and host 172.16.1.200 and port 80&lt;/code&gt;.&lt;/p&gt;&lt;p&gt;Memory Palaces are pretty damn useful!&lt;/p&gt;&lt;p&gt;** Most Engineers are aware of TCP/IP Illustrated, however a lot of people I&#39;ve spoken to aren&#39;t aware there was a &lt;a href=&#34;http://www.amazon.com/TCP-Illustrated-Volume-Addison-Wesley-Professional/dp/0321336313/ref=pd_sim_b_1&#34; title=&#34;TCP/IP Illustrated Vol 1 Edition 2&#34; target=&#34;_blank&#34;&gt;2nd Edition published in November of 2011, updated by a guy named Kevin R. Fall&lt;/a&gt; - I would absolutely recommend it, an amazing book and especially with the updates, just seems an essential addition to any Engineer&#39;s library..&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Ono-Sendai SLB-10 ORB system</title>
-      <link>http://theb0ardside.com/theonosendaislb10orbsystem/</link>
-      <pubDate>Fri, 29 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/theonosendaislb10orbsystem/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5083/5381778688_f94f95fa71_z.jpg&#34; alt=&#34;Ono-Sendai SLB-10 ORB System&#34; /&gt;&lt;/p&gt;&lt;p&gt;&amp;#8220;The SLB-10 is the latest generation of ORB manufactured by Ono-Sendai, utilizing state of the art EM pulse powered flotation; archive-quality audio and visual recording capabilities; fully CMYK coloured, tactile holographic capability; and guaranteed always-on connection to your personal encrypted data storage facility.&lt;/p&gt;&lt;p&gt;ORBs have become so integral to our life and yet they are barely a 7 year old technology. It is worth reflecting on the brief history of these astounding devices, upon which we now rely so heavily.&lt;/p&gt;&lt;p&gt;In 2027, a group of engineers, skaterboarders and film-makers came together to work on a project utilizing the first commercial Shawyer/EmDrive propulsion system released by the British National Space Centre. Their early device was designed initially as a simple anti-gravity camera to be able to follow a moving person, while filming and streaming the data. It was a personal project for their own use, but they also expected it would be useful for other filming niches. What they hadn&amp;rsquo;t expected was the enormous demand from the general public, as real-time life-recording and live-blogging quickly took off, finding a multitude of personal and business uses. They formed a company to market their ORB devices, calling themselves Ono-Sendai, in joking homage to William Gibson.&lt;/p&gt;&lt;p&gt;The market for ORBs exploded, with feature upon feature being added in response to consumer demand: multiple cameras, higher definition a/v recording, voice control and audio speakers, automated laser protection systems, and crucially - the visual feed became integrated with in-Frame overlays. In those days Frames were still competing with handheld devices, before we perfected the means to spatially interact with data.&lt;/p&gt;&lt;p&gt;Two more pieces were necessary to bring us up to date with the contemporary ORB experience - the addition of the holo-projector in 2030, in order to finally disperse with a physical interface; and, more recently in 2032, the first mature ultrasound-based haptic holographic interface was introduced to provide a truly tactile experience.&lt;/p&gt;&lt;p&gt;As many imitators as there are on the market, Ono-Sendai manages to stay one step ahead of the competitors due its truly innovative operating system, SOLX - Son Of LinuX, the most advanced and personable decision-taking, realtime smart O/S. With Ono-Sendai and SOLX assisting your life, you be sure of trusted network access, personal security, and reliable data archive - Get on with enjoying your life!&amp;#8221;&lt;/p&gt;&lt;p&gt;// reblog from &lt;a href=&#34;http://drawingb0ard.blogspot.com/2011/01/ono-sendai-slb-10-orb-system.html&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;old Drawing B0ard post&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -540,22 +703,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>hitchhikers guide to the googleverse</title>
-      <link>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</link>
-      <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</guid>
-      <description>&lt;p&gt;Maybe they ain&#39;t doing so well with Social, and so what if people are stupid enough to try Bing - It&#39;s visionary efforts like this that show Google still leave most  other companies behind in a dust ball of mundanity&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/mmQl6VGvX-c?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;(( personally, I actually think Google+ is doing fine too - its full of way more techie interesting people and content than all the FB posts by yer aunties and people you went to school with.. ))&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>another cardboard computer scientist portrait</title>
       <link>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</link>
       <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Seymour Cray&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7234/7201335100_51b91c38da_b.jpg&#34; alt=&#34;Seymour Cray&#34; /&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://drawingb0ard.blogspot.com/search/label/cardboard%20computer%20scientists&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;The Cardboard Computer Scientists series 2012&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hitchhikers guide to the googleverse</title>
+      <link>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</link>
+      <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</guid>
+      <description>&lt;p&gt;Maybe they ain&#39;t doing so well with Social, and so what if people are stupid enough to try Bing - It&#39;s visionary efforts like this that show Google still leave most  other companies behind in a dust ball of mundanity&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/mmQl6VGvX-c?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;(( personally, I actually think Google+ is doing fine too - its full of way more techie interesting people and content than all the FB posts by yer aunties and people you went to school with.. ))&lt;/p&gt;
 </description>
     </item>
     
@@ -860,22 +1023,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>The Mother Of All Demos, 1968</title>
-      <link>http://theb0ardside.com/themotherofalldemos1968/</link>
-      <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://sloan.stanford.edu/MouseSite/dce1968conferenceannouncement.jpg&#34; title=&#34;advert&#34; class=&#34;aligncenter&#34; width=&#34;566&#34; height=&#34;760&#34; /&gt;&lt;/p&gt;&lt;p&gt;Watch it &lt;a href=&#34;http://sloan.stanford.edu/MouseSite/1968Demo.html#complete&#34; title=&#34;Mother Of All Demos complete&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Multicore UFOs</title>
       <link>http://theb0ardside.com/multicoreufos/</link>
       <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/multicoreufos/</guid>
       <description>&lt;p&gt;Interesting &lt;a href=&#34;http://gigaom.com/cloud/facebook-tilera/&#34; title=&#34;GigaOm FB Tilera &#34; target=&#34;_blank&#34;&gt;article on GigaOm&lt;/a&gt; this morning about Facebook benchmarking a 64-core chip from &lt;a href=&#34;http://www.tilera.com/&#34; title=&#34;Tilera&#34; target=&#34;_blank&#34;&gt;Tilera&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://www.tilera.com/sites/default/files/products/TILE64_0.jpg&#34; title=&#34;Tilera TILE64&#34; class=&#34;aligncenter&#34; width=&#34;160&#34; height=&#34;160&#34; /&gt;&lt;/p&gt;&lt;p&gt;The X86 processor architecture has been in a dominant for so many years, not based upon any inherent sophistication, but more based upon chance and circumstance (see &lt;a href=&#34;http://developer.yahoo.com/yui/theater/video.php?v=crockonjs-1&#34; title=&#34;Doug Crockford&#34; target=&#34;_blank&#34;&gt;this vid&lt;/a&gt; for more details around the 48min mark), so it does feel about time for a new advancement in hardware architecture. &lt;/p&gt;&lt;p&gt;Be interesting to watch this space and see what develops..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Mother Of All Demos, 1968</title>
+      <link>http://theb0ardside.com/themotherofalldemos1968/</link>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://sloan.stanford.edu/MouseSite/dce1968conferenceannouncement.jpg&#34; title=&#34;advert&#34; class=&#34;aligncenter&#34; width=&#34;566&#34; height=&#34;760&#34; /&gt;&lt;/p&gt;&lt;p&gt;Watch it &lt;a href=&#34;http://sloan.stanford.edu/MouseSite/1968Demo.html#complete&#34; title=&#34;Mother Of All Demos complete&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -920,22 +1083,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>Node.js</title>
-      <link>http://theb0ardside.com/nodejs/</link>
-      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/nodejs/</guid>
-      <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>zettabytez</title>
       <link>http://theb0ardside.com/zettabytez/</link>
       <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/zettabytez/</guid>
       <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Node.js</title>
+      <link>http://theb0ardside.com/nodejs/</link>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/nodejs/</guid>
+      <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

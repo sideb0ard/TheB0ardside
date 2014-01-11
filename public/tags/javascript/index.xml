@@ -6,7 +6,33 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2011-07-09 00:00:00 &#43;0000 UTC</updated>
+    <updated>2014-01-07 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Oh yeah, Codetraxx</title>
+      <link>http://theb0ardside.com/codetraxx/</link>
+      <pubDate>Tue, 07 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/codetraxx/</guid>
+      <description>&lt;p&gt;Oh yeah, that &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project I mentioned, which me and &lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..&lt;/p&gt;
+
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124516248&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stop Breaking The Web</title>
+      <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
+      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>mo&#39; history lessons</title>

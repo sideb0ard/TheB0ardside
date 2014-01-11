@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Setting up yer own webcast.</title>
+</head>
+
+<body bgcolor="#000000" text="#ffffff" vlink="#ffffff">
+<table width="700">
+	<tr><td>
+	<table bgcolor="#000000" cols="4" align="right" width="400" valign="center" border="0"> 
+
+<tr><td align="right" colspan=><img src="../images/interphaze-title.gif"></td></tr>
+<tr align="right">
+	<td width="100"><STRONG><FONT color=#e6b81a face=Arial size=3></FONT></STRONG></td>
+	<td><a href="http://www.live365.com/cgi-bin/play.pls?addr=216.32.166.79:22420&file=filename.pls"><STRONG><FONT color=#e6b81a face=Arial size=3>listen</FONT></STRONG></a></td>
+	<td><a href="http://www.interphaze.org"><STRONG><FONT color=#ce812b face=Arial size=3>home</FONT></STRONG></a></td>
+	<td><A href="mailto:thorsten@interphaze.org"><STRONG><FONT color=#ff8040 face=Arial size=3 >contact</FONT></STRONG></a></td>
+</tr>
+<tr><td>
+<FONT SIZE=2><P>How to setup a webcast da easy way</P>
+<P>--------------------------------------------</P>
+
+<P>after my friend and I  lost our regular venue for Djing I decided to set up a regular webcast from home.</P>
+<P>It is so simple to get going, yet it may still seem a bit daunting or complex to some budding DJs out there at first look. So to help out, heres my quick run down on what I used to get it up and going.</P>
+<img height="150" src="medjing2.gif">
+<OL>
+
+<LI>Linux server with reasonable connection to the Internet, at least DSL speeds. Reasonably good box would definetely be better, but I managed to run mine on Pentium 100, with 24MB.</LI>
+<LI>Windows box with a nice amount of RAM and MHz. This guy will be doing the encoding, so the beefier the better.</LI></OL>
+
+
+<P>Ok, first we install Icecast, which can be downloaded from </FONT><A HREF="http://www.icecast.org/"><FONT SIZE=2>www.icecast.org</FONT></A><FONT SIZE=2> on the Linux box.</P>
+<P>no hard install here, a quick ‘./configure’, ‘make’ and ‘make install’ and we’re done. We need root priveleges here, so if ya’re doing this at a hosted site, </P>
+<p>better contact them and see if they will set it up for ya. This article is geared more to people perhaps running a Linux gateway a home, with</P>
+<P>a DSL connection. </P>
+<P>Icecast, is an open source version of Shoutcast, which was one of the first streaming servers under the Windowz platform, although it has now been ported to Linux, and other *nix variants, it still has a funky commercial license, whereas Icecast is under the ever sexy GNU Public License.</P>
+<P>Anyways, it is installed by default under ‘/usr/local/icecast’. The three important directories are bin, conf and logs. There is also a doc directory, which contains a nice manual in html format.</P>
+<P>Under its ‘conf’ directory, edit the icecast.conf file and change stuff to be relevant for your own site,</P>
+<P>such as your email address and URL, description of music and quite importantly, the encoder, admin and operator passwords. Save your  changes, and you should now be able now start the server by running</P>
+<P>‘/usr/local/icecast/bin/icecast’. This will take you into the Admin Console mode, where you can see server stats and do various administrative stuff. </P>
+<P>If you’d rather it ran as background daemon, you can start it with ‘-b’ switch which will tidy it out of your pesky way, and leave your console free. To get back to the admin console you can telnet to the server on port 8000. Nothing will happen except the escape character prompt.</P>
+<P>Type ‘ADMIN &lt;admin-password&gt;’, of course substituting the &lt;admin-password&gt; for whatever you changed it to in the icecast.conf file. Then press Return twice. BAM! Should have a console. Type help for a list of commands, of see the documentation.</P>
+
+<P>Excellent, so we now have the server side setup. We can go one of two ways now, we can stream a static list of MP3s or we can broadcast live.</P>
+<P>The static list of files is real easy. Included with Icecast, are two other programs, called ‘Shout’ and ‘Liceice’. I haven’t use ‘Liveice’ so I can’t say much about it. Shout is the static encoder and is very easy to use, so I won’t go into it much either. Basically, Shout has a conf file also, where you can put in the encoder password you specified earlier, and you give it a filename to read which contains a list of your MP3s to stream. The easiest way to create your playlist file is by first running an’updatedb &amp;’ command which builds a handy index of your harddrive files.</P>
+<P>Then run ‘locate *.mp3 &gt; playlist.txt’. This command searchs your newly created index for all files and pipes the results out to our file called ‘playlist.txt’. Shout has various options for randomizing your list and endlessly looping, so you could leave it going continually</P>
+<img height="150" src="cdplayer1.gif">
+<P>Onto the live stream. </P>
+<P>What I wanted to do was hook up Vestax CDX-12 unit to my computers line in jack and stream live from that. For this I used my windows box. I know, I know, don’t hound me. I usually run a Mandrake Linux box for my desktop, but lately I been having to use Windoze, so I can run ACID, Photoshop and some other s/ware, and for the live streaming, the Shoutcast plugin for WinAmp runs excellent. It takes the stream from line-in, encodes it and sends it out to your server. People tune in to your server’s IP address and POW! Web radioshow!</P>
+<P>Ok, so chances are you already have WinAmp installed. If not, get it from </FONT><A HREF="http://www.winamp.com/"><FONT SIZE=2>www.winamp.com</FONT></A><FONT SIZE=2>.</P>
+<P>Then go to </FONT><A HREF="http://www.shoutcast.com/"><FONT SIZE=2>www.shoutcast.com</FONT></A><FONT SIZE=2> and look  for the download page, select the ‘Be a DJ’ option and download the ShoutCast Winamp DSP Plug-in, and they also have some other tools for using, such as for doing voiceovers. The install is really simple. It finds your Winamp directory and sticks itself in your plugin dir.</P>
+<P>Run Winamp, go to the menu and select Options, Preferences, and then goto Plugins, DSP/Effect and you should see the ‘SHOUTcast Source for Winamp. Click on it and you should get a control box pop up. The top of the line is for Server. Select Edit and type in your Icecast server’s ip address, the port (Should be 8000)  and your encoder password. Click OK,  The second option is for your encoding bitrate and sound quality. Do the maths here, work out your bandwidth, think how many listeners you will be having and stream accordingly. </P>
+
+<P>Then hit the Connect button. If you still have the console open on your Icecast server, you should be able to see a conversation going on between the boxes, and if it didn’t connect, you should hopefully see some explanations of what went wrong. Another place for clues is to look in the log files, located conviently in the logs directory! If you see no conversation, then something is wrong with the encoders configuration. Check the IP address and port numbers. Funny thing I found when setting mine up, mine would not connect at all, even though all the config was correct. Using tcpdump, a packet sniffer for Linux, I discovered the packets from my encoder were looking for port 8001! Huh, so  I just lowered the port in my Winamp/Shoutcast configuration to 7999, and it worked, it send out packets for port 8000. Don’t ask, too weird.</P>
+
+<P>If you have another computer, try connecting to the server to hear your stream!</P>
+
+<P>Problems:</P>
+<P>Not enuf bandwidth was my main enemy. All the configuration and setup can be muddled through pretty easily with some guidance. But, yeah, at first I did it from home on my 384/128 ADSL line. I was encoding at around 24/Kbps, and with more than four listeners, it was choking. (4 x 24 uses only 96Kbs only, but with the encoder and any other network activity going on it was bad). I was lucky enuf to set up icecast on my mail server at work, which had a phat T-1, but it’s still fun to get a little show going from home.</P>
+
+<P>Any comments or corrections, mail me at </FONT><A HREF="mailto:thorsten@interphaze.org"><FONT SIZE=2>thorsten@interphaze.org</FONT></A><FONT SIZE=2>. </P>
+
+<P>Cheers!</P></FONT></td></tr>
+</table>
+</td></tr>
+</table>
+
+
+
+</body>
+</html>

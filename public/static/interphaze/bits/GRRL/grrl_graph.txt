@@ -1,0 +1,49 @@
+#!/usr/local/bin/perl
+#
+# Using rrdtool, outputs GIFs from the resource utilization DB
+#
+# Thor Sideb0ard, dec2k
+#
+
+#use strict;
+
+my($dbdir)="/usr/local/grrl/dbz";
+my($grafdir)="/usr/local/grrl/grafs";
+my($rrdtool) = "/usr/local/rrdtool/bin/rrdtool";
+my($unixtime) = time; # Used for the RRDtool database
+my($pasthour) = $unixtime - 3700; # for graphing the past hour. 
+my($pastday) = $unixtime - 86500; # Ditto
+
+opendir(DBDIR,$dbdir) || die "Couldn't open the database directory: $!\n";
+
+while (defined($file = readdir(DBDIR))) {
+		if ($file =~ /rrd$/) {
+		my($db)= "$dbdir/$file";
+		$hostbox = $file;
+		$hostbox =~ s/\..*//;
+
+######## Graphs for last Hour Section #######################################
+		print "Ouputting last hour graphs for $hostbox.\n";
+		my($cpuhourgraf)="$grafdir/$hostbox" . "cpuhour.gif";
+		my($memhourgraf)="$grafdir/$hostbox" . "memhour.gif";
+
+		# CPU hour graf
+		system("$rrdtool graph $cpuhourgraf --start $pasthour --end $unixtime --vertical-label=\"Percentage Utilisation\" DEF:myusr=$db:cpuusr:AVERAGE LINE2:myusr#ff0000:\"CPU in use by user processes\" DEF:mysys=$db:cpusys:AVERAGE LINE2:mysys#00ff00:\"CPU in use by system processes\" DEF:myidle=$db:cpuidle:AVERAGE LINE2:myidle#0000ff:\"CPU idle time\"");
+
+		#Mem hour graf
+		system("$rrdtool graph $memhourgraf --start $pasthour --end $unixtime --vertical-label=\"Memory Mbytes\" DEF:myswap=$db:swapfree:AVERAGE CDEF:realswap=myswap,1000,* LINE2:realswap#ff0000:\"Swap free\" DEF:mymem=$db:memfree:AVERAGE CDEF:realmem=mymem,1000,* LINE2:realmem#00ff00:\"Memory Free\"");
+
+######## Graphs for last Day Section #######################################
+        print "Ouputting last day graphs for $hostbox.\n";
+		my($cpudaygraf)="$grafdir/$hostbox" . "cpuday.gif";
+		my($memdaygraf)="$grafdir/$hostbox" . "memday.gif";
+
+		# CPU day graf
+		system("$rrdtool graph $cpudaygraf --start $pastday --end $unixtime --vertical-label=\"Percentage Utilisation\" DEF:myusr=$db:cpuusr:AVERAGE LINE2:myusr#ff0000:\"CPU in use by user processes\" DEF:mysys=$db:cpusys:AVERAGE LINE2:mysys#00ff00:\"CPU in use by system processes\" DEF:myidle=$db:cpuidle:AVERAGE LINE2:myidle#0000ff:\"CPU idle time\"");
+
+		# Mem day graf
+		system("$rrdtool graph $memdaygraf --start $pastday --end $unixtime --vertical-label=\"Memory Mbytes\" DEF:myswap=$db:swapfree:AVERAGE CDEF:realswap=myswap,1000,* LINE2:realswap#ff0000:\"Swap free\" DEF:mymem=$db:memfree:AVERAGE CDEF:realmem=mymem,1000,* LINE2:realmem#00ff00:\"Memory Free\"");
+
+		}
+
+}

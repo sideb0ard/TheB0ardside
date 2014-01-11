@@ -1,0 +1,814 @@
+<html>
+<head>
+<title>The Spice Grrls guide to network security on a hostile network</title>
+</head>
+
+<body bgcolor="#333366" text="orange" link="orange" vlink="orange">
+
+<div class=Section1>
+
+<p class=MsoPlainText align=center style='text-align:center'><b><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;mso-fareast-font-family:
+"MS Mincho"'>The Spice Grrls<o:p></o:p></span></b></p>
+
+<p class=MsoPlainText align=center style='text-align:center'><b><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;mso-fareast-font-family:
+"MS Mincho"'>guide to Unix security on a hostile network v2.0</span></b><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;mso-fareast-font-family:
+"MS Mincho"'><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>intro<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>1. Work out what your
+system is going to be used for.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>2. The infamous inetd.
+If needed replace with xinetd.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>3. Other bothersome
+services.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>4. Tighten system user
+accounts.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>5. Get rid of
+unnecessary SUID and SGID programs.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>6. Find world writable
+directories.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>7. Now comes the fun
+part... auditing the system.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>8. Tighten the remaining
+services.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>9. Tripwire important
+system files. End talk about Trojan files.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>10. Enable strong
+logging. Syslog-ng.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>11. Tools to help find
+out what is going on in your system.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><span
+style="mso-spacerun: yes">     </span>Lsof. Fuser. Ps. Netstat. Nmap.
+Tcpdump/ethereal/snort.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Intro <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>If someone wants into
+your system really badly, chances are they are going to get in. Luckily, there
+aren't that many people who want in that badly. Although we read about
+political hacktivism, and industrial espionage, the majority of the computer
+breaches are script kiddies at home, using tools they downloaded and don't
+fully understand. It's up to you to evaluate how much security is needed on any
+given system, and how to go about providing it. For top level systems, that
+hold your crown jewels of information, you seriously want to think about either
+outsourcing your security needs to have it monitored and maintained 24 hours,
+or by having your own full time security team. Neither of these is particularly<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>cost-effective or
+practical for your average user nor small company. That's where this document
+comes in. This is basically a collection of tips, tricks and techniques learned
+through experiences of my own and other sysadmin friends, which I feel have
+some good practical and tangible results.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;
+mso-fareast-font-family:"MS Mincho";mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
+page-break-before:always'>
+</span>
+
+<p class=MsoPlainText><![if !supportEmptyParas]>&nbsp;<![endif]><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Arial;mso-fareast-font-family:
+"MS Mincho"'><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>&lt;disclaimer&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Before we begin, I've
+read other articles that said, NEVER connect your system to the network before
+it's secured. Good advice, but kind of impractical when you need to update
+software on it, and really, if you are behind a fireball, using NAT and have no
+conduits pointing to your machine, I believe you are at least protected from
+the outside world. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>&lt;/disclaimer&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><span
+style="mso-spacerun: yes">                    </span><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>1. Work out what your
+system is going to be used for. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Don't be ambiguous, be
+precise. Is it a mail server/ web server/ ssh box? When you know exactly what
+it's meant to provide, stick to it. Keep this mind and it's much easier to make
+the necessary decisions. Don't be fooled by the &quot;Well, I might need it
+later on&quot; argument. If in doubt, get it the hell out! Even once that
+decision is made, there are further decisions following that. Even when you
+have decided that a service is needed, how elaborate does that service need to
+be? i.e. If it's a web server, does it have to serve dynamic content? If it's
+an ftp server, do they need to have write access? A good example of why you
+should think about this that you don't have to use the industry standards such
+as BIND, Apache or Sendmail. Think about alternatives, such as Dan Bernstein’s
+Qmail and djbdns.<span style="mso-spacerun: yes">  </span>Make your install as
+simple as possible, select the most bare bones install available and add what
+you need by hand later. After the initial install, make sure you have the most
+up-to-date versions available of any installed software. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>2. The infamous Inetd.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>So much as been written
+about inetd that I don’t really want to get into it. Most of the services
+called from inetd are from a bygone day, and have very little to no security.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>If you are going to use
+inetd, then make good use of tcpwrappers, and logging.<span
+style="mso-spacerun: yes">  </span>My personal policy is :if you can't wrap it
+in ssl or tunnel it through ssh, don't use it. Remember kids, say after me: &quot;There
+will be no clear text passwords on my network. There will be no clear text
+passwords on my network.&quot;<span style="mso-spacerun: yes">  </span><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>More recently, and
+installed on RedHat7 by default is xinetd.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Xinetd is a secure
+replacment for inetd, and has the best features of tcpwrappers and a lot more.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>It’s features include, a
+much more comprehensive access control mechanism, which can be based on IP
+address of remote host, domain name of remote host, time of day. The access
+control can be applied to both UDP and TCP servers. Other features include the
+ability to prevent denial of service by controlling how many processes can be
+spawned from a server, how many connections can be open, log file growth
+management. One of the features I find really useful is the ability to bind a
+server to a particular IP and interface, which can be especially useful for
+those dual homed DSL servers found in a lot of homes.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>3. Other bothersome
+services<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Our second thing to tidy
+up, are the services that the OS automatically starts when it boots. The
+services loaded depend upon the run level. For a Linux server this is typically
+run level 3, which has full multi-user and network support but no X server. The
+services started can be found in the /etc/rc.d/rc&lt;runlevel&gt;.d directory.
+In the<span style="mso-spacerun: yes">  </span>case of run level 3 the directory
+is<span style="mso-spacerun: yes">  </span>/etc/rc.d/rc3.d'. For Solaris, the
+equivalent run level is 2, and the directory to find these is /etc/rc2.d/.<span
+style="mso-spacerun: yes">  </span>Every file is this directory starting with a
+capital S will be started when the system enters that run level. Everything
+with a capital K will be killed when leaving that run level. These files are
+actually symbolic links to the init.d directory. Go through these files and
+rename the files that you don't need to start. If you rename the file with a
+lowercase<span style="mso-spacerun: yes">  </span>s', it won't be started, and
+you'll know what you have altered because the file name still remains. Think of
+this like a game, where the purpose is to have as little running as possible.
+Once you have renamed the files, there will be still be an instance of the
+program running until you restart or switch run levels. If you run a<span
+style="mso-spacerun: yes">  </span>ps', try and identify all the processes, and
+kill the ones which you have decided you don't need. There is actually a very
+nice Linux utility for doing this process called chkconfig, which was ported
+from the original IRIX utility of the same name. Chkconfig takes care of the
+renaming and shutting off of services for you. See the man page or help for
+details. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Then as I mentioned
+before, ask yourself the scope of the services required. Do you need to install
+BIND or Sendmail with all their additional bells and whistles (and exploits!)
+Or can you make do with a simpler more robust version of the service. I'm not
+gonna start listing alternatives, but I just merely mean to make you aware of
+that fact that you needn't run the default programs that everyone else does,
+just because they are popular. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>4.Tighten system user
+accounts. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>During installation, a
+number of userids are created by the system, and are required, however they can
+be the back door in for crackers, so we want to make sure these accounts are
+locked down. The following are a good place to start: <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>adm, bin, daemon,
+listen, lp, nobody, nonaccess, nuucp, smtp, sys and uucp.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>If the account is not
+needed, such as lp, smtp or uucp, disable the account by editing the
+/etc/shadow file and replacing the encrypted password with an asterix. If the
+account is needed by the system you should make sure that the account does not
+have a valid shell. In the /etc/passwd file, the last field for each entry is
+the login shell assigned to the login name. For these accounts make sure it is
+set to a false shell such as /bin/false so that no one can use the login for
+shell access. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Also, for any software
+installed that creates a user account to use, make sure you change the default
+password.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>5.Get rid of unnecessary
+SUID and SGID programs.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Some programs require
+access to privileged ports or need to use devices which the average user does
+not have access to. These programs usually have the SUID or SGID bit set, which
+means that the program runs with the user privileges of the program's owner,
+usually root. This can be very beneficial in certain circumstance, however it's
+a two edged sword, as these same programs can be tricked into performing a task
+that it was never intended for, and can give the wiley attacker the root shell
+they are seeking. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>By running the command:<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>find / -type f -a \(
+-perm -004000 -o -perm -002000 \) -exec ls -l {} \;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>We can find all the SUID
+and SGID files on the system. Again, go through these files, either removing
+the ones not needed, or if it's not strictly necessary, remove the SUID/SGID
+permission.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>6. Find world writable
+directories.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>World writable
+directories can written to even by users with absolutely no permissions, and
+again, can be used maliciously by the wiley attacker, in the quest for root. To
+find these directories, use the command:<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>find / -perm -2 -print
+-exec ls -l {} \;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Once again, go through
+these, seeing which ones really need to have this access.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>That should be us
+finished with the basic system. Lets take a bit of an audit, see how the system
+is looking, and see how we can tighten the service left, and what tools we can
+use to enhance security. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>This task and the one
+above should be run regularly on a busy production system, and can be set up to
+be run from a cron job, sending you back the results.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>7. Now comes the fun
+part...Auditing the system.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Now that we think we
+have the system locked down pretty well, let's see how it looks to the outside
+world. Using a portmapper program such as nmap, scan the system to find out
+what ports are open and if it matches what we believe we have open.<span
+style="mso-spacerun: yes">  </span><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>You should see output
+similar to below:<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>[root@gundam /root]#
+nmap localhost<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Starting nmap V.
+2.30BETA17 by fyodor@insecure.org ( www.insecure.org/nmap/ )<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Interesting ports on
+gundam.baffle.com (127.0.0.1):<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Port<span
+style="mso-spacerun: yes">       </span>State<span style="mso-spacerun:
+yes">       </span>Service<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>22/tcp<span
+style="mso-spacerun: yes">     </span>open<span style="mso-spacerun:
+yes">        </span>ssh<span style="mso-spacerun: yes">                    
+</span><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>25/tcp<span
+style="mso-spacerun: yes">     </span>open<span style="mso-spacerun:
+yes">        </span>smtp<span style="mso-spacerun: yes">                   
+</span><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>139/tcp<span
+style="mso-spacerun: yes">    </span>open<span style="mso-spacerun:
+yes">        </span>netbios-ssn<span style="mso-spacerun: yes">            
+</span><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>515/tcp<span
+style="mso-spacerun: yes">    </span>open<span style="mso-spacerun:
+yes">        </span>printer<span style="mso-spacerun: yes">                
+</span><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>6000/tcp<span
+style="mso-spacerun: yes">   </span>open<span style="mso-spacerun: yes">       
+</span>X11<span style="mso-spacerun: yes">                     </span><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Nmap run completed -- 1
+IP address (1 host up) scanned in 1 second<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>If there are any ports
+that shouldn't be open, review the last section and try to find where to stop the
+service. It will be from where we looked earlier, either in the rc directory,
+or a service from inetd. You may have stopped it from starting at boot time,
+but there may be another copy running in memory that still needs killed.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>8.Tighten the remaining
+services.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Pretty much the
+methodology used by a cracker will be to port scan your system to find out the
+OS running and to look for open ports, find out what is running on those ports,
+i.e. what service, and which version, then go and look up an exploit database
+to find any workable vulnerabilities. We should do the same. Of the remaining
+services, make sure you are running the most up to date version of the
+software. Check out the vendor's site, apply any patches recommended, and then
+search security sites for known exploits.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Some recommended sites
+are <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>http://www.insecure.org<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>http://www.rootshell.com<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>http://www.securityfocus.com<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>There are databases
+there based on OS and application, so just do lookups for everything you have
+running.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Use a tool like netcat
+to connect to the open ports, see what you can find out from the program
+headers. Netcat is like telnet on crack, it can be a server or client and can
+connect to any arbitrary port, whether tcp or udp, and will just pass you the
+raw information it recieves.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>[root@gundam /root]# nc
+localhost 22<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>SSH-1.99-OpenSSH_2.1.1<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>This is what I get when
+I connect to my local port 22. Look through the program's header files, config
+files, read the man pages, and see if there is any way to hide this
+information. Quite often there is a compile time option to obscure the banner
+or replace it with your own custom banner.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>For services that send
+clear text passwords, such as pop and imap, wrap then in a secure environment
+such as using SSL to connect. Make it a rule to live by, if it sends clear text
+passwords, get rid of it, or modify it so that it goes over an encrypted
+channel. There is absolutely no excuse for clear text passwords anymore. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>9. Tripwire.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Pretty much a necessity
+these days, is to run Tripwire.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Tripwire monitors
+certain files designated by yourself, to see if any of the files’ key
+attributes have changed, such as it’s binary signature or it’s file size. By
+doing this you can be confident that no one has replaced any of your binary
+services with a trojaned version. I can’t stress the importance of this enough.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>A breach can go
+unnoticed for a long period, especially if your cracker has installed some kind
+of root kit on the system.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>10. Enable strong
+logging.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Not everything can be
+prevented, not every hole patched. But what we can do is leave a heavily marked
+trail to follow. Enable strong logging features. Have the logs saved on another
+machine also, or even have them printed on hard copy.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>The syslog daemon is a
+good tool, but has it's own set of problems. Its logging is not very granular,
+as it is done only on system facility( facilities are predefined program types
+used by the OS, such as Auth, Kernel and others) and level., which have
+different degrees of logging, ranging from Emergency to Informational and
+Debugging. What this creates is a few different files, each very high volume,
+and the trouble with that is that quite often no-one bothers to read through
+the volumes of messages, and any anomalies or breaches remain unnoticed. I
+would recommend moving from syslog to syslog-ng,. Syslog-ng gives you a much
+enhanced configuration scheme, which lets you filter messages based on not only
+priority/facility pairs, but also on message content. You can use regexps to
+direct log stream to different destinations. If you have a central logging
+host, this means you can have a separate log file for each machine, you can
+have a different log file for tracking a particular user by using regex's, or
+by looking for certain keyword such as login or password. Basically you can
+build your own logging scheme however you like, and have very granular control
+over it's operation. Another good log enhancement is to use a program such as
+Psionic's logcheck program. It is run from a cron job, usually hourly and will
+parse whatever log files you tell it to, compile a report of anomalies, based
+on rules you can set up and tweak, and will then email you a report. It's a
+good way of keeping your finger on the pulse of the network, especially when
+you are logging multiple machine and can watch a users trail from system to
+system.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>11. Ninja tools and
+hacker utils that rock.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Our system as it is,
+should now be reasonably secure, however there are a world of tools out there
+which can provide multiple degrees of security, and a depth of insight for our
+curious syadmin hacker.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Shell tools.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>The ability to find out
+what your system is up to is invaluable when trying to track down any kind of
+problem.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>In addition to the
+system tools like ps and netstat, my mostly widely used ones are: <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>LsOF – List of open
+files. You can find out what files are opened by any particular process on the
+system.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Fuser – almost the
+opposite. Displays the PIDs of processes using a particular file or socket.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>/Proc file system. Take
+a few hours to yourself, and go explore the amazingness of the /proc file
+system. A definite must!<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Crypto tools. Secure
+communication. I would highly recommend using either Gnu Privacy Guard, or PGP
+for your private email messages, especially with the current issues surrounding
+the FBI's use of Carnivore, which basically sniffs the content of email
+messages looking for &quot;criminal&quot; content. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Firewalls/packet
+filters. Tools like ipchains can be used on a per host level to prevent
+unwanted packets, even if they are all ready protected behind a perimeter
+fireball. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>IDS systems. There are
+commercial packages such as ISS, but there are also a multitude of free IDS
+tools out there, ranging from Tripwire, which takes a snapshot of your system
+and computes a checksum of the files, so it can tell you if any files have been
+altered, whether by an authorized user or anyone else, to LIDS, which is a
+kernel patch and admin tool and enhances the linux kernel security . Basically
+with LIDS, you can have very granular access control on your system, even to the
+point of being able to prevent root from doing certain activites, or altering
+certain files. Files and processes can be hidden from view also. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Log Utils<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>I mentioned Psionic's
+logcheck previously, but there are lots of others out there, some for more specific
+tasks such as monitoring your web logs.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Net Utils<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Packet sniffers, port
+mappers, packet loggers, password sniffers, portmap detection tools. So many
+fun tools! Go to goggle and search on<span style="mso-spacerun: yes"> 
+</span>hacker tools'!<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>One time passwords and
+SSH public/private keys.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>For remote access, there
+are various alternatives to using traditional passwords. There are one time
+password schemes such as SecureID, by RSA securities, and I believe here are
+also one time password generators for the Palm platform. Another, less expensive
+alternative, is to make use of SSH private/public key pairs, so that an actual
+password is never transmitted over the wire.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Keyloggers<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>I still have kinda
+ethical doubts about using key loggers, such as TTYsnoop, but I can definitely
+see the benefit of it, for detecting whether a user is actually a legitimate
+user.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><span
+style="mso-spacerun: yes">     </span><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>Endtro<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>So, while this is not a
+comprehensive checklist of task to perform, hopefully I have covered enough to
+give you some new ideas to try, and a good overview of host level security.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'>There are many other
+parts to the puzzle, such as network and physical security, and all are equally
+important to a secured system.<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:Arial;mso-fareast-font-family:"MS Mincho"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

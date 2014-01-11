@@ -1,0 +1,61 @@
+Installation Instructions for  setting up GRRL monitoring. 
+[Beta Instructions. Read the source code for variables inuse]
+
+Intro
+
+GRRL, (Graphing and Remote Reporting Lackey) has several components.
+It is built on top of Tonias Oetiker's rrdtool, available at http://ee-
+staff.ethz.ch/~oetiker/webtools/rrdtool/.
+There are three perl scripts which provide the GRRL functionality.
+The first script lives on the client computers to be monitored.
+It is run once a minute and calls the system tool Vmstat, takes
+the output relevant to CPU and Memory utilization,
+and sends this output via UDP to our second script.
+The second script is a UDP server which lives on our
+monitoring station. It accepts these utilization reports and puts them into an
+RRD database for each host.
+The third script runs from cron every half hour, and generates an updated
+Graph for each host. Four graphs for each host are created, Free Memory over the past 
+hour and over the past day, and CPU Utilization over the past hour and past day.
+
+This can all be run without root privs so you may wanna create a user for this.
+
+1.	Setup Client software.
+Create a directory  /usr/local/grrl/bin on the client host. 
+Copy the grrl_clnt.pl into this directory. Edit any variables, i.e server IP address and 
+port number.
+      Start the script to run in the background.
+
+2.	Setup Server Monitor.
+The machine to act as the monitor needs to have the rrdtool installed,
+And a webserver (at least to view the output GIF's easily)
+
+Create a directory /usr/local/grrl/
+With the subdirs:
+                   bin/
+		   grafs/
+		   dbz/
+
+Copy the grrl_svr.pl and  grrl_graph.pl into bin/
+
+Create the appropriate databases for the hosts:
+CD into dbz/
+"rrdtool  create <hostname>.rrd –s 60 DS:swapfree:GAUGE:300:U:U \ 
+DS:memfree:GAUGE:300:U:U DS:cpuusr:GAUGE:300:U:U \
+DS:cpusys:GAUGE:300:U:U DS:cpuidle:GAUGE:300:U:U \
+RRA:AVERAGE:0.5:1:10080 RRA:AVERAGE:0.5:20:10080"
+
+Start the Server.
+
+3.	Setup the grrl_graph.pl cron job.
+Also on the monitoring station, as the user who will run the cron job, type:
+"crontab –e" which should invoke your editor.
+Enter:
+"0,30 * * * * /usr/local/grrl/bin/grrl_graph.pl"
+This should run the graph program on the hour and on the half hour. 
+
+
+4.	Setup web Page with output to be viewed.
+In the HTTPD docroot directory, create a symbolic link
+To the /usr/local/grrl/grafs directory.
+Create an HTML document to display the grafs.

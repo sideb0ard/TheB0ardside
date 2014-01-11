@@ -1,0 +1,325 @@
+<HTML>
+<head>
+	<title>anti_gates JavaScript Cheat Sheet</title>
+</head>
+<body bgcolor="#333366" text="orange" link="orange">
+<table border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td width=600>
+<font size=4 face=arial>Anti_Gates JavaScript cheat sheet<br>
+*****************************</font>
+<br><br>
+Getting info about stuff on a web page<br>
+--------------------------------------
+<br><br>
+Everything you could possibly want to know about a page is contained in the
+"object hierarchy"  The object hierarchy is an upside-down tree.  The trunk of
+this tree is an object called "window".  Alone, window isn't very interesting.
+The information about window is contained in it's branches.  To go to a branch
+of an object, you type a ".".  So if you wanted to point to the name of a
+window object, you'd type:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;window.name
+</code>	<br><br>
+In this case, name is a "property" of the object "window".  There are many
+branches to this window tree.  You can see a graphical representation of them
+in the back of that Peachpit's Visual Start javascript book.
+Look in the appendices for "Document Object Model"
+</td>
+</tr>
+<tr>
+<td width=600><br><br>
+Altering the contents of a page<br>
+-------------------------------
+<br><br>
+Think of properties as adjectives and objects as nouns.  You may be asking...
+what about verbs?  Verbs are called methods.  Lets say you wanted to DO something
+to the window object.  I this case, we want to write something to the page.  We
+type:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;window.document.write("my text or html here");
+</code><br><br>
+Write() is a "method" of the document "property" of the window "object".  Write()
+is a function in the javascript API.  To be gentle, I'll just say that if you
+use a method, and give it the info it needs to do it's job (parameters), it will
+do stuff.  The thick javascript books have appendices full of methods and how to
+use them in the back.  Once you understand the DOM, and are good at looking up
+stuff in the back of the book, tack starts worrying about people replacing him ;)
+</td>
+</tr>
+<tr>
+<td width=600><br><br>
+Making things happen<br>
+--------------------
+<br><br>
+Javascript code doesn't just magically run when you need it to. You have to tell
+the code to do it's thing.  Fortuneately, html gives you plenty of opportunities
+to boss your code around.  These opportunities are called "events".  Some events
+you may be familiar with are:<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;onLoad<br>
+&nbsp;&nbsp;&nbsp;&nbsp;onClick<br>
+&nbsp;&nbsp;&nbsp;&nbsp;onMouseOver<br>
+&nbsp;&nbsp;&nbsp;&nbsp;onSubmit<br><br>
+	
+Events need to be dealt with.  The code that does that is called an "event
+handler".  Consider the following:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;onLoad="alert('I triggered an event!');"
+</code>	<br><br>
+the event is "onLoad" and it's handler is "alert('I triggered an event!')", which
+happens to be a method in this case.  Your handler can be almost anything.  It
+can be a little snippet of code, a method or a function you wrote yourself.<br><br>
+
+You can run code first thing when the page loads, before anything else happens by
+just making it a statement in your script tag (not including it in a function).
+</td>
+</tr>
+<tr>
+<td width=600><br><br>
+Rolling your own methods<br>
+------------------------
+<br><br>
+You may be asking, "that was cool, now how do I write my own functions?"  Always
+with the questions, aren't you...well OK.  First, in your script tag, you
+declare the function<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;function myFunction(){<br>
+	<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}
+</code>	<br><br>
+"function" tells the VM (in this case, a web browser) that the following is a
+function.  "myFunction" tells the VM the name of the function.  The parentheses
+"()" are where you put the information the function needs to do it's job.  That
+info is called a "parameter"  The "curly braces" "{}" tell the VM where the
+code in the function starts and ends.<br><br>
+
+So lets say you wanted a script to run when the user clicked a button.  First
+thing you'd do is tell the VM to do something when the button is clicked:<br><br>
+<xmp>
+    <input type="button" value="my button" onClick="myFunction()">
+</xmp>	<br><br>
+This tells the VM to run the function myFunction() when the button is clicked.
+Make sure the function exists in your script tag, so the VM doesn't say "what"
+and scratch it's head and crash:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;function myFunction(){<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;window.location = "http://www.interphaze.org";<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}
+</code>	<br><br>
+So in this example, if the user clicked the button, the function would be
+"called" and it would execute the code inside it...bringing you to the bestest
+site on the net ;)<br><br>
+
+Now that you know how to write a function, you can do a whole lot of nifty
+stuff.<br><br><br><br>
+
+
+
+Giving functions data to work with:<br><br>
+
+Lets expand on the previous example.  lets say we want the user to enter a url,
+and then click a button to go there:<br><br>
+<xmp>
+    <input type="text" name="myUrl">
+    <input type="button" value="my button" onClick="myFunction(document.forms[0].myUrl.value)">
+</xmp>	<br><br>
+You'll notice I put stuff in the parentheses this time.
+"document.forms[0].myUrl.value" points to the value of the form field "myUrl"
+in the first form in the current document.  When the user clicks the button,
+the VM calls myFunction and gives it the data from that form element.
+<code><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;function myFunction(theUrl){<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;window.location = theUrl;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}
+</code><br><br>
+When myFunction(theUrl) starts up, it's going to assign the value of
+document.forms[0].myUrl.value to the "variable" theUrl in the parantheses.  It
+can then do whatever the hell it wants to the data.  In this case, we're
+changing the location of the browser window to whatever the user typed in the
+myUrl form element.<br><br>
+
+Variables are the data your code works with.  Happily, in javascript, your
+variables can be any kind of data, and you don't have to worry about where or
+how they live in RAM.  Use this statement to create a variable if not already
+declared as a parameter of a function:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;var myVariable = "something";
+</code><br><br>
+The "var" thing tells the VM that whatever comes next is a new variable.
+myVariable is the name of our new variable.  "=" is the "assignment" operator.
+It tells the VM "whatever's to the right of me goes into whatever's to the
+left".  "something" is the data that's gonna go into myVariable.<br><br>
+
+There are different kinds of data you can put in a variable:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;Integer:   123<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Float:     12.34<br>
+&nbsp;&nbsp;&nbsp;&nbsp;String:    "one two three"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;boolean:   true/false<br>
+</code>	<br><br>
+There are standard ways to name things so people understand them<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;startWithLowerCaseLetters_thenCapitolizeEveryWord_easyToRead<br><br>
+	
+&nbsp;&nbsp;&nbsp;&nbsp;gMyVariable		the g lets people know it's "global", it exists outside all the functions, and they all can use it<br><br>
+					
+&nbsp;&nbsp;&nbsp;&nbsp;kMyVariable		the k means it's value should remain "constant", don't update the value of these<br>
+</code>	<br><br>
+There's also ways you can stuff more than one value into a variable:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;var myArray = new Array(5);<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;myArray[0] = "one";<br>
+&nbsp;&nbsp;&nbsp;&nbsp;myArray[1] = "two";<br>
+&nbsp;&nbsp;&nbsp;&nbsp;myArray[2] = "three";<br>
+&nbsp;&nbsp;&nbsp;&nbsp;myArray[3] = "four";<br>
+&nbsp;&nbsp;&nbsp;&nbsp;myArray[4] = "five";<br>
+</code>	<br><br>
+This is an "array".  It's an object that will give you different values if
+you type that value's "index" in the square brackets "[]"<br><br><br><br>
+
+
+
+Playing with your data:<br><br>
+
+Now that you know how to fetch data from the object hierarchy and create your
+own variables, it's time to screw with the data.  the things we use to do that
+are called "operators".  Here's a brief summary of what they do:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;a + b		add a and b together<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a - b		subtract b from a<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a * b		multiply a and b<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a / b		divide a by b<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a++			figure out a's value, then add 1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;++a			add 1 to a, then figure out what it is<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a--			figure out a's value, then subtract 1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;--a			subtract 1 from a, then figure out what it is<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a += b		put b on the end of a (string), increase the value of a by b (number)<br>
+</code><br><br>
+Lets say we want to build a URL:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;var protocol = "http://";<br>
+&nbsp;&nbsp;&nbsp;&nbsp;var domain = "www.robot6.com";<br><br>
+	
+&nbsp;&nbsp;&nbsp;&nbsp;var myNewUrl = (protocol + domain);<br>
+</code>	<br><br>
+In this case when we add domain + protocol, our result will be
+"http://www.robot6.com".  The parentheses work like math.  Whatever's inside
+will happen first, then outside stuff will happen.  So we build our new URL
+string, and then set the new variable "myNewUrl" equal to the result.<br><br>
+
+Now lets do some math:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;var five = 5;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;var one = 1;<br><br>
+	
+&nbsp;&nbsp;&nbsp;&nbsp;var twelve = (5 + 1) * 2;<br>
+</code>	<br><br>
+There are other operators, and different types of data interact differently with
+them.  The thick books are better at describing them than I am.<br><br><br><br>
+
+
+
+Comparing data and making choices:<br><br>
+
+We can do logic stuff with our data:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;var myVar = 12;<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;if(myVar == 12){<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alert("my variable is equal to " + myVar + "!");<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}
+</code><br><br>	
+The "if" part tells the VM to do whatever's in the curlies "{}" only if the
+statement in the parentheses is true.  The "==" operator is the "comparison"
+operator.  It tells the VM "these things around me are the same".  It's alter
+ego is "!=" which tells the VM "these things around me are not the same". So if
+the statement (myVar <-these things are the same-> 12) is true, then the code
+alert("my variable is equal to " + myVar + "!"); will be run.  You may be asking
+"what if the statement is false".  If that's the case, either nothing happens, or
+if you do this:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;var myVar = 12;<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;if(myVar == 12){<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alert("my variable is equal to " + myVar + "!");<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}else{<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alert("my variable is NOT equal to " + myVar + "!");<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+</code>	<br><br>
+the code alert("my variable is NOT equal to " + myVar + "!"); will run instead.<br><br>
+
+The statement in the if statement can deal with more than one piece of data:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;var myVar = 12;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;var myName = "superTack";<br><br>
+	
+&nbsp;&nbsp;&nbsp;&nbsp;if(myVar == 12 && myName == "superTack"){<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alert("my variable is equal to " + myVar + "!");<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+</code>	<br><br>
+The "&&" means that BOTH statements have to be true before we can run the code.
+If EITHER of the two can be true, then use a "||" instead of a "&&".<br><br><br><br>
+
+
+
+Doing the same thing over and over until you want it to stop:<br><br>
+
+Don't be shocked by the following:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;var myArray = new Array(5);<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;myArray[0] = "one";<br>
+&nbsp;&nbsp;&nbsp;&nbsp;myArray[1] = "two";<br>
+&nbsp;&nbsp;&nbsp;&nbsp;myArray[2] = "three";<br>
+&nbsp;&nbsp;&nbsp;&nbsp;myArray[3] = "four";<br>
+&nbsp;&nbsp;&nbsp;&nbsp;myArray[4] = "five"; <br><br>
+	
+&nbsp;&nbsp;&nbsp;&nbsp;for(i=0;i<5;i++){<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alert("This is iteration number " + myArray[i] + " of my for loop.");<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+</code><br><br>
+The preceding is a "for loop".  The "for" tells the VM that you want to do stuff
+over and over according to the data you put in the parentheses.  When the loop
+starts, it looks at the "i=0;" part.  It does this only once, in the beginning.
+Think of this step as telling the loop "we start at 0".  It then looks at the
+"i<5;" part.  It says to itself "if i is less than 5, then do the stuff in the
+curlies".  At this point, it executes the stuff in the curlies.  Next, it looks
+at the "i++" part, and it increases the value of i by one.  This is one
+"iteration" of the loop.  It's going to try again, knowing that now the value of
+i is 1.  If i is still less than 5 (the i<5 part), it does the stuff in the
+curlies again as well as the i++ part.  If i is greater than or equal to 5, then
+we're done with the loop and we move on to whatever's after the for loop.<br><br>
+
+You can use a different variable than i, use different values for the different
+parts, and decrement values (--) as opposed to incrementing (++) if that's what
+you want to do.<br><br>
+
+There's another kind of loop:<br><br>
+<code>
+&nbsp;&nbsp;&nbsp;&nbsp;while(something here is true){<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;do this stuff;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+</code><br><br>
+This while loop will do whatever's in the curlies as long as the statement in the
+parentheses is true.  Set up your parentheses stuff the same way you would an if
+statement.
+</td>
+</tr>
+<tr>
+<td width=600><br><br>
+
+Conclusion<br>
+----------
+<br><br>
+That's a quick and dirty guide to javascript.  If you have further questions, use
+the appropriate section of this guide to steer your research in a book, that's
+what I do.<br><br>
+
+<a href=mailto:tack@monkeyvsrobot.com>tack</a>
+</td>
+</tr>
+</table>
+</body>
+</html>

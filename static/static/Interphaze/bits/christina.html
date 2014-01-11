@@ -1,0 +1,78 @@
+<HTML>
+<head>
+        <title>Christina Aguilera's guide to a linux/adsl home LAN</title>
+</head>
+<body bgcolor="#333366" text="orange" link="orange">
+<h1>Christina Aguilera's guide to a linux/adsl home LAN</h1>
+
+<p>
+TOC<br/>
+1.  know yourself<br/>
+2.  social engineering your ISP with fortuitous results<br/>
+3.  setting up the temp lan<br/>
+4.  secure your penguin<br/>
+5.  connecting with linux<br/>
+6.  know your enemy<br/>
+7.  ipchains/masq/fireball<br/>
+8.  portsentry issues<br/>
+9.  client setup<br/>
+<br/>
+<br/>
+1.  know yourself<br/>
+Well duh.  You're gonna hafta know what machines are going to be doing what, 
+and what your network topology is gonna be.  Remember that you're going to 
+actually put together 2 networks, for a explanation why, see section 2.  
+You're going to need at least 1 mac or windows box for the first network.  i
+You can reformat after the final lan is up and running, though likely that 
+machine is a workstation and will stay that way.
+<br/><br/>
+
+2.  social engineering your ISP with fortuitous results<br/>
+Sadly, your telco isn't going to support your machine unless it's OS is forged i
+by lucifer himself or comes in a cutsie case.  And even if they do support it, 
+the tech support person on the phone is a college student who gets all their 
+info from "the manual".  So you're like, SOOOOOooo on yer own.  You're going to 
+have to basically tell the telco that it's going on a windows or mac box.  
+If you say any kind of unix, their going to either think you want to set up 
+servers (heaven forbid we should want to speak freely in the states) and tell 
+you to go away or they're gonna scratch their head and not know what to think.  
+YOU DO NOT HAVE USB!!!!  There are some USB based ADSL modems out there....they 
+suck ass and you don't want them.  Lie and say that you don't have USB.  Also, 
+if adsl is anything like the way @home cable does things, they don't want to 
+deal with supporting macs, and would rather give you a static IP than deal with 
+your tech calls, so if you have mac....the connection is for your mac, and 
+that's the only box you have...or exists in your part of the universe.  So 
+basically, we're gonna use a consumer OS to get up and running with their tech 
+support to help us because that's what they know how to support, then when 
+it's up, we're gonna use the same settings to plug into our *nix pppoe 
+client and start doing some real networking.<br/>
+<br/><br/>
+
+3.  setting up the temp lan<br/>
+Now that we know we're using a mac or 'doze box first, we've got to set up network support for that phase of our project.  Usually this consists of basically setting up the lan the way you want it to be in the end, but instead of plugging your ethernet out from the machine you're using to get set up into the hub, you're plugging it into the adsl modem.  If you're using a mac, then make sure you have file sharing and personal web sharing turned off and your machine won't have any open ports.  If you're using windows, take the same precautions with the addition of installing BlackICE defender...if you connect a windows 9x box directly to the internet on a broadband connection you're asking to get cracked, but if you're gonna throw caution to the wind and do it anyway then don't be a chump and put up your dukes.
+
+<br/><br/>
+4.  secure your penguin<br/>
+If you're using SBC as your provider (pacbell and friends) then connecting for the first time is going to be a royal pain in the ass, and you're gonna have a lot of time on your hands while their "secure" account activation server is down, their routers are down, their RADIUS servers are down, a bird pooping on a wire takes the network down for hours etc.  This is a great time to secure your linux box in the meantime.  Read the spice grrls guide to securing a unix box on a hostile internet and do what it says.  Don't ask, just do it.  Now.
+<br/><br/>
+
+5.  connecting with linux<br/>
+You're going to need a pppoe client for unix.  I reccomend rp-pppoe from roaring penguin software (roaringpenguin.com) because of it's ease of setup and hell-bent desire to reestablish downed connections (yes, I know it's probably pppd doing the reconnect...I just wanted to say hell-bent).  You're going to want to have the ability to connect with the consumer OS box while doing this for 2 reasons.  1, you're going to want to know if failed connection attempts are the linux boxes fault or if the adsl service is jacked....this will save headaches.  2, you may need to download software for linux, read howto's, ask geek friends questions etc.  The documentation for rp-pppoe on their site is pretty straightforward, and setup is pretty danged easy.  There are other pppoe clients, but they're harder to configure (IMHO).  Make sure your MTU is set below 1500 (1492 is reccomended) for some specific pppoe issues.  Just have the settings that worked on 'doze/mac handy when you configure it, and you should be fine.  Also, make sure to note wether or not your ISP will point you to DNS automatically or if you have to specify IP's manually.  Mine (specific hell...er pacific bell adsl) makes me assign IP's manually for DNS.  You will need to know these IP's if that's the case during rp-pppoe setup.  If you require more feedback about how the connection attempts are going, tail -f /var/log/messages will give you more detailed info about what's going on.
+<br/><br/>
+
+6.  know your enemy<br/>
+You're going to be constantly port scanned and attacked by script kiddies.  Your ISP will also port scan you to see if you're running any servers.  These are your primary enemies, except those you may have cultivated while living your life.  A good fireball and following the spice grrls' advice should keep most of the script kiddies at bay.  Your ISP looking for servers is another issue.  If you're really concerned about them shutting down your service because you want to have a website, then have the DNS that points to that site point to a port other than 80, and set apache to listen on that port instead.  It may be possible to fool their scanner into thinking you're a windows box by making your new http port 137-139 (windows networking).  IF so, they'll either think you're running a samba share, or like most windows dsl users, you left file sharing on without any ACL's (wanna have some fun?  try connecting to random IP's in your range with network neighborhood...you'll be surprised by how many people are sharing their windows directory with the rest of the world)
+<br/><br/>
+
+7.  ipchains/masq/fireball<br/>
+Ok, this is assuming you finally got connected and were able to send packets out the door with linux.  Now disconnect immediately before you get cracked.  You need a fireball and masq ipchains script to let your clients on the lan talk to the internet, and keep the internet out if you didn't ask for it.  If you've got kernel 2.4, you get a stateful firewall you lucky bastard...that's ground I haven't covered yet.  I know how to get this working on kernel 2.2.x, so that's what I'm gonna tell you how to do.  There are a few howto's on LDP (linuxdoc.org) about the chaining...I'll let you decide how exactly you want to implement it, but I will give you a rundown on what needs to be in there.  First, you're gonna want to make sure that IP forwarding is turned on, or this is all for not.  Then you can also give commands to IPv4 to guard against DOS stuff (smurf, syn flood etc)...it's a good idea to do so because a lot of script kiddies use syn half open scanning but don't even know what a packet is....so a half open scan can be blundered into a syn flood pretty easily.  Flush out any old rules at this point, so that you're sure you're starting with a clean slate.  Then what you want to do is deny all IP.  Yes, deny all IP...the rules you have after this will be exceptions to this policy, but it's a good idea to make sure you can close the door all the way before you attempt to crack it open just a little.  Your Masq-ing stuff is next.  I would advise that you set up a policy where you bind your LAN ip's (192.168.etcetera) to your internal NIC, and deny all of those IP's that originate from ppp0 (where the crackers are coming from).  I also don't allow masq-ing the entire ip range...every machine that is allowed to masq should be specified on it's own line so you can easily block it by commenting it out in your chains file and re-running it.  It's also a good idea to set up a numbering convention for IP addresses internally so you can tell if somebody cracked in and made up an IP to work with.  Now you should specify which ports you actually want open.  It's better to be anal and see which ones you actually use often than open them all up then close them as you don't need them, for obvious reasons (open ports are how most crackers get in).  After this, you want to install any masq modules that you need like ftp, irc, quake so you can get out the door on those protocols.  Now that we have whoop-ass chains, we want to clamp things down even further.  edit /etc/hosts.deny and allow.  In my hosts.deny I deny all from all.  In my allow I've specified the IP's of the machines I set up as being able to masq in my chains file....this is important because the chains won't work for a given IP if tcp wrappers doesn't like that machine (and rightly so!).
+<br/><br/>
+
+8.  portsentry issues<br/>
+adsl/RADUIS sends heartbeat like packets to your box to see if it's still up....if it doesn't get a response, then you'll be dropped.  So if you're running portsentry and set it to block hosts that send those packets...guess what...your connection will go down and stay down.  You should find out what packets are being sent, how many at a time and how often and allow this in portsentry.  Also remember that your ISP will likely scan you early in the morning to see what ports you have open because they dislike the ability for you to speak...this is a tv network in their eyes and you're not allowed to broadcast.  If you set portsentry to counterattack when ports are tripped, and you end up attacking your ISP when they scan, then they're gonna come after you...or in the best case scenario slap you on the wrists...but likely they;ll terminate your account.  Footprint your dsl architecture and find out what servers not to screw with, then os fingerprint them so you can guard against crackers spoofing them.
+
+<br/><br/>
+9.  client setup<br/>
+Ok...on the mac, go in the tcp/ip control panel and select connect via ethernet, configure manually.  Specify the IP, netmask and DNS.  The gateway is your linux box's internal NIC's IP.  Close the window, and when it prompts you, save the changes and you should be up and running.  On windows it's very similar, only there are more steps.  Right click network neighborhood, select the tcp/ip ethernet adaptor and click the properties button.  click on the tabs and fill in the blanks as above.  when you're done you'll have to reboot for these changes to take effect (well...that's what you get for using windows....nobody else has to suffer through this step.)  At this point, the LAN should be physically set up the way you want it.  I would advise keeping the enternet 300 client software on these boxes just in case, but make sure to tell the people who are using that machine that you'll kick their teeth down their throat if they actually try to use it.  They'll like the idea of having the internet available without having to worry about connecting anyway.
+</body>
+</html>
