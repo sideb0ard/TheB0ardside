@@ -10,5 +10,7 @@ Slug: "computerchess"
 
 This movie is new up on Netflix, from Mumblecore director Andrew Bujalski - really good!
 
+<div class="video-container">
 <iframe width="560" height="315" src="//www.youtube.com/embed/NuGT_L13bQ8" frameborder="0" allowfullscreen></iframe>
+</div>
 

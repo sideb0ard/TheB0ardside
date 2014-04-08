@@ -28,7 +28,9 @@
       <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
       <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
 
+&lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
 </description>

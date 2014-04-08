@@ -6,7 +6,83 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-02-07 00:00:00 &#43;0000 UTC</updated>
+    <updated>2014-04-07 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>BASIC at 50</title>
+      <link>http://theb0ardside.com/basic50/</link>
+      <pubDate>Mon, 07 Apr 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/basic50/</guid>
+      <description>&lt;p&gt;Now approaching it&amp;rsquo;s 50th birthday, nice wee video about the origins of BASIC and Time Sharing..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/gxo9LVIgOiI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>And It All Went Horribly Wrong</title>
+      <link>http://theb0ardside.com/debuggingproduction/</link>
+      <pubDate>Fri, 04 Apr 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/debuggingproduction/</guid>
+      <description>&lt;div&gt;
+&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;&lt;img width=&#34;600&#34; src=&#34;/static/img/joyentprod.png&#34;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;Bryan Cantrill being funny as hell.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&#34;&lt;em&gt;Bryan Cantrill discusses debugging production systems using post-mortem debugging and dynamic instrumentation, with a bit of history and an introduction to useful debugging tools.&#34;i&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frank Quitely - Geek Hard</title>
+      <link>http://theb0ardside.com/frankquitely-interview/</link>
+      <pubDate>Sat, 22 Mar 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/frankquitely-interview/</guid>
+      <description>&lt;p&gt;My mother, over in Glasgow, was telling me about a BBC program called A Day In The Life, and specifically of an episode about Frank QUitely - i found it on youtube.com for about 30 mins but it&amp;rsquo;s already been taken down. (I didn&amp;rsquo;t get to see it either!!).&lt;/p&gt;
+
+&lt;p&gt;Fortunately however, I did find this lovely interview with &amp;ldquo;Frank&amp;rdquo; (whose name i just found out is a stage name! )&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/W_6kP5XpQLU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tense Men - RNRFON</title>
+      <link>http://theb0ardside.com/tensemen-rnrfon/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/tensemen-rnrfon/</guid>
+      <description>&lt;p&gt;Love this new video for &lt;a href=&#34;https://soundcloud.com/tensemen&#34;&gt;Tense Men&lt;/a&gt; -&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Z-Ltaq3UPbU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp;rsquo;s old house.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Y Combinator explained</title>
+      <link>http://theb0ardside.com/ycombinator/</link>
+      <pubDate>Sat, 22 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/ycombinator/</guid>
+      <description>&lt;p&gt;Sadly, Jim Weirich, creator of the Ruby Rake tool died a few days back.&lt;/p&gt;
+
+&lt;p&gt;Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/FITJMJjASUs#t=3172&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Code Rush</title>
@@ -16,7 +92,9 @@
       <guid>http://theb0ardside.com/coderush/</guid>
       <description>&lt;p&gt;Watched this on wednesday - crazy how dated it all seems now, and well, it is! Dang!&lt;/p&gt;
 
+&lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/u404SLJj7ig&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -28,7 +106,9 @@
       <guid>http://theb0ardside.com/bitchin-mac-128/</guid>
       <description>&lt;p&gt;yow, 30 years old &amp;ndash;&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Zz90MkUcho8#t=196&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Zz90MkUcho8#t=196&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;br/&gt;&lt;/p&gt;
 
 &lt;p&gt;also check &lt;a href=&#34;http://www.apple.com/30-years/&#34;&gt;Apple&amp;rsquo;s own Mac 30 video&lt;/a&gt;&lt;/p&gt;
@@ -43,35 +123,9 @@
       <guid>http://theb0ardside.com/streetpunk/</guid>
       <description>&lt;p&gt;Oh man, just found &lt;a href=&#34;http://www.hardlyart.com/hunxandhispunx.html&#34;&gt;this Hunx album from 2013&lt;/a&gt; - i had seen this following video for Bad Skin but forgot about the album when it came out - this video is so disgusting and totally my anthem!&lt;/p&gt;
 
+&lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/rOM5jKK9pSU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stop Breaking The Web</title>
-      <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
-      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Acoustic Levitation</title>
-      <link>http://theb0ardside.com/acoustic-levitation/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
-      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -83,7 +137,41 @@
       <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
       <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
 
+&lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acoustic Levitation</title>
+      <link>http://theb0ardside.com/acoustic-levitation/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
+      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stop Breaking The Web</title>
+      <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
+      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -95,7 +183,9 @@
       <guid>http://theb0ardside.com/gopresentation/</guid>
       <description>&lt;p&gt;More and more I&amp;rsquo;ve been dabbling with Go, which, mainly due to Hacker News, i&amp;rsquo;ve been reading so many good things about. The syntax is super easy to pick up, but the killer feature seems to be the concurrency primitives - the Go Functions and message passing Channels seem like a super tight, rock solid implementation of Hoare&amp;rsquo;s Communicating Sequential Processes. The following video is a really succinct walk through of building a concurent multi-protocol chat application ala Chat Roulette..&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe src=&#34;//player.vimeo.com/video/53221560&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;http://vimeo.com/53221560&#34;&gt;Go: code that grows with grace&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user4280938&#34;&gt;&amp;Oslash;redev Conference&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe src=&#34;//player.vimeo.com/video/53221560&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;http://vimeo.com/53221560&#34;&gt;Go: code that grows with grace&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user4280938&#34;&gt;&amp;Oslash;redev Conference&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -111,7 +201,9 @@
 
 &lt;p&gt;Sounds very useful, i look forward to them open-sourcing it..&lt;/p&gt;
 
+&lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Yg6_ulhwLw0?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     

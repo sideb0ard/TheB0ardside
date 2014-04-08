@@ -14,5 +14,7 @@ Beyond simply CPU counters and stack trace, they also tie in other JVM flags whi
 
 Sounds very useful, i look forward to them open-sourcing it..
 
+<div class="video-container">
 <iframe width="560" height="315" src="//www.youtube.com/embed/Yg6_ulhwLw0?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 

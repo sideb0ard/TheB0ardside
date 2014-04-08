@@ -10,5 +10,7 @@ Slug: "unix70suk"
 
 Lovely wee video talking about the arrival of UNIX into 70's UK Academia ...
 
+<div class="video-container">
 <iframe width="560" height="315" src="//www.youtube.com/embed/-rPPqm44xLs" frameborder="0" allowfullscreen></iframe>
+</div>
 

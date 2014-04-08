@@ -10,5 +10,7 @@ Slug: "vim-fun-with-conway"
 
 Get yer Vim freak on with Damian Conway! Super fun talk..
 
+<div class="video-container">
 <iframe width="560" height="315" src="//www.youtube.com/embed/aHm36-na4-4" frameborder="0" allowfullscreen></iframe>
+</div>
 

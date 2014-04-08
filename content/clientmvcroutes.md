@@ -10,7 +10,9 @@ Slug: "clientside-mvc-and-routes"
 
 Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..
 
+<div class="video-container">
 <iframe width="560" height="315" src="//www.youtube.com/embed/BQ6at0addi4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 // found via https://twitter.com/littlecalculist/status/418800989634695168
 

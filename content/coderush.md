@@ -10,5 +10,7 @@ Slug: "coderush"
 
 Watched this on wednesday - crazy how dated it all seems now, and well, it is! Dang!
 
+<div class="video-container">
 <iframe width="560" height="315" src="//www.youtube.com/embed/u404SLJj7ig" frameborder="0" allowfullscreen></iframe>
+</div>
 

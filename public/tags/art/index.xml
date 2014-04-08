@@ -6,7 +6,23 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-01-07 00:00:00 &#43;0000 UTC</updated>
+    <updated>2014-03-22 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Frank Quitely - Geek Hard</title>
+      <link>http://theb0ardside.com/frankquitely-interview/</link>
+      <pubDate>Sat, 22 Mar 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/frankquitely-interview/</guid>
+      <description>&lt;p&gt;My mother, over in Glasgow, was telling me about a BBC program called A Day In The Life, and specifically of an episode about Frank QUitely - i found it on youtube.com for about 30 mins but it&amp;rsquo;s already been taken down. (I didn&amp;rsquo;t get to see it either!!).&lt;/p&gt;
+
+&lt;p&gt;Fortunately however, I did find this lovely interview with &amp;ldquo;Frank&amp;rdquo; (whose name i just found out is a stage name! )&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/W_6kP5XpQLU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Oh yeah, Codetraxx</title>
@@ -17,6 +33,25 @@
       <description>&lt;p&gt;Oh yeah, that &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project I mentioned, which me and &lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..&lt;/p&gt;
 
 &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124516248&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joshua Davis - Beyond Play</title>
+      <link>http://theb0ardside.com/joshua-davis-beyond-play/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/joshua-davis-beyond-play/</guid>
+      <description>&lt;p&gt;Wow. just wow&amp;hellip;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/LJS4fBjdPM4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?!&lt;/p&gt;
+
+&lt;p&gt;This was following me and Tack&amp;rsquo;s &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while. Another friend of mine, &lt;a href=&#34;https://twitter.com/mattspendlove&#34;&gt;Matt Spendlove&lt;/a&gt;, had told me about &lt;a href=&#34;http://natureofcode.com/book/&#34;&gt;The Nature Of Code&lt;/a&gt; which i&amp;rsquo;ve been wanting to read, so I suggested we play with Processing - seems awesome already! So yeah, Codetraxx on hold for a while, and work on a couple of Processing projects for a while &amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -52,23 +87,6 @@
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Seymour_Cray&#34;&gt;Seymour Cray&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;
 
 &lt;p&gt;(Using the (Mousetrap)[&lt;a href=&#34;http://craig.is/killing/mice&#34;&gt;http://craig.is/killing/mice&lt;/a&gt;] library)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Joshua Davis - Beyond Play</title>
-      <link>http://theb0ardside.com/joshua-davis-beyond-play/</link>
-      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/joshua-davis-beyond-play/</guid>
-      <description>&lt;p&gt;Wow. just wow&amp;hellip;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/LJS4fBjdPM4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?!&lt;/p&gt;
-
-&lt;p&gt;This was following me and Tack&amp;rsquo;s &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while. Another friend of mine, &lt;a href=&#34;https://twitter.com/mattspendlove&#34;&gt;Matt Spendlove&lt;/a&gt;, had told me about &lt;a href=&#34;http://natureofcode.com/book/&#34;&gt;The Nature Of Code&lt;/a&gt; which i&amp;rsquo;ve been wanting to read, so I suggested we play with Processing - seems awesome already! So yeah, Codetraxx on hold for a while, and work on a couple of Processing projects for a while &amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

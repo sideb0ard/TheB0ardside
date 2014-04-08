@@ -10,7 +10,9 @@ Slug: "joshua-davis-beyond-play"
 
 Wow. just wow...
 
+<div class="video-container">
 <iframe width="560" height="315" src="//www.youtube.com/embed/LJS4fBjdPM4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <br/>
 [Tack](https://twitter.com/tackyy) turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?! 

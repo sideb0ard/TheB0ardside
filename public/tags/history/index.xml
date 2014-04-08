@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-02-07 00:00:00 &#43;0000 UTC</updated>
+    <updated>2014-04-07 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>BASIC at 50</title>
+      <link>http://theb0ardside.com/basic50/</link>
+      <pubDate>Mon, 07 Apr 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/basic50/</guid>
+      <description>&lt;p&gt;Now approaching it&amp;rsquo;s 50th birthday, nice wee video about the origins of BASIC and Time Sharing..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/gxo9LVIgOiI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Code Rush</title>
@@ -16,7 +30,9 @@
       <guid>http://theb0ardside.com/coderush/</guid>
       <description>&lt;p&gt;Watched this on wednesday - crazy how dated it all seems now, and well, it is! Dang!&lt;/p&gt;
 
+&lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/u404SLJj7ig&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -28,7 +44,9 @@
       <guid>http://theb0ardside.com/bitchin-mac-128/</guid>
       <description>&lt;p&gt;yow, 30 years old &amp;ndash;&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Zz90MkUcho8#t=196&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Zz90MkUcho8#t=196&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;br/&gt;&lt;/p&gt;
 
 &lt;p&gt;also check &lt;a href=&#34;http://www.apple.com/30-years/&#34;&gt;Apple&amp;rsquo;s own Mac 30 video&lt;/a&gt;&lt;/p&gt;
@@ -78,7 +96,9 @@
       <guid>http://theb0ardside.com/computerchess/</guid>
       <description>&lt;p&gt;This movie is new up on Netflix, from Mumblecore director Andrew Bujalski - really good!&lt;/p&gt;
 
+&lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/NuGT_L13bQ8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -90,7 +110,9 @@
       <guid>http://theb0ardside.com/unix70suk/</guid>
       <description>&lt;p&gt;Lovely wee video talking about the arrival of UNIX into 70&amp;rsquo;s UK Academia &amp;hellip;&lt;/p&gt;
 
+&lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-rPPqm44xLs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -243,7 +265,7 @@
       <pubDate>Tue, 27 Mar 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/thebiologyofcode/</guid>
-      <description>&lt;p&gt;Fabulous piece and video chat with George Dyson over at the always reliable Edge -&lt;/p&gt;&lt;p&gt;&lt;a href=&amp;#039;http://edge.org/conversation/a-universe-of-self-replicating-code#.T3E3c83Cv8w.wordpress&amp;#039;&gt;A Universe Of Self-replicating Code | Conversation | Edge&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Fabulous piece and video chat with George Dyson over at the always reliable Edge -&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/conversation/a-universe-of-self-replicating-code#.T3E3c83Cv8w.wordpress&#34;&gt;A Universe Of Self-replicating Code | Conversation | Edge&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

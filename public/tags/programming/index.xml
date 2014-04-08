@@ -6,7 +6,23 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2013-10-25 00:00:00 &#43;0000 UTC</updated>
+    <updated>2014-02-22 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Y Combinator explained</title>
+      <link>http://theb0ardside.com/ycombinator/</link>
+      <pubDate>Sat, 22 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/ycombinator/</guid>
+      <description>&lt;p&gt;Sadly, Jim Weirich, creator of the Ruby Rake tool died a few days back.&lt;/p&gt;
+
+&lt;p&gt;Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/FITJMJjASUs#t=3172&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>substack beep boop</title>
