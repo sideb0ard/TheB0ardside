@@ -8,7 +8,7 @@ Categories:
 Slug: "wizard-book-lectures"
 ---
 
-I've never made it very far through my copy of Abelson and Sussman's 'Structure and Interpretation Of Computer Programs', so I was super excited to find this whole series of lectures online with them both presenting the text as a course. The lectures help a lot, making it a whole lot easier than just wading through the text yourself. I went deep over the weekend, watching the first four of them - My Lisp foo is getting strong!
+I've never made it very far through my copy of Abelson, Sussman and Sussman's 'Structure and Interpretation Of Computer Programs', so I was super excited to find this whole series of lectures online with them Harold and Gerald Jay presenting the text as a course. The lectures help a lot, making it a whole lot easier than just wading through the text yourself. I went deep over the weekend, watching the first four of them - My Lisp foo is getting strong!
 
 [Full Course Online](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 
