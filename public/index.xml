@@ -9,6 +9,22 @@
     <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
     
     <item>
+      <title>Born With Curiosity</title>
+      <link>http://theb0ardside.com/gracehopperstory/</link>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/gracehopperstory/</guid>
+      <description>&lt;p&gt;Ooh, very nice - new IndieGoGo campaign for a movie telling the story of Grace Hopper -&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.indiegogo.com/projects/born-with-curiosity-the-grace-hopper-story/x/7229489#home/share&#34;&gt;Find out more and donate!&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/L6pFxljtQwo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Wizard Book</title>
       <link>http://theb0ardside.com/wizard-book-lectures/</link>
       <pubDate>Sun, 13 Apr 2014 00:00:00 UTC</pubDate>
@@ -280,6 +296,20 @@
     </item>
     
     <item>
+      <title>Better Vim With Damian Conway</title>
+      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
+      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Acoustic Levitation</title>
       <link>http://theb0ardside.com/acoustic-levitation/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
@@ -292,20 +322,6 @@
 &lt;/div&gt;
 
 &lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Better Vim With Damian Conway</title>
-      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
-      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -896,22 +912,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>another cardboard computer scientist portrait</title>
-      <link>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</link>
-      <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Seymour Cray&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7234/7201335100_51b91c38da_b.jpg&#34; alt=&#34;Seymour Cray&#34; /&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://drawingb0ard.blogspot.com/search/label/cardboard%20computer%20scientists&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;The Cardboard Computer Scientists series 2012&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>hitchhikers guide to the googleverse</title>
       <link>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</link>
       <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</guid>
       <description>&lt;p&gt;Maybe they ain&#39;t doing so well with Social, and so what if people are stupid enough to try Bing - It&#39;s visionary efforts like this that show Google still leave most  other companies behind in a dust ball of mundanity&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/mmQl6VGvX-c?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;(( personally, I actually think Google+ is doing fine too - its full of way more techie interesting people and content than all the FB posts by yer aunties and people you went to school with.. ))&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>another cardboard computer scientist portrait</title>
+      <link>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</link>
+      <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Seymour Cray&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7234/7201335100_51b91c38da_b.jpg&#34; alt=&#34;Seymour Cray&#34; /&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://drawingb0ard.blogspot.com/search/label/cardboard%20computer%20scientists&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;The Cardboard Computer Scientists series 2012&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
