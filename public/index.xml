@@ -9,6 +9,22 @@
     <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
     
     <item>
+      <title>Category Theory Intro</title>
+      <link>http://theb0ardside.com/cattheoryintro/</link>
+      <pubDate>Sat, 10 May 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/cattheoryintro/</guid>
+      <description>&lt;p&gt;Excellent introduction to Category Theory - presentation by Tom LaGatta at LispNYC meetup.&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/o6L6XeNdd_k&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;// via &lt;a href=&#34;thttp://www.hakkalabs.co/articles/mathematics-lectures-for-software-engineers-category-theory-by-tom-lagatta&#34;&gt;Hakka Labs Mailout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Rob Pike, GopherCon 2014 Keynote</title>
       <link>http://theb0ardside.com/robpike-gophercon-2014/</link>
       <pubDate>Fri, 09 May 2014 00:00:00 UTC</pubDate>
@@ -240,25 +256,6 @@
     </item>
     
     <item>
-      <title>Joshua Davis - Beyond Play</title>
-      <link>http://theb0ardside.com/joshua-davis-beyond-play/</link>
-      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/joshua-davis-beyond-play/</guid>
-      <description>&lt;p&gt;Wow. just wow&amp;hellip;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/LJS4fBjdPM4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?!&lt;/p&gt;
-
-&lt;p&gt;This was following me and Tack&amp;rsquo;s &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while. Another friend of mine, &lt;a href=&#34;https://twitter.com/mattspendlove&#34;&gt;Matt Spendlove&lt;/a&gt;, had told me about &lt;a href=&#34;http://natureofcode.com/book/&#34;&gt;The Nature Of Code&lt;/a&gt; which i&amp;rsquo;ve been wanting to read, so I suggested we play with Processing - seems awesome already! So yeah, Codetraxx on hold for a while, and work on a couple of Processing projects for a while &amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Cardb0ard Computer Scientists</title>
       <link>http://theb0ardside.com/cardboard-computer-scientists/</link>
       <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
@@ -294,6 +291,25 @@
     </item>
     
     <item>
+      <title>Joshua Davis - Beyond Play</title>
+      <link>http://theb0ardside.com/joshua-davis-beyond-play/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/joshua-davis-beyond-play/</guid>
+      <description>&lt;p&gt;Wow. just wow&amp;hellip;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/LJS4fBjdPM4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?!&lt;/p&gt;
+
+&lt;p&gt;This was following me and Tack&amp;rsquo;s &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while. Another friend of mine, &lt;a href=&#34;https://twitter.com/mattspendlove&#34;&gt;Matt Spendlove&lt;/a&gt;, had told me about &lt;a href=&#34;http://natureofcode.com/book/&#34;&gt;The Nature Of Code&lt;/a&gt; which i&amp;rsquo;ve been wanting to read, so I suggested we play with Processing - seems awesome already! So yeah, Codetraxx on hold for a while, and work on a couple of Processing projects for a while &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Street Punk</title>
       <link>http://theb0ardside.com/streetpunk/</link>
       <pubDate>Sat, 04 Jan 2014 00:00:00 UTC</pubDate>
@@ -303,20 +319,6 @@
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/rOM5jKK9pSU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Better Vim With Damian Conway</title>
-      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
-      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -334,6 +336,20 @@
 &lt;/div&gt;
 
 &lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Better Vim With Damian Conway</title>
+      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
+      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1320,22 +1336,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>Node.js</title>
-      <link>http://theb0ardside.com/nodejs/</link>
-      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/nodejs/</guid>
-      <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>zettabytez</title>
       <link>http://theb0ardside.com/zettabytez/</link>
       <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/zettabytez/</guid>
       <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Node.js</title>
+      <link>http://theb0ardside.com/nodejs/</link>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/nodejs/</guid>
+      <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
