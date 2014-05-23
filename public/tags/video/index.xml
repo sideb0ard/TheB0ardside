@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-05-19 00:00:00 &#43;0000 UTC</updated>
+    <updated>2014-05-22 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Rob Pike, Go Routines</title>
+      <link>http://theb0ardside.com/robpikeconcurrency/</link>
+      <pubDate>Thu, 22 May 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/robpikeconcurrency/</guid>
+      <description>&lt;p&gt;This is a great talk by Rob Pike on Go Routines, Channels and concurrency&amp;hellip;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe src=&#34;//player.vimeo.com/video/49718712?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=a086ee&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;http://vimeo.com/49718712&#34;&gt;Rob Pike - &#39;Concurrency Is Not Parallelism&#39;&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/herokuwaza&#34;&gt;Waza&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>James Mickens - Monitorama talk 2014</title>
