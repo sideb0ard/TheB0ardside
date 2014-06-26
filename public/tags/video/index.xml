@@ -6,19 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-06-21 00:00:00 &#43;0000 UTC</updated>
+    <updated>2014-06-26 00:00:00 &#43;0000 UTC</updated>
     
     <item>
-      <title>Solomon Hykes, Dockercon14</title>
-      <link>http://theb0ardside.com/solomon-hykes-docker/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
+      <title>Urban Giants</title>
+      <link>http://theb0ardside.com/urban-giants/</link>
+      <pubDate>Thu, 26 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
-      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
+      <guid>http://theb0ardside.com/urban-giants/</guid>
+      <description>&lt;p&gt;Beautifully shot, mind blowing short documentary about New York&amp;rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;amp;T Long Lines Building ..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;//player.vimeo.com/video/97945495&#34; width=&#34;500&#34; height=&#34;281&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;p&gt;Found via &lt;a href=&#34;http://bldgblog.blogspot.com/2014/06/urban-giants.html&#34;&gt;BldBlog site&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -48,6 +50,20 @@
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jG63r4e6eb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solomon Hykes, Dockercon14</title>
+      <link>http://theb0ardside.com/solomon-hykes-docker/</link>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
+      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -316,22 +332,6 @@
     </item>
     
     <item>
-      <title>Acoustic Levitation</title>
-      <link>http://theb0ardside.com/acoustic-levitation/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
-      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Stop Breaking The Web</title>
       <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
@@ -344,6 +344,22 @@
 &lt;/div&gt;
 
 &lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acoustic Levitation</title>
+      <link>http://theb0ardside.com/acoustic-levitation/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
+      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
