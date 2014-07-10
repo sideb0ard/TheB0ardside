@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Computer-Science on The B0ardside </title>
-    <link>http://127.0.0.1:1313/tags/computer-science/index.xml</link>
+    <link>http://theb0ardside.com:1313/tags/computer-science/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>The Cardb0ard Computer Scientists</title>
-      <link>http://127.0.0.1:1313/cardboard-computer-scientists</link>
+      <link>http://theb0ardside.com:1313/cardboard-computer-scientists</link>
       <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/cardboard-computer-scientists</guid>
+      <guid>http://theb0ardside.com:1313/cardboard-computer-scientists</guid>
       <description>&lt;p&gt;A wee slideshow of my Cardb0ard Computer Scientists project..&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;.&#34; onclick=&#34;return changeImage(-1);&#34;&gt;Previous&lt;/a&gt; // &lt;a href=&#34;.&#34; onclick=&#34;return changeImage(1);&#34;&gt;Next&lt;/a&gt;

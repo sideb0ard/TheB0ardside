@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Postgresql on The B0ardside </title>
-    <link>http://127.0.0.1:1313/tags/postgresql/index.xml</link>
+    <link>http://theb0ardside.com:1313/tags/postgresql/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>PostgreSQL on AWS</title>
-      <link>http://127.0.0.1:1313/postgresqlonaws</link>
+      <link>http://theb0ardside.com:1313/postgresqlonaws</link>
       <pubDate>Wed, 24 Apr 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/postgresqlonaws</guid>
+      <guid>http://theb0ardside.com:1313/postgresqlonaws</guid>
       <description>&lt;p&gt;Excellent video specifically for PostgreSQL on AWS, however the principles are pretty universal information for running anything on AWS -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/2fHRX-u1X4A?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>

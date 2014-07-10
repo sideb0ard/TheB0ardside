@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
 
-    <base href="http://127.0.0.1:1313">
+    <base href="http://theb0ardside.com:1313">
     <title> TheB0ardside.com </title>
-    <link rel="canonical" href="http://127.0.0.1:1313/tags/devops">
+    <link rel="canonical" href="http://theb0ardside.com:1313/tags/devops">
     <link href="/static/css/b0ardstrap.min.css" rel="stylesheet"/>
     <link href="/static/css/b0ardstyle.css" rel="stylesheet"/>
 
@@ -50,7 +50,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/berkshelfthemissingpiece'> Berkshelf - the missing piece</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/berkshelfthemissingpiece'> Berkshelf - the missing piece</a> </h2>
       <div class="post-meta">Wed, May 29, 2013</div>
     </header>
     <p>If you've been following my past few posts, you've seen i was investigating how best to integrate the plethora of Chef testing tools that've been coming out &#8212; foodcritic, chefspec, test-kitchen, mini-test &#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo? Inside a cookbook directory? How many Vagrant files am I going to create here?</p><p>If, like myself, you weren't along at this year's ChefConf 2013, you may also have missed on a major conceptual shift that has happened. Instead of the all-inclusive Chef-repo design pattern, as implied by the OpsCode Chef Repo - https://github.com/opscode/chef-repo - which, when used with all the community cookbooks out there, creates a mess of forked, modified and sub-moduled cookbooks and recipes. </p><p>The conceptual shift away and now recommended way, is to treat each cookbook as a separate piece of software and to give it it's own git repo, keeping them separate from from your Chef-repo. This combined, with a distinction between Library and Application cookbooks, and then bundled together via Berkshelf, enables a much cleaner and modular way of working. When you accept this move, it's much easier to then fit all the testing pieces together as they all live within each separate cookbook/repo.</p><p><a href="https://github.com/RiotGames/berkshelf/issues/535" title="Berk Comment" target="_blank">This Comment Thread</a> was what really drew it together for me, and then to fully clarify this way of working, watch Jamie Winsor's ChefConf talk which is the original starting point:</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/hYt0E84kYUI?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
@@ -60,7 +60,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/mocheftesting'> Mo&#39; Chef Testing</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/mocheftesting'> Mo&#39; Chef Testing</a> </h2>
       <div class="post-meta">Mon, May 27, 2013</div>
     </header>
     <p>Following on from my last post about Test Driven Chef, this latest Food Fight show is a great roundup of the current testing tools landscape -</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/DhcXXOIerIc?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
@@ -70,7 +70,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/testdrivenchef'> Test-Driven Chef</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/testdrivenchef'> Test-Driven Chef</a> </h2>
       <div class="post-meta">Wed, May 15, 2013</div>
     </header>
     <p>I'm looking to start using Test-Kitchen and Berkshelf, and basically trying to get my head round setting up a proper test driven Chef setup.</p><p>I found this video from last year to be quite a good introduction to some of the setup -</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/o2e0aZUAVGw?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
@@ -80,7 +80,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/jedbergtalkatairbnb'> jedberg talk at Airbnb</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/jedbergtalkatairbnb'> jedberg talk at Airbnb</a> </h2>
       <div class="post-meta">Wed, May 8, 2013</div>
     </header>
     <p>I was along at this talk last year, and just now found it online - was one of the most informative talks i've been to, learned loads from it -</p><p><iframe width="590" height="443" src="http://www.youtube.com/embed/cCAO9moDucI?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
@@ -90,7 +90,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/etsyscalingvidfrom2011'> Etsy Scaling vid from 2011</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/etsyscalingvidfrom2011'> Etsy Scaling vid from 2011</a> </h2>
       <div class="post-meta">Thu, Jan 17, 2013</div>
     </header>
     <p><iframe width="590" height="332" src="http://www.youtube.com/embed/eenrfm50mXw?feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>All well accepted practices by now, but still a good watch.</p>
@@ -100,7 +100,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/foodfightshowonchefcookbookbestpractises'> Food Fight Show on Chef Cookbook Best Practises</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/foodfightshowonchefcookbookbestpractises'> Food Fight Show on Chef Cookbook Best Practises</a> </h2>
       <div class="post-meta">Mon, Nov 26, 2012</div>
     </header>
     <p><iframe width="590" height="332" src="http://www.youtube.com/embed/slF72K03ixM?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>this google+ hangout, combined with this <a href="http://devopsanywhere.blogspot.it/2012/11/how-to-write-reusable-chef-cookbooks.html" title="Reusable Chef Cookbooks" target="_blank">post</a> and all it's links, provides plenty of good discussion and ideas for Chef.</p>
@@ -110,7 +110,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/shorthistoryofdevops'> (short) history of DevOps</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/shorthistoryofdevops'> (short) history of DevOps</a> </h2>
       <div class="post-meta">Sat, Sep 22, 2012</div>
     </header>
     <p>nice lil vid - i didn't know some of these details of how DevOps emerged -</p><p><iframe width="590" height="443" src="http://www.youtube.com/embed/o7-IuYS0iSE?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>via <a href="http://itrevolution.com/the-history-of-devops/" title="History of DevOps" target="_blank">http://itrevolution.com/the-history-of-devops/</a></p>
@@ -120,7 +120,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/cheflessonsfrometsy'> Chef Lessons from Etsy</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/cheflessonsfrometsy'> Chef Lessons from Etsy</a> </h2>
       <div class="post-meta">Sun, Aug 5, 2012</div>
     </header>
     <p>really good video from this year's ChefConf::</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/nSnJCJiZDDU?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p>
@@ -130,7 +130,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/scalingatdropbox'> scaling at dropbox</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/scalingatdropbox'> scaling at dropbox</a> </h2>
       <div class="post-meta">Mon, Jul 16, 2012</div>
     </header>
     <p>I highly recommend this <a href="http://devopsweekly.com/" title="DevOps Weekly" target="_blank">DevOps Weekly mail out</a>. </p><p><img alt="" src="http://image-host.appspot.com/i/img?id=agppbWFnZS1ob3N0cg0LEgVJbWFnZRiJpAEM" title="DevOps Weekly" class="aligncenter" width="798" height="362" /></p><p>The latest one has a bunch of good links, and one i found especially was this &#8220;<a href="http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1" title="Scaling at Dropbox" target="_blank">Scaling lessons learned at Dropbox, part 1</a>&#8220;.</p>
@@ -140,7 +140,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/somefavvelocitytalks'> some fav Velocity talks</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/somefavvelocitytalks'> some fav Velocity talks</a> </h2>
       <div class="post-meta">Mon, Jul 2, 2012</div>
     </header>
     <p><a href="http://velocityconf.com/velocity2012" title="Velocity" target="_blank">Velocity</a> was on last week, and I was following along enviously on twitter - I'm making a promise to myself that I'll be along in person next year!</p><p>Quite a few of the talks now appearing online - here's a couple I've watched so far..</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/2S0k12uZR14?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/bM0yL0eQ9EM?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p>
@@ -150,7 +150,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/allspawonanticipation'> Allspaw on Anticipation</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/allspawonanticipation'> Allspaw on Anticipation</a> </h2>
       <div class="post-meta">Mon, Jun 18, 2012</div>
     </header>
     <p><iframe width="590" height="332" src="http://www.youtube.com/embed/gy2lTFD4560?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>// <a href="http://www.kitchensoap.com/2012/06/18/resilience-engineering-part-ii-lenses/" title="Resilience Engineering Part II: Lenses" target="_blank">via John's blog at Kitchen Soap</a> //</p>

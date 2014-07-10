@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Golang on The B0ardside </title>
-    <link>http://127.0.0.1:1313/tags/golang/index.xml</link>
+    <link>http://theb0ardside.com:1313/tags/golang/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Rob Pike, Go Routines</title>
-      <link>http://127.0.0.1:1313/robpikeconcurrency</link>
+      <link>http://theb0ardside.com:1313/robpikeconcurrency</link>
       <pubDate>Thu, 22 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/robpikeconcurrency</guid>
+      <guid>http://theb0ardside.com:1313/robpikeconcurrency</guid>
       <description>&lt;p&gt;This is a great talk by Rob Pike on Go Routines, Channels and concurrency&amp;hellip;&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Rob Pike, GopherCon 2014 Keynote</title>
-      <link>http://127.0.0.1:1313/robpike-gophercon-2014</link>
+      <link>http://theb0ardside.com:1313/robpike-gophercon-2014</link>
       <pubDate>Fri, 09 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/robpike-gophercon-2014</guid>
+      <guid>http://theb0ardside.com:1313/robpike-gophercon-2014</guid>
       <description>&lt;p&gt;Awesome, awesome talk from Rob Pike, the keynote for GopherCon 2014, some old Unix/C history and lots of details of Go development &amp;ndash;&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>Go Presentation</title>
-      <link>http://127.0.0.1:1313/gopresentation</link>
+      <link>http://theb0ardside.com:1313/gopresentation</link>
       <pubDate>Mon, 30 Dec 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/gopresentation</guid>
+      <guid>http://theb0ardside.com:1313/gopresentation</guid>
       <description>&lt;p&gt;More and more I&amp;rsquo;ve been dabbling with Go, which, mainly due to Hacker News, i&amp;rsquo;ve been reading so many good things about. The syntax is super easy to pick up, but the killer feature seems to be the concurrency primitives - the Go Functions and message passing Channels seem like a super tight, rock solid implementation of Hoare&amp;rsquo;s Communicating Sequential Processes. The following video is a really succinct walk through of building a concurent multi-protocol chat application ala Chat Roulette..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;

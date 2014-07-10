@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Lisp on The B0ardside </title>
-    <link>http://127.0.0.1:1313/tags/lisp/index.xml</link>
+    <link>http://theb0ardside.com:1313/tags/lisp/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Wizard Book</title>
-      <link>http://127.0.0.1:1313/wizard-book-lectures</link>
+      <link>http://theb0ardside.com:1313/wizard-book-lectures</link>
       <pubDate>Sun, 13 Apr 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/wizard-book-lectures</guid>
+      <guid>http://theb0ardside.com:1313/wizard-book-lectures</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve never made it very far through my copy of Abelson, Sussman and Sussman&amp;rsquo;s &amp;lsquo;Structure and Interpretation Of Computer Programs&amp;rsquo;, so I was super excited to find this whole series of lectures online with Harold and Gerald Jay presenting the text as a course. The lectures help a lot, making it a whole lot easier than just wading through the text yourself. I went deep over the weekend, watching the first four of them - My Lisp foo is getting strong!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/&#34;&gt;Full Course Online&lt;/a&gt;&lt;/p&gt;

@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
 
-    <base href="http://127.0.0.1:1313">
+    <base href="http://theb0ardside.com:1313">
     <title> TheB0ardside.com </title>
-    <link rel="canonical" href="http://127.0.0.1:1313/tags/programming">
+    <link rel="canonical" href="http://theb0ardside.com:1313/tags/programming">
     <link href="/static/css/b0ardstrap.min.css" rel="stylesheet"/>
     <link href="/static/css/b0ardstyle.css" rel="stylesheet"/>
 
@@ -50,7 +50,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/dijkstra-on-elegance'> Dijkstra on Elegance</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/dijkstra-on-elegance'> Dijkstra on Elegance</a> </h2>
       <div class="post-meta">Mon, May 26, 2014</div>
     </header>
     <p>Excellent wee 20 min documentary with Dijkstra speaking about elegance..</p>
@@ -64,7 +64,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/ycombinator'> Y Combinator explained</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/ycombinator'> Y Combinator explained</a> </h2>
       <div class="post-meta">Sat, Feb 22, 2014</div>
     </header>
     <p>Sadly, Jim Weirich, creator of the Ruby Rake tool died a few days back.</p>
@@ -80,7 +80,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/substackbeepboop'> substack beep boop</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/substackbeepboop'> substack beep boop</a> </h2>
       <div class="post-meta">Fri, Oct 25, 2013</div>
     </header>
     <p>dang, this is awesome::</p><p><iframe width="590" height="443" src="http://www.youtube.com/embed/2oz_SwhBixs?feature=oembed" frameborder="0" allowfullscreen></iframe></p><p><a href="https://github.com/substack/nodepdx-beep-boop-examples/tree/master/example/waves" title="github">github code here</a></p>
@@ -90,7 +90,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/immutability'> immutability</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/immutability'> immutability</a> </h2>
       <div class="post-meta">Thu, Jan 10, 2013</div>
     </header>
     <p>Excellent talk from Pat Helland, &#8220;Immutability Changes Everything&#8221; :</p><p><iframe src="http://player.vimeo.com/video/52831373" width="590" height="332" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p><p>via <a href="https://twitter.com/igrigorik/status/288758137190772736" target="_blank">igrigorik's twitter</a></p>
@@ -100,7 +100,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/theinformation'> The Information</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/theinformation'> The Information</a> </h2>
       <div class="post-meta">Wed, Mar 14, 2012</div>
     </header>
     <p><iframe width="590" height="332" src="http://www.youtube.com/embed/iyOzSzcDwg8?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>I started reading James Gleick's &#8220;The Information&#8221; last week and haven't been able to put it down yet - so good!<br />I just found this video of a talk he presented at Google last year on the book, looks ace, i'll save it for watching this evening.</p>
@@ -110,7 +110,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/liketreaclesolvingperlnetsftpslowtransferspeeds'> Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/liketreaclesolvingperlnetsftpslowtransferspeeds'> Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</a> </h2>
       <div class="post-meta">Sun, Feb 19, 2012</div>
     </header>
     <p>I've been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn't local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren't hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. </p><p>I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark's IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows. We were pretty much stumped, and the other engineer recommend i look into <a href="http://www.psc.edu/networking/projects/hpn-ssh/">HPN-SSH</a>, which does indeed sound very good, but first i started playing around with trying different ciphers and compression.</p><p>Our uploads are all run via a perl framework, which utilises Net::SFTP in order to do the transfers.<a href="https://github.com/sideb0ard/speedTester" target="_blank"> My test program was also written in perl</a> and using the same library. In order to try different cyphers i started testing uploads with the interactive command line SFTP. Boom! 6Mb/s upload speed. Biiiig difference from the Net::SFTP client. I started playing with blowfish cipher and trying to enable compression with Net::SFTP - it wasn't really working, it can only do Zlib compression, which my SSHD server wouldn't play with until i specifically enabled compression in the sshd_config file.</p><p>After much more digging around, i came across reference to <a href="http://search.cpan.org/~salva/Net-SFTP-Foreign-1.69/lib/Net/SFTP/Foreign.pm">Net::SFTP::Foreign</a>, which uses the installed ssh binary on your system for transport rather than relying on the pure perl Net::SSH.</p><p>Syntax is very similar, so it was a minor rewrite to switch modules, yet such a massive payback, from 0.30Mb/s up to 6Mb/s. </p><p>(It turns out the DSPs i mentioned earlier who could achieve 60Mb/s were actually FTP transfers, not SFTP)</p>
@@ -120,7 +120,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/amooselooseabootthishoose'> a moose loose aboot this hoose</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/amooselooseabootthishoose'> a moose loose aboot this hoose</a> </h2>
       <div class="post-meta">Tue, Jan 24, 2012</div>
     </header>
     <p>Really enjoyed programming along with this <a href="http://www.linuxjournal.com/content/moose" title="moose" target="_blank">perl Moose introduction at Linux Journal</a> - The piece and code are nice and concise.</p><p><img src="http://www.linuxjournal.com/files/linuxjournal.com/ufiles/imagecache/node-page/nodeimage/story/moose.png" alt="Moose" /> <img src="http://www.linuxjournal.com/files/linuxjournal.com/ufiles/logo-lj.jpg" alt="lj" /></p>
@@ -130,7 +130,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/cpandiffscript'> CPAN Diff script</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/cpandiffscript'> CPAN Diff script</a> </h2>
       <div class="post-meta">Fri, Dec 16, 2011</div>
     </header>
     <p><img src="http://theslowbullet.files.wordpress.com/2011/01/clonecover.jpg" alt="diff" /></p><p>I put together a quick perl script for comparing installed CPAN modules between two hosts. Find it <a href="https://github.com/sideb0ard/CPANDiff" title="CPANDiff" target="_blank">here</a>.</p><p>Quite easy to use:<br />Usage: ./CompareHostCpanModules.pl login@host1 login@host2</p><p>The script ssh's into both hosts (so it's easier if you have your ssh-keys setup) and grabs a list of installed CPAN modules and versions, then outputs the differences - it returns two lists - one of modules installed but having different versions, and another list of modules missing from the second host. </p>
@@ -140,7 +140,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/genxen'> Gen Xen</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/genxen'> Gen Xen</a> </h2>
       <div class="post-meta">Mon, Oct 10, 2011</div>
     </header>
     <p><img alt="" width="600" src="http://www.just-marvel-x-men.com/image-files/astonishing-x-men-1-100k.jpg" title="Xen" class="alignnone"  /></p><p>I've been working pretty extensively with Xen and Puppet in my new job, really loving it! I've been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I've just finished a script which is over on <a href="https://github.com/sideb0ard/GenXen" title="GitHub" target="_blank">my github page</a>, which basically automates what was previously a manual process.</p><p>Basically, it copies your existing disk.img and swap.img, generates a new xen.cfg file based on some interactive input (desired hostname, IP, memory and number of vCPUs) plus a random Xen mac address, then mounts the disk.img file and changes some appropriate system files - /etc/hostname, hosts, and network/interfaces.</p><p>All quite simple and straight forward, but quite nice to have automated.</p><p><a href="https://github.com/sideb0ard/GenXen" title="GenXen" target="_blank">GenXen</a></p><p>Here's the README:</p><p>GenXen #<br />#############################</p><p>A script for automating Xen VM deployment.</p><p>It requires that you have a base disk.img and swap.img already created.<br />I created mine with:<br />xen-create-image -pygrub -size=50Gb -swap=9Gb -vcpus=2 -memory 6Gb -dist=squeeze -dhcp -passwd -dir=/var/virt-machines -hostname=xen-squeeze-base</p><p>Fill in some of the variables at the top of GenXen.pl before running, then simply:<br />./GenXen.pl</p><p>The interactive part will ask for hostname, memory size, vCPUs, IP address, then generate a unique Xen mac address, and write these all to a xen config file which will be saved in /etc/xen/</p><p>It'll copy your disk.img and swap.img to destination dir, mount the disk.img and create appropriate files for:<br />/etc/hostname<br />/etc/hosts<br />/etc/network/interfaces </p><p>After that you should be good to launch with:</p><p>xm create -c /etc/xen/whatever-your-hostname-is.cfg</p>
@@ -150,7 +150,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/mohistorylessons'> mo&#39; history lessons</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/mohistorylessons'> mo&#39; history lessons</a> </h2>
       <div class="post-meta">Sat, Jul 9, 2011</div>
     </header>
     <p><img src="http://farm3.static.flickr.com/2712/4366716421_2ec13d6ec4.jpg" alt="Douglas Crockford" /></p><p>wow, been finding so many good online video talks. I've been genning up on node.js, which has led me into studying more javascript, and this latest lecture, is a massive five part series of talks about javascript. It's the first one which really stands out, and which fits in with the theme of historical lectures i've been posting, covering the history of computing from the Jacquard Loom through the evolution of processors and programming languages up to Javascript. Check them all online <a href="http://www.yuiblog.com/crockford/" title="Douglas Crockford">here</a></p><p>[[image by <a href="http://www.flickr.com/photos/equanimity/4366716421/sizes/m/in/photostream/" title="equanimity">equanimity</a>]]</p>
@@ -160,7 +160,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://127.0.0.1:1313/nodejs'> Node.js</a> </h2>
+      <h2><a href='http://theb0ardside.com:1313/nodejs'> Node.js</a> </h2>
       <div class="post-meta">Fri, Jun 24, 2011</div>
     </header>
     <p>I keep coming across mentions of <a href="http://nodejs.org/">node.js</a>, but wasn't sure what it was. This morning I've been watching some tutorials and reading up a little, and from what I understand it's basically a network server framework built on top of Google's V8 JavaScript engine, really an abstraction for socket programming. It's main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. </p><p>This video from node's creator, Ryan Dahl is a pretty funny and very informative introductory video. I'd recommend programming along with watching it:</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>Here's some further links:<br /><a href="http://nodejs.org/docs/v0.4.8/api/synopsis.html">http://nodejs.org/docs/v0.4.8/api/synopsis.html</a><br /><a href="http://howtonode.org/">http://howtonode.org/</a></p><p>This podcast is also a good source of information:<br /><a href="http://herdingcode.com/?p=299">http://herdingcode.com/?p=299</a></p>

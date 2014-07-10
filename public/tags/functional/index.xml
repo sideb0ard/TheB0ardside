@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Functional on The B0ardside </title>
-    <link>http://127.0.0.1:1313/tags/functional/index.xml</link>
+    <link>http://theb0ardside.com:1313/tags/functional/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Y Combinator explained</title>
-      <link>http://127.0.0.1:1313/ycombinator</link>
+      <link>http://theb0ardside.com:1313/ycombinator</link>
       <pubDate>Sat, 22 Feb 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/ycombinator</guid>
+      <guid>http://theb0ardside.com:1313/ycombinator</guid>
       <description>&lt;p&gt;Sadly, Jim Weirich, creator of the Ruby Rake tool died a few days back.&lt;/p&gt;
 
 &lt;p&gt;Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:&lt;/p&gt;

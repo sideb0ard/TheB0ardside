@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Supercomputing on The B0ardside </title>
-    <link>http://127.0.0.1:1313/tags/supercomputing/index.xml</link>
+    <link>http://theb0ardside.com:1313/tags/supercomputing/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Seymour Cray profile</title>
-      <link>http://127.0.0.1:1313/seymourcray</link>
+      <link>http://theb0ardside.com:1313/seymourcray</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/seymourcray</guid>
+      <guid>http://theb0ardside.com:1313/seymourcray</guid>
       <description>&lt;p&gt;This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;

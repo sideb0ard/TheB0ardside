@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Go on The B0ardside </title>
-    <link>http://127.0.0.1:1313/tags/go/index.xml</link>
+    <link>http://theb0ardside.com:1313/tags/go/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Brandon Philips, CoreOS</title>
-      <link>http://127.0.0.1:1313/brandoncoreos</link>
+      <link>http://theb0ardside.com:1313/brandoncoreos</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/brandoncoreos</guid>
+      <guid>http://theb0ardside.com:1313/brandoncoreos</guid>
       <description>&lt;p&gt;Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Go For SysAdmins</title>
-      <link>http://127.0.0.1:1313/goforsysadmins</link>
+      <link>http://theb0ardside.com:1313/goforsysadmins</link>
       <pubDate>Thu, 15 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/goforsysadmins</guid>
+      <guid>http://theb0ardside.com:1313/goforsysadmins</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been getting really into both Go and CoreOS recenty, so this video is timely and ACE!&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Ideas on The B0ardside </title>
-    <link>http://127.0.0.1:1313/tags/ideas/index.xml</link>
+    <link>http://theb0ardside.com:1313/tags/ideas/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,60 +10,60 @@
     
     <item>
       <title>immutability</title>
-      <link>http://127.0.0.1:1313/immutability</link>
+      <link>http://theb0ardside.com:1313/immutability</link>
       <pubDate>Thu, 10 Jan 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/immutability</guid>
+      <guid>http://theb0ardside.com:1313/immutability</guid>
       <description>&lt;p&gt;Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/52831373&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;https://twitter.com/igrigorik/status/288758137190772736&#34; target=&#34;_blank&#34;&gt;igrigorik&#39;s twitter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Food Fight Show on Chef Cookbook Best Practises</title>
-      <link>http://127.0.0.1:1313/foodfightshowonchefcookbookbestpractises</link>
+      <link>http://theb0ardside.com:1313/foodfightshowonchefcookbookbestpractises</link>
       <pubDate>Mon, 26 Nov 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/foodfightshowonchefcookbookbestpractises</guid>
+      <guid>http://theb0ardside.com:1313/foodfightshowonchefcookbookbestpractises</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/slF72K03ixM?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;this google+ hangout, combined with this &lt;a href=&#34;http://devopsanywhere.blogspot.it/2012/11/how-to-write-reusable-chef-cookbooks.html&#34; title=&#34;Reusable Chef Cookbooks&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt; and all it&#39;s links, provides plenty of good discussion and ideas for Chef.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Technology As Society&#39;s Engine</title>
-      <link>http://127.0.0.1:1313/technologyassocietysengine</link>
+      <link>http://theb0ardside.com:1313/technologyassocietysengine</link>
       <pubDate>Thu, 03 May 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/technologyassocietysengine</guid>
+      <guid>http://theb0ardside.com:1313/technologyassocietysengine</guid>
       <description>&lt;p&gt;Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -&lt;/p&gt;&lt;!-- iframe plugin v:2.3 - wordpress.org/extend/plugins/iframe/ --&gt;&lt;iframe width=&#34;560&#34; height=&#34;340&#34; src=&#34;http://cdn.livestream.com/embed/techonomy?layout=4&amp;amp;clip=pla_e0493fff-f62c-4a9c-bf6b-2844f9ad8d58&amp;amp;height=340&amp;amp;width=560&amp;amp;autoplay=false&#34; style=&#34;border:0;outline:0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;iframe-class&#34;&gt;&lt;/iframe&gt;&lt;p&gt;A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. &lt;/p&gt;&lt;p&gt;I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.&lt;/p&gt;&lt;p&gt;Technology on the other hand: absolutely it&#39;s what will drive the economy, but even that view completely misses the big picture, which is the Medium itself, The Universal Network. I believe we have created a whole new dimension, an evolutionary mathematical abstracted form of biology. This is the beginning of History, Year Zero.&lt;/p&gt;&lt;p&gt;One hundred years from now, or two thousand - people will be able to look back in time and know with a rich level of detail what our life is like now. Thousands, upon millions of instances of video and audio, images, writings, geo locations, online trails, all readily accessible, interlinked and searchable. This level of detail will only increase, as we start recording every aspect of life. &lt;/p&gt;&lt;p&gt;With such archives of data, I can easily imagine the kids of 2123 being able to walk through and interact with a virtual London in the swinging 2020&amp;#8242;s, or San Francisco&#39;s roaring 2030&amp;#8242;s. Whereas, for future generations, any time predating the late 1990&amp;#8242;s will essentially be a static foreign place in comparison. We have created time-travel - we just don&#39;t know it yet.&lt;/p&gt;&lt;p&gt;This Network has already achieved a basic level of independence from humanity - where now it is possible for a Something to exist outwith a single containing computer system using techniques like redundancy and geographic load-balancing. I don&#39;t mean to imply there is any intelligence there, but there is a level of resilience we&#39;ve never seen in nature before. To give a more concrete example, I&#39;m referring to something like you as a user interacting with the amazon website to purchase something, meanwhile the power goes out in the datacentre hosting the server your browser was communicating with, and, if engineered correctly, your interaction could continue, picked up by a secondary datacentre with no loss of data, nor interruption of service. This isn&#39;t exactly life as we know it, but if you squint your eyes just a little, its not too hard to see an analogy to biological cell life.&lt;/p&gt;&lt;p&gt;Over the next few years, Society&#39;s experience of reality is going to go through the biggest change in history, as our physical world merges completely with this new virtual world of realtime interconnected information and communication, completely warping our sense of time and geography.&lt;/p&gt;&lt;p&gt;The iPhone was stage one, Google Glasses or &lt;a href=&#34;http://www.theb0ardside.com/?p=32&#34; target=&#34;_blank&#34;&gt;something very similar&lt;/a&gt; will be stage two, and its right around the corner.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>going google eyed</title>
-      <link>http://127.0.0.1:1313/goinggoogleeyed</link>
+      <link>http://theb0ardside.com:1313/goinggoogleeyed</link>
       <pubDate>Thu, 05 Apr 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/goinggoogleeyed</guid>
+      <guid>http://theb0ardside.com:1313/goinggoogleeyed</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/9c6W4CCU9M4?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Ah, see, &lt;a href=&#34;http://drawingb0ard.blogspot.com/2011/01/physic-or-surgery-issue-1.html&#34; title=&#34;Physic Or Surgery&#34; target=&#34;_blank&#34;&gt;my comic&lt;/a&gt; is all true! :D&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Information</title>
-      <link>http://127.0.0.1:1313/theinformation</link>
+      <link>http://theb0ardside.com:1313/theinformation</link>
       <pubDate>Wed, 14 Mar 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/theinformation</guid>
+      <guid>http://theb0ardside.com:1313/theinformation</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/iyOzSzcDwg8?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;I started reading James Gleick&#39;s &amp;#8220;The Information&amp;#8221; last week and haven&#39;t been able to put it down yet - so good!&lt;br /&gt;I just found this video of a talk he presented at Google last year on the book, looks ace, i&#39;ll save it for watching this evening.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Edge Question 2012</title>
-      <link>http://127.0.0.1:1313/theedgequestion2012</link>
+      <link>http://theb0ardside.com:1313/theedgequestion2012</link>
       <pubDate>Thu, 19 Jan 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/theedgequestion2012</guid>
+      <guid>http://theb0ardside.com:1313/theedgequestion2012</guid>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://edge.org/images/edge_logo.jpg&#34; alt=&#34;Edge&#34; /&gt;&lt;/p&gt;&lt;p&gt;The Edge just published their annual Q/A in which they pose a question and ask a group of artists, scientists, and various kinds of intellectuals for their answer. This year the question was &lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;#8220;&lt;em&gt;What Is Your Favorite Deep, Elegant, Or Beautiful Explanation?&lt;/em&gt;&amp;#8220;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The list of contributors stretches to 192, most of whom i can&amp;rsquo;t claim to know, however three names I&amp;rsquo;m particularly interested in stick out:&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/response-detail/2738/what-is-your-favorite-deep-elegant-or-beautiful-explanation&#34; target=&#34;_blank&#34;&gt;Rudy Rucker on Inverse Power Laws&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/response-detail/2942/what-is-your-favorite-deep-elegant-or-beautiful-explanation&#34; target=&#34;_blank&#34;&gt;Tim O Reilly on Pascal&amp;rsquo;s Wager&lt;/a&gt; &lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/response-detail/2954/what-is-your-favorite-deep-elegant-or-beautiful-explanation&#34; target=&#34;_blank&#34;&gt;Stewart Brand on Fitness Landscapes&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Worth taking a dig through, tons of good stuff.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>

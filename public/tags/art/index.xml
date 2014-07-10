@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Art on The B0ardside </title>
-    <link>http://127.0.0.1:1313/tags/art/index.xml</link>
+    <link>http://theb0ardside.com:1313/tags/art/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Frank Quitely - Geek Hard</title>
-      <link>http://127.0.0.1:1313/frankquitely-interview</link>
+      <link>http://theb0ardside.com:1313/frankquitely-interview</link>
       <pubDate>Sat, 22 Mar 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/frankquitely-interview</guid>
+      <guid>http://theb0ardside.com:1313/frankquitely-interview</guid>
       <description>&lt;p&gt;My mother, over in Glasgow, was telling me about a BBC program called A Day In The Life, and specifically of an episode about Frank QUitely - i found it on youtube.com for about 30 mins but it&amp;rsquo;s already been taken down. (I didn&amp;rsquo;t get to see it either!!).&lt;/p&gt;
 
 &lt;p&gt;Fortunately however, I did find this lovely interview with &amp;ldquo;Frank&amp;rdquo; (whose name i just found out is a stage name! )&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Oh yeah, Codetraxx</title>
-      <link>http://127.0.0.1:1313/codetraxx</link>
+      <link>http://theb0ardside.com:1313/codetraxx</link>
       <pubDate>Tue, 07 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/codetraxx</guid>
+      <guid>http://theb0ardside.com:1313/codetraxx</guid>
       <description>&lt;p&gt;Oh yeah, that &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project I mentioned, which me and &lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..&lt;/p&gt;
 
 &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124516248&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=true&#34;&gt;&lt;/iframe&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>The Cardb0ard Computer Scientists</title>
-      <link>http://127.0.0.1:1313/cardboard-computer-scientists</link>
+      <link>http://theb0ardside.com:1313/cardboard-computer-scientists</link>
       <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/cardboard-computer-scientists</guid>
+      <guid>http://theb0ardside.com:1313/cardboard-computer-scientists</guid>
       <description>&lt;p&gt;A wee slideshow of my Cardb0ard Computer Scientists project..&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;.&#34; onclick=&#34;return changeImage(-1);&#34;&gt;Previous&lt;/a&gt; // &lt;a href=&#34;.&#34; onclick=&#34;return changeImage(1);&#34;&gt;Next&lt;/a&gt;
@@ -73,10 +73,10 @@
     
     <item>
       <title>Joshua Davis - Beyond Play</title>
-      <link>http://127.0.0.1:1313/joshua-davis-beyond-play</link>
+      <link>http://theb0ardside.com:1313/joshua-davis-beyond-play</link>
       <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/joshua-davis-beyond-play</guid>
+      <guid>http://theb0ardside.com:1313/joshua-davis-beyond-play</guid>
       <description>&lt;p&gt;Wow. just wow&amp;hellip;&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;

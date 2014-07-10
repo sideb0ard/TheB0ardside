@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Docker on The B0ardside </title>
-    <link>http://127.0.0.1:1313/tags/docker/index.xml</link>
+    <link>http://theb0ardside.com:1313/tags/docker/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Solomon Hykes, Dockercon14</title>
-      <link>http://127.0.0.1:1313/solomon-hykes-docker</link>
+      <link>http://theb0ardside.com:1313/solomon-hykes-docker</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/solomon-hykes-docker</guid>
+      <guid>http://theb0ardside.com:1313/solomon-hykes-docker</guid>
       <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Eric Brewer on Container usage at Google</title>
-      <link>http://127.0.0.1:1313/containers-at-google</link>
+      <link>http://theb0ardside.com:1313/containers-at-google</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://127.0.0.1:1313/containers-at-google</guid>
+      <guid>http://theb0ardside.com:1313/containers-at-google</guid>
       <description>&lt;p&gt;Eric Brewer&amp;rsquo;s keynote from Dockercon14 -&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
