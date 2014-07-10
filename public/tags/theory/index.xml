@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Theory on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/theory.xml</link>
+    <link>http://127.0.0.1:1313/tags/theory/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Dijkstra on Elegance</title>
-      <link>http://theb0ardside.com/dijkstra-on-elegance/</link>
+      <link>http://127.0.0.1:1313/dijkstra-on-elegance</link>
       <pubDate>Mon, 26 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/dijkstra-on-elegance/</guid>
+      <guid>http://127.0.0.1:1313/dijkstra-on-elegance</guid>
       <description>&lt;p&gt;Excellent wee 20 min documentary with Dijkstra speaking about elegance..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Category Theory Intro</title>
-      <link>http://theb0ardside.com/cattheoryintro/</link>
+      <link>http://127.0.0.1:1313/cattheoryintro</link>
       <pubDate>Sat, 10 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/cattheoryintro/</guid>
+      <guid>http://127.0.0.1:1313/cattheoryintro</guid>
       <description>&lt;p&gt;Excellent introduction to Category Theory - presentation by Tom LaGatta at LispNYC meetup.&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;

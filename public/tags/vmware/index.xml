@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Vmware on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/vmware.xml</link>
+    <link>http://127.0.0.1:1313/tags/vmware/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>JVM tuning for VMs</title>
-      <link>http://theb0ardside.com/jvmtuningforvms/</link>
+      <link>http://127.0.0.1:1313/jvmtuningforvms</link>
       <pubDate>Fri, 13 Apr 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/jvmtuningforvms/</guid>
+      <guid>http://127.0.0.1:1313/jvmtuningforvms</guid>
       <description>&lt;p&gt;This is an excellent talk about the interaction between the various layers of memory abstraction from the a machine&#39;s physical memory down through the Hypervisor&#39;s view, to the Guest OS&#39;s and down into the JVM:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/V3o4VNkTyTY?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// found via &lt;a href=&#34;http://marakana.com/s/tuning_jvm_for_a_vm_lessons_learned_directly_from_vmware_video,1138/index.html&#34; target=&#34;_blank&#34;&gt;Marakana&lt;/a&gt; //&lt;/p&gt;
 </description>
     </item>

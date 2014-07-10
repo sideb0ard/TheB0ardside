@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Vim on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/vim.xml</link>
+    <link>http://127.0.0.1:1313/tags/vim/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Better Vim With Damian Conway</title>
-      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
+      <link>http://127.0.0.1:1313/vim-fun-with-conway</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
+      <guid>http://127.0.0.1:1313/vim-fun-with-conway</guid>
       <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;

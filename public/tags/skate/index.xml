@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Skate on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/skate.xml</link>
+    <link>http://127.0.0.1:1313/tags/skate/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Physic Or Surgery.</title>
-      <link>http://theb0ardside.com/physicorsurgery/</link>
+      <link>http://127.0.0.1:1313/physicorsurgery</link>
       <pubDate>Tue, 14 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/physicorsurgery/</guid>
+      <guid>http://127.0.0.1:1313/physicorsurgery</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/frontcover.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page1.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page2.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page3.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page4.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page5.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page6.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page7.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page8.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page9.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page10.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page11.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page12.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page13.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page14.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page15.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page16.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3424/5832979671_f9ebeb4c40_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5144/5832979817_586d56c9c3_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2527/5832980309_5ce8dfe189_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3047/5832979985_c26fe743d8_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3052/5832980669_02c0a348bc_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2686/5833534632_0797eeefec_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5181/5833534866_723770ced7_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5228/5832981387_3398914d9e_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3618/5833535466_bc7b666e92_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3315/5832982223_1b8b091534_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5239/5832981967_ebcf59e3a0_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2489/5832982445_8bd3ab1d96_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3006/5833536534_3769b5795a_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3606/5832982869_6c7bfe6e90_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/backcover.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>

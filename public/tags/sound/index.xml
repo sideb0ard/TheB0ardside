@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Sound on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/sound.xml</link>
+    <link>http://127.0.0.1:1313/tags/sound/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>substack beep boop</title>
-      <link>http://theb0ardside.com/substackbeepboop/</link>
+      <link>http://127.0.0.1:1313/substackbeepboop</link>
       <pubDate>Fri, 25 Oct 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/substackbeepboop/</guid>
+      <guid>http://127.0.0.1:1313/substackbeepboop</guid>
       <description>&lt;p&gt;dang, this is awesome::&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/2oz_SwhBixs?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/substack/nodepdx-beep-boop-examples/tree/master/example/waves&#34; title=&#34;github&#34;&gt;github code here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

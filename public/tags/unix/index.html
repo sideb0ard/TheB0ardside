@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
 
-    <base href="http://theb0ardside.com">
+    <base href="http://127.0.0.1:1313">
     <title> TheB0ardside.com </title>
-    <link rel="canonical" href="http://theb0ardside.com/tags/unix.html">
-    <link href="http://theb0ardside.com/static/css/b0ardstrap.min.css" rel="stylesheet"/>
-    <link href="http://theb0ardside.com/static/css/b0ardstyle.css" rel="stylesheet"/>
+    <link rel="canonical" href="http://127.0.0.1:1313/tags/unix">
+    <link href="/static/css/b0ardstrap.min.css" rel="stylesheet"/>
+    <link href="/static/css/b0ardstyle.css" rel="stylesheet"/>
 
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://theb0ardside.com/index.xml" />
 
@@ -17,7 +17,7 @@
   
   <div class="navbar-blah">
   <div class="navbar-header">
-    <a class="navbar-brand" href="http://theb0ardside.com/">The B0ardside_</a>
+    <a class="navbar-brand" href="/">The B0ardside_</a>
   </div>
 
   <div>
@@ -26,7 +26,7 @@
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">hello<b class="caret"></b></a>
         <ul class="dropdown-menu">
             <li><img src="/static/img/thor.jpg"></li>
-            <li><a target="new" href="http://theb0ardside.com/categories/blog/">All Articles</a></li>
+            <li><a target="new" href="/categories/blog/">All Articles</a></li>
             <li><a target="new" href="mailto:thorsten@theb0ardside.com?subject=hullo">Email</a></li>
             <li><a target="new" href="http://github.com/sideb0ard">Github</a></li>
             <li><a target="new" href="http://drawingb0ard.blogspot.com/">Drawings</a></li>
@@ -50,7 +50,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com/systems-architecture-acm/'> Systems Architecture, Design, Engineering, and Verification</a> </h2>
+      <h2><a href='http://127.0.0.1:1313/systems-architecture-acm'> Systems Architecture, Design, Engineering, and Verification</a> </h2>
       <div class="post-meta">Tue, May 6, 2014</div>
     </header>
     <p>Yow! this is great! I know my Unix history pretty well, but Multics - aside from knowing it was the precursor to Unix, i didn&rsquo;t know much else of the details or who was involved - WATCH THIS! NOW! :D</p>
@@ -64,7 +64,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com/unix70suk/'> The Arrival of UNIX in the UK</a> </h2>
+      <h2><a href='http://127.0.0.1:1313/unix70suk'> The Arrival of UNIX in the UK</a> </h2>
       <div class="post-meta">Tue, Dec 24, 2013</div>
     </header>
     <p>Lovely wee video talking about the arrival of UNIX into 70&rsquo;s UK Academia &hellip;</p>
@@ -78,7 +78,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com/cardboardken/'> Ken Thompson, Cardboard Computer Scientist</a> </h2>
+      <h2><a href='http://127.0.0.1:1313/cardboardken'> Ken Thompson, Cardboard Computer Scientist</a> </h2>
       <div class="post-meta">Mon, Dec 23, 2013</div>
     </header>
     <p>Latest is <a href="http://www.flickr.com/photos/sideb0ard/sets/72157629239791822/">my series of Cardboard Computer Scientists</a> is Ken Thompson, badman of Unix hisself..<p>
@@ -89,7 +89,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com/theunixway/'> The Unix Way</a> </h2>
+      <h2><a href='http://127.0.0.1:1313/theunixway'> The Unix Way</a> </h2>
       <div class="post-meta">Wed, Sep 12, 2012</div>
     </header>
     <p>Ace early Unix infomercial -</p><p><iframe width="590" height="443" src="http://www.youtube.com/embed/tc4ROCJYbm0?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p>
@@ -99,7 +99,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com/perlparpparp/'> perl parp parp</a> </h2>
+      <h2><a href='http://127.0.0.1:1313/perlparpparp'> perl parp parp</a> </h2>
       <div class="post-meta">Sun, Sep 2, 2012</div>
     </header>
     <p>I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating.  First stop was the exceptionally useful <a href="http://www.whatsmydns.net/ " title="What&#039;s My DNS?" target="_blank">Whats My DNS</a></p><p>At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host. I googled around for a timer utility which run a command for a given time, so i could quantify the difference. Perfect answer was <a href="http://stackoverflow.com/questions/601543/command-line-command-to-auto-kill-a-command-after-a-certain-amount-of-time" title="Stack Overflow" target="_blank">here</a>, a simple perl wrapper function.</p><p>Here's how to use it to run tcpdump command for sixty seconds, and count the packets seen:</p><p><small><code># doalarm () { perl -e &#039;alarm shift; exec @ARGV&#039; "$@"; }<br /># doalarm 60 tcpdump -u  -i eth0 port 53  -n  |wc -l<br />tcpdump: verbose output suppressed, use -v or -vv for full protocol decode<br />listening on eth0, link-type EN10MB (Ethernet), capture size 65535 bytes<br />19504</code></small></p>
@@ -109,7 +109,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/'> Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</a> </h2>
+      <h2><a href='http://127.0.0.1:1313/liketreaclesolvingperlnetsftpslowtransferspeeds'> Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</a> </h2>
       <div class="post-meta">Sun, Feb 19, 2012</div>
     </header>
     <p>I've been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn't local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren't hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. </p><p>I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark's IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows. We were pretty much stumped, and the other engineer recommend i look into <a href="http://www.psc.edu/networking/projects/hpn-ssh/">HPN-SSH</a>, which does indeed sound very good, but first i started playing around with trying different ciphers and compression.</p><p>Our uploads are all run via a perl framework, which utilises Net::SFTP in order to do the transfers.<a href="https://github.com/sideb0ard/speedTester" target="_blank"> My test program was also written in perl</a> and using the same library. In order to try different cyphers i started testing uploads with the interactive command line SFTP. Boom! 6Mb/s upload speed. Biiiig difference from the Net::SFTP client. I started playing with blowfish cipher and trying to enable compression with Net::SFTP - it wasn't really working, it can only do Zlib compression, which my SSHD server wouldn't play with until i specifically enabled compression in the sshd_config file.</p><p>After much more digging around, i came across reference to <a href="http://search.cpan.org/~salva/Net-SFTP-Foreign-1.69/lib/Net/SFTP/Foreign.pm">Net::SFTP::Foreign</a>, which uses the installed ssh binary on your system for transport rather than relying on the pure perl Net::SSH.</p><p>Syntax is very similar, so it was a minor rewrite to switch modules, yet such a massive payback, from 0.30Mb/s up to 6Mb/s. </p><p>(It turns out the DSPs i mentioned earlier who could achieve 60Mb/s were actually FTP transfers, not SFTP)</p>
@@ -119,7 +119,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com/buildingadebpackagefromaperlscript/'> building a DEB package from a perl script</a> </h2>
+      <h2><a href='http://127.0.0.1:1313/buildingadebpackagefromaperlscript'> building a DEB package from a perl script</a> </h2>
       <div class="post-meta">Thu, Feb 16, 2012</div>
     </header>
     <p>I have a speedtest perl script i wrote - nothing complicated, takes a file and uploads it to a remote FTP or SFTP server, while calculating how long, then gives you a a measure of the MB/per second bandwidth between two sites.</p><p>I want it available on a selection of machines so it can run from wherever, so I thought i'd package it up as a .DEB file and stick it in our local repo. Nothing complicated in that, and there are a <a href="http://www.debian-administration.org/articles/336" target="_blank">number</a> of <a href="http://www.debian-administration.org/articles/337" target="_blank">online</a> <a href="http://www.debian.org/doc/manuals/debian-faq/ch-pkg_basics.en.html" target="_blank">tutorials</a> about building your own debs. The main drawback with most I found was that they assume you are actually building from source rather than just distributing a script, although I also found <a href="http://askubuntu.com/questions/27715/create-a-deb-package-from-scripts-or-binaries" target="_blank">a relevant Ubuntu thread</a> which is pretty simple and to the point.</p><p>However, even using these tutorials it still took me a few hours to figure out. There are just a couple of non-obvious points, so i figure writing out my own steps is worth recording -</p><p>So first, grab your required packages:</p><p><strong><code>apt-get install dh-make dpkg-dev debhelper devscripts fakeroot lintian</code></strong></p><p>You will need to build from a directory with the name of your script in the form <code>packagename-version</code>, so for mine i created <strong>/tmp/speedtest-1.0</strong>, then copied in my script &#8216;<strong>speedtest</strong>&#8216; and it's data file <strong>25MBFLAC.file</strong> ( which i could have created with <strong>dd</strong> on the box rather than copy over, but downloading the file is actually quicker in this situation ).</p><p>The first step is to run:</p><p><strong><code>dh_make -s --indep --createorig -e thor@valhalla.com</code></strong><br />(dash-s means create a single binary .deb - i.e. no source version; indep means architecture-independent; and createorig is to indicate you are the original maintainer)</p><p>this creates a top-level &#8216;<strong>debian</strong>&#8216; directory containing all the necessary config files.<br />The main one you need to edit is <strong>debian/control</strong> - you prob only need fill in &#8220;section&#8221;, &#8220;homepage&#8221; and &#8220;Description&#8221;</p><p>Mine looks like:</p><p><code>Source: speedtest<br />Section: web<br />Priority: extra<br />Maintainer: Thorsten Sideboard &lt;thor@valhalla.com&gt;<br />Build-Depends: debhelper (>= 7.0.50~)<br />Standards-Version: 3.8.4<br />Homepage: http://github.com/sideboard/speedtest.git</p><p>Package: speedtest<br />Architecture: all<br />Depends: ${misc:Depends}<br />Description: Test Upload Speeds<br /></code></p><p>One of the things which baffled me for a while, which was answered in the <a href="http://askubuntu.com/questions/27715/create-a-deb-package-from-scripts-or-binaries" target="_blank">askubuntu link above</a>, was how to specify where something is installed &#8212; it goes in a file &#8216;<strong>debian/install</strong>&#8216; which isn't created for you. The format of the file is &#8216;<strong>filename location/to/be/installed</strong>&#8221; (without the initial slash)</p><p>so in my case, i ran:<br /><code>echo "speedtest usr/local/Scriptz/" > debian/install<br />echo "25MBFLAC.file usr/local/Scriptz/" >> debian/install<br /></code></p><p>At this point, you should then be able to run:<br /><code>debuild -us -uc</code></p><p>and you <em>should</em> have a deb file built. but..</p><p>First i ran into :</p><p><code>dpkg-source: error: can&#039;t build with source format &#039;3.0 (quilt)&#039;: no orig.tar file found</code></p><p>As the above-mentioned askubuntu post says, you can </p><p><code>echo "1.0" > debian/source/format</code></p><p>then re-running the <code>debuild -us -uc</code> i ran into </p><p><code>dpkg-source: error: cannot represent change to speedtemp-1.0/25MBFLAC.file: binary file contents changed</code></p><p>This error is due to leftover build-cruft from my last run - if you check the directory one step up from where you are, you'll see debuild has already built some files for you, typically a tar.gz, a .dsc and a .build file. Delete all them, then re-run <code>debuild -us -uc</code> &#8212; now it should build properly!</p><p>ah! </p><p><code>dh_usrlocal: debian/speedtemp/usr/local/Scriptz/speedtest is not a directory</code></p><p>This one also caught me out for a while - turns out this is caused by my specifying &#8220;/usr/local/Scriptz&#8221; as my install location - </p><blockquote><p>Most third-party software installs itself in the /usr/local directory hierarchy. On Debian this is reserved for private use by the system administrator, so packages must not use directories such as /usr/local/bin but should instead use system directories such as /usr/bin, obeying the Filesystem Hierarchy Standard (FHS).</p></blockquote><p> (from <a href="http://www.debian.org/doc/manuals/maint-guide/modify.en.html#destdir" target="_blank">here</a>)</p><p>So, yeah, i changed my <strong>debian/install</strong> file to be &#8220;<strong>speedtest usr/bin</strong>&#8221;</p><p>and finally! running <code>debuild -us -uc</code> completes properly, outputting a <strong>/tmp/speedtest_1.0-1_all.deb</strong> which can then be installed via<br /><strong><code>dpkg -i /tmp/speedtest_1.0-1_all.deb </code></strong></p><p>One last note &#8212; there are four useful scripts to also know about &#8212; <strong><code>preinst, postinst, prerm, postrm</code></strong> &#8212; these should be in the <code>debian/</code> directory - pretty self-explanatory - pre- and post- install and remove scripts - if these exist, they will be run exactly as they are named, so for example, i wanted my 25MBFLAC.file still to be installed under /usr/local/Scriptz, so i listed it to be installed in the debian/install file as &#8220;25MBFLAC.file tmp&#8221; and then in my postinst file, i added:</p><p><code>#!/bin/sh<br />mv /tmp/25MBFLAC.file /usr/local/Scriptz/<br /></code></p>
@@ -129,7 +129,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com/cpandiffscript/'> CPAN Diff script</a> </h2>
+      <h2><a href='http://127.0.0.1:1313/cpandiffscript'> CPAN Diff script</a> </h2>
       <div class="post-meta">Fri, Dec 16, 2011</div>
     </header>
     <p><img src="http://theslowbullet.files.wordpress.com/2011/01/clonecover.jpg" alt="diff" /></p><p>I put together a quick perl script for comparing installed CPAN modules between two hosts. Find it <a href="https://github.com/sideb0ard/CPANDiff" title="CPANDiff" target="_blank">here</a>.</p><p>Quite easy to use:<br />Usage: ./CompareHostCpanModules.pl login@host1 login@host2</p><p>The script ssh's into both hosts (so it's easier if you have your ssh-keys setup) and grabs a list of installed CPAN modules and versions, then outputs the differences - it returns two lists - one of modules installed but having different versions, and another list of modules missing from the second host. </p>
@@ -139,7 +139,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com/80shairunixz/'> 80s hair unixz</a> </h2>
+      <h2><a href='http://127.0.0.1:1313/80shairunixz'> 80s hair unixz</a> </h2>
       <div class="post-meta">Sat, Jun 11, 2011</div>
     </header>
     <p>History of BSD - this is awesome:</p><p><iframe width="425" height="349" src="http://www.youtube.com/embed/ds77e3aO9nA" frameborder="0" allowfullscreen></iframe></p><p>Brief history of NCP -&gt; IP/TCP transition, also awesome:</p><p><iframe width="560" height="349" src="http://www.youtube.com/embed/yqOS5d4gJz8" frameborder="0" allowfullscreen></iframe></p>
@@ -149,7 +149,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com/timetravellingwithunix/'> time travelling with Unix</a> </h2>
+      <h2><a href='http://127.0.0.1:1313/timetravellingwithunix'> time travelling with Unix</a> </h2>
       <div class="post-meta">Sun, May 1, 2011</div>
     </header>
     <div><img class="aligncenter" title="SRI International " src="http://www.urigeller.com/pics/sri.jpg" alt="" width="500" height="323" /></div><div><p>I discovered Unix back in 1998. At the time i was a lowly Windows desktop support engineer when i started dabbling with Red Hat Linux v 4.2. Compared to the process of fixing Windows 3.1 systems ( i.e. reinstall drivers and reboot - if that doesn&rsquo;t work, reinstall OS and drivers - repeat until it does work), playing with Linux was a joy of knowledge. Every part of the installation process was a problem hiding a wormhole of required knowledge. Eventually, we managed to start X - very literally, all we had was a grey screen with an &lsquo;X&rsquo; to represent the mouse pointer. However, it was addictive - every time you had to fix something, there was a reason for it, and you learned from that experience, and once fixed, it would stay fixed.</p><p>So, fast forward 13 years, and I find myself in a wiki loop, reading up on Bell Labs, then early iterations of Unix, and especially Version 7 Unix - <a href="http://en.wikipedia.org/wiki/Version_7_Unix">http://en.wikipedia.org/wiki/Version_7_Unix</a> - Back in 1998, i had my head full learning Linux and the newly released SunOS 5.7, so even though i was surrounded by older Vax, SGI, and Digital, I didn&rsquo;t explore much historical software at the time even though i did have a bit of a fixation with the PDP-11.</p></div>

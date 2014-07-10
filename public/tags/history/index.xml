@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>History on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/history.xml</link>
+    <link>http://127.0.0.1:1313/tags/history/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Aaron Swartz story</title>
-      <link>http://theb0ardside.com/aaronswartz/</link>
+      <link>http://127.0.0.1:1313/aaronswartz</link>
       <pubDate>Sun, 29 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/aaronswartz/</guid>
+      <guid>http://127.0.0.1:1313/aaronswartz</guid>
       <description>&lt;p&gt;Wow, this Aaron Swartz documentary is great, well worth a watch -&amp;gt;&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Urban Giants</title>
-      <link>http://theb0ardside.com/urban-giants/</link>
+      <link>http://127.0.0.1:1313/urban-giants</link>
       <pubDate>Thu, 26 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/urban-giants/</guid>
+      <guid>http://127.0.0.1:1313/urban-giants</guid>
       <description>&lt;p&gt;Beautifully shot, mind blowing short documentary about New York&amp;rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;amp;T Long Lines Building ..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>Seymour Cray profile</title>
-      <link>http://theb0ardside.com/seymourcray/</link>
+      <link>http://127.0.0.1:1313/seymourcray</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/seymourcray/</guid>
+      <guid>http://127.0.0.1:1313/seymourcray</guid>
       <description>&lt;p&gt;This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title>Dijkstra on Elegance</title>
-      <link>http://theb0ardside.com/dijkstra-on-elegance/</link>
+      <link>http://127.0.0.1:1313/dijkstra-on-elegance</link>
       <pubDate>Mon, 26 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/dijkstra-on-elegance/</guid>
+      <guid>http://127.0.0.1:1313/dijkstra-on-elegance</guid>
       <description>&lt;p&gt;Excellent wee 20 min documentary with Dijkstra speaking about elegance..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -68,10 +68,10 @@
     
     <item>
       <title>Rob Pike, GopherCon 2014 Keynote</title>
-      <link>http://theb0ardside.com/robpike-gophercon-2014/</link>
+      <link>http://127.0.0.1:1313/robpike-gophercon-2014</link>
       <pubDate>Fri, 09 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/robpike-gophercon-2014/</guid>
+      <guid>http://127.0.0.1:1313/robpike-gophercon-2014</guid>
       <description>&lt;p&gt;Awesome, awesome talk from Rob Pike, the keynote for GopherCon 2014, some old Unix/C history and lots of details of Go development &amp;ndash;&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -82,10 +82,10 @@
     
     <item>
       <title>Systems Architecture, Design, Engineering, and Verification</title>
-      <link>http://theb0ardside.com/systems-architecture-acm/</link>
+      <link>http://127.0.0.1:1313/systems-architecture-acm</link>
       <pubDate>Tue, 06 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/systems-architecture-acm/</guid>
+      <guid>http://127.0.0.1:1313/systems-architecture-acm</guid>
       <description>&lt;p&gt;Yow! this is great! I know my Unix history pretty well, but Multics - aside from knowing it was the precursor to Unix, i didn&amp;rsquo;t know much else of the details or who was involved - WATCH THIS! NOW! :D&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -96,10 +96,10 @@
     
     <item>
       <title>Born With Curiosity</title>
-      <link>http://theb0ardside.com/gracehopperstory/</link>
+      <link>http://127.0.0.1:1313/gracehopperstory</link>
       <pubDate>Wed, 23 Apr 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/gracehopperstory/</guid>
+      <guid>http://127.0.0.1:1313/gracehopperstory</guid>
       <description>&lt;p&gt;Ooh, very nice - new IndieGoGo campaign for a movie telling the story of Grace Hopper -&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.indiegogo.com/projects/born-with-curiosity-the-grace-hopper-story/x/7229489#home/share&#34;&gt;Find out more and donate!&lt;/a&gt;&lt;/p&gt;
@@ -112,10 +112,10 @@
     
     <item>
       <title>Wizard Book</title>
-      <link>http://theb0ardside.com/wizard-book-lectures/</link>
+      <link>http://127.0.0.1:1313/wizard-book-lectures</link>
       <pubDate>Sun, 13 Apr 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/wizard-book-lectures/</guid>
+      <guid>http://127.0.0.1:1313/wizard-book-lectures</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve never made it very far through my copy of Abelson, Sussman and Sussman&amp;rsquo;s &amp;lsquo;Structure and Interpretation Of Computer Programs&amp;rsquo;, so I was super excited to find this whole series of lectures online with Harold and Gerald Jay presenting the text as a course. The lectures help a lot, making it a whole lot easier than just wading through the text yourself. I went deep over the weekend, watching the first four of them - My Lisp foo is getting strong!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/&#34;&gt;Full Course Online&lt;/a&gt;&lt;/p&gt;
@@ -128,10 +128,10 @@
     
     <item>
       <title>BASIC at 50</title>
-      <link>http://theb0ardside.com/basic50/</link>
+      <link>http://127.0.0.1:1313/basic50</link>
       <pubDate>Mon, 07 Apr 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/basic50/</guid>
+      <guid>http://127.0.0.1:1313/basic50</guid>
       <description>&lt;p&gt;Now approaching it&amp;rsquo;s 50th birthday, nice wee video about the origins of BASIC and Time Sharing..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -142,10 +142,10 @@
     
     <item>
       <title>Code Rush</title>
-      <link>http://theb0ardside.com/coderush/</link>
+      <link>http://127.0.0.1:1313/coderush</link>
       <pubDate>Fri, 07 Feb 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/coderush/</guid>
+      <guid>http://127.0.0.1:1313/coderush</guid>
       <description>&lt;p&gt;Watched this on wednesday - crazy how dated it all seems now, and well, it is! Dang!&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -156,10 +156,10 @@
     
     <item>
       <title>Bitchin&#39; - Mac 128k</title>
-      <link>http://theb0ardside.com/bitchin-mac-128/</link>
+      <link>http://127.0.0.1:1313/bitchin-mac-128</link>
       <pubDate>Fri, 24 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/bitchin-mac-128/</guid>
+      <guid>http://127.0.0.1:1313/bitchin-mac-128</guid>
       <description>&lt;p&gt;yow, 30 years old &amp;ndash;&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;
@@ -173,10 +173,10 @@
     
     <item>
       <title>The Cardb0ard Computer Scientists</title>
-      <link>http://theb0ardside.com/cardboard-computer-scientists/</link>
+      <link>http://127.0.0.1:1313/cardboard-computer-scientists</link>
       <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/cardboard-computer-scientists/</guid>
+      <guid>http://127.0.0.1:1313/cardboard-computer-scientists</guid>
       <description>&lt;p&gt;A wee slideshow of my Cardb0ard Computer Scientists project..&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;.&#34; onclick=&#34;return changeImage(-1);&#34;&gt;Previous&lt;/a&gt; // &lt;a href=&#34;.&#34; onclick=&#34;return changeImage(1);&#34;&gt;Next&lt;/a&gt;
@@ -208,10 +208,10 @@
     
     <item>
       <title>Computer Chess</title>
-      <link>http://theb0ardside.com/computerchess/</link>
+      <link>http://127.0.0.1:1313/computerchess</link>
       <pubDate>Sun, 29 Dec 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/computerchess/</guid>
+      <guid>http://127.0.0.1:1313/computerchess</guid>
       <description>&lt;p&gt;This movie is new up on Netflix, from Mumblecore director Andrew Bujalski - really good!&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -222,10 +222,10 @@
     
     <item>
       <title>The Arrival of UNIX in the UK</title>
-      <link>http://theb0ardside.com/unix70suk/</link>
+      <link>http://127.0.0.1:1313/unix70suk</link>
       <pubDate>Tue, 24 Dec 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/unix70suk/</guid>
+      <guid>http://127.0.0.1:1313/unix70suk</guid>
       <description>&lt;p&gt;Lovely wee video talking about the arrival of UNIX into 70&amp;rsquo;s UK Academia &amp;hellip;&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -236,10 +236,10 @@
     
     <item>
       <title>Ken Thompson, Cardboard Computer Scientist</title>
-      <link>http://theb0ardside.com/cardboardken/</link>
+      <link>http://127.0.0.1:1313/cardboardken</link>
       <pubDate>Mon, 23 Dec 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/cardboardken/</guid>
+      <guid>http://127.0.0.1:1313/cardboardken</guid>
       <description>&lt;p&gt;Latest is &lt;a href=&#34;http://www.flickr.com/photos/sideb0ard/sets/72157629239791822/&#34;&gt;my series of Cardboard Computer Scientists&lt;/a&gt; is Ken Thompson, badman of Unix hisself..&lt;p&gt;
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7397/11508740873_bd63327b7b_o.jpg&#34;&gt;&lt;/p&gt;
 </description>
@@ -247,10 +247,10 @@
     
     <item>
       <title>Micro Men</title>
-      <link>http://theb0ardside.com/micromen/</link>
+      <link>http://127.0.0.1:1313/micromen</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/micromen/</guid>
+      <guid>http://127.0.0.1:1313/micromen</guid>
       <description>&lt;p&gt;I bookmarked this to watch after &lt;a href=&#34;http://www.hilarymason.com/&#34;&gt;Hilary Mason&lt;/a&gt; tweeted it recently - i thought i had previously watched it but after seeing it tonite I realised i hadn&amp;rsquo;t - super fun history, really taking me back to my youth! It tells the story of Sir Clive Sinclair and his rivalry with Acorn computers who produced the BBC Micro - the BBC Micro was the first machine I ever used, back in High School sometime in the mid 1980s, and the Sinclair ZX Spectrum was the first computer i owned. Read on MacDuff..&lt;/p&gt;
 
 &lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/sIcAyFVK0gE?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -259,290 +259,290 @@
     
     <item>
       <title>Apollo Computer</title>
-      <link>http://theb0ardside.com/apollocomputer/</link>
+      <link>http://127.0.0.1:1313/apollocomputer</link>
       <pubDate>Fri, 20 Sep 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/apollocomputer/</guid>
+      <guid>http://127.0.0.1:1313/apollocomputer</guid>
       <description>&lt;p&gt;awesome sauce.&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/YIBhPsyYCiM?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bret Victor - Future Of Programming</title>
-      <link>http://theb0ardside.com/bretvictorfutureofprogramming/</link>
+      <link>http://127.0.0.1:1313/bretvictorfutureofprogramming</link>
       <pubDate>Thu, 22 Aug 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/bretvictorfutureofprogramming/</guid>
+      <guid>http://127.0.0.1:1313/bretvictorfutureofprogramming</guid>
       <description>&lt;p&gt;great stuff!&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/71278954&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Computers For Cynics</title>
-      <link>http://theb0ardside.com/computersforcynics/</link>
+      <link>http://127.0.0.1:1313/computersforcynics</link>
       <pubDate>Sun, 11 Aug 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/computersforcynics/</guid>
+      <guid>http://127.0.0.1:1313/computersforcynics</guid>
       <description>&lt;p&gt;hah, nice counterpart to all the recent good, but hyperbole books i&#39;ve been reading (&lt;a href=&#34;http://www.amazon.com/What-Dormouse-Said-Counterculture-Personal/dp/0143036769/ref=sr_1_1?s=books&amp;#038;ie=UTF8&amp;#038;qid=1376258195&amp;#038;sr=1-1&amp;#038;keywords=what+the+dormouse+said&#34; title=&#34;What The Dormouse Said&#34; target=&#34;_blank&#34;&gt;What The Dormouse Said&lt;/a&gt;, and &lt;a href=&#34;http://www.amazon.com/Dealers-Lightning-Xerox-PARC-Computer/dp/0887309895/ref=pd_sim_b_4&#34; title=&#34;Dealers Of Lightning&#34; target=&#34;_blank&#34;&gt;Dealers Of Lightning&lt;/a&gt;) -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/KdnGPQaICjk?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Old School</title>
-      <link>http://theb0ardside.com/oldschool/</link>
+      <link>http://127.0.0.1:1313/oldschool</link>
       <pubDate>Fri, 21 Jun 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/oldschool/</guid>
+      <guid>http://127.0.0.1:1313/oldschool</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/cozcXiSSkwE?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;(( &lt;a href=&#34;http://googleblog.blogspot.com/2013/06/youve-come-long-way-baby-remembering.html&#34; title=&#34;Google Blog&#34; target=&#34;_blank&#34;&gt;via google&lt;/a&gt; ))&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PBS&#39;s Silicon Valley</title>
-      <link>http://theb0ardside.com/pbsssiliconvalley/</link>
+      <link>http://127.0.0.1:1313/pbsssiliconvalley</link>
       <pubDate>Tue, 12 Feb 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/pbsssiliconvalley/</guid>
+      <guid>http://127.0.0.1:1313/pbsssiliconvalley</guid>
       <description>&lt;p&gt;Really enjoying this doc:&lt;/p&gt;&lt;p&gt;&lt;object width = &#34;512&#34; height = &#34;328&#34; &gt;&lt;param name = &#34;movie&#34; value = &#34;http://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf&#34; &gt;&lt;/param&gt;&lt;param name=&#34;flashvars&#34; value=&#34;video=http://video.pbs.org/videoPlayerInfo/2328264748&amp;#038;player=viral&amp;#038;end=1003000&#34; /&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param &gt;&lt;param name = &#34;allowscriptaccess&#34; value = &#34;always&#34; &gt;&lt;/param&gt;&lt;param name=&#34;wmode&#34; value=&#34;transparent&#34;&gt;&lt;/param &gt;&lt;embed src=&#34;http://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf&#34; flashvars=&#34;video=http://video.pbs.org/videoPlayerInfo/2328264748&amp;#038;player=viral&amp;#038;end=1003000&#34; type=&#34;application/x-shockwave-flash&#34; allowscriptaccess=&#34;always&#34; wmode=&#34;transparent&#34; allowfullscreen=&#34;true&#34; width=&#34;512&#34; height=&#34;328&#34; bgcolor=&#34;#000000&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p style=&#34;font-size:11px; font-family:Arial, Helvetica, sans-serif; color: #808080; margin-top: 5px; background: transparent; text-align: center; width: 512px;&#34;&gt;Watch &lt;a style=&#34;text-decoration:none !important; font-weight:normal !important; height: 13px; color:#4eb2fe !important;&#34; href=&#34;http://video.pbs.org/video/2328264748&#34; target=&#34;_blank&#34;&gt;Silicon Valley Chapter 1&lt;/a&gt; on PBS. See more from &lt;a style=&#34;text-decoration:none !important; font-weight:normal !important; height: 13px; color:#4eb2fe !important;&#34; href=&#34;http://www.pbs.org/wgbh/americanexperience/&#34; target=&#34;_blank&#34;&gt;American Experience.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Full episode available on the &lt;a href=&#34;http://www.pbs.org/wgbh/americanexperience/films/silicon/&#34; title=&#34;PBS&#34; target=&#34;_blank&#34;&gt;PBS website&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Unix Way</title>
-      <link>http://theb0ardside.com/theunixway/</link>
+      <link>http://127.0.0.1:1313/theunixway</link>
       <pubDate>Wed, 12 Sep 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/theunixway/</guid>
+      <guid>http://127.0.0.1:1313/theunixway</guid>
       <description>&lt;p&gt;Ace early Unix infomercial -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/tc4ROCJYbm0?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>old school Mac design team</title>
-      <link>http://theb0ardside.com/oldschoolmacdesignteam/</link>
+      <link>http://127.0.0.1:1313/oldschoolmacdesignteam</link>
       <pubDate>Thu, 16 Aug 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/oldschoolmacdesignteam/</guid>
+      <guid>http://127.0.0.1:1313/oldschoolmacdesignteam</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/oTtQ0l0ukvQ?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://osxdaily.com/2012/08/10/retro-mac-commercial-from-1983-unaired/&#34; title=&#34;OS X Daily&#34; target=&#34;_blank&#34;&gt;via OS X Daily&lt;/a&gt; //&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>21st Century Internet</title>
-      <link>http://theb0ardside.com/21stcenturyinternet/</link>
+      <link>http://127.0.0.1:1313/21stcenturyinternet</link>
       <pubDate>Wed, 06 Jun 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/21stcenturyinternet/</guid>
+      <guid>http://127.0.0.1:1313/21stcenturyinternet</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/-Uwjt32NvVA?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;http://googleblog.blogspot.com/2012/06/world-ipv6-launch-keeping-internet.html&#34; title=&#34;google blog&#34; target=&#34;_blank&#34;&gt;Google Blog&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Von Neumann and the Institute For Advanced Study</title>
-      <link>http://theb0ardside.com/vonneumannandtheinstituteforadvancedstudy/</link>
+      <link>http://127.0.0.1:1313/vonneumannandtheinstituteforadvancedstudy</link>
       <pubDate>Sun, 03 Jun 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vonneumannandtheinstituteforadvancedstudy/</guid>
+      <guid>http://127.0.0.1:1313/vonneumannandtheinstituteforadvancedstudy</guid>
       <description>&lt;p&gt;I&#39;ve started reading &lt;a href=&#34;http://www.amazon.com/Turings-Cathedral-Origins-Digital-Universe/dp/0375422773&#34; title=&#34;amazon book link&#34; target=&#34;_blank&#34;&gt;George Dyson&#39;s &amp;#8220;Turing&#39;s Cathedral&amp;#8221;&lt;/a&gt;, and really enjoying it - I love reading the historical context of technological progress, feels like a lot of sociological reading, filling in another of the endless jigsaw pieces of a larger all-encompassing narrative.&lt;/p&gt;&lt;p&gt;Here&#39;s George Dyson doing a lecture on the material in the book :&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/Tg5gJxXBh8s?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>another cardboard computer scientist portrait</title>
-      <link>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</link>
+      <link>http://127.0.0.1:1313/anothercardboardcomputerscientistportrait</link>
       <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</guid>
+      <guid>http://127.0.0.1:1313/anothercardboardcomputerscientistportrait</guid>
       <description>&lt;p&gt;&lt;strong&gt;Seymour Cray&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7234/7201335100_51b91c38da_b.jpg&#34; alt=&#34;Seymour Cray&#34; /&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://drawingb0ard.blogspot.com/search/label/cardboard%20computer%20scientists&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;The Cardboard Computer Scientists series 2012&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Technology As Society&#39;s Engine</title>
-      <link>http://theb0ardside.com/technologyassocietysengine/</link>
+      <link>http://127.0.0.1:1313/technologyassocietysengine</link>
       <pubDate>Thu, 03 May 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/technologyassocietysengine/</guid>
+      <guid>http://127.0.0.1:1313/technologyassocietysengine</guid>
       <description>&lt;p&gt;Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -&lt;/p&gt;&lt;!-- iframe plugin v:2.3 - wordpress.org/extend/plugins/iframe/ --&gt;&lt;iframe width=&#34;560&#34; height=&#34;340&#34; src=&#34;http://cdn.livestream.com/embed/techonomy?layout=4&amp;amp;clip=pla_e0493fff-f62c-4a9c-bf6b-2844f9ad8d58&amp;amp;height=340&amp;amp;width=560&amp;amp;autoplay=false&#34; style=&#34;border:0;outline:0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;iframe-class&#34;&gt;&lt;/iframe&gt;&lt;p&gt;A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. &lt;/p&gt;&lt;p&gt;I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.&lt;/p&gt;&lt;p&gt;Technology on the other hand: absolutely it&#39;s what will drive the economy, but even that view completely misses the big picture, which is the Medium itself, The Universal Network. I believe we have created a whole new dimension, an evolutionary mathematical abstracted form of biology. This is the beginning of History, Year Zero.&lt;/p&gt;&lt;p&gt;One hundred years from now, or two thousand - people will be able to look back in time and know with a rich level of detail what our life is like now. Thousands, upon millions of instances of video and audio, images, writings, geo locations, online trails, all readily accessible, interlinked and searchable. This level of detail will only increase, as we start recording every aspect of life. &lt;/p&gt;&lt;p&gt;With such archives of data, I can easily imagine the kids of 2123 being able to walk through and interact with a virtual London in the swinging 2020&amp;#8242;s, or San Francisco&#39;s roaring 2030&amp;#8242;s. Whereas, for future generations, any time predating the late 1990&amp;#8242;s will essentially be a static foreign place in comparison. We have created time-travel - we just don&#39;t know it yet.&lt;/p&gt;&lt;p&gt;This Network has already achieved a basic level of independence from humanity - where now it is possible for a Something to exist outwith a single containing computer system using techniques like redundancy and geographic load-balancing. I don&#39;t mean to imply there is any intelligence there, but there is a level of resilience we&#39;ve never seen in nature before. To give a more concrete example, I&#39;m referring to something like you as a user interacting with the amazon website to purchase something, meanwhile the power goes out in the datacentre hosting the server your browser was communicating with, and, if engineered correctly, your interaction could continue, picked up by a secondary datacentre with no loss of data, nor interruption of service. This isn&#39;t exactly life as we know it, but if you squint your eyes just a little, its not too hard to see an analogy to biological cell life.&lt;/p&gt;&lt;p&gt;Over the next few years, Society&#39;s experience of reality is going to go through the biggest change in history, as our physical world merges completely with this new virtual world of realtime interconnected information and communication, completely warping our sense of time and geography.&lt;/p&gt;&lt;p&gt;The iPhone was stage one, Google Glasses or &lt;a href=&#34;http://www.theb0ardside.com/?p=32&#34; target=&#34;_blank&#34;&gt;something very similar&lt;/a&gt; will be stage two, and its right around the corner.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Networked City</title>
-      <link>http://theb0ardside.com/thenetworkedcity/</link>
+      <link>http://127.0.0.1:1313/thenetworkedcity</link>
       <pubDate>Tue, 10 Apr 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/thenetworkedcity/</guid>
+      <guid>http://127.0.0.1:1313/thenetworkedcity</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://www.lboro.ac.uk/gawc/rb/images/rb152f1.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;[[ image half-inched from &lt;a href=&#34;http://www.lboro.ac.uk/gawc/rb/rb152.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;]]&lt;/p&gt;&lt;p&gt;I started studying Sociology a few years back with the Open University, but never managed to complete my course as I got a job here in the States and turned my study-time back towards practical technology. I did however study it long enough for it have quite a profound effect on my understanding and conceptualisation of networking, and felt especially influenced by the works of &lt;a href=&#34;http://en.wikipedia.org/wiki/Manuel_Castells&#34; target=&#34;_blank&#34;&gt;Manuel Castells&lt;/a&gt; and &lt;a href=&#34;http://books.google.com/books/about/Splintering_Urbanism.html?id=zCKNS5Yn4pkC&#34; target=&#34;_blank&#34;&gt;Stephen Graham&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;I just came across a paper i wrote almost a year ago which covers a lot of these ideas and ties in quite well with the general theme of this blog, so i thought i&#39;d post it up here instead of languishing on my hard drive&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why is it important to understand how a city&amp;rsquo;s fortunes are shaped by its connections?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The City is our personal gateway to the wider world. It resonates with a dense polyrhythm constructed of the flow and foci of innumerable networks. From the physical infrastructure under and around us: the travel and power networks, water, gas and telecommunications lines; to the more ephemeral flows of culture, people, information, finance, and commodities. These structures, relationships and their interconnections are the very essence of a city, connecting the local to the global. In order to fully comprehend the economic and social wellbeing of an urban spatiality, it is essential to look at how a city is positioned within a wider global system, and conversely to examine how these global flows connect to local networks. I would like to answer the above question by first looking at the role of connections in a city&amp;rsquo;s formation and then explain how these connections extend out to form a global network of influence, including the historically new form we now find ourselves in, the Network Society. Within this framework, we shall then examine how these flows connect locally, explaining the new forms of social division created by a combination of technology and ideology, and why now, more than ever, it is critical to understand how a city&amp;rsquo;s fortunes are shaped by its connections.&lt;/p&gt;&lt;p&gt;Although we have no concrete proof of the origins of the first cities, Jane Jacobs has a particularly convincing argument for their establishment as trading centres, locations of some geographic or social convenience that became a permanent market place. According to the theory, as more people settle in one place, more opportunities for connections are easily made, and local networks of cooperation and competition would grow and drive innovation. Initially they would be trading with local neighbouring lands, but as trade would increase, these local connections would stretch out more and more to form part of a larger network. Trade would quickly diversify through the division of labour, where the commodity itself would be &amp;ldquo;&lt;em&gt;one export. The other export is a service: the service of obtaining, handling and trading goods that are brought in from outside and are destined for secondary customers who also come from outside&lt;/em&gt;&amp;rdquo; (Jacobs, 1970, p21). &lt;/p&gt;&lt;p&gt;Chicago is a good example of one such city whose growth was predicated upon positioning itself within emerging trade networks. A small trading centre since the late seventeenth century, its growth was assured when it was connected to the first rail and telegraph networks in 1848. With travel time between Chicago and the East Coast cut from over two weeks to two days, and the near instantaneous messaging of the telegraph, &amp;ldquo;&lt;em&gt;the pace of life had speeded up and the distances covered by flows of goods, people and information were ever greater&lt;/em&gt;&amp;rdquo;. Chicago managed to place itself at the centre of a voluminous pan-American trade and travel network, thereby establishing itself as a thriving and vibrant financial and social hub. As easy it would be to equate this fortune with Chicago&amp;rsquo;s geographic positioning, the reality was that it achieved and maintained this dominant position through political and economic manoeuvring - before the construction of the railway, Chicago was competing with St Louis, which had a more capable waterway system. Chicago&amp;rsquo;s good fortune was due to some canny businessmen who realised they needed an alternative network to compete with the waterways, and who set up a railway company by persuading the local farmers to invest in them. (Pile, 2010, p24-35) &lt;/p&gt;&lt;p&gt;Competition over trade routes is a recurring story throughout the development of the modern interstate system.  The early capitalist city-states of fifteenth century northern Italy, of which Venice was the most prominent, established their wealth and power through a monopolistic control of trade routes to India and China. Other northern European countries, mainly Spain and Portugal, tried to find alternative routes to bypass the Venetian monopoly, and it was through this process of exploration that Columbus &amp;ldquo;discovered&amp;rdquo; the Americas, thereby creating a whole new network of connections. The sixteenth century saw a great deal of change as Spain, Portugal and the mini-empires of France, England and Sweden all vied for world power through territorialist expansion of their respective networks (Arrighi, 2010). Although I digress here and talk of nation states, the unit of power and of management remains that of the city. We can see this in the conquest of Mexico City by the Spanish in 1521, which transformed the Aztec City, then known as Tenochititlan. Until that point, its dominant network of social relations and trade was confined around Mexico, but with the arrival of the Spanish, that network changed, as the flow of power now came from Madrid, and Mexico City&amp;rsquo;s &amp;ldquo;&lt;em&gt;local dominance was now in turn subordinated to an even greater power, a new imperial capital across the Atlantic&lt;/em&gt;&amp;rdquo; (Massey, 2010, p105). &lt;/p&gt;&lt;p&gt;The Dutch Republic, operating from its capital, The Hague, managed to shape its own fortune and usurp Spain&amp;rsquo;s might by creating a new network of connections atop trade routes, a level of abstraction beyond the trading of physical goods: financial networks. It became the hegemonic power on the world stage by innovating forms of financial speculation based on capitalist expansion rather than territorialist expansion. &amp;ldquo;&lt;em&gt;These networks encircled the world and could not easily be bypassed or superseded&lt;/em&gt;&amp;rdquo; (Arrighi, 2010, p46). Over successive centuries we have seen the balance of world power shift through manipulations in these network of connections, with first the United Kingdom and then the United States, leveraging themselves into subsequent positions of economic strength. &lt;/p&gt;&lt;p&gt;Immanuel Wallerstein&amp;rsquo;s World System Theory provides a useful framework for understanding the nature of these global flows of power, conceiving the world not as separate nations with separate economies but as one interlinked capitalist world economy. His conceptualization of the modern world system distinguishes between the Core (developed) and Periphery (developing) countries, with the core countries exploiting the resources of the periphery through monopolistic control of network connections (Arrighi, 2010). Within this widescreen view the relationship between a city&amp;rsquo;s fortunes and its connections to the network of power becomes clear, that it has to be actively aware of, and strive to maintain it&amp;rsquo;s position within the global &amp;ldquo;&lt;em&gt;&amp;rsquo;power geometry&amp;rsquo; &amp;ndash; different cities have their own trajectories and there is a constant process of the making and unmaking of connections&lt;/em&gt;&amp;rdquo; (Massey, 2010 p124).&lt;/p&gt;&lt;p&gt;Society is now entering a new form of space-time experience &amp;ndash; the Informational Age, a new form of network and thus, new forms of connection for a city. Although today&amp;rsquo;s main network of power is still finance, Manuel Castells points out a crucial difference: Although we have had interconnecting networks of influence and a world economy going back now to the sixteenth century, it is only now due to computer networks that we have a truly global economy &amp;ldquo;&lt;em&gt;with the capacity to work as a unit in real time, or chosen time, on a planetary scale&lt;/em&gt;&amp;rdquo; (Castells, 2010, p101). Following similar societal changes as the train and the telegraph, the mass adoption of broadband Internet connectivity in many aspects of our everyday life is drastically changing our lived experience of space and time. The Internet has its roots in military scientific work of the 1960s and 1970s, however the mass adoption of the technology into everyday life only began in the mid 1990s with the advent of the World Wide Web, essentially an easy to understand and use interface to the Internet; In just over ten years, Core countries of the West have migrated whole areas of life onto this digital network, affecting everything from work and education to banking, government, leisure, travel, media, relationships and much more. A whole new network space of power, from its physical fibre-optic network infrastructure, to the new virtual realms it allows. &lt;/p&gt;&lt;p&gt;Since the Haussmannisation of Paris in the mid-nineteenth century, the overarching ethos behind urban planning was a scientific-minded belief in a comprehensive and unified infrastructure. Guided by Keynesian welfare states, the modern infrastructural idea for most of the 20th century was based on universal access and cross-subsidized provision provided by a government or private monopoly, such as the railway or telephone networks. Since the 1980s, this way of thinking has become eroded as ideas of privatisation and liberalisation of the markets gained popularity. The monolithic conception of a city as a coherent unified machine no longer fit with postmodern ideas of identity while technological advances allowed for the creation of tiered and premium network services. Technological control now allows secessionary network infrastructure such as private tolled highways, gated communities, enclosed malls, and Business Improvement Districts - an idea originating in the US, but now &amp;ldquo;&lt;em&gt;found in Europe, the Caribbean, Australia and South Africa&lt;/em&gt;&amp;rdquo; (Hannigan, quoted in Graham/Marvin, 2009 p261). Business Improvement Districts take over the running of their own network connections: street cleaning, lighting, garbage, policing etc., leaving remaining areas to deal with their own problems. Although in theory the market should provide for all who have a requirement, according to the work of Castells what we are seeing is a new social division, &amp;ldquo;&lt;em&gt;structurally irrelevant people&lt;/em&gt;&amp;rdquo;, people who have no economic power and who therefore, the market can simply ignore because the &amp;ldquo;&lt;em&gt;architecture of global networks connects places selectively, according to their relative value to the network&lt;/em&gt;&amp;rdquo; (Castells, 2010 pXXXV) &lt;/p&gt;&lt;p&gt;Stephen Graham and Simon Marvin call this phenomenon &amp;ldquo;Splintering Urbanism&amp;rdquo;. They outline the physical geography of the network society by looking at the powers behind, and embodied in the urban infrastructure that services the network. They highlight that this area is often overlooked due its technical nature, often dismissed by architects, sociologists and geographers as a politics-neutral engineering problem, outwith their area of expertise. Graham and Marvin demonstrate a rise in &amp;ldquo;&lt;em&gt;premium networked spaces of the splintering metropolis&lt;/em&gt;&amp;rdquo; across the globe, a new geography transcending ideas of Core and Periphery countries, centring on cities from Shanghai to Manhattan, Sao Paolo to Montreal, Dubai, London, Bombay, and beyond. We see express highways and train routes connecting business centres to international airports, bypassing surrounding local areas to create virtual network topologies. (Graham, Marvin, 2009). We should strive to see that not all inhabitants of a city feel the benefits of these global connections of power and financial flows equally, a problem exasperated by the dual effects of government ideology - the prevailing idea to allow the market to manage all aspects of society - combined with the technological sophistication to allow very selective and granular unbundling of network services. &lt;/p&gt;&lt;p&gt;However, we must also be aware that the situation is more complex that this binary description of the Included and Excluded. Doreen Massey adds definition to the Network Society concept, using examples of poverty in Bombay and Los Angeles to show how these dominant spaces of capital flows are contested urban areas, with differing rhythms sharing a shaky co-existence. There are a multiplicity of flows within a city which stretch beyond it boundaries, and though certain people may be excluded from certain flows, &amp;ldquo;they are all the products of complicated interweavings of networks of social relations&amp;rdquo; (Massey, 2010, p 130)&lt;/p&gt;&lt;p&gt;Drawing together the various threads of this topic, we can see that a city&amp;rsquo;s fortunes are one and the same as its connections to larger network flows. Originally a city&amp;rsquo;s connections would be with neighbouring regions, but society has evolved over the centuries into one worldwide flow of influences and trade. Now, as an Informational Society, we see the emergence of a singular realtime global economic network, yet in sharp contrast we see a greater division of wealth and power. As we enter this new stage of Society the old systems and language for understanding structure and inequality are no longer adequate to express this new historical reality. An understanding of the mechanics and flows of this new virtual geography and multi-tiered network society becomes an absolute necessity for anyone involved in the planning and governance of urban space, or indeed for anyone simply living or working in a city.&lt;/p&gt;&lt;p&gt;References:&lt;br /&gt;Allen, J., Massey, D., and Pile S. (2010) Understanding Cities: City Worlds, Oxon, The Open University.&lt;br /&gt;Arrighi, G. (2010), The Long Twentieth Century: Money, Power and the Origins Of Our Times London, Verso&lt;br /&gt;Castells, M., (2010) The Rise Of The Network Society, Oxford, Wiley-Blackwell&lt;br /&gt;Jacobs, J. (1970) The Economy Of Cities, New York, Random House&lt;br /&gt;Graham, S., and Marvin, S., (2009) Splintering Urbanism: Networked Infrastructures, Technological Mobilities and The Urban Condition, New York, Routledge&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>the biology of code</title>
-      <link>http://theb0ardside.com/thebiologyofcode/</link>
+      <link>http://127.0.0.1:1313/thebiologyofcode</link>
       <pubDate>Tue, 27 Mar 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/thebiologyofcode/</guid>
+      <guid>http://127.0.0.1:1313/thebiologyofcode</guid>
       <description>&lt;p&gt;Fabulous piece and video chat with George Dyson over at the always reliable Edge -&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/conversation/a-universe-of-self-replicating-code#.T3E3c83Cv8w.wordpress&#34;&gt;A Universe Of Self-replicating Code | Conversation | Edge&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Claude Shannon and the Clams</title>
-      <link>http://theb0ardside.com/claudeshannonandtheclams/</link>
+      <link>http://127.0.0.1:1313/claudeshannonandtheclams</link>
       <pubDate>Fri, 16 Mar 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/claudeshannonandtheclams/</guid>
+      <guid>http://127.0.0.1:1313/claudeshannonandtheclams</guid>
       <description>&lt;p&gt;I finished reading James Gleick&#39;s &lt;a href=&#34;http://www.goodreads.com/book/show/12279559-the-information&#34; target=&#34;_blank&#34;&gt;The Information&lt;/a&gt; tonite - so good!&lt;/p&gt;&lt;p&gt;Really, the central character is &lt;a href=&#34;http://en.wikipedia.org/wiki/Claude_Shannon&#34; target=&#34;_blank&#34;&gt;Claude Shannon&lt;/a&gt;, who I&#39;m ashamed to admit I didn&#39;t previously know much about. Had a quick search when i finished it and found this decent little 30 min documentary which gives a good overview -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/z2Whj_nL-x8?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Information</title>
-      <link>http://theb0ardside.com/theinformation/</link>
+      <link>http://127.0.0.1:1313/theinformation</link>
       <pubDate>Wed, 14 Mar 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/theinformation/</guid>
+      <guid>http://127.0.0.1:1313/theinformation</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/iyOzSzcDwg8?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;I started reading James Gleick&#39;s &amp;#8220;The Information&amp;#8221; last week and haven&#39;t been able to put it down yet - so good!&lt;br /&gt;I just found this video of a talk he presented at Google last year on the book, looks ace, i&#39;ll save it for watching this evening.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>evolution of the cloud</title>
-      <link>http://theb0ardside.com/evolutionofthecloud/</link>
+      <link>http://127.0.0.1:1313/evolutionofthecloud</link>
       <pubDate>Thu, 02 Feb 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/evolutionofthecloud/</guid>
+      <guid>http://127.0.0.1:1313/evolutionofthecloud</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://gigaom.com/cloud/why-2013-is-the-year-of-noops-for-programmers-infographic/?utm_source=feedburner&amp;#038;utm_medium=feed&amp;#038;utm_campaign=Feed%3A+OmMalik+%28GigaOM%3A+Tech%29&#34; target=&#34;_blank&#34;&gt;&lt;img width=&#34;600&#34;  src=&#34;http://gigaom2.files.wordpress.com/2012/01/appfog_infographic_013012.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Apple culture</title>
-      <link>http://theb0ardside.com/appleculture/</link>
+      <link>http://127.0.0.1:1313/appleculture</link>
       <pubDate>Tue, 31 Jan 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/appleculture/</guid>
+      <guid>http://127.0.0.1:1313/appleculture</guid>
       <description>&lt;p&gt;Quite an interesting interview with Adam Lashinsky, author of a new book &amp;#8220;Inside Apple&amp;#8221;:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/tOf_2HCX51w?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;/* via &lt;a href=&#34;http://osxdaily.com/2012/01/29/author-of-inside-apple-talks-apple-corporate-culture-and-secrecy-video/?utm_source=feedburner&amp;#038;utm_medium=feed&amp;#038;utm_campaign=Feed%3A+osxdaily+%28OS+X+Daily%29&#34; target=&#34;_blank&#34;&gt;OS X Daily&lt;/a&gt; */&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>robot</title>
-      <link>http://theb0ardside.com/robot/</link>
+      <link>http://127.0.0.1:1313/robot</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/robot/</guid>
+      <guid>http://127.0.0.1:1313/robot</guid>
       <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>1923 video of Einstein&#39;s Theory Of Relativity</title>
-      <link>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity/</link>
+      <link>http://127.0.0.1:1313/1923videoofeinsteinstheoryofrelativity</link>
       <pubDate>Wed, 28 Dec 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity/</guid>
+      <guid>http://127.0.0.1:1313/1923videoofeinsteinstheoryofrelativity</guid>
       <description>&lt;p&gt;found via &lt;a href=&#34;http://boingboing.net/2011/12/27/1923-animated-film-about-einst.html&#34; title=&#34;Boing Boing&#34; target=&#34;_blank&#34;&gt;Boing Boing&lt;/a&gt;, excellent 20min short from 1923 -&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/9832926&#34; width=&#34;480&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NeXT documentary</title>
-      <link>http://theb0ardside.com/nextdocumentary/</link>
+      <link>http://127.0.0.1:1313/nextdocumentary</link>
       <pubDate>Thu, 08 Dec 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/nextdocumentary/</guid>
+      <guid>http://127.0.0.1:1313/nextdocumentary</guid>
       <description>&lt;p&gt;Bookmarked this video via &lt;a href=&#34;http://boingboing.net/2011/11/30/20-minute-biography-of-steve-j.html&#34; title=&#34;Boing Boing&#34; target=&#34;_blank&#34;&gt;Boing Boing&lt;/a&gt; last week, but only got round to watching it tonite - pretty interesting little 20 minute documentary series called &amp;#8220;Entrepreneurs&amp;#8221; doing an episode on Steve Jobs and NeXT back in 1985&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/sOlqqriBvUM?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bring the Noyce</title>
-      <link>http://theb0ardside.com/bringthenoyce/</link>
+      <link>http://127.0.0.1:1313/bringthenoyce</link>
       <pubDate>Mon, 14 Nov 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/bringthenoyce/</guid>
+      <guid>http://127.0.0.1:1313/bringthenoyce</guid>
       <description>&lt;p&gt;yow, sorry, that title&#39;s a really bad pun! &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/AfxUq_QrpyY?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;So two things here - i started to watch this video with Robert Noyce talking about the development of the IC, but in the introduction and in his opening, they talk about an article written by Tom Wolfe about Noyce - now, Tom Wolfe was a massive influence on my teenage self, or at least one of his books, The Electric Kool Aid Acid Test, which a friends older brother passed on to me when i was fifteen. Apart from being an excellent writer, the book, as I&#39;m sure most know, was about Ken Kesey and The Merry Pranksters, and the birth of acid culture. Wolfe&#39;s way with words is incredible, and the mythologizing he manages to paint is deliciously enjoyable. He applies the same magic to telling the story of Robert Noyce in &lt;a href=&#34;http://www.stanford.edu/class/e140/e140a/content/noyce.html&#34; title=&#34;Wolfe on Noyce&#34; target=&#34;_blank&#34;&gt;this truly amazing article from Esquire magazine, written in 1984&lt;/a&gt;. Well worth an hour of your time to read the article - i had no idea how much he had influenced the whole culture of Silicon Valley.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Internets 1962 till now</title>
-      <link>http://theb0ardside.com/internets1962tillnow/</link>
+      <link>http://127.0.0.1:1313/internets1962tillnow</link>
       <pubDate>Wed, 10 Aug 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/internets1962tillnow/</guid>
+      <guid>http://127.0.0.1:1313/internets1962tillnow</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://www.computerhistory.org/internet_history/full_size_images/1969_4-node_map.gif&#34; title=&#34;first 4 nodes&#34; class=&#34;aligncenter&#34; width=&#34;432&#34; height=&#34;393&#34; /&gt;&lt;/p&gt;&lt;p&gt;Excellent &lt;a href=&#34;http://www.computerhistory.org/internet_history/&#34; target=&#34;_blank&#34;&gt;timeline of the Internet&lt;/a&gt;&amp;#8216;s evolution from 1962 till the present day..&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Mother Of All Demos, 1968</title>
-      <link>http://theb0ardside.com/themotherofalldemos1968/</link>
+      <link>http://127.0.0.1:1313/themotherofalldemos1968</link>
       <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
+      <guid>http://127.0.0.1:1313/themotherofalldemos1968</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://sloan.stanford.edu/MouseSite/dce1968conferenceannouncement.jpg&#34; title=&#34;advert&#34; class=&#34;aligncenter&#34; width=&#34;566&#34; height=&#34;760&#34; /&gt;&lt;/p&gt;&lt;p&gt;Watch it &lt;a href=&#34;http://sloan.stanford.edu/MouseSite/1968Demo.html#complete&#34; title=&#34;Mother Of All Demos complete&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multicore UFOs</title>
-      <link>http://theb0ardside.com/multicoreufos/</link>
+      <link>http://127.0.0.1:1313/multicoreufos</link>
       <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/multicoreufos/</guid>
+      <guid>http://127.0.0.1:1313/multicoreufos</guid>
       <description>&lt;p&gt;Interesting &lt;a href=&#34;http://gigaom.com/cloud/facebook-tilera/&#34; title=&#34;GigaOm FB Tilera &#34; target=&#34;_blank&#34;&gt;article on GigaOm&lt;/a&gt; this morning about Facebook benchmarking a 64-core chip from &lt;a href=&#34;http://www.tilera.com/&#34; title=&#34;Tilera&#34; target=&#34;_blank&#34;&gt;Tilera&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://www.tilera.com/sites/default/files/products/TILE64_0.jpg&#34; title=&#34;Tilera TILE64&#34; class=&#34;aligncenter&#34; width=&#34;160&#34; height=&#34;160&#34; /&gt;&lt;/p&gt;&lt;p&gt;The X86 processor architecture has been in a dominant for so many years, not based upon any inherent sophistication, but more based upon chance and circumstance (see &lt;a href=&#34;http://developer.yahoo.com/yui/theater/video.php?v=crockonjs-1&#34; title=&#34;Doug Crockford&#34; target=&#34;_blank&#34;&gt;this vid&lt;/a&gt; for more details around the 48min mark), so it does feel about time for a new advancement in hardware architecture. &lt;/p&gt;&lt;p&gt;Be interesting to watch this space and see what develops..&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>mo&#39; history lessons</title>
-      <link>http://theb0ardside.com/mohistorylessons/</link>
+      <link>http://127.0.0.1:1313/mohistorylessons</link>
       <pubDate>Sat, 09 Jul 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/mohistorylessons/</guid>
+      <guid>http://127.0.0.1:1313/mohistorylessons</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2712/4366716421_2ec13d6ec4.jpg&#34; alt=&#34;Douglas Crockford&#34; /&gt;&lt;/p&gt;&lt;p&gt;wow, been finding so many good online video talks. I&#39;ve been genning up on node.js, which has led me into studying more javascript, and this latest lecture, is a massive five part series of talks about javascript. It&#39;s the first one which really stands out, and which fits in with the theme of historical lectures i&#39;ve been posting, covering the history of computing from the Jacquard Loom through the evolution of processors and programming languages up to Javascript. Check them all online &lt;a href=&#34;http://www.yuiblog.com/crockford/&#34; title=&#34;Douglas Crockford&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;[[image by &lt;a href=&#34;http://www.flickr.com/photos/equanimity/4366716421/sizes/m/in/photostream/&#34; title=&#34;equanimity&#34;&gt;equanimity&lt;/a&gt;]]&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>secret military history of Silicon Valley</title>
-      <link>http://theb0ardside.com/secretmilitaryhistoryofsiliconvalley/</link>
+      <link>http://127.0.0.1:1313/secretmilitaryhistoryofsiliconvalley</link>
       <pubDate>Wed, 29 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/secretmilitaryhistoryofsiliconvalley/</guid>
+      <guid>http://127.0.0.1:1313/secretmilitaryhistoryofsiliconvalley</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ZTC_RxWN_xo?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;This video ties in so well with a lot of other recent histories - from Adam Curtis&#39; &amp;#8220;All Watched Over By Machines Of Loving Grave&amp;#8221; to the Ken Holling&#39;s book I&#39;m in the middle of reading - &amp;#8220;Welcome To Mars&amp;#8221;.&lt;/p&gt;&lt;p&gt;Video found via &lt;a href=&#34;http://www.boingboing.net/2011/06/28/silicon-valleys-secr.html&#34;&gt;Boing Boing&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The General and Logical Theory Of Automata&#39;</title>
-      <link>http://theb0ardside.com/thegeneralandlogicaltheoryofautomata/</link>
+      <link>http://127.0.0.1:1313/thegeneralandlogicaltheoryofautomata</link>
       <pubDate>Tue, 28 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/thegeneralandlogicaltheoryofautomata/</guid>
+      <guid>http://127.0.0.1:1313/thegeneralandlogicaltheoryofautomata</guid>
       <description>&lt;p&gt;After hearing &lt;a href=&#34;http://www.kenhollings.com/&#34;&gt;Ken Hollings&lt;/a&gt; read an excerpt from &lt;a href=&#34;http://strangeattractor.co.uk/shoppe/welcome-to-mars-2/&#34;&gt;Welcome To Mars&lt;/a&gt; at the &lt;a href=&#34;http://erstlaub.co.uk/wordpress/atom-town/&#34;&gt;Atom Town screening&lt;/a&gt; last week, I borrowed a copy at the weekend and began reading it. I&#39;m only 47 pages in so far, but it&#39;s already amazing. One of the things referenced in it was John Von Neumann&#39;s 1948 paper &amp;#8216;The General and Logical Theory Of Automata&#39; which &amp;#8220;&lt;em&gt;enlarges upon Turing&#39;s idea of a Universal Machine by proposing a tape-driven, self-producing &amp;#8216;automaton whose output is other automata&#39;&lt;/em&gt;&amp;#8221; - &lt;/p&gt;&lt;p&gt;A swift google search turns up a pdf of the published paper &lt;a href=&#34;http://www.pensamientocomplejo.com.ar/docs/files/Von%20Neuman%20-%20Central%20and%20Logical%20Theory%20of%20Automata.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>80s hair unixz</title>
-      <link>http://theb0ardside.com/80shairunixz/</link>
+      <link>http://127.0.0.1:1313/80shairunixz</link>
       <pubDate>Sat, 11 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/80shairunixz/</guid>
+      <guid>http://127.0.0.1:1313/80shairunixz</guid>
       <description>&lt;p&gt;History of BSD - this is awesome:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;425&#34; height=&#34;349&#34; src=&#34;http://www.youtube.com/embed/ds77e3aO9nA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Brief history of NCP -&amp;gt; IP/TCP transition, also awesome:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;349&#34; src=&#34;http://www.youtube.com/embed/yqOS5d4gJz8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>time travelling with Unix</title>
-      <link>http://theb0ardside.com/timetravellingwithunix/</link>
+      <link>http://127.0.0.1:1313/timetravellingwithunix</link>
       <pubDate>Sun, 01 May 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/timetravellingwithunix/</guid>
+      <guid>http://127.0.0.1:1313/timetravellingwithunix</guid>
       <description>&lt;div&gt;&lt;img class=&#34;aligncenter&#34; title=&#34;SRI International &#34; src=&#34;http://www.urigeller.com/pics/sri.jpg&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;323&#34; /&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;I discovered Unix back in 1998. At the time i was a lowly Windows desktop support engineer when i started dabbling with Red Hat Linux v 4.2. Compared to the process of fixing Windows 3.1 systems ( i.e. reinstall drivers and reboot - if that doesn&amp;rsquo;t work, reinstall OS and drivers - repeat until it does work), playing with Linux was a joy of knowledge. Every part of the installation process was a problem hiding a wormhole of required knowledge. Eventually, we managed to start X - very literally, all we had was a grey screen with an &amp;lsquo;X&amp;rsquo; to represent the mouse pointer. However, it was addictive - every time you had to fix something, there was a reason for it, and you learned from that experience, and once fixed, it would stay fixed.&lt;/p&gt;&lt;p&gt;So, fast forward 13 years, and I find myself in a wiki loop, reading up on Bell Labs, then early iterations of Unix, and especially Version 7 Unix - &lt;a href=&#34;http://en.wikipedia.org/wiki/Version_7_Unix&#34;&gt;http://en.wikipedia.org/wiki/Version_7_Unix&lt;/a&gt; - Back in 1998, i had my head full learning Linux and the newly released SunOS 5.7, so even though i was surrounded by older Vax, SGI, and Digital, I didn&amp;rsquo;t explore much historical software at the time even though i did have a bit of a fixation with the PDP-11.&lt;/p&gt;&lt;/div&gt;
 
 &lt;div&gt;&lt;p&gt;What caught my eye on the wiki page was this line - &amp;ldquo;Bootable images for V7 can still be &lt;a href=&#34;http://ftp.fibranet.cat/UnixArchive/PDP-11/Boot_Images/&#34;&gt;downloaded&lt;/a&gt; today, and can be run on modern hosts using PDP-11 emulators such as &lt;a href=&#34;http://en.wikipedia.org/wiki/SIMH&#34;&gt;SIMH&lt;/a&gt;.&amp;rdquo;.&lt;/p&gt;&lt;p&gt;whut??&lt;/p&gt;&lt;p&gt;Yeah! So, this is my step-by-step instructions for compiling SIMH on OS X (Snow Leopard 10.6.7), running the PDP-11 emulator and getting a V7 Unix image up and running on it. There are other HOWTOs out there and the documentation with SIMH does explain all this, but even so, I found it took me several hours of reading and searching to get things working, so I figure theres still room on the internets for what hopefully is a bit more of a concise howto..&lt;/p&gt;&lt;p&gt;You can find the SIMH homepage at:&lt;br /&gt;&lt;a href=&#34;http://simh.trailing-edge.com/&#34;&gt;http://simh.trailing-edge.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The SIMH project consists of emulators for a bunch of historical machines, load of DEC machines from the VAX, through to the PDP range, plus IBMs, Honeywell, and even the Altair 8080.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&amp;ldquo;&lt;em&gt;The Computer History Simulation Project is a loose Internet-based collective of people interested in restoring historically significant computer hardware and software systems by simulation. The goal of the project is to create highly portable system simulators and to publish them as freeware on the Internet, with freely available copies of significant or representative software.&lt;/em&gt;&amp;rdquo;&lt;/div&gt;&lt;div&gt;&lt;p&gt;(You can also find a precompiled OS X binary at &lt;a href=&#34;http://homepage.mac.com/mba/simh/index.html&#34;&gt;http://homepage.mac.com/mba/simh/index.html&lt;/a&gt; however compiling wasn&amp;rsquo;t hard, and its all part of the fun, right?!)&lt;/p&gt;&lt;p&gt;First, if you don&#39;t already have it, you&#39;ll need to install Libpcap for network support, which you can get from &lt;a href=&#34;http://www.tcpdump.org/&#34;&gt;http://www.tcpdump.org/&lt;/a&gt; - Install libpcap with the usual ./configure, make, make install dance, then download the simh source.&lt;/p&gt;&lt;p&gt;To install on OS X you need to export the OSTYPE environment variable.&lt;br /&gt;(Or you&#39;ll get:&lt;br /&gt;ld: library not found for -lrt&lt;br /&gt;collect2: ld returned 1 exit status&lt;br /&gt;make: *** [BIN/pdp1] Error 1)&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;echo $OSTYPE&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt; &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;export OSTYPE&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;make USE_NETWORK=1&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;I encountered my first failure here, no BIN directory. Easily fixed with:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;mkdir BIN&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;make USE_NETWORK=1&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;boom!&lt;/div&gt;&lt;div&gt;&lt;strong&gt;cd BIN&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;./pdp11&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;After compiling, you can fire up any of the emulators and you&amp;rsquo;ll find yourself in a &lt;strong&gt;sim&amp;gt;&lt;/strong&gt; shell.&lt;/p&gt;&lt;p&gt;&amp;ldquo;Now what the hell do i do?&amp;rdquo; was my first thought.&lt;/p&gt;&lt;p&gt;It took me a bit of reading to understand how to use the simulators, basically they are composed of the devices such as the CPU, disk, memory etc, plus Registers for which you set values. They are quite fully explained in - &lt;a href=&#34;http://simh.trailing-edge.com/pdf/simh_doc.pdf&#34;&gt;http://simh.trailing-edge.com/pdf/simh_doc.pdf&lt;/a&gt; -&lt;/p&gt;&lt;p&gt;In order to load up any of the software, you have to set some device options, map your software image to a device then load it up. You&amp;rsquo;ll find the software at:&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://simh.trailing-edge.com/software.html&#34;&gt;http://simh.trailing-edge.com/software.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;(and for more thorough explanation, read the doc at &lt;a href=&#34;http://simh.trailing-edge.com/pdf/simh_swre.pdf&#34;&gt;http://simh.trailing-edge.com/pdf/simh_swre.pdf&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;The correct V7 Unix to run on the PDP-11 is :&lt;br /&gt;&lt;a href=&#34;http://simh.trailing-edge.com/kits/uv7swre.zip&#34;&gt; http://simh.trailing-edge.com/kits/uv7swre.zip&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The instructions given in the documentation are:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;sim&amp;gt; set cpu u18 &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; sim&amp;gt; set rl0 RL02 &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; sim&amp;gt; att rl0 unix_v7_rl.dsk &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; sim&amp;gt; boot rl0 &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;@boot &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; New Boot, known devices are hp ht rk rl rp tm vt &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; : rl(0,0)rl2unix &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;#&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;They are absolutely correct, however, a gotcha for me was that after i typed &amp;ldquo;&lt;strong&gt;boot rl0&lt;/strong&gt;&amp;rdquo; I only got an &amp;ldquo;&lt;strong&gt;@&lt;/strong&gt;&amp;rdquo; sign, and nothing more. I thought perhaps i had a corrupt image or something was different with my emulator. But no, i was just being a numpty, you actually need to type &amp;ldquo;&lt;strong&gt;boot&lt;/strong&gt;&amp;rdquo; and press return, then type in the &amp;#8220;&lt;strong&gt;rl(0,0)rl2unix &lt;/strong&gt;&amp;#8221; line too.&lt;/p&gt;&lt;p&gt;I also had to create a &lt;strong&gt;/tmp&lt;/strong&gt; directory so i could view man pages, but yeah, apart from that, you should be good to go!&lt;/p&gt;&lt;p&gt;I also had fun playing with 2.11 BSD which i got from :&lt;br /&gt;&lt;a title=&#34;2.11&#34; href=&#34;http://ftp.fibranet.cat/UnixArchive/PDP-11/Boot_Images/2.11_on_Simh/&#34;&gt; http://ftp.fibranet.cat/UnixArchive/PDP-11/Boot_Images/2.11_on_Simh/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This is a really well put together package, with a clear README file on how to use it.&lt;/p&gt;&lt;p&gt;download, unzip and run as:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;./pdp11 211bsd.simh&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You can even telnet into your virtual host:&lt;/p&gt;&lt;p&gt;rar!&lt;/p&gt;&lt;/div&gt;

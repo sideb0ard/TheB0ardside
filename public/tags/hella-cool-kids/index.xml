@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Hella-Cool-Kids on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/hella-cool-kids.xml</link>
+    <link>http://127.0.0.1:1313/tags/hella-cool-kids/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>The B0ardcast Cometh</title>
-      <link>http://theb0ardside.com/theb0ardcastcometh/</link>
+      <link>http://127.0.0.1:1313/theb0ardcastcometh</link>
       <pubDate>Sun, 09 Feb 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/theb0ardcastcometh/</guid>
+      <guid>http://127.0.0.1:1313/theb0ardcastcometh</guid>
       <description>&lt;p&gt;Woop! I just got confirmation on friday that I&amp;rsquo;ll have a regular weekly 2 hour radio starting this tuesday on &lt;a href=&#34;http://bff.fm&#34;&gt;bff.fm&lt;/a&gt; - a recent new station out of here in San Francisco. Tune in - 2pm-4pm PST (10pm-Midnite UK) &amp;ndash;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/static/img/b0ardcast.png&#34;&gt;&lt;/p&gt;

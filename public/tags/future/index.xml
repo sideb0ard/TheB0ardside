@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Future on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/future.xml</link>
+    <link>http://127.0.0.1:1313/tags/future/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Solomon Hykes, Dockercon14</title>
-      <link>http://theb0ardside.com/solomon-hykes-docker/</link>
+      <link>http://127.0.0.1:1313/solomon-hykes-docker</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
+      <guid>http://127.0.0.1:1313/solomon-hykes-docker</guid>
       <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Eric Brewer on Container usage at Google</title>
-      <link>http://theb0ardside.com/containers-at-google/</link>
+      <link>http://127.0.0.1:1313/containers-at-google</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/containers-at-google/</guid>
+      <guid>http://127.0.0.1:1313/containers-at-google</guid>
       <description>&lt;p&gt;Eric Brewer&amp;rsquo;s keynote from Dockercon14 -&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>Brandon Philips, CoreOS</title>
-      <link>http://theb0ardside.com/brandoncoreos/</link>
+      <link>http://127.0.0.1:1313/brandoncoreos</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/brandoncoreos/</guid>
+      <guid>http://127.0.0.1:1313/brandoncoreos</guid>
       <description>&lt;p&gt;Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title>Rob Pike, GopherCon 2014 Keynote</title>
-      <link>http://theb0ardside.com/robpike-gophercon-2014/</link>
+      <link>http://127.0.0.1:1313/robpike-gophercon-2014</link>
       <pubDate>Fri, 09 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/robpike-gophercon-2014/</guid>
+      <guid>http://127.0.0.1:1313/robpike-gophercon-2014</guid>
       <description>&lt;p&gt;Awesome, awesome talk from Rob Pike, the keynote for GopherCon 2014, some old Unix/C history and lots of details of Go development &amp;ndash;&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -68,10 +68,10 @@
     
     <item>
       <title>James Gosling: Robots and Water and Whales</title>
-      <link>http://theb0ardside.com/jamesgoslingrobots/</link>
+      <link>http://127.0.0.1:1313/jamesgoslingrobots</link>
       <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/jamesgoslingrobots/</guid>
+      <guid>http://127.0.0.1:1313/jamesgoslingrobots</guid>
       <description>&lt;p&gt;Oh man, this is just ace!&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -82,10 +82,10 @@
     
     <item>
       <title>Acoustic Levitation</title>
-      <link>http://theb0ardside.com/acoustic-levitation/</link>
+      <link>http://127.0.0.1:1313/acoustic-levitation</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
+      <guid>http://127.0.0.1:1313/acoustic-levitation</guid>
       <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -98,10 +98,10 @@
     
     <item>
       <title>Consumer Drones Have Arrived (almost)</title>
-      <link>http://theb0ardside.com/consumerdrones/</link>
+      <link>http://127.0.0.1:1313/consumerdrones</link>
       <pubDate>Mon, 02 Dec 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/consumerdrones/</guid>
+      <guid>http://127.0.0.1:1313/consumerdrones</guid>
       <description>&lt;p&gt;oh wow&amp;hellip;&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/98BIu9dpwHU?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -110,240 +110,240 @@
     
     <item>
       <title>Bret Victor - Future Of Programming</title>
-      <link>http://theb0ardside.com/bretvictorfutureofprogramming/</link>
+      <link>http://127.0.0.1:1313/bretvictorfutureofprogramming</link>
       <pubDate>Thu, 22 Aug 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/bretvictorfutureofprogramming/</guid>
+      <guid>http://127.0.0.1:1313/bretvictorfutureofprogramming</guid>
       <description>&lt;p&gt;great stuff!&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/71278954&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>immutability</title>
-      <link>http://theb0ardside.com/immutability/</link>
+      <link>http://127.0.0.1:1313/immutability</link>
       <pubDate>Thu, 10 Jan 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/immutability/</guid>
+      <guid>http://127.0.0.1:1313/immutability</guid>
       <description>&lt;p&gt;Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/52831373&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;https://twitter.com/igrigorik/status/288758137190772736&#34; target=&#34;_blank&#34;&gt;igrigorik&#39;s twitter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Coming War Over General-Purpose Computing</title>
-      <link>http://theb0ardside.com/thecomingwarovergeneralpurposecomputing/</link>
+      <link>http://127.0.0.1:1313/thecomingwarovergeneralpurposecomputing</link>
       <pubDate>Thu, 23 Aug 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/thecomingwarovergeneralpurposecomputing/</guid>
+      <guid>http://127.0.0.1:1313/thecomingwarovergeneralpurposecomputing</guid>
       <description>&lt;p&gt;I saw &lt;a href=&#34;http://longnow.org/seminars/02012/jul/31/coming-century-war-against-your-computer/&#34; title=&#34;Long Now Foundation&#34; target=&#34;_blank&#34;&gt;Cory Doctorow give this same talk a few weeks back as part of the Long Now Foundation&lt;/a&gt;, and would highly recommend it..&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/gbYXBJOFgeI?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sight Systems</title>
-      <link>http://theb0ardside.com/sightsystems/</link>
+      <link>http://127.0.0.1:1313/sightsystems</link>
       <pubDate>Tue, 31 Jul 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/sightsystems/</guid>
+      <guid>http://127.0.0.1:1313/sightsystems</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/46304267&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;cool lil 7min sci-fi short via &lt;a href=&#34;http://news.ycombinator.com/item?id=4311593&#34; title=&#34;hn&#34; target=&#34;_blank&#34;&gt;Hacker News&lt;/a&gt;. As they point out in the comment section, it&#39;s very close to &lt;a href=&#34;http://en.wikipedia.org/wiki/Black_Mirror_(TV_series)&#34; title=&#34;black mirror&#34; target=&#34;_blank&#34;&gt;Charlie Brooker&#39;s Black Mirror&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Leap Motion</title>
-      <link>http://theb0ardside.com/leapmotion/</link>
+      <link>http://127.0.0.1:1313/leapmotion</link>
       <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/leapmotion/</guid>
+      <guid>http://127.0.0.1:1313/leapmotion</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/_d6KuiuteIA?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;ooh, nice. Just saw this company mentioned in the &lt;a href=&#34;http://news.ycombinator.com/item?id=4189793&#34; title=&#34;HN&#34; target=&#34;_blank&#34;&gt;comments of an HN thread&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Ono-Sendai SLB-10 ORB system</title>
-      <link>http://theb0ardside.com/theonosendaislb10orbsystem/</link>
+      <link>http://127.0.0.1:1313/theonosendaislb10orbsystem</link>
       <pubDate>Fri, 29 Jun 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/theonosendaislb10orbsystem/</guid>
+      <guid>http://127.0.0.1:1313/theonosendaislb10orbsystem</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5083/5381778688_f94f95fa71_z.jpg&#34; alt=&#34;Ono-Sendai SLB-10 ORB System&#34; /&gt;&lt;/p&gt;&lt;p&gt;&amp;#8220;The SLB-10 is the latest generation of ORB manufactured by Ono-Sendai, utilizing state of the art EM pulse powered flotation; archive-quality audio and visual recording capabilities; fully CMYK coloured, tactile holographic capability; and guaranteed always-on connection to your personal encrypted data storage facility.&lt;/p&gt;&lt;p&gt;ORBs have become so integral to our life and yet they are barely a 7 year old technology. It is worth reflecting on the brief history of these astounding devices, upon which we now rely so heavily.&lt;/p&gt;&lt;p&gt;In 2027, a group of engineers, skaterboarders and film-makers came together to work on a project utilizing the first commercial Shawyer/EmDrive propulsion system released by the British National Space Centre. Their early device was designed initially as a simple anti-gravity camera to be able to follow a moving person, while filming and streaming the data. It was a personal project for their own use, but they also expected it would be useful for other filming niches. What they hadn&amp;rsquo;t expected was the enormous demand from the general public, as real-time life-recording and live-blogging quickly took off, finding a multitude of personal and business uses. They formed a company to market their ORB devices, calling themselves Ono-Sendai, in joking homage to William Gibson.&lt;/p&gt;&lt;p&gt;The market for ORBs exploded, with feature upon feature being added in response to consumer demand: multiple cameras, higher definition a/v recording, voice control and audio speakers, automated laser protection systems, and crucially - the visual feed became integrated with in-Frame overlays. In those days Frames were still competing with handheld devices, before we perfected the means to spatially interact with data.&lt;/p&gt;&lt;p&gt;Two more pieces were necessary to bring us up to date with the contemporary ORB experience - the addition of the holo-projector in 2030, in order to finally disperse with a physical interface; and, more recently in 2032, the first mature ultrasound-based haptic holographic interface was introduced to provide a truly tactile experience.&lt;/p&gt;&lt;p&gt;As many imitators as there are on the market, Ono-Sendai manages to stay one step ahead of the competitors due its truly innovative operating system, SOLX - Son Of LinuX, the most advanced and personable decision-taking, realtime smart O/S. With Ono-Sendai and SOLX assisting your life, you be sure of trusted network access, personal security, and reliable data archive - Get on with enjoying your life!&amp;#8221;&lt;/p&gt;&lt;p&gt;// reblog from &lt;a href=&#34;http://drawingb0ard.blogspot.com/2011/01/ono-sendai-slb-10-orb-system.html&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;old Drawing B0ard post&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>21st Century Internet</title>
-      <link>http://theb0ardside.com/21stcenturyinternet/</link>
+      <link>http://127.0.0.1:1313/21stcenturyinternet</link>
       <pubDate>Wed, 06 Jun 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/21stcenturyinternet/</guid>
+      <guid>http://127.0.0.1:1313/21stcenturyinternet</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/-Uwjt32NvVA?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;http://googleblog.blogspot.com/2012/06/world-ipv6-launch-keeping-internet.html&#34; title=&#34;google blog&#34; target=&#34;_blank&#34;&gt;Google Blog&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>hitchhikers guide to the googleverse</title>
-      <link>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</link>
+      <link>http://127.0.0.1:1313/hitchhikersguidetothegoogleverse</link>
       <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</guid>
+      <guid>http://127.0.0.1:1313/hitchhikersguidetothegoogleverse</guid>
       <description>&lt;p&gt;Maybe they ain&#39;t doing so well with Social, and so what if people are stupid enough to try Bing - It&#39;s visionary efforts like this that show Google still leave most  other companies behind in a dust ball of mundanity&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/mmQl6VGvX-c?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;(( personally, I actually think Google+ is doing fine too - its full of way more techie interesting people and content than all the FB posts by yer aunties and people you went to school with.. ))&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Technology As Society&#39;s Engine</title>
-      <link>http://theb0ardside.com/technologyassocietysengine/</link>
+      <link>http://127.0.0.1:1313/technologyassocietysengine</link>
       <pubDate>Thu, 03 May 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/technologyassocietysengine/</guid>
+      <guid>http://127.0.0.1:1313/technologyassocietysengine</guid>
       <description>&lt;p&gt;Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -&lt;/p&gt;&lt;!-- iframe plugin v:2.3 - wordpress.org/extend/plugins/iframe/ --&gt;&lt;iframe width=&#34;560&#34; height=&#34;340&#34; src=&#34;http://cdn.livestream.com/embed/techonomy?layout=4&amp;amp;clip=pla_e0493fff-f62c-4a9c-bf6b-2844f9ad8d58&amp;amp;height=340&amp;amp;width=560&amp;amp;autoplay=false&#34; style=&#34;border:0;outline:0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;iframe-class&#34;&gt;&lt;/iframe&gt;&lt;p&gt;A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. &lt;/p&gt;&lt;p&gt;I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.&lt;/p&gt;&lt;p&gt;Technology on the other hand: absolutely it&#39;s what will drive the economy, but even that view completely misses the big picture, which is the Medium itself, The Universal Network. I believe we have created a whole new dimension, an evolutionary mathematical abstracted form of biology. This is the beginning of History, Year Zero.&lt;/p&gt;&lt;p&gt;One hundred years from now, or two thousand - people will be able to look back in time and know with a rich level of detail what our life is like now. Thousands, upon millions of instances of video and audio, images, writings, geo locations, online trails, all readily accessible, interlinked and searchable. This level of detail will only increase, as we start recording every aspect of life. &lt;/p&gt;&lt;p&gt;With such archives of data, I can easily imagine the kids of 2123 being able to walk through and interact with a virtual London in the swinging 2020&amp;#8242;s, or San Francisco&#39;s roaring 2030&amp;#8242;s. Whereas, for future generations, any time predating the late 1990&amp;#8242;s will essentially be a static foreign place in comparison. We have created time-travel - we just don&#39;t know it yet.&lt;/p&gt;&lt;p&gt;This Network has already achieved a basic level of independence from humanity - where now it is possible for a Something to exist outwith a single containing computer system using techniques like redundancy and geographic load-balancing. I don&#39;t mean to imply there is any intelligence there, but there is a level of resilience we&#39;ve never seen in nature before. To give a more concrete example, I&#39;m referring to something like you as a user interacting with the amazon website to purchase something, meanwhile the power goes out in the datacentre hosting the server your browser was communicating with, and, if engineered correctly, your interaction could continue, picked up by a secondary datacentre with no loss of data, nor interruption of service. This isn&#39;t exactly life as we know it, but if you squint your eyes just a little, its not too hard to see an analogy to biological cell life.&lt;/p&gt;&lt;p&gt;Over the next few years, Society&#39;s experience of reality is going to go through the biggest change in history, as our physical world merges completely with this new virtual world of realtime interconnected information and communication, completely warping our sense of time and geography.&lt;/p&gt;&lt;p&gt;The iPhone was stage one, Google Glasses or &lt;a href=&#34;http://www.theb0ardside.com/?p=32&#34; target=&#34;_blank&#34;&gt;something very similar&lt;/a&gt; will be stage two, and its right around the corner.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Networked City</title>
-      <link>http://theb0ardside.com/thenetworkedcity/</link>
+      <link>http://127.0.0.1:1313/thenetworkedcity</link>
       <pubDate>Tue, 10 Apr 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/thenetworkedcity/</guid>
+      <guid>http://127.0.0.1:1313/thenetworkedcity</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://www.lboro.ac.uk/gawc/rb/images/rb152f1.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;[[ image half-inched from &lt;a href=&#34;http://www.lboro.ac.uk/gawc/rb/rb152.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;]]&lt;/p&gt;&lt;p&gt;I started studying Sociology a few years back with the Open University, but never managed to complete my course as I got a job here in the States and turned my study-time back towards practical technology. I did however study it long enough for it have quite a profound effect on my understanding and conceptualisation of networking, and felt especially influenced by the works of &lt;a href=&#34;http://en.wikipedia.org/wiki/Manuel_Castells&#34; target=&#34;_blank&#34;&gt;Manuel Castells&lt;/a&gt; and &lt;a href=&#34;http://books.google.com/books/about/Splintering_Urbanism.html?id=zCKNS5Yn4pkC&#34; target=&#34;_blank&#34;&gt;Stephen Graham&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;I just came across a paper i wrote almost a year ago which covers a lot of these ideas and ties in quite well with the general theme of this blog, so i thought i&#39;d post it up here instead of languishing on my hard drive&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why is it important to understand how a city&amp;rsquo;s fortunes are shaped by its connections?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The City is our personal gateway to the wider world. It resonates with a dense polyrhythm constructed of the flow and foci of innumerable networks. From the physical infrastructure under and around us: the travel and power networks, water, gas and telecommunications lines; to the more ephemeral flows of culture, people, information, finance, and commodities. These structures, relationships and their interconnections are the very essence of a city, connecting the local to the global. In order to fully comprehend the economic and social wellbeing of an urban spatiality, it is essential to look at how a city is positioned within a wider global system, and conversely to examine how these global flows connect to local networks. I would like to answer the above question by first looking at the role of connections in a city&amp;rsquo;s formation and then explain how these connections extend out to form a global network of influence, including the historically new form we now find ourselves in, the Network Society. Within this framework, we shall then examine how these flows connect locally, explaining the new forms of social division created by a combination of technology and ideology, and why now, more than ever, it is critical to understand how a city&amp;rsquo;s fortunes are shaped by its connections.&lt;/p&gt;&lt;p&gt;Although we have no concrete proof of the origins of the first cities, Jane Jacobs has a particularly convincing argument for their establishment as trading centres, locations of some geographic or social convenience that became a permanent market place. According to the theory, as more people settle in one place, more opportunities for connections are easily made, and local networks of cooperation and competition would grow and drive innovation. Initially they would be trading with local neighbouring lands, but as trade would increase, these local connections would stretch out more and more to form part of a larger network. Trade would quickly diversify through the division of labour, where the commodity itself would be &amp;ldquo;&lt;em&gt;one export. The other export is a service: the service of obtaining, handling and trading goods that are brought in from outside and are destined for secondary customers who also come from outside&lt;/em&gt;&amp;rdquo; (Jacobs, 1970, p21). &lt;/p&gt;&lt;p&gt;Chicago is a good example of one such city whose growth was predicated upon positioning itself within emerging trade networks. A small trading centre since the late seventeenth century, its growth was assured when it was connected to the first rail and telegraph networks in 1848. With travel time between Chicago and the East Coast cut from over two weeks to two days, and the near instantaneous messaging of the telegraph, &amp;ldquo;&lt;em&gt;the pace of life had speeded up and the distances covered by flows of goods, people and information were ever greater&lt;/em&gt;&amp;rdquo;. Chicago managed to place itself at the centre of a voluminous pan-American trade and travel network, thereby establishing itself as a thriving and vibrant financial and social hub. As easy it would be to equate this fortune with Chicago&amp;rsquo;s geographic positioning, the reality was that it achieved and maintained this dominant position through political and economic manoeuvring - before the construction of the railway, Chicago was competing with St Louis, which had a more capable waterway system. Chicago&amp;rsquo;s good fortune was due to some canny businessmen who realised they needed an alternative network to compete with the waterways, and who set up a railway company by persuading the local farmers to invest in them. (Pile, 2010, p24-35) &lt;/p&gt;&lt;p&gt;Competition over trade routes is a recurring story throughout the development of the modern interstate system.  The early capitalist city-states of fifteenth century northern Italy, of which Venice was the most prominent, established their wealth and power through a monopolistic control of trade routes to India and China. Other northern European countries, mainly Spain and Portugal, tried to find alternative routes to bypass the Venetian monopoly, and it was through this process of exploration that Columbus &amp;ldquo;discovered&amp;rdquo; the Americas, thereby creating a whole new network of connections. The sixteenth century saw a great deal of change as Spain, Portugal and the mini-empires of France, England and Sweden all vied for world power through territorialist expansion of their respective networks (Arrighi, 2010). Although I digress here and talk of nation states, the unit of power and of management remains that of the city. We can see this in the conquest of Mexico City by the Spanish in 1521, which transformed the Aztec City, then known as Tenochititlan. Until that point, its dominant network of social relations and trade was confined around Mexico, but with the arrival of the Spanish, that network changed, as the flow of power now came from Madrid, and Mexico City&amp;rsquo;s &amp;ldquo;&lt;em&gt;local dominance was now in turn subordinated to an even greater power, a new imperial capital across the Atlantic&lt;/em&gt;&amp;rdquo; (Massey, 2010, p105). &lt;/p&gt;&lt;p&gt;The Dutch Republic, operating from its capital, The Hague, managed to shape its own fortune and usurp Spain&amp;rsquo;s might by creating a new network of connections atop trade routes, a level of abstraction beyond the trading of physical goods: financial networks. It became the hegemonic power on the world stage by innovating forms of financial speculation based on capitalist expansion rather than territorialist expansion. &amp;ldquo;&lt;em&gt;These networks encircled the world and could not easily be bypassed or superseded&lt;/em&gt;&amp;rdquo; (Arrighi, 2010, p46). Over successive centuries we have seen the balance of world power shift through manipulations in these network of connections, with first the United Kingdom and then the United States, leveraging themselves into subsequent positions of economic strength. &lt;/p&gt;&lt;p&gt;Immanuel Wallerstein&amp;rsquo;s World System Theory provides a useful framework for understanding the nature of these global flows of power, conceiving the world not as separate nations with separate economies but as one interlinked capitalist world economy. His conceptualization of the modern world system distinguishes between the Core (developed) and Periphery (developing) countries, with the core countries exploiting the resources of the periphery through monopolistic control of network connections (Arrighi, 2010). Within this widescreen view the relationship between a city&amp;rsquo;s fortunes and its connections to the network of power becomes clear, that it has to be actively aware of, and strive to maintain it&amp;rsquo;s position within the global &amp;ldquo;&lt;em&gt;&amp;rsquo;power geometry&amp;rsquo; &amp;ndash; different cities have their own trajectories and there is a constant process of the making and unmaking of connections&lt;/em&gt;&amp;rdquo; (Massey, 2010 p124).&lt;/p&gt;&lt;p&gt;Society is now entering a new form of space-time experience &amp;ndash; the Informational Age, a new form of network and thus, new forms of connection for a city. Although today&amp;rsquo;s main network of power is still finance, Manuel Castells points out a crucial difference: Although we have had interconnecting networks of influence and a world economy going back now to the sixteenth century, it is only now due to computer networks that we have a truly global economy &amp;ldquo;&lt;em&gt;with the capacity to work as a unit in real time, or chosen time, on a planetary scale&lt;/em&gt;&amp;rdquo; (Castells, 2010, p101). Following similar societal changes as the train and the telegraph, the mass adoption of broadband Internet connectivity in many aspects of our everyday life is drastically changing our lived experience of space and time. The Internet has its roots in military scientific work of the 1960s and 1970s, however the mass adoption of the technology into everyday life only began in the mid 1990s with the advent of the World Wide Web, essentially an easy to understand and use interface to the Internet; In just over ten years, Core countries of the West have migrated whole areas of life onto this digital network, affecting everything from work and education to banking, government, leisure, travel, media, relationships and much more. A whole new network space of power, from its physical fibre-optic network infrastructure, to the new virtual realms it allows. &lt;/p&gt;&lt;p&gt;Since the Haussmannisation of Paris in the mid-nineteenth century, the overarching ethos behind urban planning was a scientific-minded belief in a comprehensive and unified infrastructure. Guided by Keynesian welfare states, the modern infrastructural idea for most of the 20th century was based on universal access and cross-subsidized provision provided by a government or private monopoly, such as the railway or telephone networks. Since the 1980s, this way of thinking has become eroded as ideas of privatisation and liberalisation of the markets gained popularity. The monolithic conception of a city as a coherent unified machine no longer fit with postmodern ideas of identity while technological advances allowed for the creation of tiered and premium network services. Technological control now allows secessionary network infrastructure such as private tolled highways, gated communities, enclosed malls, and Business Improvement Districts - an idea originating in the US, but now &amp;ldquo;&lt;em&gt;found in Europe, the Caribbean, Australia and South Africa&lt;/em&gt;&amp;rdquo; (Hannigan, quoted in Graham/Marvin, 2009 p261). Business Improvement Districts take over the running of their own network connections: street cleaning, lighting, garbage, policing etc., leaving remaining areas to deal with their own problems. Although in theory the market should provide for all who have a requirement, according to the work of Castells what we are seeing is a new social division, &amp;ldquo;&lt;em&gt;structurally irrelevant people&lt;/em&gt;&amp;rdquo;, people who have no economic power and who therefore, the market can simply ignore because the &amp;ldquo;&lt;em&gt;architecture of global networks connects places selectively, according to their relative value to the network&lt;/em&gt;&amp;rdquo; (Castells, 2010 pXXXV) &lt;/p&gt;&lt;p&gt;Stephen Graham and Simon Marvin call this phenomenon &amp;ldquo;Splintering Urbanism&amp;rdquo;. They outline the physical geography of the network society by looking at the powers behind, and embodied in the urban infrastructure that services the network. They highlight that this area is often overlooked due its technical nature, often dismissed by architects, sociologists and geographers as a politics-neutral engineering problem, outwith their area of expertise. Graham and Marvin demonstrate a rise in &amp;ldquo;&lt;em&gt;premium networked spaces of the splintering metropolis&lt;/em&gt;&amp;rdquo; across the globe, a new geography transcending ideas of Core and Periphery countries, centring on cities from Shanghai to Manhattan, Sao Paolo to Montreal, Dubai, London, Bombay, and beyond. We see express highways and train routes connecting business centres to international airports, bypassing surrounding local areas to create virtual network topologies. (Graham, Marvin, 2009). We should strive to see that not all inhabitants of a city feel the benefits of these global connections of power and financial flows equally, a problem exasperated by the dual effects of government ideology - the prevailing idea to allow the market to manage all aspects of society - combined with the technological sophistication to allow very selective and granular unbundling of network services. &lt;/p&gt;&lt;p&gt;However, we must also be aware that the situation is more complex that this binary description of the Included and Excluded. Doreen Massey adds definition to the Network Society concept, using examples of poverty in Bombay and Los Angeles to show how these dominant spaces of capital flows are contested urban areas, with differing rhythms sharing a shaky co-existence. There are a multiplicity of flows within a city which stretch beyond it boundaries, and though certain people may be excluded from certain flows, &amp;ldquo;they are all the products of complicated interweavings of networks of social relations&amp;rdquo; (Massey, 2010, p 130)&lt;/p&gt;&lt;p&gt;Drawing together the various threads of this topic, we can see that a city&amp;rsquo;s fortunes are one and the same as its connections to larger network flows. Originally a city&amp;rsquo;s connections would be with neighbouring regions, but society has evolved over the centuries into one worldwide flow of influences and trade. Now, as an Informational Society, we see the emergence of a singular realtime global economic network, yet in sharp contrast we see a greater division of wealth and power. As we enter this new stage of Society the old systems and language for understanding structure and inequality are no longer adequate to express this new historical reality. An understanding of the mechanics and flows of this new virtual geography and multi-tiered network society becomes an absolute necessity for anyone involved in the planning and governance of urban space, or indeed for anyone simply living or working in a city.&lt;/p&gt;&lt;p&gt;References:&lt;br /&gt;Allen, J., Massey, D., and Pile S. (2010) Understanding Cities: City Worlds, Oxon, The Open University.&lt;br /&gt;Arrighi, G. (2010), The Long Twentieth Century: Money, Power and the Origins Of Our Times London, Verso&lt;br /&gt;Castells, M., (2010) The Rise Of The Network Society, Oxford, Wiley-Blackwell&lt;br /&gt;Jacobs, J. (1970) The Economy Of Cities, New York, Random House&lt;br /&gt;Graham, S., and Marvin, S., (2009) Splintering Urbanism: Networked Infrastructures, Technological Mobilities and The Urban Condition, New York, Routledge&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>the real google eyed</title>
-      <link>http://theb0ardside.com/therealgoogleeyed/</link>
+      <link>http://127.0.0.1:1313/therealgoogleeyed</link>
       <pubDate>Mon, 09 Apr 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/therealgoogleeyed/</guid>
+      <guid>http://127.0.0.1:1313/therealgoogleeyed</guid>
       <description>&lt;p&gt;ha, my friend &lt;a href=&#34;http://www.mandalastudio.net/&#34; target=&#34;_blank&#34;&gt;Mat&lt;/a&gt; turned me on to this spoof version -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/t3TAOYXT840?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>going google eyed</title>
-      <link>http://theb0ardside.com/goinggoogleeyed/</link>
+      <link>http://127.0.0.1:1313/goinggoogleeyed</link>
       <pubDate>Thu, 05 Apr 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/goinggoogleeyed/</guid>
+      <guid>http://127.0.0.1:1313/goinggoogleeyed</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/9c6W4CCU9M4?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Ah, see, &lt;a href=&#34;http://drawingb0ard.blogspot.com/2011/01/physic-or-surgery-issue-1.html&#34; title=&#34;Physic Or Surgery&#34; target=&#34;_blank&#34;&gt;my comic&lt;/a&gt; is all true! :D&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>the biology of code</title>
-      <link>http://theb0ardside.com/thebiologyofcode/</link>
+      <link>http://127.0.0.1:1313/thebiologyofcode</link>
       <pubDate>Tue, 27 Mar 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/thebiologyofcode/</guid>
+      <guid>http://127.0.0.1:1313/thebiologyofcode</guid>
       <description>&lt;p&gt;Fabulous piece and video chat with George Dyson over at the always reliable Edge -&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/conversation/a-universe-of-self-replicating-code#.T3E3c83Cv8w.wordpress&#34;&gt;A Universe Of Self-replicating Code | Conversation | Edge&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>evolution of the cloud</title>
-      <link>http://theb0ardside.com/evolutionofthecloud/</link>
+      <link>http://127.0.0.1:1313/evolutionofthecloud</link>
       <pubDate>Thu, 02 Feb 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/evolutionofthecloud/</guid>
+      <guid>http://127.0.0.1:1313/evolutionofthecloud</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://gigaom.com/cloud/why-2013-is-the-year-of-noops-for-programmers-infographic/?utm_source=feedburner&amp;#038;utm_medium=feed&amp;#038;utm_campaign=Feed%3A+OmMalik+%28GigaOM%3A+Tech%29&#34; target=&#34;_blank&#34;&gt;&lt;img width=&#34;600&#34;  src=&#34;http://gigaom2.files.wordpress.com/2012/01/appfog_infographic_013012.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>robot</title>
-      <link>http://theb0ardside.com/robot/</link>
+      <link>http://127.0.0.1:1313/robot</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/robot/</guid>
+      <guid>http://127.0.0.1:1313/robot</guid>
       <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Edge Question 2012</title>
-      <link>http://theb0ardside.com/theedgequestion2012/</link>
+      <link>http://127.0.0.1:1313/theedgequestion2012</link>
       <pubDate>Thu, 19 Jan 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/theedgequestion2012/</guid>
+      <guid>http://127.0.0.1:1313/theedgequestion2012</guid>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://edge.org/images/edge_logo.jpg&#34; alt=&#34;Edge&#34; /&gt;&lt;/p&gt;&lt;p&gt;The Edge just published their annual Q/A in which they pose a question and ask a group of artists, scientists, and various kinds of intellectuals for their answer. This year the question was &lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;#8220;&lt;em&gt;What Is Your Favorite Deep, Elegant, Or Beautiful Explanation?&lt;/em&gt;&amp;#8220;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The list of contributors stretches to 192, most of whom i can&amp;rsquo;t claim to know, however three names I&amp;rsquo;m particularly interested in stick out:&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/response-detail/2738/what-is-your-favorite-deep-elegant-or-beautiful-explanation&#34; target=&#34;_blank&#34;&gt;Rudy Rucker on Inverse Power Laws&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/response-detail/2942/what-is-your-favorite-deep-elegant-or-beautiful-explanation&#34; target=&#34;_blank&#34;&gt;Tim O Reilly on Pascal&amp;rsquo;s Wager&lt;/a&gt; &lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/response-detail/2954/what-is-your-favorite-deep-elegant-or-beautiful-explanation&#34; target=&#34;_blank&#34;&gt;Stewart Brand on Fitness Landscapes&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Worth taking a dig through, tons of good stuff.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>1923 video of Einstein&#39;s Theory Of Relativity</title>
-      <link>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity/</link>
+      <link>http://127.0.0.1:1313/1923videoofeinsteinstheoryofrelativity</link>
       <pubDate>Wed, 28 Dec 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity/</guid>
+      <guid>http://127.0.0.1:1313/1923videoofeinsteinstheoryofrelativity</guid>
       <description>&lt;p&gt;found via &lt;a href=&#34;http://boingboing.net/2011/12/27/1923-animated-film-about-einst.html&#34; title=&#34;Boing Boing&#34; target=&#34;_blank&#34;&gt;Boing Boing&lt;/a&gt;, excellent 20min short from 1923 -&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/9832926&#34; width=&#34;480&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iperf and virtualisation and clouds and clouds</title>
-      <link>http://theb0ardside.com/iperfandvirtualisationandcloudsandclouds/</link>
+      <link>http://127.0.0.1:1313/iperfandvirtualisationandcloudsandclouds</link>
       <pubDate>Mon, 05 Sep 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/iperfandvirtualisationandcloudsandclouds/</guid>
+      <guid>http://127.0.0.1:1313/iperfandvirtualisationandcloudsandclouds</guid>
       <description>&lt;p&gt;One of the tools i&#39;ve been using a lot of recently is iperf - a really simple and sleek tool for measuring bandwidth between two hosts - rather than write up a full tutorial myself, i&#39;ll simply point you at &lt;a href=&#34;http://jaysonbroughton.com/2011/04/iperf-measuring-network-performance-in-an-enterprise-environment/&#34; target=&#34;_blank&#34;&gt;this one&lt;/a&gt; by Jayson Broughton&lt;/p&gt;&lt;p&gt;more soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Vagrant and Chef setup</title>
-      <link>http://theb0ardside.com/vagrantandchefsetup/</link>
+      <link>http://127.0.0.1:1313/vagrantandchefsetup</link>
       <pubDate>Fri, 05 Aug 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vagrantandchefsetup/</guid>
+      <guid>http://127.0.0.1:1313/vagrantandchefsetup</guid>
       <description>&lt;p&gt;I&#39;ve been reading through ThoughtWorks&#39; latest &amp;#8216;&lt;a href=&#34;http://www.thoughtworks.com/radar&#34; title=&#34;radar&#34; target=&#34;_blank&#34;&gt;technology radar&lt;/a&gt;&amp;#8216; which led me to look up &lt;a href=&#34;http://vagrantup.com/&#34; title=&#34;Vagrant&#34; target=&#34;_blank&#34;&gt;Vagrant&lt;/a&gt;, one of the tools they list as worth exploring.&lt;/p&gt;&lt;p&gt;Vagrant is a framework for building and deploying Virtual Machine environments, using Oracle VirtualBox for the actual VMs and utilizing Chef for configuration management.  &lt;/p&gt;&lt;p&gt;Watching through this intro video:&lt;/p&gt;&lt;p&gt;http://vimeo.com/9976342&lt;/p&gt;&lt;p&gt;i was quite intrigued as it is very similar to what i was looking to achieve earlier when i was &lt;a href=&#34;http://www.theb0ardside.com/?p=22&#34; title=&#34;Xen and Puppet&#34; target=&#34;_blank&#34;&gt;experimenting with installing Xen and configuring with Puppet.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;So here&#39;s what I experienced during the setup of Vagrant on my Macbook - I decided to start with a simple Chef install to familiarise myself with Chef itself and it&#39;s own requirements CouchDB, RabbitMQ and Solr, mostly by following &lt;a href=&#34;http://wiki.opscode.com/display/chef/Manual+Chef+Server+Configuration&#34; title=&#34;Chef Manual Install OS X&#34; target=&#34;_blank&#34;&gt;these instructions&lt;/a&gt; - &lt;/p&gt;&lt;p&gt;&lt;strong&gt;-CHEF INSTALL-&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;sudo gem install chef&lt;br /&gt;sudo gem install ohai&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Chef uses couchDB as it&#39;s datastore, so we need to install it using the instructions &lt;a href=&#34;http://wiki.apache.org/couchdb/Installing_on_OSX&#34; title=&#34;CouchDB install OS X&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;brew install couchdb&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The instructions I list above also contains steps to install a couchDB user and set it up as a daemon. They didn&#39;t work for me, and after 30mins of troubleshooting, i gave up and went with the simpler option of running it under my own user - in production this will be running on a Linux server rather than my Macbook, so it seemed fair enough -&lt;/p&gt;&lt;p&gt;&lt;strong&gt;cp /usr/local/Cellar/couchdb/1.1.0/Library/LaunchDaemons/org.apache.couchdb.plist ~/Library/LaunchAgents/&lt;/p&gt;&lt;p&gt;launchctl load -w ~/Library/LaunchAgents/org.apache.couchdb.plist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Check its running okay by going to&lt;br /&gt;&lt;a href=&#34;http://127.0.0.1:5984/&#34; title=&#34;Localhost&#34; target=&#34;_blank&#34;&gt;http://127.0.0.1:5984/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;which should provide something akin to :&lt;br /&gt;&lt;strong&gt;{&amp;#8220;couchdb&amp;#8221;:&amp;#8221;Welcome&amp;#8221;,&amp;#8221;version&amp;#8221;:&amp;#8221;1.1.0&amp;#8243;}&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;- INSTALL RABBITMQ -&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;brew install rabbitmq&lt;br /&gt;/usr/local/sbin/rabbitmq-server -detached&lt;/p&gt;&lt;p&gt;sudo rabbitmqctl add_vhost /chef&lt;br /&gt;sudo rabbitmqctl add_user chef testing&lt;br /&gt;sudo rabbitmqctl set_permissions -p /chef chef &amp;#8220;.*&amp;#8221; &amp;#8220;.*&amp;#8221; &amp;#8220;.*&amp;#8221;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ok, Gettin&#39; back to my mission, break out the whipped cream and the cherries, then I go through all the fly positions - oh, wrong mission! &lt;/p&gt;&lt;p&gt;Ok..&lt;/p&gt;&lt;p&gt;&lt;strong&gt;brew install gecode&lt;br /&gt;brew install solr&lt;/p&gt;&lt;p&gt;sudo gem install chef-server chef-server-api chef-server chef-solr&lt;br /&gt;sudo gem install chef-server-webui&lt;br /&gt;sudo chef-solr-installer&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Setup a conf file -&lt;br /&gt;&lt;strong&gt;sudo mkdir /etc/chef&lt;br /&gt;sudo vi /etc/chef/server.rb&lt;/strong&gt; - paste in the example from:&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://wiki.opscode.com/display/chef/Manual+Chef+Server+Configuration&#34; title=&#34;chef conf&#34; target=&#34;_blank&#34;&gt;http://wiki.opscode.com/display/chef/Manual+Chef+Server+Configuration&lt;/a&gt; - making the appropriate changes for your FQDN&lt;/p&gt;&lt;p&gt;At this point, the above instructions ask you to start the indexer however the instructions haven&#39;t been updated to reflect changes to Chef version 0.10.2 in which chef-solr-indexer has been replaced with chef-expander&lt;/p&gt;&lt;p&gt;So, instead of running:&lt;br /&gt;&lt;strong&gt;sudo chef-solr-indexer &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;you instead need to run:&lt;br /&gt;&lt;strong&gt;sudo chef-expander -n1 -d&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Next i tried&lt;br /&gt;&lt;strong&gt;sudo chef-solr&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;which ran into&lt;br /&gt;&lt;em&gt;&amp;#8220;`configure_chef&#39;: uninitialized constant Chef::Application::SocketError (NameError)&amp;#8221;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;i had to create an &lt;strong&gt;/etc/chef/solr.rb&lt;/strong&gt; file and simply add this to the file:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;require &amp;#8216;socket&#39;&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;startup now worked -&lt;br /&gt;if you want to daemonize it, use:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;sudo chef-solr -d&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Next start Chef Server with:&lt;br /&gt;&lt;strong&gt;sudo chef-server -N -e production -d&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;and finally:&lt;br /&gt;&lt;strong&gt;sudo chef-server-webui -p 4040 -e production&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Now you should be up and running - you need to configure the command client &amp;#8216;Knife&#39; follwing the instructions &lt;a href=&#34;http://wiki.opscode.com/display/chef/Manual+Chef+Server+Configuration&#34; title=&#34;Knife setup&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; - under the section &amp;#8216;&lt;strong&gt;Configure the Command Line Client&lt;/strong&gt;&amp;#8216;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;mkdir -p ~/.chef&lt;br /&gt;sudo cp /etc/chef/validation.pem /etc/chef/webui.pem ~/.chef&lt;br /&gt;sudo chown -R $USER ~/.chef&lt;/p&gt;&lt;p&gt;knife configure -i&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;(follow the instructions at the link - you only need to change the location of the two pem files you copied above)&lt;/p&gt;&lt;p&gt;Ok, so hopefully you&#39;re at the same place as me with this all working at least as far as being able to log into CouchDB, and verifying that Chef/Knife are both working.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;- VAGRANT SETUP -&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Now, onward with the original task of Vagrant setup&amp;#8230;&lt;br /&gt;Have a read over the &lt;a href=&#34;http://vagrantup.com/docs/getting-started/index.html &#34; title=&#34;Vagrant Getting Started&#34; target=&#34;_blank&#34;&gt;getting started guide:&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Install VirtualBox - download from &lt;a href=&#34;http://www.virtualbox.org/wiki/Downloads&#34; title=&#34;VirtualBox&#34; target=&#34;_blank&#34;&gt;http://www.virtualbox.org/wiki/Downloads&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Run the installer, which should all work quite easily. Next..&lt;/p&gt;&lt;p&gt;&lt;strong&gt;gem install vagrant&lt;/p&gt;&lt;p&gt;mkdir vagrant_guide&lt;br /&gt;cd vagrant_guide/&lt;br /&gt;vagrant init&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;this creates the base Vagrantfile, which the documentation compares to a Makefile, basically a reference file for the project to work with.&lt;/p&gt;&lt;p&gt;Setup our first VM -&lt;br /&gt;&lt;strong&gt;vagrant box add lucid32 http://files.vagrantup.com/lucid32.box&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is downloaded and saved in ~/.vagrant.d/boxes/ &lt;/p&gt;&lt;p&gt;edit the Vagrantfile which was created and change the &amp;#8220;box&amp;#8221; entry to be &amp;#8220;lucid32&amp;#8243;, the name of the file we just saved. &lt;/p&gt;&lt;p&gt;Bring it online with:&lt;br /&gt;&lt;strong&gt;vagrant up&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;then ssh into with&lt;br /&gt;&lt;strong&gt;vargrant ssh&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ace, that worked quite easily. After a little digging around, I  logged out and tore the machine down again with&lt;br /&gt;&lt;strong&gt;vagrant destroy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;- TYING IT ALL TOGETHER -&lt;/strong&gt;&lt;br /&gt;Now we need to connect our Vagrant install with our Chef server&lt;/p&gt;&lt;p&gt;First, clone the Chef repository with:&lt;br /&gt;&lt;strong&gt;git clone git://github.com/opscode/chef-repo.git &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;add this dir to your &lt;strong&gt;~/.chef/knife.rb&lt;/strong&gt; file&lt;br /&gt;i.e&lt;br /&gt;&lt;strong&gt;cookbook_path           [&#34;/Users/thorstensideboard/chef-repo/cookbooks&#34;]&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Download the Vagrant cookbook they use in their examples -&lt;/p&gt;&lt;p&gt;&lt;strong&gt;wget http://files.vagrantup.com/getting_started/cookbooks.tar.gz&lt;br /&gt;tar xzvf cookbooks.tar.gz&lt;br /&gt;mv cookbooks/* chef-repo/cookbooks/&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Add it to our Chef server using Knife:&lt;br /&gt;&lt;strong&gt;knife cookbook upload -a&lt;/strong&gt;&lt;br /&gt;(knife uses the cookbook_path we setup above)&lt;/p&gt;&lt;p&gt;If you browse to your localhost at&lt;br /&gt;&lt;strong&gt;http://sbd-ioda.local:4040/cookbooks/&lt;/strong&gt;&lt;br /&gt;you should see the three new cookbooks which have been added.&lt;/p&gt;&lt;p&gt;Now to edit Vagrantfile and add your Chef details:&lt;br /&gt;&lt;code&gt;&lt;br /&gt;Vagrant::Config.run do |config|&lt;/p&gt;&lt;p&gt;    config.vm.box = &#34;lucid32&#34;&lt;/p&gt;&lt;p&gt;    config.vm.provision :chef_client do |chef|&lt;/p&gt;&lt;p&gt;    chef.chef_server_url = &#34;http://SBD-IODA.local:4000&#34;&lt;br /&gt;    chef.validation_key_path = &#34;/Users/thorsten/.chef/validation.pem&#34;&lt;br /&gt;    chef.add_recipe(&#34;vagrant_main&#34;)&lt;br /&gt;    chef.add_recipe(&#34;apt&#34;)&lt;br /&gt;    chef.add_recipe(&#34;apache2&#34;)&lt;/p&gt;&lt;p&gt;    end&lt;br /&gt;end&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;I tried to load this up with&lt;br /&gt;&lt;strong&gt;vagrant up&lt;/strong&gt;&lt;br /&gt;however received:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&amp;#8220;[default] [Fri, 05 Aug 2011 09:27:07 -0700] INFO: *** Chef 0.10.2 ***&lt;br /&gt;: stdout&lt;br /&gt;[default] [Fri, 05 Aug 2011 09:27:07 -0700] INFO: Client key /etc/chef/client.pem is not present - registering&lt;br /&gt;: stdout&lt;br /&gt;[default] [Fri, 05 Aug 2011 09:27:28 -0700] FATAL: Stacktrace dumped to /srv/chef/file_store/chef-stacktrace.out&lt;br /&gt;: stdout&lt;br /&gt;[default] [Fri, 05 Aug 2011 09:27:28 -0700] FATAL: SocketError: Error connecting to http://SBD-IODA.local:4000/clients - getaddrinfo: Name or service not known&amp;#8221;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;I figured this was a networking issue, and yeah, within the VM it has no idea of my Macbook&#39;s local hostname, which i fixed by editing its /etc/hosts file and manually adding it.&lt;/p&gt;&lt;p&gt;Upon issuing a&lt;br /&gt;&lt;strong&gt;vagrant reload&lt;/strong&gt;, boom! you can see the Vagrant host following the recipes and loading up a bunch of things including apache2&lt;/p&gt;&lt;p&gt;However at this point, you can still only access it&#39;s webserver from within the VM, so in order to access it from our own desktop browser, we can add the following line to the Vagrantfile:&lt;br /&gt;&lt;strong&gt;config.vm.forward_port(&amp;#8220;web&amp;#8221;, 80, 8080)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After another reload, you should now be able to connect to localhost:8080 and access your new VM&#39;s apache host.&lt;/p&gt;&lt;p&gt;In order to use this setup in any sort of dev environment will still need a good deal more work, but for the moment, this should be enough to get you up and running and able to explore both Vagrant and Chef. &lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Mother Of All Demos, 1968</title>
-      <link>http://theb0ardside.com/themotherofalldemos1968/</link>
+      <link>http://127.0.0.1:1313/themotherofalldemos1968</link>
       <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
+      <guid>http://127.0.0.1:1313/themotherofalldemos1968</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://sloan.stanford.edu/MouseSite/dce1968conferenceannouncement.jpg&#34; title=&#34;advert&#34; class=&#34;aligncenter&#34; width=&#34;566&#34; height=&#34;760&#34; /&gt;&lt;/p&gt;&lt;p&gt;Watch it &lt;a href=&#34;http://sloan.stanford.edu/MouseSite/1968Demo.html#complete&#34; title=&#34;Mother Of All Demos complete&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>real-time stats &gt;</title>
-      <link>http://theb0ardside.com/realtimestats/</link>
+      <link>http://127.0.0.1:1313/realtimestats</link>
       <pubDate>Wed, 20 Jul 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/realtimestats/</guid>
+      <guid>http://127.0.0.1:1313/realtimestats</guid>
       <description>&lt;p&gt;Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB&#39;s new real-time analytics system: &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;340&#34; src=&#34;http://cdn.livestream.com/embed/facebookeducation?layout=4&amp;#038;clip=pla_da30a53a-5399-43cc-a615-62874db1c567&amp;#038;color=0x000000&amp;#038;autoPlay=false&amp;#038;mute=false&amp;#038;iconColorOver=0xe7e7e7&amp;#038;iconColor=0xcccccc&amp;#038;allowchat=true&#34; style=&#34;border:0;outline:0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size:11px;padding-top:10px;text-align:center;width:560px&#34;&gt;Watch &lt;a href=http://www.livestream.com/?utm_source=lsplayer&amp;amp;utm_medium=embed&amp;amp;utm_campaign=footerlinks title=live streaming video&gt;live streaming video&lt;/a&gt; from &lt;a href=http://www.livestream.com/facebookeducation?utm_source=lsplayer&amp;amp;utm_medium=embed&amp;amp;utm_campaign=footerlinks title=Watch facebookeducation at livestream.com&gt;facebookeducation&lt;/a&gt; at livestream.com&lt;/div&gt;&lt;p&gt;In the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::&lt;/p&gt;&lt;div style=&#34;width:425px&#34; id=&#34;__ss_6814442&#34;&gt; &lt;strong style=&#34;display:block;margin:12px 0 4px&#34;&gt;&lt;a href=&#34;http://www.slideshare.net/kevinweil/rainbird-realtime-analytics-at-twitter-strata-2011&#34; title=&#34;Rainbird: Realtime Analytics at Twitter (Strata 2011)&#34; target=&#34;_blank&#34;&gt;Rainbird: Realtime Analytics at Twitter (Strata 2011)&lt;/a&gt;&lt;/strong&gt; &lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/6814442&#34; width=&#34;425&#34; height=&#34;355&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;padding:5px 0 12px&#34;&gt; View more &lt;a href=&#34;http://www.slideshare.net/&#34; target=&#34;_blank&#34;&gt;presentations&lt;/a&gt; from &lt;a href=&#34;http://www.slideshare.net/kevinweil&#34; target=&#34;_blank&#34;&gt;Kevin Weil&lt;/a&gt; &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;(hello &lt;a href=&#34;https://twitter.com/#!/skr&#34; title=&#34;skr&#34; target=&#34;_blank&#34;&gt;Johan&lt;/a&gt;!)&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>zettabytez</title>
-      <link>http://theb0ardside.com/zettabytez/</link>
-      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/zettabytez/</guid>
-      <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Node.js</title>
-      <link>http://theb0ardside.com/nodejs/</link>
+      <link>http://127.0.0.1:1313/nodejs</link>
       <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/nodejs/</guid>
+      <guid>http://127.0.0.1:1313/nodejs</guid>
       <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>zettabytez</title>
+      <link>http://127.0.0.1:1313/zettabytez</link>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://127.0.0.1:1313/zettabytez</guid>
+      <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Record Store Bot</title>
-      <link>http://theb0ardside.com/recordstorebot/</link>
+      <link>http://127.0.0.1:1313/recordstorebot</link>
       <pubDate>Tue, 24 May 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/recordstorebot/</guid>
+      <guid>http://127.0.0.1:1313/recordstorebot</guid>
       <description>&lt;p&gt;&lt;img class=&#34;aligncenter&#34; title=&#34;specz&#34; src=&#34;http://farm6.static.flickr.com/5244/5309938590_21a2f8d308_z.jpg&#34; alt=&#34;&#34; width=&#34;452&#34; height=&#34;640&#34; /&gt;&lt;/p&gt;&lt;p&gt;First draft of my Record Store Bot is live over on &lt;a title=&#34;Record Store Bot&#34; href=&#34;https://github.com/sideb0ard/RecordStoreBot&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; - basically tying a Chatbot::Eliza style interface to Last.fm web services for an interactive (hopefully amusing) music recommendation bot.&lt;/p&gt;&lt;p&gt;Works surprisingly well - although only has one method at the moment..&lt;/p&gt;
 </description>
     </item>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Java on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/java.xml</link>
+    <link>http://127.0.0.1:1313/tags/java/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Troubleshooting the JVM at Twitter</title>
-      <link>http://theb0ardside.com/troubleshootingjvmtwitter/</link>
+      <link>http://127.0.0.1:1313/troubleshootingjvmtwitter</link>
       <pubDate>Mon, 09 Dec 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/troubleshootingjvmtwitter/</guid>
+      <guid>http://127.0.0.1:1313/troubleshootingjvmtwitter</guid>
       <description>&lt;p&gt;This talk is incredibly informative - Twitter have their own fork of OpenJDK, in which they have enabled registers on the CPU, normally used by the Java Compiler - this enables Frame Pointers which &lt;a href=&#34;https://perf.wiki.kernel.org/index.php/Main_Page&#34;&gt;perf&lt;/a&gt; can read and translate, enabling a full Stack trace from JVM bytecode right down into the kernel.&lt;/p&gt;
 
 &lt;p&gt;Beyond simply CPU counters and stack trace, they also tie in other JVM flags which export DTrace counters, and use these to construct connections between memory allocation and the running process, so in the end you have a tool which can spans JVM -&amp;gt; kernel connections, alongside CPU -&amp;gt; memory.&lt;/p&gt;
@@ -28,20 +28,20 @@
     
     <item>
       <title>JVM and GC Performance Tuning</title>
-      <link>http://theb0ardside.com/jvmandgcperformancetuning/</link>
+      <link>http://127.0.0.1:1313/jvmandgcperformancetuning</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/jvmandgcperformancetuning/</guid>
+      <guid>http://127.0.0.1:1313/jvmandgcperformancetuning</guid>
       <description>&lt;p&gt;Been working a lot of JVM GC performance problems of late, so this video interview my friend &lt;a href=&#34;https://twitter.com/skr&#34; target=&#34;_blank&#34;&gt;Johan&lt;/a&gt; turned me on has some great info  -&lt;p&gt;&lt;a href=&amp;#039;http://www.infoq.com/interviews/szegedi-performance-tuning#.UOU0FUyxAz4.wordpress&amp;#039;&gt;Attila Szegedi on JVM and GC Performance Tuning at Twitter&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/interviews/szegedi-performance-tuning&#34; target=&#34;_blank&#34;&gt;http://www.infoq.com/interviews/szegedi-performance-tuning&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>JVM tuning for VMs</title>
-      <link>http://theb0ardside.com/jvmtuningforvms/</link>
+      <link>http://127.0.0.1:1313/jvmtuningforvms</link>
       <pubDate>Fri, 13 Apr 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/jvmtuningforvms/</guid>
+      <guid>http://127.0.0.1:1313/jvmtuningforvms</guid>
       <description>&lt;p&gt;This is an excellent talk about the interaction between the various layers of memory abstraction from the a machine&#39;s physical memory down through the Hypervisor&#39;s view, to the Guest OS&#39;s and down into the JVM:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/V3o4VNkTyTY?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// found via &lt;a href=&#34;http://marakana.com/s/tuning_jvm_for_a_vm_lessons_learned_directly_from_vmware_video,1138/index.html&#34; target=&#34;_blank&#34;&gt;Marakana&lt;/a&gt; //&lt;/p&gt;
 </description>
     </item>

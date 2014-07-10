@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Javascript on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/javascript.xml</link>
+    <link>http://127.0.0.1:1313/tags/javascript/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Oh yeah, Codetraxx</title>
-      <link>http://theb0ardside.com/codetraxx/</link>
+      <link>http://127.0.0.1:1313/codetraxx</link>
       <pubDate>Tue, 07 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/codetraxx/</guid>
+      <guid>http://127.0.0.1:1313/codetraxx</guid>
       <description>&lt;p&gt;Oh yeah, that &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project I mentioned, which me and &lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..&lt;/p&gt;
 
 &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124516248&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=true&#34;&gt;&lt;/iframe&gt;
@@ -22,10 +22,10 @@
     
     <item>
       <title>Stop Breaking The Web</title>
-      <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
+      <link>http://127.0.0.1:1313/clientside-mvc-and-routes</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
+      <guid>http://127.0.0.1:1313/clientside-mvc-and-routes</guid>
       <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>mo&#39; history lessons</title>
-      <link>http://theb0ardside.com/mohistorylessons/</link>
+      <link>http://127.0.0.1:1313/mohistorylessons</link>
       <pubDate>Sat, 09 Jul 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/mohistorylessons/</guid>
+      <guid>http://127.0.0.1:1313/mohistorylessons</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2712/4366716421_2ec13d6ec4.jpg&#34; alt=&#34;Douglas Crockford&#34; /&gt;&lt;/p&gt;&lt;p&gt;wow, been finding so many good online video talks. I&#39;ve been genning up on node.js, which has led me into studying more javascript, and this latest lecture, is a massive five part series of talks about javascript. It&#39;s the first one which really stands out, and which fits in with the theme of historical lectures i&#39;ve been posting, covering the history of computing from the Jacquard Loom through the evolution of processors and programming languages up to Javascript. Check them all online &lt;a href=&#34;http://www.yuiblog.com/crockford/&#34; title=&#34;Douglas Crockford&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;[[image by &lt;a href=&#34;http://www.flickr.com/photos/equanimity/4366716421/sizes/m/in/photostream/&#34; title=&#34;equanimity&#34;&gt;equanimity&lt;/a&gt;]]&lt;/p&gt;
 </description>
     </item>
