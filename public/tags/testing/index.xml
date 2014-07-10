@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Testing on The B0ardside </title>
-    <link>http://theb0ardside.com:1313/tags/testing/index.xml</link>
+    <link>http://theb0ardside.com/tags/testing/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Mo&#39; Chef Testing</title>
-      <link>http://theb0ardside.com:1313/mocheftesting</link>
+      <link>http://theb0ardside.com/mocheftesting</link>
       <pubDate>Mon, 27 May 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/mocheftesting</guid>
+      <guid>http://theb0ardside.com/mocheftesting</guid>
       <description>&lt;p&gt;Following on from my last post about Test Driven Chef, this latest Food Fight show is a great roundup of the current testing tools landscape -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/DhcXXOIerIc?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Twitter on The B0ardside </title>
-    <link>http://theb0ardside.com:1313/tags/twitter/index.xml</link>
+    <link>http://theb0ardside.com/tags/twitter/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Troubleshooting the JVM at Twitter</title>
-      <link>http://theb0ardside.com:1313/troubleshootingjvmtwitter</link>
+      <link>http://theb0ardside.com/troubleshootingjvmtwitter</link>
       <pubDate>Mon, 09 Dec 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/troubleshootingjvmtwitter</guid>
+      <guid>http://theb0ardside.com/troubleshootingjvmtwitter</guid>
       <description>&lt;p&gt;This talk is incredibly informative - Twitter have their own fork of OpenJDK, in which they have enabled registers on the CPU, normally used by the Java Compiler - this enables Frame Pointers which &lt;a href=&#34;https://perf.wiki.kernel.org/index.php/Main_Page&#34;&gt;perf&lt;/a&gt; can read and translate, enabling a full Stack trace from JVM bytecode right down into the kernel.&lt;/p&gt;
 
 &lt;p&gt;Beyond simply CPU counters and stack trace, they also tie in other JVM flags which export DTrace counters, and use these to construct connections between memory allocation and the running process, so in the end you have a tool which can spans JVM -&amp;gt; kernel connections, alongside CPU -&amp;gt; memory.&lt;/p&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>real-time stats &gt;</title>
-      <link>http://theb0ardside.com:1313/realtimestats</link>
+      <link>http://theb0ardside.com/realtimestats</link>
       <pubDate>Wed, 20 Jul 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/realtimestats</guid>
+      <guid>http://theb0ardside.com/realtimestats</guid>
       <description>&lt;p&gt;Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB&#39;s new real-time analytics system: &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;340&#34; src=&#34;http://cdn.livestream.com/embed/facebookeducation?layout=4&amp;#038;clip=pla_da30a53a-5399-43cc-a615-62874db1c567&amp;#038;color=0x000000&amp;#038;autoPlay=false&amp;#038;mute=false&amp;#038;iconColorOver=0xe7e7e7&amp;#038;iconColor=0xcccccc&amp;#038;allowchat=true&#34; style=&#34;border:0;outline:0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size:11px;padding-top:10px;text-align:center;width:560px&#34;&gt;Watch &lt;a href=http://www.livestream.com/?utm_source=lsplayer&amp;amp;utm_medium=embed&amp;amp;utm_campaign=footerlinks title=live streaming video&gt;live streaming video&lt;/a&gt; from &lt;a href=http://www.livestream.com/facebookeducation?utm_source=lsplayer&amp;amp;utm_medium=embed&amp;amp;utm_campaign=footerlinks title=Watch facebookeducation at livestream.com&gt;facebookeducation&lt;/a&gt; at livestream.com&lt;/div&gt;&lt;p&gt;In the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::&lt;/p&gt;&lt;div style=&#34;width:425px&#34; id=&#34;__ss_6814442&#34;&gt; &lt;strong style=&#34;display:block;margin:12px 0 4px&#34;&gt;&lt;a href=&#34;http://www.slideshare.net/kevinweil/rainbird-realtime-analytics-at-twitter-strata-2011&#34; title=&#34;Rainbird: Realtime Analytics at Twitter (Strata 2011)&#34; target=&#34;_blank&#34;&gt;Rainbird: Realtime Analytics at Twitter (Strata 2011)&lt;/a&gt;&lt;/strong&gt; &lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/6814442&#34; width=&#34;425&#34; height=&#34;355&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;padding:5px 0 12px&#34;&gt; View more &lt;a href=&#34;http://www.slideshare.net/&#34; target=&#34;_blank&#34;&gt;presentations&lt;/a&gt; from &lt;a href=&#34;http://www.slideshare.net/kevinweil&#34; target=&#34;_blank&#34;&gt;Kevin Weil&lt;/a&gt; &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;(hello &lt;a href=&#34;https://twitter.com/#!/skr&#34; title=&#34;skr&#34; target=&#34;_blank&#34;&gt;Johan&lt;/a&gt;!)&lt;/p&gt;
 </description>
     </item>

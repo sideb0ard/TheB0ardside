@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
 
-    <base href="http://theb0ardside.com:1313">
+    <base href="http://theb0ardside.com">
     <title> TheB0ardside.com </title>
-    <link rel="canonical" href="http://theb0ardside.com:1313/tags/tcp/ip">
+    <link rel="canonical" href="http://theb0ardside.com/tags/tcp/ip">
     <link href="/static/css/b0ardstrap.min.css" rel="stylesheet"/>
     <link href="/static/css/b0ardstyle.css" rel="stylesheet"/>
 
@@ -50,7 +50,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com:1313/perlparpparp'> perl parp parp</a> </h2>
+      <h2><a href='http://theb0ardside.com/perlparpparp'> perl parp parp</a> </h2>
       <div class="post-meta">Sun, Sep 2, 2012</div>
     </header>
     <p>I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating.  First stop was the exceptionally useful <a href="http://www.whatsmydns.net/ " title="What&#039;s My DNS?" target="_blank">Whats My DNS</a></p><p>At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host. I googled around for a timer utility which run a command for a given time, so i could quantify the difference. Perfect answer was <a href="http://stackoverflow.com/questions/601543/command-line-command-to-auto-kill-a-command-after-a-certain-amount-of-time" title="Stack Overflow" target="_blank">here</a>, a simple perl wrapper function.</p><p>Here's how to use it to run tcpdump command for sixty seconds, and count the packets seen:</p><p><small><code># doalarm () { perl -e &#039;alarm shift; exec @ARGV&#039; "$@"; }<br /># doalarm 60 tcpdump -u  -i eth0 port 53  -n  |wc -l<br />tcpdump: verbose output suppressed, use -v or -vv for full protocol decode<br />listening on eth0, link-type EN10MB (Ethernet), capture size 65535 bytes<br />19504</code></small></p>
@@ -60,7 +60,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com:1313/webkitandchromeinternals'> webkit and chrome internals</a> </h2>
+      <h2><a href='http://theb0ardside.com/webkitandchromeinternals'> webkit and chrome internals</a> </h2>
       <div class="post-meta">Wed, Jul 25, 2012</div>
     </header>
     <p>I went along to the SF Web Performance Meetup last night, for a talk by <a href="http://www.igvita.com/" target="_blank">Ilya Grigorik</a> which was one of the best and most informative Meetups I've been along to - lots of meaty details on how Webkit in general works, and specifically how Chrome uses it across the many platforms it runs on. </p><p>The video has just been posted here - </p><p><object width="480" height="296" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="flashvars" value="vid=24227835&amp;autoplay=false"/><param name="allowfullscreen" value="true"/><param name="allowscriptaccess" value="always"/><param name="src" value="http://www.ustream.tv/flash/viewer.swf"/><embed flashvars="vid=24227835&amp;autoplay=false" width="480" height="296" allowfullscreen="true" allowscriptaccess="always" src="http://www.ustream.tv/flash/viewer.swf" type="application/x-shockwave-flash"></embed></object><br /><br /><a href="http://www.ustream.tv/" style="padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" target="_blank">Video streaming by Ustream</a></p><p>Ilya starts speaking around the 12 minute mark..</p>
@@ -70,7 +70,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com:1313/tcpdumppatterns'> tcpdump patterns</a> </h2>
+      <h2><a href='http://theb0ardside.com/tcpdumppatterns'> tcpdump patterns</a> </h2>
       <div class="post-meta">Fri, Jun 29, 2012</div>
     </header>
     <p><img src="http://farm8.staticflickr.com/7185/6844034348_50dd1c5f32_b.jpg" alt="McCarthy" /></p><p>I use tcpdump a lot, but mostly at a reasonably high level, only really restricting the capture to host and port info, then pulling the dump back into Wireshark for nicer visualisation and easier filtering.</p><p>A couple of months back I read <a href="http://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/159420229X" title="Moonwalking With Einstein" target="_blank">Moonwalking With Einsten</a>, which is a nice pop-science history of the importance of memory in previous societies, alongside the contemporary phenomena of <a href="http://www.worldmemorychampionships.com/" title="World Memory Competitions" target="_blank">competitive memory competitions</a>. The book is great, and explains how feats of memory are achieved via the technique of <a href="http://en.wikipedia.org/wiki/Method_of_loci" title="Memory Palaces" target="_blank">memory palaces</a>, a technique dating back to Roman times - spatial memory relationships. I've been using the technique a lot since I read this book, and truly, no magic to it, it really works. Basically, when you have a list of items to remember, you weave each item, in order, into a spatially focussed narrative.</p><p>So, last night, I get out my copy of TCP/IP Illustrated, Volume 1*, one of my most-returned-to tech books - I've always wanted to have a more encyclopedic knowledge of the lower level details of TCP/IP, and last night applied the Memory Palace Technique to the structure of a TCP packet.<br/>

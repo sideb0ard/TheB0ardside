@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Http on The B0ardside </title>
-    <link>http://theb0ardside.com:1313/tags/http/index.xml</link>
+    <link>http://theb0ardside.com/tags/http/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>webkit and chrome internals</title>
-      <link>http://theb0ardside.com:1313/webkitandchromeinternals</link>
+      <link>http://theb0ardside.com/webkitandchromeinternals</link>
       <pubDate>Wed, 25 Jul 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/webkitandchromeinternals</guid>
+      <guid>http://theb0ardside.com/webkitandchromeinternals</guid>
       <description>&lt;p&gt;I went along to the SF Web Performance Meetup last night, for a talk by &lt;a href=&#34;http://www.igvita.com/&#34; target=&#34;_blank&#34;&gt;Ilya Grigorik&lt;/a&gt; which was one of the best and most informative Meetups I&#39;ve been along to - lots of meaty details on how Webkit in general works, and specifically how Chrome uses it across the many platforms it runs on. &lt;/p&gt;&lt;p&gt;The video has just been posted here - &lt;/p&gt;&lt;p&gt;&lt;object width=&#34;480&#34; height=&#34;296&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34;&gt;&lt;param name=&#34;flashvars&#34; value=&#34;vid=24227835&amp;amp;autoplay=false&#34;/&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34;/&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34;/&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.ustream.tv/flash/viewer.swf&#34;/&gt;&lt;embed flashvars=&#34;vid=24227835&amp;amp;autoplay=false&#34; width=&#34;480&#34; height=&#34;296&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; src=&#34;http://www.ustream.tv/flash/viewer.swf&#34; type=&#34;application/x-shockwave-flash&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&#34;http://www.ustream.tv/&#34; style=&#34;padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;&#34; target=&#34;_blank&#34;&gt;Video streaming by Ustream&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Ilya starts speaking around the 12 minute mark..&lt;/p&gt;
 </description>
     </item>

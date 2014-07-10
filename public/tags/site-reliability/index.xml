@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Site-Reliability on The B0ardside </title>
-    <link>http://theb0ardside.com:1313/tags/site-reliability/index.xml</link>
+    <link>http://theb0ardside.com/tags/site-reliability/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>And It All Went Horribly Wrong</title>
-      <link>http://theb0ardside.com:1313/debuggingproduction</link>
+      <link>http://theb0ardside.com/debuggingproduction</link>
       <pubDate>Fri, 04 Apr 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/debuggingproduction</guid>
+      <guid>http://theb0ardside.com/debuggingproduction</guid>
       <description>&lt;div&gt;
 &lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;&lt;img width=&#34;600&#34; src=&#34;/static/img/joyentprod.png&#34;&gt;&lt;/a&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;Bryan Cantrill being funny as hell.&lt;/a&gt;&lt;/p&gt;

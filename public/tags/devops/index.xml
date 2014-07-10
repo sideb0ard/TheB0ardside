@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Devops on The B0ardside </title>
-    <link>http://theb0ardside.com:1313/tags/devops/index.xml</link>
+    <link>http://theb0ardside.com/tags/devops/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,110 +10,110 @@
     
     <item>
       <title>Berkshelf - the missing piece</title>
-      <link>http://theb0ardside.com:1313/berkshelfthemissingpiece</link>
+      <link>http://theb0ardside.com/berkshelfthemissingpiece</link>
       <pubDate>Wed, 29 May 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/berkshelfthemissingpiece</guid>
+      <guid>http://theb0ardside.com/berkshelfthemissingpiece</guid>
       <description>&lt;p&gt;If you&#39;ve been following my past few posts, you&#39;ve seen i was investigating how best to integrate the plethora of Chef testing tools that&#39;ve been coming out &amp;#8212; foodcritic, chefspec, test-kitchen, mini-test &amp;#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&amp;#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo? Inside a cookbook directory? How many Vagrant files am I going to create here?&lt;/p&gt;&lt;p&gt;If, like myself, you weren&#39;t along at this year&#39;s ChefConf 2013, you may also have missed on a major conceptual shift that has happened. Instead of the all-inclusive Chef-repo design pattern, as implied by the OpsCode Chef Repo - https://github.com/opscode/chef-repo - which, when used with all the community cookbooks out there, creates a mess of forked, modified and sub-moduled cookbooks and recipes. &lt;/p&gt;&lt;p&gt;The conceptual shift away and now recommended way, is to treat each cookbook as a separate piece of software and to give it it&#39;s own git repo, keeping them separate from from your Chef-repo. This combined, with a distinction between Library and Application cookbooks, and then bundled together via Berkshelf, enables a much cleaner and modular way of working. When you accept this move, it&#39;s much easier to then fit all the testing pieces together as they all live within each separate cookbook/repo.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/RiotGames/berkshelf/issues/535&#34; title=&#34;Berk Comment&#34; target=&#34;_blank&#34;&gt;This Comment Thread&lt;/a&gt; was what really drew it together for me, and then to fully clarify this way of working, watch Jamie Winsor&#39;s ChefConf talk which is the original starting point:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/hYt0E84kYUI?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mo&#39; Chef Testing</title>
-      <link>http://theb0ardside.com:1313/mocheftesting</link>
+      <link>http://theb0ardside.com/mocheftesting</link>
       <pubDate>Mon, 27 May 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/mocheftesting</guid>
+      <guid>http://theb0ardside.com/mocheftesting</guid>
       <description>&lt;p&gt;Following on from my last post about Test Driven Chef, this latest Food Fight show is a great roundup of the current testing tools landscape -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/DhcXXOIerIc?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Test-Driven Chef</title>
-      <link>http://theb0ardside.com:1313/testdrivenchef</link>
+      <link>http://theb0ardside.com/testdrivenchef</link>
       <pubDate>Wed, 15 May 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/testdrivenchef</guid>
+      <guid>http://theb0ardside.com/testdrivenchef</guid>
       <description>&lt;p&gt;I&#39;m looking to start using Test-Kitchen and Berkshelf, and basically trying to get my head round setting up a proper test driven Chef setup.&lt;/p&gt;&lt;p&gt;I found this video from last year to be quite a good introduction to some of the setup -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/o2e0aZUAVGw?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>jedberg talk at Airbnb</title>
-      <link>http://theb0ardside.com:1313/jedbergtalkatairbnb</link>
+      <link>http://theb0ardside.com/jedbergtalkatairbnb</link>
       <pubDate>Wed, 08 May 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/jedbergtalkatairbnb</guid>
+      <guid>http://theb0ardside.com/jedbergtalkatairbnb</guid>
       <description>&lt;p&gt;I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/cCAO9moDucI?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Etsy Scaling vid from 2011</title>
-      <link>http://theb0ardside.com:1313/etsyscalingvidfrom2011</link>
+      <link>http://theb0ardside.com/etsyscalingvidfrom2011</link>
       <pubDate>Thu, 17 Jan 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/etsyscalingvidfrom2011</guid>
+      <guid>http://theb0ardside.com/etsyscalingvidfrom2011</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/eenrfm50mXw?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;All well accepted practices by now, but still a good watch.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Food Fight Show on Chef Cookbook Best Practises</title>
-      <link>http://theb0ardside.com:1313/foodfightshowonchefcookbookbestpractises</link>
+      <link>http://theb0ardside.com/foodfightshowonchefcookbookbestpractises</link>
       <pubDate>Mon, 26 Nov 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/foodfightshowonchefcookbookbestpractises</guid>
+      <guid>http://theb0ardside.com/foodfightshowonchefcookbookbestpractises</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/slF72K03ixM?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;this google+ hangout, combined with this &lt;a href=&#34;http://devopsanywhere.blogspot.it/2012/11/how-to-write-reusable-chef-cookbooks.html&#34; title=&#34;Reusable Chef Cookbooks&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt; and all it&#39;s links, provides plenty of good discussion and ideas for Chef.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>(short) history of DevOps</title>
-      <link>http://theb0ardside.com:1313/shorthistoryofdevops</link>
+      <link>http://theb0ardside.com/shorthistoryofdevops</link>
       <pubDate>Sat, 22 Sep 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/shorthistoryofdevops</guid>
+      <guid>http://theb0ardside.com/shorthistoryofdevops</guid>
       <description>&lt;p&gt;nice lil vid - i didn&#39;t know some of these details of how DevOps emerged -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/o7-IuYS0iSE?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;http://itrevolution.com/the-history-of-devops/&#34; title=&#34;History of DevOps&#34; target=&#34;_blank&#34;&gt;http://itrevolution.com/the-history-of-devops/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Chef Lessons from Etsy</title>
-      <link>http://theb0ardside.com:1313/cheflessonsfrometsy</link>
+      <link>http://theb0ardside.com/cheflessonsfrometsy</link>
       <pubDate>Sun, 05 Aug 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/cheflessonsfrometsy</guid>
+      <guid>http://theb0ardside.com/cheflessonsfrometsy</guid>
       <description>&lt;p&gt;really good video from this year&#39;s ChefConf::&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/nSnJCJiZDDU?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>scaling at dropbox</title>
-      <link>http://theb0ardside.com:1313/scalingatdropbox</link>
+      <link>http://theb0ardside.com/scalingatdropbox</link>
       <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/scalingatdropbox</guid>
+      <guid>http://theb0ardside.com/scalingatdropbox</guid>
       <description>&lt;p&gt;I highly recommend this &lt;a href=&#34;http://devopsweekly.com/&#34; title=&#34;DevOps Weekly&#34; target=&#34;_blank&#34;&gt;DevOps Weekly mail out&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://image-host.appspot.com/i/img?id=agppbWFnZS1ob3N0cg0LEgVJbWFnZRiJpAEM&#34; title=&#34;DevOps Weekly&#34; class=&#34;aligncenter&#34; width=&#34;798&#34; height=&#34;362&#34; /&gt;&lt;/p&gt;&lt;p&gt;The latest one has a bunch of good links, and one i found especially was this &amp;#8220;&lt;a href=&#34;http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1&#34; title=&#34;Scaling at Dropbox&#34; target=&#34;_blank&#34;&gt;Scaling lessons learned at Dropbox, part 1&lt;/a&gt;&amp;#8220;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>some fav Velocity talks</title>
-      <link>http://theb0ardside.com:1313/somefavvelocitytalks</link>
+      <link>http://theb0ardside.com/somefavvelocitytalks</link>
       <pubDate>Mon, 02 Jul 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/somefavvelocitytalks</guid>
+      <guid>http://theb0ardside.com/somefavvelocitytalks</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://velocityconf.com/velocity2012&#34; title=&#34;Velocity&#34; target=&#34;_blank&#34;&gt;Velocity&lt;/a&gt; was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!&lt;/p&gt;&lt;p&gt;Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/2S0k12uZR14?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/bM0yL0eQ9EM?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Allspaw on Anticipation</title>
-      <link>http://theb0ardside.com:1313/allspawonanticipation</link>
+      <link>http://theb0ardside.com/allspawonanticipation</link>
       <pubDate>Mon, 18 Jun 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/allspawonanticipation</guid>
+      <guid>http://theb0ardside.com/allspawonanticipation</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/gy2lTFD4560?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://www.kitchensoap.com/2012/06/18/resilience-engineering-part-ii-lenses/&#34; title=&#34;Resilience Engineering Part II: Lenses&#34; target=&#34;_blank&#34;&gt;via John&#39;s blog at Kitchen Soap&lt;/a&gt; //&lt;/p&gt;
 </description>
     </item>

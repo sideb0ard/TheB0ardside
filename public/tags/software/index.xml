@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Software on The B0ardside </title>
-    <link>http://theb0ardside.com:1313/tags/software/index.xml</link>
+    <link>http://theb0ardside.com/tags/software/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Hugo A Go-Go</title>
-      <link>http://theb0ardside.com:1313/hugoagogo</link>
+      <link>http://theb0ardside.com/hugoagogo</link>
       <pubDate>Sat, 30 Nov 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/hugoagogo</guid>
+      <guid>http://theb0ardside.com/hugoagogo</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://www.internationalhero.co.uk/h/hugoagogo.jpg&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Seems like there is quite a move towards more simple blogging platforms, with a number of static site generators all popping up, building upon the simplicity and growing popularity of &lt;a href=&#34;http://en.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt;, a stripped back text-to-HTML syntax, and touting the lack of a needed database. These site generators work usually via uploading or editing the markdown files and have a pre-processor convert the markdown to static html files, alongside some form of templating system. The benefits of such simplicity are the ease of backups, being file based, there is no need for database dumps - standard tools are perfect; and secondly, speed - there is very little overheard for the webserver to serve and cache, without the need to hit the DB on each call.&lt;/p&gt;

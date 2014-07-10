@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Internet on The B0ardside </title>
-    <link>http://theb0ardside.com:1313/tags/internet/index.xml</link>
+    <link>http://theb0ardside.com/tags/internet/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Aaron Swartz story</title>
-      <link>http://theb0ardside.com:1313/aaronswartz</link>
+      <link>http://theb0ardside.com/aaronswartz</link>
       <pubDate>Sun, 29 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/aaronswartz</guid>
+      <guid>http://theb0ardside.com/aaronswartz</guid>
       <description>&lt;p&gt;Wow, this Aaron Swartz documentary is great, well worth a watch -&amp;gt;&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Urban Giants</title>
-      <link>http://theb0ardside.com:1313/urban-giants</link>
+      <link>http://theb0ardside.com/urban-giants</link>
       <pubDate>Thu, 26 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/urban-giants</guid>
+      <guid>http://theb0ardside.com/urban-giants</guid>
       <description>&lt;p&gt;Beautifully shot, mind blowing short documentary about New York&amp;rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;amp;T Long Lines Building ..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -40,140 +40,140 @@
     
     <item>
       <title>Computers For Cynics</title>
-      <link>http://theb0ardside.com:1313/computersforcynics</link>
+      <link>http://theb0ardside.com/computersforcynics</link>
       <pubDate>Sun, 11 Aug 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/computersforcynics</guid>
+      <guid>http://theb0ardside.com/computersforcynics</guid>
       <description>&lt;p&gt;hah, nice counterpart to all the recent good, but hyperbole books i&#39;ve been reading (&lt;a href=&#34;http://www.amazon.com/What-Dormouse-Said-Counterculture-Personal/dp/0143036769/ref=sr_1_1?s=books&amp;#038;ie=UTF8&amp;#038;qid=1376258195&amp;#038;sr=1-1&amp;#038;keywords=what+the+dormouse+said&#34; title=&#34;What The Dormouse Said&#34; target=&#34;_blank&#34;&gt;What The Dormouse Said&lt;/a&gt;, and &lt;a href=&#34;http://www.amazon.com/Dealers-Lightning-Xerox-PARC-Computer/dp/0887309895/ref=pd_sim_b_4&#34; title=&#34;Dealers Of Lightning&#34; target=&#34;_blank&#34;&gt;Dealers Of Lightning&lt;/a&gt;) -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/KdnGPQaICjk?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>jedberg talk at Airbnb</title>
-      <link>http://theb0ardside.com:1313/jedbergtalkatairbnb</link>
+      <link>http://theb0ardside.com/jedbergtalkatairbnb</link>
       <pubDate>Wed, 08 May 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/jedbergtalkatairbnb</guid>
+      <guid>http://theb0ardside.com/jedbergtalkatairbnb</guid>
       <description>&lt;p&gt;I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/cCAO9moDucI?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>perl parp parp</title>
-      <link>http://theb0ardside.com:1313/perlparpparp</link>
+      <link>http://theb0ardside.com/perlparpparp</link>
       <pubDate>Sun, 02 Sep 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/perlparpparp</guid>
+      <guid>http://theb0ardside.com/perlparpparp</guid>
       <description>&lt;p&gt;I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating.  First stop was the exceptionally useful &lt;a href=&#34;http://www.whatsmydns.net/ &#34; title=&#34;What&amp;#039;s My DNS?&#34; target=&#34;_blank&#34;&gt;Whats My DNS&lt;/a&gt;&lt;/p&gt;&lt;p&gt;At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host. I googled around for a timer utility which run a command for a given time, so i could quantify the difference. Perfect answer was &lt;a href=&#34;http://stackoverflow.com/questions/601543/command-line-command-to-auto-kill-a-command-after-a-certain-amount-of-time&#34; title=&#34;Stack Overflow&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, a simple perl wrapper function.&lt;/p&gt;&lt;p&gt;Here&#39;s how to use it to run tcpdump command for sixty seconds, and count the packets seen:&lt;/p&gt;&lt;p&gt;&lt;small&gt;&lt;code&gt;# doalarm () { perl -e &amp;#039;alarm shift; exec @ARGV&amp;#039; &#34;$@&#34;; }&lt;br /&gt;# doalarm 60 tcpdump -u  -i eth0 port 53  -n  |wc -l&lt;br /&gt;tcpdump: verbose output suppressed, use -v or -vv for full protocol decode&lt;br /&gt;listening on eth0, link-type EN10MB (Ethernet), capture size 65535 bytes&lt;br /&gt;19504&lt;/code&gt;&lt;/small&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>some fav Velocity talks</title>
-      <link>http://theb0ardside.com:1313/somefavvelocitytalks</link>
+      <link>http://theb0ardside.com/somefavvelocitytalks</link>
       <pubDate>Mon, 02 Jul 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/somefavvelocitytalks</guid>
+      <guid>http://theb0ardside.com/somefavvelocitytalks</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://velocityconf.com/velocity2012&#34; title=&#34;Velocity&#34; target=&#34;_blank&#34;&gt;Velocity&lt;/a&gt; was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!&lt;/p&gt;&lt;p&gt;Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/2S0k12uZR14?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/bM0yL0eQ9EM?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Around the Earth in 200ms</title>
-      <link>http://theb0ardside.com:1313/aroundtheearthin200ms</link>
+      <link>http://theb0ardside.com/aroundtheearthin200ms</link>
       <pubDate>Wed, 20 Jun 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/aroundtheearthin200ms</guid>
+      <guid>http://theb0ardside.com/aroundtheearthin200ms</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://farm9.staticflickr.com/8144/7130704573_e6954f496e_z.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&lt;p&gt;A month or two back, i saw an interesting figure on Bram Cohen&#39;s blog:&lt;/p&gt;&lt;p&gt;&amp;#8220;The speed of light in a fiber optic cable around the earth&amp;rsquo;s circumference is about 200 milliseconds.&amp;#8221;&lt;br /&gt;(from &lt;a href=&#34;http://bramcohen.com/2012/05/04/engineering-ip-telephony&#34; title=&#34;Bram Cohen&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of those useful metrics to know. I&#39;ve referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -&lt;/p&gt;&lt;p&gt;So - speed of light in a vacuum is 186,000 miles per second. However according to &lt;a href=&#34;http://en.wikipedia.org/wiki/Optical_fiber#Index_of_refraction&#34; title=&#34;optical fiber on wikipedia&#34; target=&#34;_blank&#34;&gt;this wikipedia article&lt;/a&gt;, the index of refraction for the cladding of an optical fiber is 1.52. &amp;#8220;From this information, a good rule of thumb is that signal using optical fiber for communication will travel at around 200 million meters per second&amp;#8221;. &lt;/p&gt;&lt;p&gt;Ok, so 200, 000,000 meters / second = 200, 000 meters / ms&lt;/p&gt;&lt;p&gt;&amp;#8220;The circumference of the earth at the equator is 24,901.55 miles (40,075.16 kilometers).&amp;#8221; // from &lt;a href=&#34;http://geography.about.com/library/faq/blqzcircumference.htm&#34; title=&#34;earth circumerfence&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;40,075.15km = 40,075,000 meters&lt;/p&gt;&lt;p&gt;&lt;strong&gt;With all figures then, Earth Circumference is 40,075,000 meters, and the speed of light in fiber is 200,000 meters per ms:&lt;br /&gt;40,075,000 /2 00,000 = 200.375 ms&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;// or to be even smarter, I could have just followed the Wolfram Alpha link from Bram&#39;s blog &lt;a href=&#34;http://www.wolframalpha.com/input/?i=circumference+of+the+earth+%2F+speed+of+light+in+glass&#34; title=&#34;Wolfram Alpha&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; - gotta love the &lt;a href=&#34;http://en.wikipedia.org/wiki/Stephen_Wolfram&#34; title=&#34;Stephen Wolfram&#34; target=&#34;_blank&#34;&gt;Wolfram&lt;/a&gt; // &lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>21st Century Internet</title>
-      <link>http://theb0ardside.com:1313/21stcenturyinternet</link>
+      <link>http://theb0ardside.com/21stcenturyinternet</link>
       <pubDate>Wed, 06 Jun 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/21stcenturyinternet</guid>
+      <guid>http://theb0ardside.com/21stcenturyinternet</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/-Uwjt32NvVA?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;http://googleblog.blogspot.com/2012/06/world-ipv6-launch-keeping-internet.html&#34; title=&#34;google blog&#34; target=&#34;_blank&#34;&gt;Google Blog&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Technology As Society&#39;s Engine</title>
-      <link>http://theb0ardside.com:1313/technologyassocietysengine</link>
+      <link>http://theb0ardside.com/technologyassocietysengine</link>
       <pubDate>Thu, 03 May 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/technologyassocietysengine</guid>
+      <guid>http://theb0ardside.com/technologyassocietysengine</guid>
       <description>&lt;p&gt;Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -&lt;/p&gt;&lt;!-- iframe plugin v:2.3 - wordpress.org/extend/plugins/iframe/ --&gt;&lt;iframe width=&#34;560&#34; height=&#34;340&#34; src=&#34;http://cdn.livestream.com/embed/techonomy?layout=4&amp;amp;clip=pla_e0493fff-f62c-4a9c-bf6b-2844f9ad8d58&amp;amp;height=340&amp;amp;width=560&amp;amp;autoplay=false&#34; style=&#34;border:0;outline:0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;iframe-class&#34;&gt;&lt;/iframe&gt;&lt;p&gt;A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. &lt;/p&gt;&lt;p&gt;I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.&lt;/p&gt;&lt;p&gt;Technology on the other hand: absolutely it&#39;s what will drive the economy, but even that view completely misses the big picture, which is the Medium itself, The Universal Network. I believe we have created a whole new dimension, an evolutionary mathematical abstracted form of biology. This is the beginning of History, Year Zero.&lt;/p&gt;&lt;p&gt;One hundred years from now, or two thousand - people will be able to look back in time and know with a rich level of detail what our life is like now. Thousands, upon millions of instances of video and audio, images, writings, geo locations, online trails, all readily accessible, interlinked and searchable. This level of detail will only increase, as we start recording every aspect of life. &lt;/p&gt;&lt;p&gt;With such archives of data, I can easily imagine the kids of 2123 being able to walk through and interact with a virtual London in the swinging 2020&amp;#8242;s, or San Francisco&#39;s roaring 2030&amp;#8242;s. Whereas, for future generations, any time predating the late 1990&amp;#8242;s will essentially be a static foreign place in comparison. We have created time-travel - we just don&#39;t know it yet.&lt;/p&gt;&lt;p&gt;This Network has already achieved a basic level of independence from humanity - where now it is possible for a Something to exist outwith a single containing computer system using techniques like redundancy and geographic load-balancing. I don&#39;t mean to imply there is any intelligence there, but there is a level of resilience we&#39;ve never seen in nature before. To give a more concrete example, I&#39;m referring to something like you as a user interacting with the amazon website to purchase something, meanwhile the power goes out in the datacentre hosting the server your browser was communicating with, and, if engineered correctly, your interaction could continue, picked up by a secondary datacentre with no loss of data, nor interruption of service. This isn&#39;t exactly life as we know it, but if you squint your eyes just a little, its not too hard to see an analogy to biological cell life.&lt;/p&gt;&lt;p&gt;Over the next few years, Society&#39;s experience of reality is going to go through the biggest change in history, as our physical world merges completely with this new virtual world of realtime interconnected information and communication, completely warping our sense of time and geography.&lt;/p&gt;&lt;p&gt;The iPhone was stage one, Google Glasses or &lt;a href=&#34;http://www.theb0ardside.com/?p=32&#34; target=&#34;_blank&#34;&gt;something very similar&lt;/a&gt; will be stage two, and its right around the corner.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>the biology of code</title>
-      <link>http://theb0ardside.com:1313/thebiologyofcode</link>
+      <link>http://theb0ardside.com/thebiologyofcode</link>
       <pubDate>Tue, 27 Mar 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/thebiologyofcode</guid>
+      <guid>http://theb0ardside.com/thebiologyofcode</guid>
       <description>&lt;p&gt;Fabulous piece and video chat with George Dyson over at the always reliable Edge -&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/conversation/a-universe-of-self-replicating-code#.T3E3c83Cv8w.wordpress&#34;&gt;A Universe Of Self-replicating Code | Conversation | Edge&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Claude Shannon and the Clams</title>
-      <link>http://theb0ardside.com:1313/claudeshannonandtheclams</link>
+      <link>http://theb0ardside.com/claudeshannonandtheclams</link>
       <pubDate>Fri, 16 Mar 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/claudeshannonandtheclams</guid>
+      <guid>http://theb0ardside.com/claudeshannonandtheclams</guid>
       <description>&lt;p&gt;I finished reading James Gleick&#39;s &lt;a href=&#34;http://www.goodreads.com/book/show/12279559-the-information&#34; target=&#34;_blank&#34;&gt;The Information&lt;/a&gt; tonite - so good!&lt;/p&gt;&lt;p&gt;Really, the central character is &lt;a href=&#34;http://en.wikipedia.org/wiki/Claude_Shannon&#34; target=&#34;_blank&#34;&gt;Claude Shannon&lt;/a&gt;, who I&#39;m ashamed to admit I didn&#39;t previously know much about. Had a quick search when i finished it and found this decent little 30 min documentary which gives a good overview -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/z2Whj_nL-x8?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Information</title>
-      <link>http://theb0ardside.com:1313/theinformation</link>
+      <link>http://theb0ardside.com/theinformation</link>
       <pubDate>Wed, 14 Mar 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/theinformation</guid>
+      <guid>http://theb0ardside.com/theinformation</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/iyOzSzcDwg8?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;I started reading James Gleick&#39;s &amp;#8220;The Information&amp;#8221; last week and haven&#39;t been able to put it down yet - so good!&lt;br /&gt;I just found this video of a talk he presented at Google last year on the book, looks ace, i&#39;ll save it for watching this evening.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</title>
-      <link>http://theb0ardside.com:1313/liketreaclesolvingperlnetsftpslowtransferspeeds</link>
+      <link>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds</link>
       <pubDate>Sun, 19 Feb 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/liketreaclesolvingperlnetsftpslowtransferspeeds</guid>
+      <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds</guid>
       <description>&lt;p&gt;I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. &lt;/p&gt;&lt;p&gt;I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows. We were pretty much stumped, and the other engineer recommend i look into &lt;a href=&#34;http://www.psc.edu/networking/projects/hpn-ssh/&#34;&gt;HPN-SSH&lt;/a&gt;, which does indeed sound very good, but first i started playing around with trying different ciphers and compression.&lt;/p&gt;&lt;p&gt;Our uploads are all run via a perl framework, which utilises Net::SFTP in order to do the transfers.&lt;a href=&#34;https://github.com/sideb0ard/speedTester&#34; target=&#34;_blank&#34;&gt; My test program was also written in perl&lt;/a&gt; and using the same library. In order to try different cyphers i started testing uploads with the interactive command line SFTP. Boom! 6Mb/s upload speed. Biiiig difference from the Net::SFTP client. I started playing with blowfish cipher and trying to enable compression with Net::SFTP - it wasn&#39;t really working, it can only do Zlib compression, which my SSHD server wouldn&#39;t play with until i specifically enabled compression in the sshd_config file.&lt;/p&gt;&lt;p&gt;After much more digging around, i came across reference to &lt;a href=&#34;http://search.cpan.org/~salva/Net-SFTP-Foreign-1.69/lib/Net/SFTP/Foreign.pm&#34;&gt;Net::SFTP::Foreign&lt;/a&gt;, which uses the installed ssh binary on your system for transport rather than relying on the pure perl Net::SSH.&lt;/p&gt;&lt;p&gt;Syntax is very similar, so it was a minor rewrite to switch modules, yet such a massive payback, from 0.30Mb/s up to 6Mb/s. &lt;/p&gt;&lt;p&gt;(It turns out the DSPs i mentioned earlier who could achieve 60Mb/s were actually FTP transfers, not SFTP)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>evolution of the cloud</title>
-      <link>http://theb0ardside.com:1313/evolutionofthecloud</link>
+      <link>http://theb0ardside.com/evolutionofthecloud</link>
       <pubDate>Thu, 02 Feb 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/evolutionofthecloud</guid>
+      <guid>http://theb0ardside.com/evolutionofthecloud</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://gigaom.com/cloud/why-2013-is-the-year-of-noops-for-programmers-infographic/?utm_source=feedburner&amp;#038;utm_medium=feed&amp;#038;utm_campaign=Feed%3A+OmMalik+%28GigaOM%3A+Tech%29&#34; target=&#34;_blank&#34;&gt;&lt;img width=&#34;600&#34;  src=&#34;http://gigaom2.files.wordpress.com/2012/01/appfog_infographic_013012.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>physical internet</title>
-      <link>http://theb0ardside.com:1313/physicalinternet</link>
+      <link>http://theb0ardside.com/physicalinternet</link>
       <pubDate>Mon, 03 Oct 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/physicalinternet</guid>
+      <guid>http://theb0ardside.com/physicalinternet</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://flowingdata.com/2011/10/03/submarine-cable-system-connecting-the-world/&#34; target=&#34;_blank&#34;&gt;&lt;img alt=&#34;&#34; src=&#34;http://flowingdata.com/wp-content/uploads/2011/10/Submarine-cable-map-625x405.png&#34; title=&#34;submarine cable map&#34; class=&#34;alignnone&#34; width=&#34;625&#34; height=&#34;405&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Ever since reading Neal Stephenson&#39;s &lt;a href=&#34;http://www.wired.com/wired/archive/4.12/ffglass_pr.html&#34; title=&#34;mother earth mother board&#34; target=&#34;_blank&#34;&gt;Mother Earth Mother Board&lt;/a&gt; article, I&#39;ve been quite fascinated with the undersea cables which physically connect the land masses of the world. This map, linked above is an amazing view into this part of the Internet&#39;s current infrastructure.&lt;/p&gt;&lt;p&gt;(via &lt;a href=&#34;http://flowingdata.com/2011/10/03/submarine-cable-system-connecting-the-world/&#34; title=&#34;Flowing Data&#34; target=&#34;_blank&#34;&gt;flowingdata.com&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Internets 1962 till now</title>
-      <link>http://theb0ardside.com:1313/internets1962tillnow</link>
+      <link>http://theb0ardside.com/internets1962tillnow</link>
       <pubDate>Wed, 10 Aug 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/internets1962tillnow</guid>
+      <guid>http://theb0ardside.com/internets1962tillnow</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://www.computerhistory.org/internet_history/full_size_images/1969_4-node_map.gif&#34; title=&#34;first 4 nodes&#34; class=&#34;aligncenter&#34; width=&#34;432&#34; height=&#34;393&#34; /&gt;&lt;/p&gt;&lt;p&gt;Excellent &lt;a href=&#34;http://www.computerhistory.org/internet_history/&#34; target=&#34;_blank&#34;&gt;timeline of the Internet&lt;/a&gt;&amp;#8216;s evolution from 1962 till the present day..&lt;/p&gt;
 </description>
     </item>

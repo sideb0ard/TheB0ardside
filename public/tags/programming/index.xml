@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Programming on The B0ardside </title>
-    <link>http://theb0ardside.com:1313/tags/programming/index.xml</link>
+    <link>http://theb0ardside.com/tags/programming/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Dijkstra on Elegance</title>
-      <link>http://theb0ardside.com:1313/dijkstra-on-elegance</link>
+      <link>http://theb0ardside.com/dijkstra-on-elegance</link>
       <pubDate>Mon, 26 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/dijkstra-on-elegance</guid>
+      <guid>http://theb0ardside.com/dijkstra-on-elegance</guid>
       <description>&lt;p&gt;Excellent wee 20 min documentary with Dijkstra speaking about elegance..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Y Combinator explained</title>
-      <link>http://theb0ardside.com:1313/ycombinator</link>
+      <link>http://theb0ardside.com/ycombinator</link>
       <pubDate>Sat, 22 Feb 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/ycombinator</guid>
+      <guid>http://theb0ardside.com/ycombinator</guid>
       <description>&lt;p&gt;Sadly, Jim Weirich, creator of the Ruby Rake tool died a few days back.&lt;/p&gt;
 
 &lt;p&gt;Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:&lt;/p&gt;
@@ -40,90 +40,90 @@
     
     <item>
       <title>substack beep boop</title>
-      <link>http://theb0ardside.com:1313/substackbeepboop</link>
+      <link>http://theb0ardside.com/substackbeepboop</link>
       <pubDate>Fri, 25 Oct 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/substackbeepboop</guid>
+      <guid>http://theb0ardside.com/substackbeepboop</guid>
       <description>&lt;p&gt;dang, this is awesome::&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/2oz_SwhBixs?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/substack/nodepdx-beep-boop-examples/tree/master/example/waves&#34; title=&#34;github&#34;&gt;github code here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>immutability</title>
-      <link>http://theb0ardside.com:1313/immutability</link>
+      <link>http://theb0ardside.com/immutability</link>
       <pubDate>Thu, 10 Jan 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/immutability</guid>
+      <guid>http://theb0ardside.com/immutability</guid>
       <description>&lt;p&gt;Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/52831373&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;https://twitter.com/igrigorik/status/288758137190772736&#34; target=&#34;_blank&#34;&gt;igrigorik&#39;s twitter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Information</title>
-      <link>http://theb0ardside.com:1313/theinformation</link>
+      <link>http://theb0ardside.com/theinformation</link>
       <pubDate>Wed, 14 Mar 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/theinformation</guid>
+      <guid>http://theb0ardside.com/theinformation</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/iyOzSzcDwg8?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;I started reading James Gleick&#39;s &amp;#8220;The Information&amp;#8221; last week and haven&#39;t been able to put it down yet - so good!&lt;br /&gt;I just found this video of a talk he presented at Google last year on the book, looks ace, i&#39;ll save it for watching this evening.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</title>
-      <link>http://theb0ardside.com:1313/liketreaclesolvingperlnetsftpslowtransferspeeds</link>
+      <link>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds</link>
       <pubDate>Sun, 19 Feb 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/liketreaclesolvingperlnetsftpslowtransferspeeds</guid>
+      <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds</guid>
       <description>&lt;p&gt;I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. &lt;/p&gt;&lt;p&gt;I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows. We were pretty much stumped, and the other engineer recommend i look into &lt;a href=&#34;http://www.psc.edu/networking/projects/hpn-ssh/&#34;&gt;HPN-SSH&lt;/a&gt;, which does indeed sound very good, but first i started playing around with trying different ciphers and compression.&lt;/p&gt;&lt;p&gt;Our uploads are all run via a perl framework, which utilises Net::SFTP in order to do the transfers.&lt;a href=&#34;https://github.com/sideb0ard/speedTester&#34; target=&#34;_blank&#34;&gt; My test program was also written in perl&lt;/a&gt; and using the same library. In order to try different cyphers i started testing uploads with the interactive command line SFTP. Boom! 6Mb/s upload speed. Biiiig difference from the Net::SFTP client. I started playing with blowfish cipher and trying to enable compression with Net::SFTP - it wasn&#39;t really working, it can only do Zlib compression, which my SSHD server wouldn&#39;t play with until i specifically enabled compression in the sshd_config file.&lt;/p&gt;&lt;p&gt;After much more digging around, i came across reference to &lt;a href=&#34;http://search.cpan.org/~salva/Net-SFTP-Foreign-1.69/lib/Net/SFTP/Foreign.pm&#34;&gt;Net::SFTP::Foreign&lt;/a&gt;, which uses the installed ssh binary on your system for transport rather than relying on the pure perl Net::SSH.&lt;/p&gt;&lt;p&gt;Syntax is very similar, so it was a minor rewrite to switch modules, yet such a massive payback, from 0.30Mb/s up to 6Mb/s. &lt;/p&gt;&lt;p&gt;(It turns out the DSPs i mentioned earlier who could achieve 60Mb/s were actually FTP transfers, not SFTP)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>a moose loose aboot this hoose</title>
-      <link>http://theb0ardside.com:1313/amooselooseabootthishoose</link>
+      <link>http://theb0ardside.com/amooselooseabootthishoose</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/amooselooseabootthishoose</guid>
+      <guid>http://theb0ardside.com/amooselooseabootthishoose</guid>
       <description>&lt;p&gt;Really enjoyed programming along with this &lt;a href=&#34;http://www.linuxjournal.com/content/moose&#34; title=&#34;moose&#34; target=&#34;_blank&#34;&gt;perl Moose introduction at Linux Journal&lt;/a&gt; - The piece and code are nice and concise.&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://www.linuxjournal.com/files/linuxjournal.com/ufiles/imagecache/node-page/nodeimage/story/moose.png&#34; alt=&#34;Moose&#34; /&gt; &lt;img src=&#34;http://www.linuxjournal.com/files/linuxjournal.com/ufiles/logo-lj.jpg&#34; alt=&#34;lj&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CPAN Diff script</title>
-      <link>http://theb0ardside.com:1313/cpandiffscript</link>
+      <link>http://theb0ardside.com/cpandiffscript</link>
       <pubDate>Fri, 16 Dec 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/cpandiffscript</guid>
+      <guid>http://theb0ardside.com/cpandiffscript</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://theslowbullet.files.wordpress.com/2011/01/clonecover.jpg&#34; alt=&#34;diff&#34; /&gt;&lt;/p&gt;&lt;p&gt;I put together a quick perl script for comparing installed CPAN modules between two hosts. Find it &lt;a href=&#34;https://github.com/sideb0ard/CPANDiff&#34; title=&#34;CPANDiff&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Quite easy to use:&lt;br /&gt;Usage: ./CompareHostCpanModules.pl login@host1 login@host2&lt;/p&gt;&lt;p&gt;The script ssh&#39;s into both hosts (so it&#39;s easier if you have your ssh-keys setup) and grabs a list of installed CPAN modules and versions, then outputs the differences - it returns two lists - one of modules installed but having different versions, and another list of modules missing from the second host. &lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Gen Xen</title>
-      <link>http://theb0ardside.com:1313/genxen</link>
+      <link>http://theb0ardside.com/genxen</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/genxen</guid>
+      <guid>http://theb0ardside.com/genxen</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;&#34; width=&#34;600&#34; src=&#34;http://www.just-marvel-x-men.com/image-files/astonishing-x-men-1-100k.jpg&#34; title=&#34;Xen&#34; class=&#34;alignnone&#34;  /&gt;&lt;/p&gt;&lt;p&gt;I&#39;ve been working pretty extensively with Xen and Puppet in my new job, really loving it! I&#39;ve been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I&#39;ve just finished a script which is over on &lt;a href=&#34;https://github.com/sideb0ard/GenXen&#34; title=&#34;GitHub&#34; target=&#34;_blank&#34;&gt;my github page&lt;/a&gt;, which basically automates what was previously a manual process.&lt;/p&gt;&lt;p&gt;Basically, it copies your existing disk.img and swap.img, generates a new xen.cfg file based on some interactive input (desired hostname, IP, memory and number of vCPUs) plus a random Xen mac address, then mounts the disk.img file and changes some appropriate system files - /etc/hostname, hosts, and network/interfaces.&lt;/p&gt;&lt;p&gt;All quite simple and straight forward, but quite nice to have automated.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sideb0ard/GenXen&#34; title=&#34;GenXen&#34; target=&#34;_blank&#34;&gt;GenXen&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s the README:&lt;/p&gt;&lt;p&gt;GenXen #&lt;br /&gt;#############################&lt;/p&gt;&lt;p&gt;A script for automating Xen VM deployment.&lt;/p&gt;&lt;p&gt;It requires that you have a base disk.img and swap.img already created.&lt;br /&gt;I created mine with:&lt;br /&gt;xen-create-image -pygrub -size=50Gb -swap=9Gb -vcpus=2 -memory 6Gb -dist=squeeze -dhcp -passwd -dir=/var/virt-machines -hostname=xen-squeeze-base&lt;/p&gt;&lt;p&gt;Fill in some of the variables at the top of GenXen.pl before running, then simply:&lt;br /&gt;./GenXen.pl&lt;/p&gt;&lt;p&gt;The interactive part will ask for hostname, memory size, vCPUs, IP address, then generate a unique Xen mac address, and write these all to a xen config file which will be saved in /etc/xen/&lt;/p&gt;&lt;p&gt;It&#39;ll copy your disk.img and swap.img to destination dir, mount the disk.img and create appropriate files for:&lt;br /&gt;/etc/hostname&lt;br /&gt;/etc/hosts&lt;br /&gt;/etc/network/interfaces &lt;/p&gt;&lt;p&gt;After that you should be good to launch with:&lt;/p&gt;&lt;p&gt;xm create -c /etc/xen/whatever-your-hostname-is.cfg&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>mo&#39; history lessons</title>
-      <link>http://theb0ardside.com:1313/mohistorylessons</link>
+      <link>http://theb0ardside.com/mohistorylessons</link>
       <pubDate>Sat, 09 Jul 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/mohistorylessons</guid>
+      <guid>http://theb0ardside.com/mohistorylessons</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2712/4366716421_2ec13d6ec4.jpg&#34; alt=&#34;Douglas Crockford&#34; /&gt;&lt;/p&gt;&lt;p&gt;wow, been finding so many good online video talks. I&#39;ve been genning up on node.js, which has led me into studying more javascript, and this latest lecture, is a massive five part series of talks about javascript. It&#39;s the first one which really stands out, and which fits in with the theme of historical lectures i&#39;ve been posting, covering the history of computing from the Jacquard Loom through the evolution of processors and programming languages up to Javascript. Check them all online &lt;a href=&#34;http://www.yuiblog.com/crockford/&#34; title=&#34;Douglas Crockford&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;[[image by &lt;a href=&#34;http://www.flickr.com/photos/equanimity/4366716421/sizes/m/in/photostream/&#34; title=&#34;equanimity&#34;&gt;equanimity&lt;/a&gt;]]&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Node.js</title>
-      <link>http://theb0ardside.com:1313/nodejs</link>
+      <link>http://theb0ardside.com/nodejs</link>
       <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/nodejs</guid>
+      <guid>http://theb0ardside.com/nodejs</guid>
       <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

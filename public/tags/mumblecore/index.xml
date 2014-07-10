@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Mumblecore on The B0ardside </title>
-    <link>http://theb0ardside.com:1313/tags/mumblecore/index.xml</link>
+    <link>http://theb0ardside.com/tags/mumblecore/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Computer Chess</title>
-      <link>http://theb0ardside.com:1313/computerchess</link>
+      <link>http://theb0ardside.com/computerchess</link>
       <pubDate>Sun, 29 Dec 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/computerchess</guid>
+      <guid>http://theb0ardside.com/computerchess</guid>
       <description>&lt;p&gt;This movie is new up on Netflix, from Mumblecore director Andrew Bujalski - really good!&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;

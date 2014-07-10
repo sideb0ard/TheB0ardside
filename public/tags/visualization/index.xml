@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Visualization on The B0ardside </title>
-    <link>http://theb0ardside.com:1313/tags/visualization/index.xml</link>
+    <link>http://theb0ardside.com/tags/visualization/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,40 +10,40 @@
     
     <item>
       <title>Usenix/Lisa 12</title>
-      <link>http://theb0ardside.com:1313/usenixlisa12</link>
+      <link>http://theb0ardside.com/usenixlisa12</link>
       <pubDate>Sun, 16 Dec 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/usenixlisa12</guid>
+      <guid>http://theb0ardside.com/usenixlisa12</guid>
       <description>&lt;p&gt;Just got back from the Usenix/Lisa 12 conference in San Diego, and had a great time, super inspiring talks and content.&lt;/p&gt;&lt;p&gt;Highlight of the conference for me was Brendan Gregg speaking on Performance Analysis Methodologies - most of his talk was based upon a paper he just published in ACM - &lt;a href=&#34;https://queue.acm.org/detail.cfm?id=2413037&#34; title=&#34;ACM&#34; target=&#34;_blank&#34;&gt;Thinking Methodically About Performance&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The talks haven&#39;t yet been published on the Usenix website, but Brendan&#39;s blog has a ton of great looking content and older talks including this one on Visualisations for Performance Analysis&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/ml-t-9g6Mjc?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>going google eyed</title>
-      <link>http://theb0ardside.com:1313/goinggoogleeyed</link>
+      <link>http://theb0ardside.com/goinggoogleeyed</link>
       <pubDate>Thu, 05 Apr 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/goinggoogleeyed</guid>
+      <guid>http://theb0ardside.com/goinggoogleeyed</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/9c6W4CCU9M4?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Ah, see, &lt;a href=&#34;http://drawingb0ard.blogspot.com/2011/01/physic-or-surgery-issue-1.html&#34; title=&#34;Physic Or Surgery&#34; target=&#34;_blank&#34;&gt;my comic&lt;/a&gt; is all true! :D&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>physical internet</title>
-      <link>http://theb0ardside.com:1313/physicalinternet</link>
+      <link>http://theb0ardside.com/physicalinternet</link>
       <pubDate>Mon, 03 Oct 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/physicalinternet</guid>
+      <guid>http://theb0ardside.com/physicalinternet</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://flowingdata.com/2011/10/03/submarine-cable-system-connecting-the-world/&#34; target=&#34;_blank&#34;&gt;&lt;img alt=&#34;&#34; src=&#34;http://flowingdata.com/wp-content/uploads/2011/10/Submarine-cable-map-625x405.png&#34; title=&#34;submarine cable map&#34; class=&#34;alignnone&#34; width=&#34;625&#34; height=&#34;405&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Ever since reading Neal Stephenson&#39;s &lt;a href=&#34;http://www.wired.com/wired/archive/4.12/ffglass_pr.html&#34; title=&#34;mother earth mother board&#34; target=&#34;_blank&#34;&gt;Mother Earth Mother Board&lt;/a&gt; article, I&#39;ve been quite fascinated with the undersea cables which physically connect the land masses of the world. This map, linked above is an amazing view into this part of the Internet&#39;s current infrastructure.&lt;/p&gt;&lt;p&gt;(via &lt;a href=&#34;http://flowingdata.com/2011/10/03/submarine-cable-system-connecting-the-world/&#34; title=&#34;Flowing Data&#34; target=&#34;_blank&#34;&gt;flowingdata.com&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Internets 1962 till now</title>
-      <link>http://theb0ardside.com:1313/internets1962tillnow</link>
+      <link>http://theb0ardside.com/internets1962tillnow</link>
       <pubDate>Wed, 10 Aug 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/internets1962tillnow</guid>
+      <guid>http://theb0ardside.com/internets1962tillnow</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://www.computerhistory.org/internet_history/full_size_images/1969_4-node_map.gif&#34; title=&#34;first 4 nodes&#34; class=&#34;aligncenter&#34; width=&#34;432&#34; height=&#34;393&#34; /&gt;&lt;/p&gt;&lt;p&gt;Excellent &lt;a href=&#34;http://www.computerhistory.org/internet_history/&#34; target=&#34;_blank&#34;&gt;timeline of the Internet&lt;/a&gt;&amp;#8216;s evolution from 1962 till the present day..&lt;/p&gt;
 </description>
     </item>

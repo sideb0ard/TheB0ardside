@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
 
-    <base href="http://theb0ardside.com:1313">
+    <base href="http://theb0ardside.com">
     <title> TheB0ardside.com </title>
-    <link rel="canonical" href="http://theb0ardside.com:1313/tags/scsi">
+    <link rel="canonical" href="http://theb0ardside.com/tags/scsi">
     <link href="/static/css/b0ardstrap.min.css" rel="stylesheet"/>
     <link href="/static/css/b0ardstyle.css" rel="stylesheet"/>
 
@@ -50,7 +50,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com:1313/themysteriousmegacli'> the mysterious MegaCLI</a> </h2>
+      <h2><a href='http://theb0ardside.com/themysteriousmegacli'> the mysterious MegaCLI</a> </h2>
       <div class="post-meta">Thu, Oct 27, 2011</div>
     </header>
     <p>I've inherited some Production Sun Fire X4470 boxes, which upon first look appeared to only have 2 x 140GB drives. Checking the purchase orders however, revealed that they should in fact have 4 x 140GB drives, a fact confirmed by &#8220;dmesg |grep scsi&#8221;.</p><p>These Sun Fire servers come with an internal 6Gb SAS PCIe RAID HBA which are managed via the LSI MegaRAID Management Suite. Unfortunately, the LSI website is a nightmare to navigate and has been re-arranged with no-redirects, requires a login and in general makes it very hard to find and download the MegaCLI utility.<br />I eventually found a working download link at <a href="http://www.lsi.com/downloads/Public/MegaRAID%20Common%20Files/8.02.16_MegaCLI.zip">http://www.lsi.com/downloads/Public/MegaRAID%20Common%20Files/8.02.16_MegaCLI.zip</a>.</p><p>The zip file contains an RPM file, so if like myself, you run Debian, you'll need to run:<br /><strong>rpm2cpio MegaCli-8.02.16-1.i386.rpm  | cpio -idmv</strong><br />The binaries are statically compiled so actually run fine.</p><p>In this situation, it simply turned out my drives were setup as RAID 1 mirrors, which was easy to discern using:</p><p><strong>./MegaCli64 -CfgDsply -aALL </strong></p><p>I came across a couple of good cheat sheets for MegaCLI -<br /><a href="http://thatlinuxbox.com/blog/article.php/lsi-megaraid-megacli">http://thatlinuxbox.com/blog/article.php/lsi-megaraid-megacli</a><br /><a href="http://www.theserve.co.uk/web-hosting-blog/megacli-commands">http://www.theserve.co.uk/web-hosting-blog/megacli-commands</a><br /><a href="http://ftzdomino.blogspot.com/2009/03/some-useful-megacli-commands.html">http://ftzdomino.blogspot.com/2009/03/some-useful-megacli-commands.html</a><br /><a href="http://tools.rapidsoft.de/perc/perc-cheat-sheet.html">http://tools.rapidsoft.de/perc/perc-cheat-sheet.html</a><br /><a href="http://www.5dollarwhitebox.org/drupal/node/82">http://www.5dollarwhitebox.org/drupal/node/82</a></p><p>For me, the most useful ones were:</p><p>#Physical Disk List<br /><strong>./MegaCli64 -PDList -aALL</strong></p><p>#Physical Drive Info<br /><strong>./MegaCli64 -pdInfo -PhysDrv \[252:4\] -aALL |less</strong></p><p>#Logical Disk Info<br /><strong>./MegaCli64  -LDInfo -LAll -aAll | less</strong></p><p># Config Display<br /><strong>./MegaCli64 -CfgDsply -aALL </strong></p><p># Config add Logical Drive<br /><strong>./MegaCli64  -CfgLdAdd -r0 \[252:4,252:5\] -a0</strong></p><p># Logical Drive Init<br /><strong>./MegaCli64 -LDInit -Start -L2 -a0</strong></p><p>We installed another two drives in the machine, which i was able to bring online in a RAID 0 volume using:<br /><strong>./MegaCli64  -CfgLdAdd -r0 \[252:4,252:5\] -a0</strong> </p><p>However, even after having created this RAID 0 volume, my OS couldn't see it when using &#8216;<strong>fdisk -l</strong>&#8216; - i had to run<br /><strong>echo &#8220;- - -&#8221; > /sys/class/scsi_host/host0/scan </strong><br />which forces a SCSI bus rescan, and made available the new drive.</p>

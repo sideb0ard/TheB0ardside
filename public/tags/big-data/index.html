@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
 
-    <base href="http://theb0ardside.com:1313">
+    <base href="http://theb0ardside.com">
     <title> TheB0ardside.com </title>
-    <link rel="canonical" href="http://theb0ardside.com:1313/tags/big-data">
+    <link rel="canonical" href="http://theb0ardside.com/tags/big-data">
     <link href="/static/css/b0ardstrap.min.css" rel="stylesheet"/>
     <link href="/static/css/b0ardstyle.css" rel="stylesheet"/>
 
@@ -50,7 +50,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com:1313/searchnotasolvedproblem'> Search - not a solved problem</a> </h2>
+      <h2><a href='http://theb0ardside.com/searchnotasolvedproblem'> Search - not a solved problem</a> </h2>
       <div class="post-meta">Wed, Jun 5, 2013</div>
     </header>
     <p>Very good talk from <a href="http://www.hilarymason.com/" title="Hilary Mason" target="_blank">Hilary Mason</a> from a recent Lucene Revolution keynote.</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/jVMWT7I3ATM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
@@ -60,7 +60,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com:1313/immutability'> immutability</a> </h2>
+      <h2><a href='http://theb0ardside.com/immutability'> immutability</a> </h2>
       <div class="post-meta">Thu, Jan 10, 2013</div>
     </header>
     <p>Excellent talk from Pat Helland, &#8220;Immutability Changes Everything&#8221; :</p><p><iframe src="http://player.vimeo.com/video/52831373" width="590" height="332" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p><p>via <a href="https://twitter.com/igrigorik/status/288758137190772736" target="_blank">igrigorik's twitter</a></p>
@@ -70,7 +70,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com:1313/somefavvelocitytalks'> some fav Velocity talks</a> </h2>
+      <h2><a href='http://theb0ardside.com/somefavvelocitytalks'> some fav Velocity talks</a> </h2>
       <div class="post-meta">Mon, Jul 2, 2012</div>
     </header>
     <p><a href="http://velocityconf.com/velocity2012" title="Velocity" target="_blank">Velocity</a> was on last week, and I was following along enviously on twitter - I'm making a promise to myself that I'll be along in person next year!</p><p>Quite a few of the talks now appearing online - here's a couple I've watched so far..</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/2S0k12uZR14?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/bM0yL0eQ9EM?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p>
@@ -80,7 +80,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com:1313/backblaze'> Backblaze</a> </h2>
+      <h2><a href='http://theb0ardside.com/backblaze'> Backblaze</a> </h2>
       <div class="post-meta">Wed, May 16, 2012</div>
     </header>
     <p>the legendary Mike Hoover turned me on to Backblaze a few months back - they're a cloud storage provider, who opened up the design for their chassis and storage pod solution so you can build your own &#8220;Storage Pod 2.0: a 135-terabyte, 4U server for $7,384&#8243; (<a href="http://blog.backblaze.com/2011/07/20/petabytes-on-a-budget-v2-0revealing-more-secrets/" target="_blank">blog post here</a>)</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/LQPVBnqzNu0?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p>
@@ -90,7 +90,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com:1313/liketreaclesolvingperlnetsftpslowtransferspeeds'> Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</a> </h2>
+      <h2><a href='http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds'> Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</a> </h2>
       <div class="post-meta">Sun, Feb 19, 2012</div>
     </header>
     <p>I've been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn't local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren't hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. </p><p>I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark's IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows. We were pretty much stumped, and the other engineer recommend i look into <a href="http://www.psc.edu/networking/projects/hpn-ssh/">HPN-SSH</a>, which does indeed sound very good, but first i started playing around with trying different ciphers and compression.</p><p>Our uploads are all run via a perl framework, which utilises Net::SFTP in order to do the transfers.<a href="https://github.com/sideb0ard/speedTester" target="_blank"> My test program was also written in perl</a> and using the same library. In order to try different cyphers i started testing uploads with the interactive command line SFTP. Boom! 6Mb/s upload speed. Biiiig difference from the Net::SFTP client. I started playing with blowfish cipher and trying to enable compression with Net::SFTP - it wasn't really working, it can only do Zlib compression, which my SSHD server wouldn't play with until i specifically enabled compression in the sshd_config file.</p><p>After much more digging around, i came across reference to <a href="http://search.cpan.org/~salva/Net-SFTP-Foreign-1.69/lib/Net/SFTP/Foreign.pm">Net::SFTP::Foreign</a>, which uses the installed ssh binary on your system for transport rather than relying on the pure perl Net::SSH.</p><p>Syntax is very similar, so it was a minor rewrite to switch modules, yet such a massive payback, from 0.30Mb/s up to 6Mb/s. </p><p>(It turns out the DSPs i mentioned earlier who could achieve 60Mb/s were actually FTP transfers, not SFTP)</p>
@@ -100,7 +100,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com:1313/realtimestats'> real-time stats &gt;</a> </h2>
+      <h2><a href='http://theb0ardside.com/realtimestats'> real-time stats &gt;</a> </h2>
       <div class="post-meta">Wed, Jul 20, 2011</div>
     </header>
     <p>Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB's new real-time analytics system: </p><p><iframe width="560" height="340" src="http://cdn.livestream.com/embed/facebookeducation?layout=4&#038;clip=pla_da30a53a-5399-43cc-a615-62874db1c567&#038;color=0x000000&#038;autoPlay=false&#038;mute=false&#038;iconColorOver=0xe7e7e7&#038;iconColor=0xcccccc&#038;allowchat=true" style="border:0;outline:0" frameborder="0" scrolling="no"></iframe><div style="font-size:11px;padding-top:10px;text-align:center;width:560px">Watch <a href=http://www.livestream.com/?utm_source=lsplayer&amp;utm_medium=embed&amp;utm_campaign=footerlinks title=live streaming video>live streaming video</a> from <a href=http://www.livestream.com/facebookeducation?utm_source=lsplayer&amp;utm_medium=embed&amp;utm_campaign=footerlinks title=Watch facebookeducation at livestream.com>facebookeducation</a> at livestream.com</div><p>In the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::</p><div style="width:425px" id="__ss_6814442"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/kevinweil/rainbird-realtime-analytics-at-twitter-strata-2011" title="Rainbird: Realtime Analytics at Twitter (Strata 2011)" target="_blank">Rainbird: Realtime Analytics at Twitter (Strata 2011)</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/6814442" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/kevinweil" target="_blank">Kevin Weil</a> </div></p></div><p>(hello <a href="https://twitter.com/#!/skr" title="skr" target="_blank">Johan</a>!)</p>
@@ -110,7 +110,7 @@
     
         <article class="post">
     <header>
-      <h2><a href='http://theb0ardside.com:1313/zettabytez'> zettabytez</a> </h2>
+      <h2><a href='http://theb0ardside.com/zettabytez'> zettabytez</a> </h2>
       <div class="post-meta">Fri, Jun 24, 2011</div>
     </header>
     <p>yow!</p><p><img alt="" src="http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg" title="big ass infographic" class="alignnone" width="612" height="6136" /></p><p>from <a href="http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/">cisco blog</a></p>

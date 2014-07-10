@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Performance on The B0ardside </title>
-    <link>http://theb0ardside.com:1313/tags/performance/index.xml</link>
+    <link>http://theb0ardside.com/tags/performance/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Troubleshooting the JVM at Twitter</title>
-      <link>http://theb0ardside.com:1313/troubleshootingjvmtwitter</link>
+      <link>http://theb0ardside.com/troubleshootingjvmtwitter</link>
       <pubDate>Mon, 09 Dec 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/troubleshootingjvmtwitter</guid>
+      <guid>http://theb0ardside.com/troubleshootingjvmtwitter</guid>
       <description>&lt;p&gt;This talk is incredibly informative - Twitter have their own fork of OpenJDK, in which they have enabled registers on the CPU, normally used by the Java Compiler - this enables Frame Pointers which &lt;a href=&#34;https://perf.wiki.kernel.org/index.php/Main_Page&#34;&gt;perf&lt;/a&gt; can read and translate, enabling a full Stack trace from JVM bytecode right down into the kernel.&lt;/p&gt;
 
 &lt;p&gt;Beyond simply CPU counters and stack trace, they also tie in other JVM flags which export DTrace counters, and use these to construct connections between memory allocation and the running process, so in the end you have a tool which can spans JVM -&amp;gt; kernel connections, alongside CPU -&amp;gt; memory.&lt;/p&gt;
@@ -28,40 +28,40 @@
     
     <item>
       <title>Brendan Gregg, Linux Performance</title>
-      <link>http://theb0ardside.com:1313/brendangregglinuxperformance</link>
+      <link>http://theb0ardside.com/brendangregglinuxperformance</link>
       <pubDate>Wed, 12 Jun 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/brendangregglinuxperformance</guid>
+      <guid>http://theb0ardside.com/brendangregglinuxperformance</guid>
       <description>&lt;p&gt;The always interesting Brendan Greg &amp;#8212; &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/0yyorhl6IjM?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>jedberg talk at Airbnb</title>
-      <link>http://theb0ardside.com:1313/jedbergtalkatairbnb</link>
+      <link>http://theb0ardside.com/jedbergtalkatairbnb</link>
       <pubDate>Wed, 08 May 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/jedbergtalkatairbnb</guid>
+      <guid>http://theb0ardside.com/jedbergtalkatairbnb</guid>
       <description>&lt;p&gt;I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/cCAO9moDucI?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>JVM and GC Performance Tuning</title>
-      <link>http://theb0ardside.com:1313/jvmandgcperformancetuning</link>
+      <link>http://theb0ardside.com/jvmandgcperformancetuning</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/jvmandgcperformancetuning</guid>
+      <guid>http://theb0ardside.com/jvmandgcperformancetuning</guid>
       <description>&lt;p&gt;Been working a lot of JVM GC performance problems of late, so this video interview my friend &lt;a href=&#34;https://twitter.com/skr&#34; target=&#34;_blank&#34;&gt;Johan&lt;/a&gt; turned me on has some great info  -&lt;p&gt;&lt;a href=&amp;#039;http://www.infoq.com/interviews/szegedi-performance-tuning#.UOU0FUyxAz4.wordpress&amp;#039;&gt;Attila Szegedi on JVM and GC Performance Tuning at Twitter&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/interviews/szegedi-performance-tuning&#34; target=&#34;_blank&#34;&gt;http://www.infoq.com/interviews/szegedi-performance-tuning&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Usenix/Lisa 12</title>
-      <link>http://theb0ardside.com:1313/usenixlisa12</link>
+      <link>http://theb0ardside.com/usenixlisa12</link>
       <pubDate>Sun, 16 Dec 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/usenixlisa12</guid>
+      <guid>http://theb0ardside.com/usenixlisa12</guid>
       <description>&lt;p&gt;Just got back from the Usenix/Lisa 12 conference in San Diego, and had a great time, super inspiring talks and content.&lt;/p&gt;&lt;p&gt;Highlight of the conference for me was Brendan Gregg speaking on Performance Analysis Methodologies - most of his talk was based upon a paper he just published in ACM - &lt;a href=&#34;https://queue.acm.org/detail.cfm?id=2413037&#34; title=&#34;ACM&#34; target=&#34;_blank&#34;&gt;Thinking Methodically About Performance&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The talks haven&#39;t yet been published on the Usenix website, but Brendan&#39;s blog has a ton of great looking content and older talks including this one on Visualisations for Performance Analysis&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/ml-t-9g6Mjc?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>

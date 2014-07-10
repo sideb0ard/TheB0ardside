@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Distributed-Systems on The B0ardside </title>
-    <link>http://theb0ardside.com:1313/tags/distributed-systems/index.xml</link>
+    <link>http://theb0ardside.com/tags/distributed-systems/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>James Mickens - Monitorama talk 2014</title>
-      <link>http://theb0ardside.com:1313/jamesmickens</link>
+      <link>http://theb0ardside.com/jamesmickens</link>
       <pubDate>Mon, 19 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com:1313/jamesmickens</guid>
+      <guid>http://theb0ardside.com/jamesmickens</guid>
       <description>&lt;p&gt;Funny stuff, this is ace..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
