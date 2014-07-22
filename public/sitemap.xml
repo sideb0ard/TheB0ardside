@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://theb0ardside.com/</loc>
-    <lastmod>2014-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2014-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/brucesterling-smartcities</loc>
+    <lastmod>2014-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,17 +28,17 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/solomon-hykes-docker</loc>
-    <lastmod>2014-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://theb0ardside.com/seymourcray</loc>
     <lastmod>2014-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://theb0ardside.com/containers-at-google</loc>
+    <lastmod>2014-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/solomon-hykes-docker</loc>
     <lastmod>2014-06-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,12 +158,12 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/cardboard-computer-scientists</loc>
+    <loc>http://theb0ardside.com/joshua-davis-beyond-play</loc>
     <lastmod>2014-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/joshua-davis-beyond-play</loc>
+    <loc>http://theb0ardside.com/cardboard-computer-scientists</loc>
     <lastmod>2014-01-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,17 +173,17 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/clientside-mvc-and-routes</loc>
-    <lastmod>2014-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://theb0ardside.com/vim-fun-with-conway</loc>
     <lastmod>2014-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://theb0ardside.com/acoustic-levitation</loc>
+    <lastmod>2014-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/clientside-mvc-and-routes</loc>
     <lastmod>2014-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -433,12 +438,12 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/hitchhikersguidetothegoogleverse</loc>
+    <loc>http://theb0ardside.com/anothercardboardcomputerscientistportrait</loc>
     <lastmod>2012-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/anothercardboardcomputerscientistportrait</loc>
+    <loc>http://theb0ardside.com/hitchhikersguidetothegoogleverse</loc>
     <lastmod>2012-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -513,12 +518,12 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/amooselooseabootthishoose</loc>
+    <loc>http://theb0ardside.com/robot</loc>
     <lastmod>2012-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/robot</loc>
+    <loc>http://theb0ardside.com/amooselooseabootthishoose</loc>
     <lastmod>2012-01-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -623,12 +628,12 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/nodejs</loc>
+    <loc>http://theb0ardside.com/zettabytez</loc>
     <lastmod>2011-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/zettabytez</loc>
+    <loc>http://theb0ardside.com/nodejs</loc>
     <lastmod>2011-06-24T00:00:00+00:00</lastmod>
   </url>
   

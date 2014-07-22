@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Internet-Of-Things on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/internet-of-things/index.xml</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2014-07-21 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Bruce Sterling on Smart City States</title>
+      <link>http://theb0ardside.com/brucesterling-smartcities</link>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/brucesterling-smartcities</guid>
+      <description>&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/OYNaoMkY8qY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/warrenellis&#34;&gt;via Warren Ellis&amp;rsquo; twitterfeed&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
