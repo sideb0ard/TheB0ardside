@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://theb0ardside.com/</loc>
-    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+    <lastmod>2014-08-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/knrunix</loc>
+    <lastmod>2014-08-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,12 +18,12 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/vpc-design</loc>
+    <loc>http://theb0ardside.com/underwatercables1939</loc>
     <lastmod>2014-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/underwatercables1939</loc>
+    <loc>http://theb0ardside.com/vpc-design</loc>
     <lastmod>2014-07-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,17 +48,17 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/solomon-hykes-docker</loc>
-    <lastmod>2014-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://theb0ardside.com/seymourcray</loc>
     <lastmod>2014-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://theb0ardside.com/containers-at-google</loc>
+    <lastmod>2014-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/solomon-hykes-docker</loc>
     <lastmod>2014-06-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,12 +138,12 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/b0ardcast-mixclouds</loc>
+    <loc>http://theb0ardside.com/tensemen-rnrfon</loc>
     <lastmod>2014-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/tensemen-rnrfon</loc>
+    <loc>http://theb0ardside.com/b0ardcast-mixclouds</loc>
     <lastmod>2014-03-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,17 +193,17 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/vim-fun-with-conway</loc>
+    <lastmod>2014-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/acoustic-levitation</loc>
     <lastmod>2014-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://theb0ardside.com/clientside-mvc-and-routes</loc>
-    <lastmod>2014-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/vim-fun-with-conway</loc>
     <lastmod>2014-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -408,12 +413,12 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/scalingatdropbox</loc>
+    <loc>http://theb0ardside.com/leapmotion</loc>
     <lastmod>2012-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/leapmotion</loc>
+    <loc>http://theb0ardside.com/scalingatdropbox</loc>
     <lastmod>2012-07-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -453,12 +458,12 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/hitchhikersguidetothegoogleverse</loc>
+    <loc>http://theb0ardside.com/anothercardboardcomputerscientistportrait</loc>
     <lastmod>2012-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/anothercardboardcomputerscientistportrait</loc>
+    <loc>http://theb0ardside.com/hitchhikersguidetothegoogleverse</loc>
     <lastmod>2012-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -533,12 +538,12 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/amooselooseabootthishoose</loc>
+    <loc>http://theb0ardside.com/robot</loc>
     <lastmod>2012-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/robot</loc>
+    <loc>http://theb0ardside.com/amooselooseabootthishoose</loc>
     <lastmod>2012-01-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -643,12 +648,12 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/nodejs</loc>
+    <loc>http://theb0ardside.com/zettabytez</loc>
     <lastmod>2011-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/zettabytez</loc>
+    <loc>http://theb0ardside.com/nodejs</loc>
     <lastmod>2011-06-24T00:00:00+00:00</lastmod>
   </url>
   
