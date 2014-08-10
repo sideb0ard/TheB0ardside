@@ -1,5 +1,5 @@
 ---
-Title: "K&R UNIX"
+Title: "K&R"
 Description: "Kernighan"
 Tags: ["history", "unix", "video"]
 Date: "2014-08-10"

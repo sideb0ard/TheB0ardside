@@ -9,7 +9,7 @@
     <updated>2014-08-10 00:00:00 &#43;0000 UTC</updated>
     
     <item>
-      <title>K&amp;R UNIX</title>
+      <title>K&amp;R</title>
       <link>http://theb0ardside.com/knrunix</link>
       <pubDate>Sun, 10 Aug 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
@@ -123,6 +123,20 @@
     </item>
     
     <item>
+      <title>Solomon Hykes, Dockercon14</title>
+      <link>http://theb0ardside.com/solomon-hykes-docker</link>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/solomon-hykes-docker</guid>
+      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Eric Brewer on Container usage at Google</title>
       <link>http://theb0ardside.com/containers-at-google</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
@@ -135,20 +149,6 @@
 &lt;/div&gt;
 
 &lt;p&gt;Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Solomon Hykes, Dockercon14</title>
-      <link>http://theb0ardside.com/solomon-hykes-docker</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/solomon-hykes-docker</guid>
-      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -416,16 +416,18 @@
     </item>
     
     <item>
-      <title>Better Vim With Damian Conway</title>
-      <link>http://theb0ardside.com/vim-fun-with-conway</link>
+      <title>Stop Breaking The Web</title>
+      <link>http://theb0ardside.com/clientside-mvc-and-routes</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vim-fun-with-conway</guid>
-      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
+      <guid>http://theb0ardside.com/clientside-mvc-and-routes</guid>
+      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -446,18 +448,16 @@
     </item>
     
     <item>
-      <title>Stop Breaking The Web</title>
-      <link>http://theb0ardside.com/clientside-mvc-and-routes</link>
+      <title>Better Vim With Damian Conway</title>
+      <link>http://theb0ardside.com/vim-fun-with-conway</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/clientside-mvc-and-routes</guid>
-      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
+      <guid>http://theb0ardside.com/vim-fun-with-conway</guid>
+      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
