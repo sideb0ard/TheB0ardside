@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://theb0ardside.com/</loc>
-    <lastmod>2014-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2014-08-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/hightower-kubernetes</loc>
+    <lastmod>2014-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,12 +23,12 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/underwatercables1939</loc>
+    <loc>http://theb0ardside.com/vpc-design</loc>
     <lastmod>2014-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/vpc-design</loc>
+    <loc>http://theb0ardside.com/underwatercables1939</loc>
     <lastmod>2014-07-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -198,12 +203,12 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/acoustic-levitation</loc>
+    <loc>http://theb0ardside.com/vim-fun-with-conway</loc>
     <lastmod>2014-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/vim-fun-with-conway</loc>
+    <loc>http://theb0ardside.com/acoustic-levitation</loc>
     <lastmod>2014-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -538,12 +543,12 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/robot</loc>
+    <loc>http://theb0ardside.com/amooselooseabootthishoose</loc>
     <lastmod>2012-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/amooselooseabootthishoose</loc>
+    <loc>http://theb0ardside.com/robot</loc>
     <lastmod>2012-01-24T00:00:00+00:00</lastmod>
   </url>
   

@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-07-26 00:00:00 &#43;0000 UTC</updated>
+    <updated>2014-08-12 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Kelsey Hightower on Kubernetes</title>
+      <link>http://theb0ardside.com/hightower-kubernetes</link>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/hightower-kubernetes</guid>
+      <description>&lt;p&gt;Kelsey Hightower, very funny, very good practical demo of Kubernetes..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/KFr9BHTgqkw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS VPC best practises</title>

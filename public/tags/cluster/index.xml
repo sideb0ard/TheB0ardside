@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Scale on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/scale/index.xml</link>
+      <title>Cluster on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/cluster/index.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -18,20 +18,6 @@
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/KFr9BHTgqkw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>And It All Went Horribly Wrong</title>
-      <link>http://theb0ardside.com/debuggingproduction</link>
-      <pubDate>Fri, 04 Apr 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/debuggingproduction</guid>
-      <description>&lt;div&gt;
-&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;&lt;img width=&#34;600&#34; src=&#34;/static/img/joyentprod.png&#34;&gt;&lt;/a&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;Bryan Cantrill being funny as hell.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&#34;&lt;em&gt;Bryan Cantrill discusses debugging production systems using post-mortem debugging and dynamic instrumentation, with a bit of history and an introduction to useful debugging tools.&#34;i&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
