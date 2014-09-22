@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Infographic on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/infographic/index.xml</link>
+    <link>http://theb0ardside.com/tags/infographic.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,50 +10,50 @@
     
     <item>
       <title>21st Century Internet</title>
-      <link>http://theb0ardside.com/21stcenturyinternet</link>
+      <link>http://theb0ardside.com/21stcenturyinternet/</link>
       <pubDate>Wed, 06 Jun 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/21stcenturyinternet</guid>
+      <guid>http://theb0ardside.com/21stcenturyinternet/</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/-Uwjt32NvVA?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;http://googleblog.blogspot.com/2012/06/world-ipv6-launch-keeping-internet.html&#34; title=&#34;google blog&#34; target=&#34;_blank&#34;&gt;Google Blog&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>evolution of the cloud</title>
-      <link>http://theb0ardside.com/evolutionofthecloud</link>
+      <link>http://theb0ardside.com/evolutionofthecloud/</link>
       <pubDate>Thu, 02 Feb 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/evolutionofthecloud</guid>
+      <guid>http://theb0ardside.com/evolutionofthecloud/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://gigaom.com/cloud/why-2013-is-the-year-of-noops-for-programmers-infographic/?utm_source=feedburner&amp;#038;utm_medium=feed&amp;#038;utm_campaign=Feed%3A+OmMalik+%28GigaOM%3A+Tech%29&#34; target=&#34;_blank&#34;&gt;&lt;img width=&#34;600&#34;  src=&#34;http://gigaom2.files.wordpress.com/2012/01/appfog_infographic_013012.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>1923 video of Einstein&#39;s Theory Of Relativity</title>
-      <link>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity</link>
+      <link>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity/</link>
       <pubDate>Wed, 28 Dec 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity</guid>
+      <guid>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity/</guid>
       <description>&lt;p&gt;found via &lt;a href=&#34;http://boingboing.net/2011/12/27/1923-animated-film-about-einst.html&#34; title=&#34;Boing Boing&#34; target=&#34;_blank&#34;&gt;Boing Boing&lt;/a&gt;, excellent 20min short from 1923 -&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/9832926&#34; width=&#34;480&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>physical internet</title>
-      <link>http://theb0ardside.com/physicalinternet</link>
+      <link>http://theb0ardside.com/physicalinternet/</link>
       <pubDate>Mon, 03 Oct 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/physicalinternet</guid>
+      <guid>http://theb0ardside.com/physicalinternet/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://flowingdata.com/2011/10/03/submarine-cable-system-connecting-the-world/&#34; target=&#34;_blank&#34;&gt;&lt;img alt=&#34;&#34; src=&#34;http://flowingdata.com/wp-content/uploads/2011/10/Submarine-cable-map-625x405.png&#34; title=&#34;submarine cable map&#34; class=&#34;alignnone&#34; width=&#34;625&#34; height=&#34;405&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Ever since reading Neal Stephenson&#39;s &lt;a href=&#34;http://www.wired.com/wired/archive/4.12/ffglass_pr.html&#34; title=&#34;mother earth mother board&#34; target=&#34;_blank&#34;&gt;Mother Earth Mother Board&lt;/a&gt; article, I&#39;ve been quite fascinated with the undersea cables which physically connect the land masses of the world. This map, linked above is an amazing view into this part of the Internet&#39;s current infrastructure.&lt;/p&gt;&lt;p&gt;(via &lt;a href=&#34;http://flowingdata.com/2011/10/03/submarine-cable-system-connecting-the-world/&#34; title=&#34;Flowing Data&#34; target=&#34;_blank&#34;&gt;flowingdata.com&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>zettabytez</title>
-      <link>http://theb0ardside.com/zettabytez</link>
+      <link>http://theb0ardside.com/zettabytez/</link>
       <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/zettabytez</guid>
+      <guid>http://theb0ardside.com/zettabytez/</guid>
       <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

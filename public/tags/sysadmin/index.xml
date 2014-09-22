@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Sysadmin on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/sysadmin/index.xml</link>
+    <link>http://theb0ardside.com/tags/sysadmin.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Go For SysAdmins</title>
-      <link>http://theb0ardside.com/goforsysadmins</link>
+      <link>http://theb0ardside.com/goforsysadmins/</link>
       <pubDate>Thu, 15 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/goforsysadmins</guid>
+      <guid>http://theb0ardside.com/goforsysadmins/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been getting really into both Go and CoreOS recenty, so this video is timely and ACE!&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;

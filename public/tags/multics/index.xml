@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Multics on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/multics/index.xml</link>
+    <link>http://theb0ardside.com/tags/multics.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Systems Architecture, Design, Engineering, and Verification</title>
-      <link>http://theb0ardside.com/systems-architecture-acm</link>
+      <link>http://theb0ardside.com/systems-architecture-acm/</link>
       <pubDate>Tue, 06 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/systems-architecture-acm</guid>
+      <guid>http://theb0ardside.com/systems-architecture-acm/</guid>
       <description>&lt;p&gt;Yow! this is great! I know my Unix history pretty well, but Multics - aside from knowing it was the precursor to Unix, i didn&amp;rsquo;t know much else of the details or who was involved - WATCH THIS! NOW! :D&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Mathematices on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/mathematices/index.xml</link>
+    <link>http://theb0ardside.com/tags/mathematices.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Category Theory Intro</title>
-      <link>http://theb0ardside.com/cattheoryintro</link>
+      <link>http://theb0ardside.com/cattheoryintro/</link>
       <pubDate>Sat, 10 May 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/cattheoryintro</guid>
+      <guid>http://theb0ardside.com/cattheoryintro/</guid>
       <description>&lt;p&gt;Excellent introduction to Category Theory - presentation by Tom LaGatta at LispNYC meetup.&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;

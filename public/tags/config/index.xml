@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Config on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/config/index.xml</link>
+    <link>http://theb0ardside.com/tags/config.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Kelsey Hightower on Kubernetes</title>
-      <link>http://theb0ardside.com/hightower-kubernetes</link>
+      <link>http://theb0ardside.com/hightower-kubernetes/</link>
       <pubDate>Tue, 12 Aug 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/hightower-kubernetes</guid>
+      <guid>http://theb0ardside.com/hightower-kubernetes/</guid>
       <description>&lt;p&gt;Kelsey Hightower, very funny, very good practical demo of Kubernetes..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;

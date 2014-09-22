@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Startups on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/startups/index.xml</link>
+    <link>http://theb0ardside.com/tags/startups.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>AirBnB story</title>
-      <link>http://theb0ardside.com/airbnbstory</link>
+      <link>http://theb0ardside.com/airbnbstory/</link>
       <pubDate>Wed, 09 Jul 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/airbnbstory</guid>
+      <guid>http://theb0ardside.com/airbnbstory/</guid>
       <description>&lt;p&gt;This is pretty entertaining, one of the AirBnB founders telling their origin story&amp;hellip;&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;

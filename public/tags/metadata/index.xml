@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Metadata on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/metadata/index.xml</link>
+    <link>http://theb0ardside.com/tags/metadata.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,20 +10,20 @@
     
     <item>
       <title>the biology of code</title>
-      <link>http://theb0ardside.com/thebiologyofcode</link>
+      <link>http://theb0ardside.com/thebiologyofcode/</link>
       <pubDate>Tue, 27 Mar 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/thebiologyofcode</guid>
+      <guid>http://theb0ardside.com/thebiologyofcode/</guid>
       <description>&lt;p&gt;Fabulous piece and video chat with George Dyson over at the always reliable Edge -&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://edge.org/conversation/a-universe-of-self-replicating-code#.T3E3c83Cv8w.wordpress&#34;&gt;A Universe Of Self-replicating Code | Conversation | Edge&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Record Store Bot</title>
-      <link>http://theb0ardside.com/recordstorebot</link>
+      <link>http://theb0ardside.com/recordstorebot/</link>
       <pubDate>Tue, 24 May 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/recordstorebot</guid>
+      <guid>http://theb0ardside.com/recordstorebot/</guid>
       <description>&lt;p&gt;&lt;img class=&#34;aligncenter&#34; title=&#34;specz&#34; src=&#34;http://farm6.static.flickr.com/5244/5309938590_21a2f8d308_z.jpg&#34; alt=&#34;&#34; width=&#34;452&#34; height=&#34;640&#34; /&gt;&lt;/p&gt;&lt;p&gt;First draft of my Record Store Bot is live over on &lt;a title=&#34;Record Store Bot&#34; href=&#34;https://github.com/sideb0ard/RecordStoreBot&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; - basically tying a Chatbot::Eliza style interface to Last.fm web services for an interactive (hopefully amusing) music recommendation bot.&lt;/p&gt;&lt;p&gt;Works surprisingly well - although only has one method at the moment..&lt;/p&gt;
 </description>
     </item>

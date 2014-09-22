@@ -2,18 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Music on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/music/index.xml</link>
+    <link>http://theb0ardside.com/tags/music.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
     <updated>2014-03-04 00:00:00 &#43;0000 UTC</updated>
     
     <item>
-      <title>Tense Men - RNRFON</title>
-      <link>http://theb0ardside.com/tensemen-rnrfon</link>
+      <title>B0ardcasts on Mixcloud</title>
+      <link>http://theb0ardside.com/b0ardcast-mixclouds/</link>
       <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/tensemen-rnrfon</guid>
+      <guid>http://theb0ardside.com/b0ardcast-mixclouds/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s a link to the Mixcloud page with the past couple of B0ardcast shows and tracklistings..&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe width=&#34;660&#34; height=&#34;180&#34; src=&#34;//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fsideb0ard%2Fthe-b0ardside-episode-4-03042014%2F&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=6da99aff-ee2b-489c-8566-59479e128c20&amp;amp;hide_tracklist=1&amp;amp;replace=0&amp;amp;hide_cover=1&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;p style=&#34;display: block; font-size: 11px; font-family: &#39;Open Sans&#39;, Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: 652px;&#34;&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/the-b0ardside-episode-4-03042014/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;The B0ardside Episode #4 - 03/04/2014&lt;/a&gt;&lt;span&gt; by &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;Sideb0ard&lt;/a&gt;&lt;span&gt; on &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt; Mixcloud&lt;/a&gt;&lt;/p&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tense Men - RNRFON</title>
+      <link>http://theb0ardside.com/tensemen-rnrfon/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/tensemen-rnrfon/</guid>
       <description>&lt;p&gt;Love this new video for &lt;a href=&#34;https://soundcloud.com/tensemen&#34;&gt;Tense Men&lt;/a&gt; -&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -25,23 +37,11 @@
     </item>
     
     <item>
-      <title>B0ardcasts on Mixcloud</title>
-      <link>http://theb0ardside.com/b0ardcast-mixclouds</link>
-      <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/b0ardcast-mixclouds</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s a link to the Mixcloud page with the past couple of B0ardcast shows and tracklistings..&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe width=&#34;660&#34; height=&#34;180&#34; src=&#34;//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fsideb0ard%2Fthe-b0ardside-episode-4-03042014%2F&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=6da99aff-ee2b-489c-8566-59479e128c20&amp;amp;hide_tracklist=1&amp;amp;replace=0&amp;amp;hide_cover=1&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;p style=&#34;display: block; font-size: 11px; font-family: &#39;Open Sans&#39;, Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: 652px;&#34;&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/the-b0ardside-episode-4-03042014/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;The B0ardside Episode #4 - 03/04/2014&lt;/a&gt;&lt;span&gt; by &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;Sideb0ard&lt;/a&gt;&lt;span&gt; on &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt; Mixcloud&lt;/a&gt;&lt;/p&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The B0ardcast Cometh</title>
-      <link>http://theb0ardside.com/theb0ardcastcometh</link>
+      <link>http://theb0ardside.com/theb0ardcastcometh/</link>
       <pubDate>Sun, 09 Feb 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/theb0ardcastcometh</guid>
+      <guid>http://theb0ardside.com/theb0ardcastcometh/</guid>
       <description>&lt;p&gt;Woop! I just got confirmation on friday that I&amp;rsquo;ll have a regular weekly 2 hour radio starting this tuesday on &lt;a href=&#34;http://bff.fm&#34;&gt;bff.fm&lt;/a&gt; - a recent new station out of here in San Francisco. Tune in - 2pm-4pm PST (10pm-Midnite UK) &amp;ndash;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/static/img/b0ardcast.png&#34;&gt;&lt;/p&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>Oh yeah, Codetraxx</title>
-      <link>http://theb0ardside.com/codetraxx</link>
+      <link>http://theb0ardside.com/codetraxx/</link>
       <pubDate>Tue, 07 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/codetraxx</guid>
+      <guid>http://theb0ardside.com/codetraxx/</guid>
       <description>&lt;p&gt;Oh yeah, that &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project I mentioned, which me and &lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..&lt;/p&gt;
 
 &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124516248&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=true&#34;&gt;&lt;/iframe&gt;
@@ -62,10 +62,10 @@
     
     <item>
       <title>Street Punk</title>
-      <link>http://theb0ardside.com/streetpunk</link>
+      <link>http://theb0ardside.com/streetpunk/</link>
       <pubDate>Sat, 04 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/streetpunk</guid>
+      <guid>http://theb0ardside.com/streetpunk/</guid>
       <description>&lt;p&gt;Oh man, just found &lt;a href=&#34;http://www.hardlyart.com/hunxandhispunx.html&#34;&gt;this Hunx album from 2013&lt;/a&gt; - i had seen this following video for Bad Skin but forgot about the album when it came out - this video is so disgusting and totally my anthem!&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -76,10 +76,10 @@
     
     <item>
       <title>The B0ardside Top 13 records 2013</title>
-      <link>http://theb0ardside.com/toprecords2013</link>
+      <link>http://theb0ardside.com/toprecords2013/</link>
       <pubDate>Fri, 06 Dec 2013 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/toprecords2013</guid>
+      <guid>http://theb0ardside.com/toprecords2013/</guid>
       <description>&lt;p&gt;Was hard to cut two out from this selection, so here&amp;rsquo;s my top 12 for the past year, as usual a bit of a mix between the rock n roll and the electronic noise..&lt;/p&gt;
 
 &lt;p&gt;The Pastels &amp;ndash; Slow Summit
@@ -126,10 +126,10 @@ The Hive Dwellers &amp;ndash; Hewn From The Wilderness
     
     <item>
       <title>Record Store Bot</title>
-      <link>http://theb0ardside.com/recordstorebot</link>
+      <link>http://theb0ardside.com/recordstorebot/</link>
       <pubDate>Tue, 24 May 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/recordstorebot</guid>
+      <guid>http://theb0ardside.com/recordstorebot/</guid>
       <description>&lt;p&gt;&lt;img class=&#34;aligncenter&#34; title=&#34;specz&#34; src=&#34;http://farm6.static.flickr.com/5244/5309938590_21a2f8d308_z.jpg&#34; alt=&#34;&#34; width=&#34;452&#34; height=&#34;640&#34; /&gt;&lt;/p&gt;&lt;p&gt;First draft of my Record Store Bot is live over on &lt;a title=&#34;Record Store Bot&#34; href=&#34;https://github.com/sideb0ard/RecordStoreBot&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; - basically tying a Chatbot::Eliza style interface to Last.fm web services for an interactive (hopefully amusing) music recommendation bot.&lt;/p&gt;&lt;p&gt;Works surprisingly well - although only has one method at the moment..&lt;/p&gt;
 </description>
     </item>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Xen on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/xen/index.xml</link>
+    <link>http://theb0ardside.com/tags/xen.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Gen Xen</title>
-      <link>http://theb0ardside.com/genxen</link>
+      <link>http://theb0ardside.com/genxen/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/genxen</guid>
+      <guid>http://theb0ardside.com/genxen/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;&#34; width=&#34;600&#34; src=&#34;http://www.just-marvel-x-men.com/image-files/astonishing-x-men-1-100k.jpg&#34; title=&#34;Xen&#34; class=&#34;alignnone&#34;  /&gt;&lt;/p&gt;&lt;p&gt;I&#39;ve been working pretty extensively with Xen and Puppet in my new job, really loving it! I&#39;ve been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I&#39;ve just finished a script which is over on &lt;a href=&#34;https://github.com/sideb0ard/GenXen&#34; title=&#34;GitHub&#34; target=&#34;_blank&#34;&gt;my github page&lt;/a&gt;, which basically automates what was previously a manual process.&lt;/p&gt;&lt;p&gt;Basically, it copies your existing disk.img and swap.img, generates a new xen.cfg file based on some interactive input (desired hostname, IP, memory and number of vCPUs) plus a random Xen mac address, then mounts the disk.img file and changes some appropriate system files - /etc/hostname, hosts, and network/interfaces.&lt;/p&gt;&lt;p&gt;All quite simple and straight forward, but quite nice to have automated.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sideb0ard/GenXen&#34; title=&#34;GenXen&#34; target=&#34;_blank&#34;&gt;GenXen&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s the README:&lt;/p&gt;&lt;p&gt;GenXen #&lt;br /&gt;#############################&lt;/p&gt;&lt;p&gt;A script for automating Xen VM deployment.&lt;/p&gt;&lt;p&gt;It requires that you have a base disk.img and swap.img already created.&lt;br /&gt;I created mine with:&lt;br /&gt;xen-create-image -pygrub -size=50Gb -swap=9Gb -vcpus=2 -memory 6Gb -dist=squeeze -dhcp -passwd -dir=/var/virt-machines -hostname=xen-squeeze-base&lt;/p&gt;&lt;p&gt;Fill in some of the variables at the top of GenXen.pl before running, then simply:&lt;br /&gt;./GenXen.pl&lt;/p&gt;&lt;p&gt;The interactive part will ask for hostname, memory size, vCPUs, IP address, then generate a unique Xen mac address, and write these all to a xen config file which will be saved in /etc/xen/&lt;/p&gt;&lt;p&gt;It&#39;ll copy your disk.img and swap.img to destination dir, mount the disk.img and create appropriate files for:&lt;br /&gt;/etc/hostname&lt;br /&gt;/etc/hosts&lt;br /&gt;/etc/network/interfaces &lt;/p&gt;&lt;p&gt;After that you should be good to launch with:&lt;/p&gt;&lt;p&gt;xm create -c /etc/xen/whatever-your-hostname-is.cfg&lt;/p&gt;
 </description>
     </item>

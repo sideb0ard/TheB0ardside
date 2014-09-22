@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Telephony on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/telephony/index.xml</link>
+    <link>http://theb0ardside.com/tags/telephony.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Underwater Cables, 1939</title>
-      <link>http://theb0ardside.com/underwatercables1939</link>
+      <link>http://theb0ardside.com/underwatercables1939/</link>
       <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/underwatercables1939</guid>
+      <guid>http://theb0ardside.com/underwatercables1939/</guid>
       <description>&lt;p&gt;Yow, 1056 wires - 1930s style Undersea Telephony biz..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
