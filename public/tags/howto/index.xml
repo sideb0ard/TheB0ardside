@@ -6,7 +6,23 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-07-26 00:00:00 &#43;0000 UTC</updated>
+    <updated>2014-09-27 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>How to Build a Mind</title>
+      <link>http://theb0ardside.com/joschabach-ai/</link>
+      <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/joschabach-ai/</guid>
+      <description>&lt;p&gt;Hugely compelling talk by Joscha Bach covering history and possible futures of AI..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/2o2xBOQeB7Q&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Found &lt;a href=&#34;http://cognitive-ai.com/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS VPC best practises</title>
