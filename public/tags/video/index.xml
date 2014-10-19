@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-09-27 00:00:00 &#43;0000 UTC</updated>
+    <updated>2014-10-18 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Greyglers!</title>
+      <link>http://theb0ardside.com/vent-cerf-greyglers/</link>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/vent-cerf-greyglers/</guid>
+      <description>&lt;p&gt;Vint Cerf,the Don..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/t9M0RPNr9qg&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>How to Build a Mind</title>
@@ -446,18 +460,16 @@
     </item>
     
     <item>
-      <title>Stop Breaking The Web</title>
-      <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
+      <title>Better Vim With Damian Conway</title>
+      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
-      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
+      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
+      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -478,16 +490,18 @@
     </item>
     
     <item>
-      <title>Better Vim With Damian Conway</title>
-      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
+      <title>Stop Breaking The Web</title>
+      <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
-      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
+      <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
+      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
