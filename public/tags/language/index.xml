@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-04-07 00:00:00 &#43;0000 UTC</updated>
+    <updated>2014-12-01 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Rob Pike, Go Concurrency Patterns</title>
+      <link>http://theb0ardside.com/robpike-go-concurrency/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/robpike-go-concurrency/</guid>
+      <description>&lt;p&gt;I thought I had seen this, but no, it&amp;rsquo;s just a similar theme to other talks by Rob Pike I&amp;rsquo;ve seen - this one is quite fun to code along too, its a super neat and compact concurrency app..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/f6kdp27TYZs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>BASIC at 50</title>
