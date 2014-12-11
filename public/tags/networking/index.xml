@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-06-21 00:00:00 &#43;0000 UTC</updated>
+    <updated>2014-12-10 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>User Space Networking</title>
+      <link>http://theb0ardside.com/user-space-networking/</link>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/user-space-networking/</guid>
+      <description>&lt;p&gt;One theme I&amp;rsquo;ve noticed recently is a move to User Space networking - not for normal application use per se, but for specific high throughput cases, where the kernel&amp;rsquo;s general network stack&amp;rsquo;s overhead is too much. This isn&amp;rsquo;t a new thing, but something I&amp;rsquo;ve never gotten around to exploring. This vid, from last year, provides an overview of three different implementations..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/5fqCaHcELmo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Solomon Hykes, Dockercon14</title>
