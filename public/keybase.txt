@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/sideb0ard
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://theb0ardside.com
+  * I am sideb0ard (https://keybase.io/sideb0ard) on keybase.
+  * I have a public key with fingerprint 612E 4F5B 6AC2 3248 70CB  8484 24F3 D920 4EC7 80FF
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "612e4f5b6ac2324870cb848424f3d9204ec780ff",
+            "host": "keybase.io",
+            "key_id": "24f3d9204ec780ff",
+            "kid": "01010921b7574797b978ae416bb12b76ded5fcf64d69402860efbfefb96c5410210f0a",
+            "uid": "f0602618c340fd288340586596427a00",
+            "username": "sideb0ard"
+        },
+        "service": {
+            "hostname": "theb0ardside.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421458962,
+    "expire_in": 157680000,
+    "prev": "34b125ce97069a91273229566156705366fc7ddd48111259ecc1baae8ea262d0",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMM8AnicbZJ/UBVVFMcfyA+FwR9YDQ3ya8HSesLuvt27u69GcsgfERMywSQN+tgf
+d2FB9uG+feATMKInIBTPbEaa0cIwJEmeQ5RogwQ8ox9vXkSEISQUkyjqNDYMzBgq
+7ZL9171z58w953O+954z53LYMkOIX8Ls1dhXvqlc9PP2bbMbMi/2hJchnFVwIOYy
+pBAuGVGS86BSrEiyipgRgOGQEEkOsDxuwgmaQnmOJmgCJ0STwOAoAXmKRkURMSL5
+VpueoclwrA0mSlbNp10skqB5/4cvXAqgmLYZHOMokiIohuIYimYhgQGOw3COAgIU
+SJEXASEAhkBxGqBQ5ETtMIAnCQzFMVREWU3OviQnogDFAUbzJgIVBZymNUvSgGQA
+gVMsiuqgDSoyWwQ12iYJkENZRUAqjIjmLpF4qPdAL+URoub/S+hoIm8t0gSKFatq
+5a17tWi+qhab9WTVUazTpZCzPNKxcJIsaL3UEkqgYpOsMmLGNJJXJV0YI3CMIGkG
+4EYE7i+WFGiRdIKkAI1qS38GlmiSJkJrBMlDhkIBwzIYTplwnCEBwEhAoaQJAJGn
+BEEgaAzTQAbyPMaxLKQhiwNc0Cu2wX2yVdNmtH+yeUt158msalcgUtHflxNg8Asx
+BAX66+NgCFmx+r8hcWavWtxpfPaIGPgx02xc565Iac/Yc2Cqx3u2Z/rCuZgPuc+a
+hyrjzl+PDVc9DTP1jz0e0NjVOd824ildxty7ORHs7FAS7N2TT863OBxf7IrPWGjf
+bf8qN9oX5n6nqWZ/Q9vuVObYt1llrgnFwtX+Wh/prB1Oyu0Xt73346VWefzrdZe9
+o/41Scl7Pu+M7Vpv/POT0KrejhMF5VVT7tBk6+mxnC/zQw+e4yMyu7uij2afXsx+
+t2jK6J67gTqrs+LvRPxsL6hznz+0d8OGazPNQy3O+5viyn4P9kxtvDmYvpWtXvNp
+wt0o14pThbm+nKxjB/1fXBjqDs6KHJgeXT4Z0GJK/+279mfk+IE3Wl8IX+iZjlFn
+fdVn0oZLa+rq2qYOCWBjFdkRY++/4hoc/cXTefyv8rW+J9QBYXvaZMaqB2Nev00u
+F+Npeb7GjXYZ1mTPvdzr+148VX/LYLOM9Cil7L3XFnbO92bZPkrZ3vSW48zKzrq/
+d71Oto6rf7x/yXG48bmIKLl0c+rm6eSrofFpH/wQOWjqayxPdxekDBcGxYwfOGtu
+CHt17CKdamiLfCo9fWXLfFz59YdbtipcxIOnZ1n6SlzeraTbTXd8iWU3rq1fOwrH
+g8eCXor23D0xtlousFwIWh5+5O2S4wMnDSdnMith1ETovsD5h+aRorkthc43dzhy
+apmUn24veu97/wE7NK2q
+=3oed
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sideb0ard
+
+==================================================================
+

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Cluster on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/cluster.xml</link>
+      <title>Distributed on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/distributed.xml</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -18,20 +18,6 @@
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/z6tjawXZ71E&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kelsey Hightower on Kubernetes</title>
-      <link>http://theb0ardside.com/hightower-kubernetes/</link>
-      <pubDate>Tue, 12 Aug 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/hightower-kubernetes/</guid>
-      <description>&lt;p&gt;Kelsey Hightower, very funny, very good practical demo of Kubernetes..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/KFr9BHTgqkw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
