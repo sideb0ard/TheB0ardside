@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-08-12 00:00:00 &#43;0000 UTC</updated>
+    <updated>2015-04-16 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Systems At Facebook Scale</title>
+      <link>http://theb0ardside.com/system-facebook-scale/</link>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/system-facebook-scale/</guid>
+      <description>&lt;p&gt;Wow, this is one of the most practical, technical talks I&amp;rsquo;ve seen in a while - super good!&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/dlixGkelP9U&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Kelsey Hightower on Kubernetes</title>
