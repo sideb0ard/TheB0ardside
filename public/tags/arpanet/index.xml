@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Arpanet on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/arpanet.xml</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2015-05-02 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Vint Cerf, history of packets</title>
+      <link>http://theb0ardside.com/vint-cerf-packets/</link>
+      <pubDate>Sat, 02 May 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/vint-cerf-packets/</guid>
+      <description>&lt;p&gt;Me and &lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;tack&lt;/a&gt; went to see the illustrious Vint Cerf speak during the &lt;a href=&#34;https://www.calacademy.org/events/conversations-on-science/the-internet-of-things-iot&#34;&gt;week&lt;/a&gt; - he was awesome!&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an excellent youtube interview with him, on the history of packets:&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jZJzNWOY0QI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
