@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-05-02 00:00:00 &#43;0000 UTC</updated>
+    <updated>2015-05-08 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Craig Silverstein on the origin of Google</title>
+      <link>http://theb0ardside.com/craig-silverstein-google/</link>
+      <pubDate>Fri, 08 May 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/craig-silverstein-google/</guid>
+      <description>&lt;p&gt;I only just learned about this guy Craig Silverstein, who was Google employee #3 after Larry and Sergey. There&amp;rsquo;s a ton more info about him if you go searching, but this is an ace little 10 minute video where he talks about the origins of google..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/QVkWmYUwhH8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Vint Cerf, history of packets</title>
@@ -313,20 +327,6 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Underwater Cables, 1939</title>
-      <link>http://theb0ardside.com/underwatercables1939/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/underwatercables1939/</guid>
-      <description>&lt;p&gt;Yow, 1056 wires - 1930s style Undersea Telephony biz..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/G5od6roIMtQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>AWS VPC best practises</title>
       <link>http://theb0ardside.com/vpc-design/</link>
       <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
@@ -336,6 +336,20 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YoX_frLHbEs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Underwater Cables, 1939</title>
+      <link>http://theb0ardside.com/underwatercables1939/</link>
+      <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/underwatercables1939/</guid>
+      <description>&lt;p&gt;Yow, 1056 wires - 1930s style Undersea Telephony biz..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/G5od6roIMtQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -856,20 +870,6 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Better Vim With Damian Conway</title>
-      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
-      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Stop Breaking The Web</title>
       <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
@@ -882,6 +882,20 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Better Vim With Damian Conway</title>
+      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
+      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1380,22 +1394,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>scaling at dropbox</title>
-      <link>http://theb0ardside.com/scalingatdropbox/</link>
-      <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/scalingatdropbox/</guid>
-      <description>&lt;p&gt;I highly recommend this &lt;a href=&#34;http://devopsweekly.com/&#34; title=&#34;DevOps Weekly&#34; target=&#34;_blank&#34;&gt;DevOps Weekly mail out&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://image-host.appspot.com/i/img?id=agppbWFnZS1ob3N0cg0LEgVJbWFnZRiJpAEM&#34; title=&#34;DevOps Weekly&#34; class=&#34;aligncenter&#34; width=&#34;798&#34; height=&#34;362&#34; /&gt;&lt;/p&gt;&lt;p&gt;The latest one has a bunch of good links, and one i found especially was this &amp;#8220;&lt;a href=&#34;http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1&#34; title=&#34;Scaling at Dropbox&#34; target=&#34;_blank&#34;&gt;Scaling lessons learned at Dropbox, part 1&lt;/a&gt;&amp;#8220;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Leap Motion</title>
       <link>http://theb0ardside.com/leapmotion/</link>
       <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/leapmotion/</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/_d6KuiuteIA?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;ooh, nice. Just saw this company mentioned in the &lt;a href=&#34;http://news.ycombinator.com/item?id=4189793&#34; title=&#34;HN&#34; target=&#34;_blank&#34;&gt;comments of an HN thread&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>scaling at dropbox</title>
+      <link>http://theb0ardside.com/scalingatdropbox/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/scalingatdropbox/</guid>
+      <description>&lt;p&gt;I highly recommend this &lt;a href=&#34;http://devopsweekly.com/&#34; title=&#34;DevOps Weekly&#34; target=&#34;_blank&#34;&gt;DevOps Weekly mail out&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://image-host.appspot.com/i/img?id=agppbWFnZS1ob3N0cg0LEgVJbWFnZRiJpAEM&#34; title=&#34;DevOps Weekly&#34; class=&#34;aligncenter&#34; width=&#34;798&#34; height=&#34;362&#34; /&gt;&lt;/p&gt;&lt;p&gt;The latest one has a bunch of good links, and one i found especially was this &amp;#8220;&lt;a href=&#34;http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1&#34; title=&#34;Scaling at Dropbox&#34; target=&#34;_blank&#34;&gt;Scaling lessons learned at Dropbox, part 1&lt;/a&gt;&amp;#8220;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1792,22 +1806,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>The Mother Of All Demos, 1968</title>
-      <link>http://theb0ardside.com/themotherofalldemos1968/</link>
-      <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://sloan.stanford.edu/MouseSite/dce1968conferenceannouncement.jpg&#34; title=&#34;advert&#34; class=&#34;aligncenter&#34; width=&#34;566&#34; height=&#34;760&#34; /&gt;&lt;/p&gt;&lt;p&gt;Watch it &lt;a href=&#34;http://sloan.stanford.edu/MouseSite/1968Demo.html#complete&#34; title=&#34;Mother Of All Demos complete&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Multicore UFOs</title>
       <link>http://theb0ardside.com/multicoreufos/</link>
       <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/multicoreufos/</guid>
       <description>&lt;p&gt;Interesting &lt;a href=&#34;http://gigaom.com/cloud/facebook-tilera/&#34; title=&#34;GigaOm FB Tilera &#34; target=&#34;_blank&#34;&gt;article on GigaOm&lt;/a&gt; this morning about Facebook benchmarking a 64-core chip from &lt;a href=&#34;http://www.tilera.com/&#34; title=&#34;Tilera&#34; target=&#34;_blank&#34;&gt;Tilera&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://www.tilera.com/sites/default/files/products/TILE64_0.jpg&#34; title=&#34;Tilera TILE64&#34; class=&#34;aligncenter&#34; width=&#34;160&#34; height=&#34;160&#34; /&gt;&lt;/p&gt;&lt;p&gt;The X86 processor architecture has been in a dominant for so many years, not based upon any inherent sophistication, but more based upon chance and circumstance (see &lt;a href=&#34;http://developer.yahoo.com/yui/theater/video.php?v=crockonjs-1&#34; title=&#34;Doug Crockford&#34; target=&#34;_blank&#34;&gt;this vid&lt;/a&gt; for more details around the 48min mark), so it does feel about time for a new advancement in hardware architecture. &lt;/p&gt;&lt;p&gt;Be interesting to watch this space and see what develops..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Mother Of All Demos, 1968</title>
+      <link>http://theb0ardside.com/themotherofalldemos1968/</link>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://sloan.stanford.edu/MouseSite/dce1968conferenceannouncement.jpg&#34; title=&#34;advert&#34; class=&#34;aligncenter&#34; width=&#34;566&#34; height=&#34;760&#34; /&gt;&lt;/p&gt;&lt;p&gt;Watch it &lt;a href=&#34;http://sloan.stanford.edu/MouseSite/1968Demo.html#complete&#34; title=&#34;Mother Of All Demos complete&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1852,22 +1866,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>zettabytez</title>
-      <link>http://theb0ardside.com/zettabytez/</link>
-      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/zettabytez/</guid>
-      <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Node.js</title>
       <link>http://theb0ardside.com/nodejs/</link>
       <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/nodejs/</guid>
       <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>zettabytez</title>
+      <link>http://theb0ardside.com/zettabytez/</link>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/zettabytez/</guid>
+      <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
