@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-01-29 00:00:00 &#43;0000 UTC</updated>
+    <updated>2015-06-02 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>From Config Management to a proper Scheduling system</title>
+      <link>http://theb0ardside.com/coreosfestcloser/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/coreosfestcloser/</guid>
+      <description>&lt;p&gt;This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/juCQMnSfysQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Etcd 2.0 walkthrough</title>
