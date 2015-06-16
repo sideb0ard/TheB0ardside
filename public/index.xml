@@ -9,6 +9,20 @@
     <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
     
     <item>
+      <title>Roots of Computing, 1963</title>
+      <link>http://theb0ardside.com/roots-of-os-1963/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/roots-of-os-1963/</guid>
+      <description>&lt;p&gt;Oh man, this is incredible, seriously best historic piece I&amp;rsquo;ve watched, with the origins of operating system methodoligies, and crazy typewriter I/O UX, pre-CRTs!&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Q07PhW5sCEk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Docker Storage Drivers</title>
       <link>http://theb0ardside.com/docker-filesystems/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 UTC</pubDate>
@@ -355,20 +369,6 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Underwater Cables, 1939</title>
-      <link>http://theb0ardside.com/underwatercables1939/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/underwatercables1939/</guid>
-      <description>&lt;p&gt;Yow, 1056 wires - 1930s style Undersea Telephony biz..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/G5od6roIMtQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>AWS VPC best practises</title>
       <link>http://theb0ardside.com/vpc-design/</link>
       <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
@@ -378,6 +378,20 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YoX_frLHbEs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Underwater Cables, 1939</title>
+      <link>http://theb0ardside.com/underwatercables1939/</link>
+      <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/underwatercables1939/</guid>
+      <description>&lt;p&gt;Yow, 1056 wires - 1930s style Undersea Telephony biz..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/G5od6roIMtQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -441,6 +455,22 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
+      <title>Eric Brewer on Container usage at Google</title>
+      <link>http://theb0ardside.com/containers-at-google/</link>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/containers-at-google/</guid>
+      <description>&lt;p&gt;Eric Brewer&amp;rsquo;s keynote from Dockercon14 -&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YrxnVKZeqK8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Solomon Hykes, Dockercon14</title>
       <link>http://theb0ardside.com/solomon-hykes-docker/</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
@@ -465,22 +495,6 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jG63r4e6eb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Eric Brewer on Container usage at Google</title>
-      <link>http://theb0ardside.com/containers-at-google/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/containers-at-google/</guid>
-      <description>&lt;p&gt;Eric Brewer&amp;rsquo;s keynote from Dockercon14 -&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YrxnVKZeqK8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!&lt;/p&gt;
 </description>
     </item>
     
@@ -701,18 +715,6 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>B0ardcasts on Mixcloud</title>
-      <link>http://theb0ardside.com/b0ardcast-mixclouds/</link>
-      <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/b0ardcast-mixclouds/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s a link to the Mixcloud page with the past couple of B0ardcast shows and tracklistings..&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe width=&#34;660&#34; height=&#34;180&#34; src=&#34;//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fsideb0ard%2Fthe-b0ardside-episode-4-03042014%2F&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=6da99aff-ee2b-489c-8566-59479e128c20&amp;amp;hide_tracklist=1&amp;amp;replace=0&amp;amp;hide_cover=1&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;p style=&#34;display: block; font-size: 11px; font-family: &#39;Open Sans&#39;, Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: 652px;&#34;&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/the-b0ardside-episode-4-03042014/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;The B0ardside Episode #4 - 03/04/2014&lt;/a&gt;&lt;span&gt; by &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;Sideb0ard&lt;/a&gt;&lt;span&gt; on &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt; Mixcloud&lt;/a&gt;&lt;/p&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Tense Men - RNRFON</title>
       <link>http://theb0ardside.com/tensemen-rnrfon/</link>
       <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
@@ -725,6 +727,18 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp;rsquo;s old house.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>B0ardcasts on Mixcloud</title>
+      <link>http://theb0ardside.com/b0ardcast-mixclouds/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/b0ardcast-mixclouds/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s a link to the Mixcloud page with the past couple of B0ardcast shows and tracklistings..&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe width=&#34;660&#34; height=&#34;180&#34; src=&#34;//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fsideb0ard%2Fthe-b0ardside-episode-4-03042014%2F&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=6da99aff-ee2b-489c-8566-59479e128c20&amp;amp;hide_tracklist=1&amp;amp;replace=0&amp;amp;hide_cover=1&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;p style=&#34;display: block; font-size: 11px; font-family: &#39;Open Sans&#39;, Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: 652px;&#34;&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/the-b0ardside-episode-4-03042014/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;The B0ardside Episode #4 - 03/04/2014&lt;/a&gt;&lt;span&gt; by &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;Sideb0ard&lt;/a&gt;&lt;span&gt; on &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt; Mixcloud&lt;/a&gt;&lt;/p&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -882,20 +896,6 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Better Vim With Damian Conway</title>
-      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
-      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Stop Breaking The Web</title>
       <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
@@ -924,6 +924,20 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Better Vim With Damian Conway</title>
+      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
+      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1674,22 +1688,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>robot</title>
-      <link>http://theb0ardside.com/robot/</link>
-      <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/robot/</guid>
-      <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>a moose loose aboot this hoose</title>
       <link>http://theb0ardside.com/amooselooseabootthishoose/</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/amooselooseabootthishoose/</guid>
       <description>&lt;p&gt;Really enjoyed programming along with this &lt;a href=&#34;http://www.linuxjournal.com/content/moose&#34; title=&#34;moose&#34; target=&#34;_blank&#34;&gt;perl Moose introduction at Linux Journal&lt;/a&gt; - The piece and code are nice and concise.&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://www.linuxjournal.com/files/linuxjournal.com/ufiles/imagecache/node-page/nodeimage/story/moose.png&#34; alt=&#34;Moose&#34; /&gt; &lt;img src=&#34;http://www.linuxjournal.com/files/linuxjournal.com/ufiles/logo-lj.jpg&#34; alt=&#34;lj&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>robot</title>
+      <link>http://theb0ardside.com/robot/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/robot/</guid>
+      <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
 </description>
     </item>
     
@@ -1894,22 +1908,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>zettabytez</title>
-      <link>http://theb0ardside.com/zettabytez/</link>
-      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/zettabytez/</guid>
-      <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Node.js</title>
       <link>http://theb0ardside.com/nodejs/</link>
       <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/nodejs/</guid>
       <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>zettabytez</title>
+      <link>http://theb0ardside.com/zettabytez/</link>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/zettabytez/</guid>
+      <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
