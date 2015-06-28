@@ -6,7 +6,35 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-06-15 00:00:00 &#43;0000 UTC</updated>
+    <updated>2015-06-27 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Selection of Early British Computers</title>
+      <link>http://theb0ardside.com/early-uk-computers/</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/early-uk-computers/</guid>
+      <description>&lt;p&gt;I just finished reading &lt;a href=&#34;http://ed-thelen.org/comp-hist/EarlyBritish.html&#34;&gt;Early British Computers by Simon Lavington&lt;/a&gt; - super good!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://ed-thelen.org/comp-hist/EarlyBritish-p000.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s an &lt;a href=&#34;https://www.youtube.com/playlist?list=PLG7EqWtzeIhUJFbSVfdGXw7fUvAfr0tb_&#34;&gt;awesome playlist of videos&lt;/a&gt; which feature the computers covered.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a selection..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/cozcXiSSkwE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/76OhF3kR2MA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/johDLwL65tE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Roots of Computing, 1963</title>
@@ -644,22 +672,6 @@
     </item>
     
     <item>
-      <title>Acoustic Levitation</title>
-      <link>http://theb0ardside.com/acoustic-levitation/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
-      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Better Vim With Damian Conway</title>
       <link>http://theb0ardside.com/vim-fun-with-conway/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
@@ -686,6 +698,22 @@
 &lt;/div&gt;
 
 &lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acoustic Levitation</title>
+      <link>http://theb0ardside.com/acoustic-levitation/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
+      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
