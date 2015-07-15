@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-06-12 00:00:00 &#43;0000 UTC</updated>
+    <updated>2015-07-14 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Hashicorp are Insane(ly great)</title>
+      <link>http://theb0ardside.com/hashicorp/</link>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/hashicorp/</guid>
+      <description>&lt;p&gt;Oh man, this talk is nuts - Mitchell Hashimoto introducing Terraform and Consul together..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/zi89DZiWfqg&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Docker Storage Drivers</title>
