@@ -6,7 +6,23 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-08-01 00:00:00 &#43;0000 UTC</updated>
+    <updated>2015-08-15 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Skater Dater, 1965</title>
+      <link>http://theb0ardside.com/skater-dater-1965/</link>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/skater-dater-1965/</guid>
+      <description>&lt;p&gt;the best short film ever?&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/lRIt3aDX7-k&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.voteskaterdater.com/&#34;&gt;Nominate it for the National Film Registry&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Perl and Portaudio</title>
@@ -425,20 +441,6 @@
     </item>
     
     <item>
-      <title>Seymour Cray profile</title>
-      <link>http://theb0ardside.com/seymourcray/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/seymourcray/</guid>
-      <description>&lt;p&gt;This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jG63r4e6eb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Solomon Hykes, Dockercon14</title>
       <link>http://theb0ardside.com/solomon-hykes-docker/</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
@@ -448,6 +450,20 @@
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seymour Cray profile</title>
+      <link>http://theb0ardside.com/seymourcray/</link>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/seymourcray/</guid>
+      <description>&lt;p&gt;This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jG63r4e6eb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -716,16 +732,18 @@
     </item>
     
     <item>
-      <title>Better Vim With Damian Conway</title>
-      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
+      <title>Acoustic Levitation</title>
+      <link>http://theb0ardside.com/acoustic-levitation/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
-      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
+      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
+      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -746,18 +764,16 @@
     </item>
     
     <item>
-      <title>Acoustic Levitation</title>
-      <link>http://theb0ardside.com/acoustic-levitation/</link>
+      <title>Better Vim With Damian Conway</title>
+      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
-      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
+      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
+      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
