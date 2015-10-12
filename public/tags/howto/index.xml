@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-09-28 00:00:00 &#43;0000 UTC</updated>
+    <updated>2015-10-11 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Andrew Gerrand talking at Go UK 2015 - stupid gopher tricks</title>
+      <link>http://theb0ardside.com/andrewgerrandgouk2015/</link>
+      <pubDate>Sun, 11 Oct 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/andrewgerrandgouk2015/</guid>
+      <description>&lt;p&gt;Hah, some awesome bits in here&amp;hellip;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/UECh7X07m6E&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Visualising Program Execution</title>
