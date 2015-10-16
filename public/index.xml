@@ -9,6 +9,20 @@
     <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
     
     <item>
+      <title>How To Build a Skyscraper</title>
+      <link>http://theb0ardside.com/howtobuildaskycraper/</link>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/howtobuildaskycraper/</guid>
+      <description>&lt;p&gt;Pretty rad skyscraper history as software-engineering-metaphor..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/7MeBuDLbF98&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Andrew Gerrand talking at Go UK 2015 - stupid gopher tricks</title>
       <link>http://theb0ardside.com/andrewgerrandgouk2015/</link>
       <pubDate>Sun, 11 Oct 2015 00:00:00 UTC</pubDate>
@@ -53,20 +67,6 @@
     </item>
     
     <item>
-      <title>From Solaris to Illumos</title>
-      <link>http://theb0ardside.com/solaris-to-illumos/</link>
-      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/solaris-to-illumos/</guid>
-      <description>&lt;p&gt;Bryan Cantrill, as entertaining as always..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-zRN7XLCRhc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MOS 6502 microcontroller</title>
       <link>http://theb0ardside.com/mos6502-microcontroller/</link>
       <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
@@ -76,6 +76,20 @@
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wOJj-IdYZxI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Solaris to Illumos</title>
+      <link>http://theb0ardside.com/solaris-to-illumos/</link>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/solaris-to-illumos/</guid>
+      <description>&lt;p&gt;Bryan Cantrill, as entertaining as always..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-zRN7XLCRhc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -648,18 +662,16 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Eric Brewer on Container usage at Google</title>
-      <link>http://theb0ardside.com/containers-at-google/</link>
+      <title>Solomon Hykes, Dockercon14</title>
+      <link>http://theb0ardside.com/solomon-hykes-docker/</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/containers-at-google/</guid>
-      <description>&lt;p&gt;Eric Brewer&amp;rsquo;s keynote from Dockercon14 -&lt;/p&gt;
+      <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
+      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YrxnVKZeqK8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-&lt;p&gt;Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!&lt;/p&gt;
 </description>
     </item>
     
@@ -678,16 +690,18 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Solomon Hykes, Dockercon14</title>
-      <link>http://theb0ardside.com/solomon-hykes-docker/</link>
+      <title>Eric Brewer on Container usage at Google</title>
+      <link>http://theb0ardside.com/containers-at-google/</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
-      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
+      <guid>http://theb0ardside.com/containers-at-google/</guid>
+      <description>&lt;p&gt;Eric Brewer&amp;rsquo;s keynote from Dockercon14 -&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YrxnVKZeqK8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;p&gt;Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!&lt;/p&gt;
 </description>
     </item>
     
@@ -908,6 +922,18 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
+      <title>B0ardcasts on Mixcloud</title>
+      <link>http://theb0ardside.com/b0ardcast-mixclouds/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/b0ardcast-mixclouds/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s a link to the Mixcloud page with the past couple of B0ardcast shows and tracklistings..&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe width=&#34;660&#34; height=&#34;180&#34; src=&#34;//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fsideb0ard%2Fthe-b0ardside-episode-4-03042014%2F&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=6da99aff-ee2b-489c-8566-59479e128c20&amp;amp;hide_tracklist=1&amp;amp;replace=0&amp;amp;hide_cover=1&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;p style=&#34;display: block; font-size: 11px; font-family: &#39;Open Sans&#39;, Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: 652px;&#34;&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/the-b0ardside-episode-4-03042014/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;The B0ardside Episode #4 - 03/04/2014&lt;/a&gt;&lt;span&gt; by &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;Sideb0ard&lt;/a&gt;&lt;span&gt; on &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt; Mixcloud&lt;/a&gt;&lt;/p&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Tense Men - RNRFON</title>
       <link>http://theb0ardside.com/tensemen-rnrfon/</link>
       <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
@@ -920,18 +946,6 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp;rsquo;s old house.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>B0ardcasts on Mixcloud</title>
-      <link>http://theb0ardside.com/b0ardcast-mixclouds/</link>
-      <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/b0ardcast-mixclouds/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s a link to the Mixcloud page with the past couple of B0ardcast shows and tracklistings..&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe width=&#34;660&#34; height=&#34;180&#34; src=&#34;//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fsideb0ard%2Fthe-b0ardside-episode-4-03042014%2F&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=6da99aff-ee2b-489c-8566-59479e128c20&amp;amp;hide_tracklist=1&amp;amp;replace=0&amp;amp;hide_cover=1&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;p style=&#34;display: block; font-size: 11px; font-family: &#39;Open Sans&#39;, Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: 652px;&#34;&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/the-b0ardside-episode-4-03042014/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;The B0ardside Episode #4 - 03/04/2014&lt;/a&gt;&lt;span&gt; by &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;Sideb0ard&lt;/a&gt;&lt;span&gt; on &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt; Mixcloud&lt;/a&gt;&lt;/p&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1021,25 +1035,6 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Joshua Davis - Beyond Play</title>
-      <link>http://theb0ardside.com/joshua-davis-beyond-play/</link>
-      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/joshua-davis-beyond-play/</guid>
-      <description>&lt;p&gt;Wow. just wow&amp;hellip;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/LJS4fBjdPM4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?!&lt;/p&gt;
-
-&lt;p&gt;This was following me and Tack&amp;rsquo;s &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while. Another friend of mine, &lt;a href=&#34;https://twitter.com/mattspendlove&#34;&gt;Matt Spendlove&lt;/a&gt;, had told me about &lt;a href=&#34;http://natureofcode.com/book/&#34;&gt;The Nature Of Code&lt;/a&gt; which i&amp;rsquo;ve been wanting to read, so I suggested we play with Processing - seems awesome already! So yeah, Codetraxx on hold for a while, and work on a couple of Processing projects for a while &amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Cardb0ard Computer Scientists</title>
       <link>http://theb0ardside.com/cardboard-computer-scientists/</link>
       <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
@@ -1071,6 +1066,25 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Seymour_Cray&#34;&gt;Seymour Cray&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;
 
 &lt;p&gt;(Using the (Mousetrap)[&lt;a href=&#34;http://craig.is/killing/mice&#34;&gt;http://craig.is/killing/mice&lt;/a&gt;] library)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joshua Davis - Beyond Play</title>
+      <link>http://theb0ardside.com/joshua-davis-beyond-play/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/joshua-davis-beyond-play/</guid>
+      <description>&lt;p&gt;Wow. just wow&amp;hellip;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/LJS4fBjdPM4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?!&lt;/p&gt;
+
+&lt;p&gt;This was following me and Tack&amp;rsquo;s &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while. Another friend of mine, &lt;a href=&#34;https://twitter.com/mattspendlove&#34;&gt;Matt Spendlove&lt;/a&gt;, had told me about &lt;a href=&#34;http://natureofcode.com/book/&#34;&gt;The Nature Of Code&lt;/a&gt; which i&amp;rsquo;ve been wanting to read, so I suggested we play with Processing - seems awesome already! So yeah, Codetraxx on hold for a while, and work on a couple of Processing projects for a while &amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -1629,22 +1643,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>scaling at dropbox</title>
-      <link>http://theb0ardside.com/scalingatdropbox/</link>
-      <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/scalingatdropbox/</guid>
-      <description>&lt;p&gt;I highly recommend this &lt;a href=&#34;http://devopsweekly.com/&#34; title=&#34;DevOps Weekly&#34; target=&#34;_blank&#34;&gt;DevOps Weekly mail out&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://image-host.appspot.com/i/img?id=agppbWFnZS1ob3N0cg0LEgVJbWFnZRiJpAEM&#34; title=&#34;DevOps Weekly&#34; class=&#34;aligncenter&#34; width=&#34;798&#34; height=&#34;362&#34; /&gt;&lt;/p&gt;&lt;p&gt;The latest one has a bunch of good links, and one i found especially was this &amp;#8220;&lt;a href=&#34;http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1&#34; title=&#34;Scaling at Dropbox&#34; target=&#34;_blank&#34;&gt;Scaling lessons learned at Dropbox, part 1&lt;/a&gt;&amp;#8220;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Leap Motion</title>
       <link>http://theb0ardside.com/leapmotion/</link>
       <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/leapmotion/</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/_d6KuiuteIA?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;ooh, nice. Just saw this company mentioned in the &lt;a href=&#34;http://news.ycombinator.com/item?id=4189793&#34; title=&#34;HN&#34; target=&#34;_blank&#34;&gt;comments of an HN thread&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>scaling at dropbox</title>
+      <link>http://theb0ardside.com/scalingatdropbox/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/scalingatdropbox/</guid>
+      <description>&lt;p&gt;I highly recommend this &lt;a href=&#34;http://devopsweekly.com/&#34; title=&#34;DevOps Weekly&#34; target=&#34;_blank&#34;&gt;DevOps Weekly mail out&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://image-host.appspot.com/i/img?id=agppbWFnZS1ob3N0cg0LEgVJbWFnZRiJpAEM&#34; title=&#34;DevOps Weekly&#34; class=&#34;aligncenter&#34; width=&#34;798&#34; height=&#34;362&#34; /&gt;&lt;/p&gt;&lt;p&gt;The latest one has a bunch of good links, and one i found especially was this &amp;#8220;&lt;a href=&#34;http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1&#34; title=&#34;Scaling at Dropbox&#34; target=&#34;_blank&#34;&gt;Scaling lessons learned at Dropbox, part 1&lt;/a&gt;&amp;#8220;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1721,22 +1735,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>hitchhikers guide to the googleverse</title>
-      <link>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</link>
-      <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</guid>
-      <description>&lt;p&gt;Maybe they ain&#39;t doing so well with Social, and so what if people are stupid enough to try Bing - It&#39;s visionary efforts like this that show Google still leave most  other companies behind in a dust ball of mundanity&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/mmQl6VGvX-c?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;(( personally, I actually think Google+ is doing fine too - its full of way more techie interesting people and content than all the FB posts by yer aunties and people you went to school with.. ))&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>another cardboard computer scientist portrait</title>
       <link>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</link>
       <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Seymour Cray&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7234/7201335100_51b91c38da_b.jpg&#34; alt=&#34;Seymour Cray&#34; /&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://drawingb0ard.blogspot.com/search/label/cardboard%20computer%20scientists&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;The Cardboard Computer Scientists series 2012&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hitchhikers guide to the googleverse</title>
+      <link>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</link>
+      <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</guid>
+      <description>&lt;p&gt;Maybe they ain&#39;t doing so well with Social, and so what if people are stupid enough to try Bing - It&#39;s visionary efforts like this that show Google still leave most  other companies behind in a dust ball of mundanity&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/mmQl6VGvX-c?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;(( personally, I actually think Google+ is doing fine too - its full of way more techie interesting people and content than all the FB posts by yer aunties and people you went to school with.. ))&lt;/p&gt;
 </description>
     </item>
     
