@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Internals on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/internals.xml</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2015-12-11 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Embedded Android Overview</title>
+      <link>http://theb0ardside.com/embedded-android/</link>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/embedded-android/</guid>
+      <description>&lt;p&gt;Amazingly smooth presentation under time pressure from Karim Yaghmour, giving a super fast overview of the content in his &lt;a href=&#34;http://shop.oreilly.com/product/0636920021094.do&#34;&gt;Embedded Android&lt;/a&gt; book.&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/KLUXPxxJc5c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
