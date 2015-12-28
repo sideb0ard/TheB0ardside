@@ -6,7 +6,22 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-05-26 00:00:00 &#43;0000 UTC</updated>
+    <updated>2015-12-27 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>History and Spirit of C and C&#43;&#43;</title>
+      <link>http://theb0ardside.com/historyspiritc/</link>
+      <pubDate>Sun, 27 Dec 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/historyspiritc/</guid>
+      <description>&lt;p&gt;Some excellent bits of BCPL history in here, which I hadn&amp;rsquo;t come across before&amp;hellip;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/132192250&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/132192250&#34;&gt;History and Spirit of C and C++  - Olve Maudal&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/ndcconferences&#34;&gt;NDC Conferences&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Dijkstra on Elegance</title>
