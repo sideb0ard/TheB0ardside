@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-01-28 00:00:00 &#43;0000 UTC</updated>
+    <updated>2016-03-05 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Bryan Cantrill at Paper&#39;s We Love, NYC 2016</title>
+      <link>http://theb0ardside.com/cantrill-papers-we-love/</link>
+      <pubDate>Sat, 05 Mar 2016 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/cantrill-papers-we-love/</guid>
+      <description>&lt;p&gt;Bryan Cantrill on another awesome one!&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/hgN8pCMLI2U&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>1987 - Hypercard demo</title>
@@ -52,20 +66,6 @@
     </item>
     
     <item>
-      <title>MOS 6502 microcontroller</title>
-      <link>http://theb0ardside.com/mos6502-microcontroller/</link>
-      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/mos6502-microcontroller/</guid>
-      <description>&lt;p&gt;Nice and short 30 min talk about the origins and background to the MOS Technologies 6502 micro-controller, which came out in 1975 and powered the BBC Micro, the Commodore 64, first Nintendo, amongst many others. Super good!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wOJj-IdYZxI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>From Solaris to Illumos</title>
       <link>http://theb0ardside.com/solaris-to-illumos/</link>
       <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
@@ -75,6 +75,20 @@
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-zRN7XLCRhc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MOS 6502 microcontroller</title>
+      <link>http://theb0ardside.com/mos6502-microcontroller/</link>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/mos6502-microcontroller/</guid>
+      <description>&lt;p&gt;Nice and short 30 min talk about the origins and background to the MOS Technologies 6502 micro-controller, which came out in 1975 and powered the BBC Micro, the Commodore 64, first Nintendo, amongst many others. Super good!&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wOJj-IdYZxI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
