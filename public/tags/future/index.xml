@@ -109,6 +109,20 @@
     </item>
     
     <item>
+      <title>Solomon Hykes, Dockercon14</title>
+      <link>http://theb0ardside.com/solomon-hykes-docker/</link>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
+      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Eric Brewer on Container usage at Google</title>
       <link>http://theb0ardside.com/containers-at-google/</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
@@ -121,20 +135,6 @@
 &lt;/div&gt;
 
 &lt;p&gt;Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Solomon Hykes, Dockercon14</title>
-      <link>http://theb0ardside.com/solomon-hykes-docker/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
-      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -419,22 +419,22 @@
     </item>
     
     <item>
-      <title>Node.js</title>
-      <link>http://theb0ardside.com/nodejs/</link>
-      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/nodejs/</guid>
-      <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>zettabytez</title>
       <link>http://theb0ardside.com/zettabytez/</link>
       <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/zettabytez/</guid>
       <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Node.js</title>
+      <link>http://theb0ardside.com/nodejs/</link>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/nodejs/</guid>
+      <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
