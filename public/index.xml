@@ -9,6 +9,20 @@
     <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
     
     <item>
+      <title>Efficiency with Algorithms, Performance with Data Structures</title>
+      <link>http://theb0ardside.com/efficiency-performance-talk-cppcon2014/</link>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/efficiency-performance-talk-cppcon2014/</guid>
+      <description>&lt;p&gt;This is a pretty entertaining talk from Chandler Carruth at CppCon 2014 - lots of good takeaways..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/fHNmRkzxHWs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>SF - Streets by VICE</title>
       <link>http://theb0ardside.com/sanfrancisco-vice/</link>
       <pubDate>Thu, 14 Apr 2016 00:00:00 UTC</pubDate>
@@ -723,20 +737,6 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Underwater Cables, 1939</title>
-      <link>http://theb0ardside.com/underwatercables1939/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/underwatercables1939/</guid>
-      <description>&lt;p&gt;Yow, 1056 wires - 1930s style Undersea Telephony biz..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/G5od6roIMtQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>AWS VPC best practises</title>
       <link>http://theb0ardside.com/vpc-design/</link>
       <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
@@ -746,6 +746,20 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YoX_frLHbEs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Underwater Cables, 1939</title>
+      <link>http://theb0ardside.com/underwatercables1939/</link>
+      <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/underwatercables1939/</guid>
+      <description>&lt;p&gt;Yow, 1056 wires - 1930s style Undersea Telephony biz..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/G5od6roIMtQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1182,25 +1196,6 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Joshua Davis - Beyond Play</title>
-      <link>http://theb0ardside.com/joshua-davis-beyond-play/</link>
-      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/joshua-davis-beyond-play/</guid>
-      <description>&lt;p&gt;Wow. just wow&amp;hellip;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/LJS4fBjdPM4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?!&lt;/p&gt;
-
-&lt;p&gt;This was following me and Tack&amp;rsquo;s &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while. Another friend of mine, &lt;a href=&#34;https://twitter.com/mattspendlove&#34;&gt;Matt Spendlove&lt;/a&gt;, had told me about &lt;a href=&#34;http://natureofcode.com/book/&#34;&gt;The Nature Of Code&lt;/a&gt; which i&amp;rsquo;ve been wanting to read, so I suggested we play with Processing - seems awesome already! So yeah, Codetraxx on hold for a while, and work on a couple of Processing projects for a while &amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Cardb0ard Computer Scientists</title>
       <link>http://theb0ardside.com/cardboard-computer-scientists/</link>
       <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
@@ -1236,6 +1231,25 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
+      <title>Joshua Davis - Beyond Play</title>
+      <link>http://theb0ardside.com/joshua-davis-beyond-play/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/joshua-davis-beyond-play/</guid>
+      <description>&lt;p&gt;Wow. just wow&amp;hellip;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/LJS4fBjdPM4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?!&lt;/p&gt;
+
+&lt;p&gt;This was following me and Tack&amp;rsquo;s &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while. Another friend of mine, &lt;a href=&#34;https://twitter.com/mattspendlove&#34;&gt;Matt Spendlove&lt;/a&gt;, had told me about &lt;a href=&#34;http://natureofcode.com/book/&#34;&gt;The Nature Of Code&lt;/a&gt; which i&amp;rsquo;ve been wanting to read, so I suggested we play with Processing - seems awesome already! So yeah, Codetraxx on hold for a while, and work on a couple of Processing projects for a while &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Street Punk</title>
       <link>http://theb0ardside.com/streetpunk/</link>
       <pubDate>Sat, 04 Jan 2014 00:00:00 UTC</pubDate>
@@ -1266,20 +1280,6 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Better Vim With Damian Conway</title>
-      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
-      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Stop Breaking The Web</title>
       <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
@@ -1292,6 +1292,20 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Better Vim With Damian Conway</title>
+      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
+      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1882,22 +1896,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>hitchhikers guide to the googleverse</title>
-      <link>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</link>
-      <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</guid>
-      <description>&lt;p&gt;Maybe they ain&#39;t doing so well with Social, and so what if people are stupid enough to try Bing - It&#39;s visionary efforts like this that show Google still leave most  other companies behind in a dust ball of mundanity&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/mmQl6VGvX-c?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;(( personally, I actually think Google+ is doing fine too - its full of way more techie interesting people and content than all the FB posts by yer aunties and people you went to school with.. ))&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>another cardboard computer scientist portrait</title>
       <link>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</link>
       <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Seymour Cray&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7234/7201335100_51b91c38da_b.jpg&#34; alt=&#34;Seymour Cray&#34; /&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://drawingb0ard.blogspot.com/search/label/cardboard%20computer%20scientists&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;The Cardboard Computer Scientists series 2012&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hitchhikers guide to the googleverse</title>
+      <link>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</link>
+      <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</guid>
+      <description>&lt;p&gt;Maybe they ain&#39;t doing so well with Social, and so what if people are stupid enough to try Bing - It&#39;s visionary efforts like this that show Google still leave most  other companies behind in a dust ball of mundanity&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/mmQl6VGvX-c?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;(( personally, I actually think Google+ is doing fine too - its full of way more techie interesting people and content than all the FB posts by yer aunties and people you went to school with.. ))&lt;/p&gt;
 </description>
     </item>
     
@@ -2042,22 +2056,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>robot</title>
-      <link>http://theb0ardside.com/robot/</link>
-      <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/robot/</guid>
-      <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>a moose loose aboot this hoose</title>
       <link>http://theb0ardside.com/amooselooseabootthishoose/</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/amooselooseabootthishoose/</guid>
       <description>&lt;p&gt;Really enjoyed programming along with this &lt;a href=&#34;http://www.linuxjournal.com/content/moose&#34; title=&#34;moose&#34; target=&#34;_blank&#34;&gt;perl Moose introduction at Linux Journal&lt;/a&gt; - The piece and code are nice and concise.&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://www.linuxjournal.com/files/linuxjournal.com/ufiles/imagecache/node-page/nodeimage/story/moose.png&#34; alt=&#34;Moose&#34; /&gt; &lt;img src=&#34;http://www.linuxjournal.com/files/linuxjournal.com/ufiles/logo-lj.jpg&#34; alt=&#34;lj&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>robot</title>
+      <link>http://theb0ardside.com/robot/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/robot/</guid>
+      <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
 </description>
     </item>
     
@@ -2202,22 +2216,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>The Mother Of All Demos, 1968</title>
-      <link>http://theb0ardside.com/themotherofalldemos1968/</link>
-      <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://sloan.stanford.edu/MouseSite/dce1968conferenceannouncement.jpg&#34; title=&#34;advert&#34; class=&#34;aligncenter&#34; width=&#34;566&#34; height=&#34;760&#34; /&gt;&lt;/p&gt;&lt;p&gt;Watch it &lt;a href=&#34;http://sloan.stanford.edu/MouseSite/1968Demo.html#complete&#34; title=&#34;Mother Of All Demos complete&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Multicore UFOs</title>
       <link>http://theb0ardside.com/multicoreufos/</link>
       <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/multicoreufos/</guid>
       <description>&lt;p&gt;Interesting &lt;a href=&#34;http://gigaom.com/cloud/facebook-tilera/&#34; title=&#34;GigaOm FB Tilera &#34; target=&#34;_blank&#34;&gt;article on GigaOm&lt;/a&gt; this morning about Facebook benchmarking a 64-core chip from &lt;a href=&#34;http://www.tilera.com/&#34; title=&#34;Tilera&#34; target=&#34;_blank&#34;&gt;Tilera&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://www.tilera.com/sites/default/files/products/TILE64_0.jpg&#34; title=&#34;Tilera TILE64&#34; class=&#34;aligncenter&#34; width=&#34;160&#34; height=&#34;160&#34; /&gt;&lt;/p&gt;&lt;p&gt;The X86 processor architecture has been in a dominant for so many years, not based upon any inherent sophistication, but more based upon chance and circumstance (see &lt;a href=&#34;http://developer.yahoo.com/yui/theater/video.php?v=crockonjs-1&#34; title=&#34;Doug Crockford&#34; target=&#34;_blank&#34;&gt;this vid&lt;/a&gt; for more details around the 48min mark), so it does feel about time for a new advancement in hardware architecture. &lt;/p&gt;&lt;p&gt;Be interesting to watch this space and see what develops..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Mother Of All Demos, 1968</title>
+      <link>http://theb0ardside.com/themotherofalldemos1968/</link>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://sloan.stanford.edu/MouseSite/dce1968conferenceannouncement.jpg&#34; title=&#34;advert&#34; class=&#34;aligncenter&#34; width=&#34;566&#34; height=&#34;760&#34; /&gt;&lt;/p&gt;&lt;p&gt;Watch it &lt;a href=&#34;http://sloan.stanford.edu/MouseSite/1968Demo.html#complete&#34; title=&#34;Mother Of All Demos complete&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -2262,22 +2276,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>zettabytez</title>
-      <link>http://theb0ardside.com/zettabytez/</link>
-      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/zettabytez/</guid>
-      <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Node.js</title>
       <link>http://theb0ardside.com/nodejs/</link>
       <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/nodejs/</guid>
       <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>zettabytez</title>
+      <link>http://theb0ardside.com/zettabytez/</link>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/zettabytez/</guid>
+      <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
