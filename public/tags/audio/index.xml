@@ -6,7 +6,22 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-08-01 00:00:00 &#43;0000 UTC</updated>
+    <updated>2016-05-11 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Android - High Performance Audio</title>
+      <link>http://theb0ardside.com/android-audio-performance/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/android-audio-performance/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m currently working on a Brillo audio component, which will require very low latency performance.
+While searching for some tips and prior art, I came across this talk from Google I/O 2013. A bit older now, but provides an excellent overview of the problem domain and approaches to solving those issues..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/d3kfEeMZ65c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Perl and Portaudio</title>
