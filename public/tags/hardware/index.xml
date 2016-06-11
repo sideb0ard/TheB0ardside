@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-09-18 00:00:00 &#43;0000 UTC</updated>
+    <updated>2016-06-10 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>The Silicon Valley of Hardware</title>
+      <link>http://theb0ardside.com/ashenzjen-wired/</link>
+      <pubDate>Fri, 10 Jun 2016 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/ashenzjen-wired/</guid>
+      <description>&lt;p&gt;Really great wee short from Wired.com about how Shenzhen became the powerhouse it is now..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/hp6F_ApUq-c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>MOS 6502 microcontroller</title>

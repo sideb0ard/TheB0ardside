@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-05-15 00:00:00 &#43;0000 UTC</updated>
+    <updated>2016-06-10 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>The Silicon Valley of Hardware</title>
+      <link>http://theb0ardside.com/ashenzjen-wired/</link>
+      <pubDate>Fri, 10 Jun 2016 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/ashenzjen-wired/</guid>
+      <description>&lt;p&gt;Really great wee short from Wired.com about how Shenzhen became the powerhouse it is now..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/hp6F_ApUq-c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Rob Landley on Toybox</title>
@@ -271,20 +285,6 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
-      <title>From Solaris to Illumos</title>
-      <link>http://theb0ardside.com/solaris-to-illumos/</link>
-      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/solaris-to-illumos/</guid>
-      <description>&lt;p&gt;Bryan Cantrill, as entertaining as always..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-zRN7XLCRhc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MOS 6502 microcontroller</title>
       <link>http://theb0ardside.com/mos6502-microcontroller/</link>
       <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
@@ -294,6 +294,20 @@ While searching for some tips and prior art, I came across this talk from Google
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wOJj-IdYZxI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Solaris to Illumos</title>
+      <link>http://theb0ardside.com/solaris-to-illumos/</link>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/solaris-to-illumos/</guid>
+      <description>&lt;p&gt;Bryan Cantrill, as entertaining as always..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-zRN7XLCRhc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -866,15 +880,15 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Solomon Hykes, Dockercon14</title>
-      <link>http://theb0ardside.com/solomon-hykes-docker/</link>
+      <title>Seymour Cray profile</title>
+      <link>http://theb0ardside.com/seymourcray/</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
-      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
+      <guid>http://theb0ardside.com/seymourcray/</guid>
+      <description>&lt;p&gt;This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jG63r4e6eb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -896,15 +910,15 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Seymour Cray profile</title>
-      <link>http://theb0ardside.com/seymourcray/</link>
+      <title>Solomon Hykes, Dockercon14</title>
+      <link>http://theb0ardside.com/solomon-hykes-docker/</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/seymourcray/</guid>
-      <description>&lt;p&gt;This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!&lt;/p&gt;
+      <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
+      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jG63r4e6eb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1307,20 +1321,6 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Better Vim With Damian Conway</title>
-      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
-      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Acoustic Levitation</title>
       <link>http://theb0ardside.com/acoustic-levitation/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
@@ -1349,6 +1349,20 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Better Vim With Damian Conway</title>
+      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
+      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1847,22 +1861,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>Leap Motion</title>
-      <link>http://theb0ardside.com/leapmotion/</link>
-      <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/leapmotion/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/_d6KuiuteIA?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;ooh, nice. Just saw this company mentioned in the &lt;a href=&#34;http://news.ycombinator.com/item?id=4189793&#34; title=&#34;HN&#34; target=&#34;_blank&#34;&gt;comments of an HN thread&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>scaling at dropbox</title>
       <link>http://theb0ardside.com/scalingatdropbox/</link>
       <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/scalingatdropbox/</guid>
       <description>&lt;p&gt;I highly recommend this &lt;a href=&#34;http://devopsweekly.com/&#34; title=&#34;DevOps Weekly&#34; target=&#34;_blank&#34;&gt;DevOps Weekly mail out&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://image-host.appspot.com/i/img?id=agppbWFnZS1ob3N0cg0LEgVJbWFnZRiJpAEM&#34; title=&#34;DevOps Weekly&#34; class=&#34;aligncenter&#34; width=&#34;798&#34; height=&#34;362&#34; /&gt;&lt;/p&gt;&lt;p&gt;The latest one has a bunch of good links, and one i found especially was this &amp;#8220;&lt;a href=&#34;http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1&#34; title=&#34;Scaling at Dropbox&#34; target=&#34;_blank&#34;&gt;Scaling lessons learned at Dropbox, part 1&lt;/a&gt;&amp;#8220;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leap Motion</title>
+      <link>http://theb0ardside.com/leapmotion/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/leapmotion/</guid>
+      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/_d6KuiuteIA?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;ooh, nice. Just saw this company mentioned in the &lt;a href=&#34;http://news.ycombinator.com/item?id=4189793&#34; title=&#34;HN&#34; target=&#34;_blank&#34;&gt;comments of an HN thread&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1877,16 +1891,6 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>The Ono-Sendai SLB-10 ORB system</title>
-      <link>http://theb0ardside.com/theonosendaislb10orbsystem/</link>
-      <pubDate>Fri, 29 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/theonosendaislb10orbsystem/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5083/5381778688_f94f95fa71_z.jpg&#34; alt=&#34;Ono-Sendai SLB-10 ORB System&#34; /&gt;&lt;/p&gt;&lt;p&gt;&amp;#8220;The SLB-10 is the latest generation of ORB manufactured by Ono-Sendai, utilizing state of the art EM pulse powered flotation; archive-quality audio and visual recording capabilities; fully CMYK coloured, tactile holographic capability; and guaranteed always-on connection to your personal encrypted data storage facility.&lt;/p&gt;&lt;p&gt;ORBs have become so integral to our life and yet they are barely a 7 year old technology. It is worth reflecting on the brief history of these astounding devices, upon which we now rely so heavily.&lt;/p&gt;&lt;p&gt;In 2027, a group of engineers, skaterboarders and film-makers came together to work on a project utilizing the first commercial Shawyer/EmDrive propulsion system released by the British National Space Centre. Their early device was designed initially as a simple anti-gravity camera to be able to follow a moving person, while filming and streaming the data. It was a personal project for their own use, but they also expected it would be useful for other filming niches. What they hadn&amp;rsquo;t expected was the enormous demand from the general public, as real-time life-recording and live-blogging quickly took off, finding a multitude of personal and business uses. They formed a company to market their ORB devices, calling themselves Ono-Sendai, in joking homage to William Gibson.&lt;/p&gt;&lt;p&gt;The market for ORBs exploded, with feature upon feature being added in response to consumer demand: multiple cameras, higher definition a/v recording, voice control and audio speakers, automated laser protection systems, and crucially - the visual feed became integrated with in-Frame overlays. In those days Frames were still competing with handheld devices, before we perfected the means to spatially interact with data.&lt;/p&gt;&lt;p&gt;Two more pieces were necessary to bring us up to date with the contemporary ORB experience - the addition of the holo-projector in 2030, in order to finally disperse with a physical interface; and, more recently in 2032, the first mature ultrasound-based haptic holographic interface was introduced to provide a truly tactile experience.&lt;/p&gt;&lt;p&gt;As many imitators as there are on the market, Ono-Sendai manages to stay one step ahead of the competitors due its truly innovative operating system, SOLX - Son Of LinuX, the most advanced and personable decision-taking, realtime smart O/S. With Ono-Sendai and SOLX assisting your life, you be sure of trusted network access, personal security, and reliable data archive - Get on with enjoying your life!&amp;#8221;&lt;/p&gt;&lt;p&gt;// reblog from &lt;a href=&#34;http://drawingb0ard.blogspot.com/2011/01/ono-sendai-slb-10-orb-system.html&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;old Drawing B0ard post&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>tcpdump patterns</title>
       <link>http://theb0ardside.com/tcpdumppatterns/</link>
       <pubDate>Fri, 29 Jun 2012 00:00:00 UTC</pubDate>
@@ -1895,6 +1899,16 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
       <description>&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7185/6844034348_50dd1c5f32_b.jpg&#34; alt=&#34;McCarthy&#34; /&gt;&lt;/p&gt;&lt;p&gt;I use tcpdump a lot, but mostly at a reasonably high level, only really restricting the capture to host and port info, then pulling the dump back into Wireshark for nicer visualisation and easier filtering.&lt;/p&gt;&lt;p&gt;A couple of months back I read &lt;a href=&#34;http://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/159420229X&#34; title=&#34;Moonwalking With Einstein&#34; target=&#34;_blank&#34;&gt;Moonwalking With Einsten&lt;/a&gt;, which is a nice pop-science history of the importance of memory in previous societies, alongside the contemporary phenomena of &lt;a href=&#34;http://www.worldmemorychampionships.com/&#34; title=&#34;World Memory Competitions&#34; target=&#34;_blank&#34;&gt;competitive memory competitions&lt;/a&gt;. The book is great, and explains how feats of memory are achieved via the technique of &lt;a href=&#34;http://en.wikipedia.org/wiki/Method_of_loci&#34; title=&#34;Memory Palaces&#34; target=&#34;_blank&#34;&gt;memory palaces&lt;/a&gt;, a technique dating back to Roman times - spatial memory relationships. I&#39;ve been using the technique a lot since I read this book, and truly, no magic to it, it really works. Basically, when you have a list of items to remember, you weave each item, in order, into a spatially focussed narrative.&lt;/p&gt;&lt;p&gt;So, last night, I get out my copy of TCP/IP Illustrated, Volume 1*, one of my most-returned-to tech books - I&#39;ve always wanted to have a more encyclopedic knowledge of the lower level details of TCP/IP, and last night applied the Memory Palace Technique to the structure of a TCP packet.&lt;br/&gt;
 (( read the &lt;a href=&#34;http://en.wikipedia.org/wiki/Method_of_loci&#34; title=&#34;Memory Palace - Wikipedia&#34; target=&#34;_blank&#34;&gt;wikipedia article&lt;/a&gt; for more details)) &lt;/p&gt;
 &lt;p&gt;In my memory palace I was walking down the path towards the house where I grew up, and seeing a &amp;#8216;&lt;strong&gt;S&lt;/strong&gt;o&lt;strong&gt;RC&lt;/strong&gt;erer/&lt;strong&gt;Src Port&lt;/strong&gt;&amp;#8216; battling with &amp;#8216;Dick &lt;strong&gt;D&lt;/strong&gt;a&lt;strong&gt;ST&lt;/strong&gt;ardly and Mutley/&lt;strong&gt;Dst Port&lt;/strong&gt;&amp;#8216;, then walk into my mothers front hallway with a &lt;strong&gt;Sequence Number&lt;/strong&gt; along the front hall, then my Grandfather sitting in a chair in the living room saying &amp;#8220;&lt;strong&gt;ACK&lt;/strong&gt;!&amp;#8221; because the soccer is on the television and he&#39;s complaining about the &lt;strong&gt;Header Length&lt;/strong&gt; &amp;#8230; you get the idea - but yeah, you need to make your own memory palace.&lt;/p&gt;&lt;p&gt;Now that I have a complete image of this TCP packet in my head suddenly expressions like :&lt;/p&gt;&lt;p&gt;&lt;code&gt;tcpdump -ni en1 tcp[13] == 18 and host 172.16.1.200 and port 80 &lt;/code&gt;&lt;/p&gt;&lt;p&gt;are way easier to understand and use - the &lt;code&gt;tcp[13]&lt;/code&gt; part refers to the 13th Octet of the packet, which is the Flags octet, then the &lt;code&gt;18&lt;/code&gt; part is a simple decimal representation of the binary flags, in the order they are in the diagram above - i.e the Flags are &lt;/p&gt;&lt;p&gt;&lt;code&gt;CWR | ECE | URG | ACK | PSH | RST | SYN | FIN&lt;/code&gt; &lt;/p&gt;&lt;p&gt;so in my example 18 refers to having both the ACK and SYN flags set - 00010010 which if you&#39;re used to dealing with netmasks math is quite an easy translation. My example, then, will only capture the first response packet from the server, as it would be the only part of the conversation to have both an ACK and SYN flag set. (I used a separate memory palace for the flags themselves)&lt;/p&gt;&lt;p&gt;To capture all SYN packets, including the ACK/SYN ones, you would use:&lt;/p&gt;&lt;p&gt;&lt;code&gt;tcpdump -ni en1 &amp;#039;tcp[13] == 18 or tcp[13] == 2&amp;#039; and host 172.16.1.200 and port 80&lt;/code&gt;.&lt;/p&gt;&lt;p&gt;Memory Palaces are pretty damn useful!&lt;/p&gt;&lt;p&gt;** Most Engineers are aware of TCP/IP Illustrated, however a lot of people I&#39;ve spoken to aren&#39;t aware there was a &lt;a href=&#34;http://www.amazon.com/TCP-Illustrated-Volume-Addison-Wesley-Professional/dp/0321336313/ref=pd_sim_b_1&#34; title=&#34;TCP/IP Illustrated Vol 1 Edition 2&#34; target=&#34;_blank&#34;&gt;2nd Edition published in November of 2011, updated by a guy named Kevin R. Fall&lt;/a&gt; - I would absolutely recommend it, an amazing book and especially with the updates, just seems an essential addition to any Engineer&#39;s library..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Ono-Sendai SLB-10 ORB system</title>
+      <link>http://theb0ardside.com/theonosendaislb10orbsystem/</link>
+      <pubDate>Fri, 29 Jun 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/theonosendaislb10orbsystem/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5083/5381778688_f94f95fa71_z.jpg&#34; alt=&#34;Ono-Sendai SLB-10 ORB System&#34; /&gt;&lt;/p&gt;&lt;p&gt;&amp;#8220;The SLB-10 is the latest generation of ORB manufactured by Ono-Sendai, utilizing state of the art EM pulse powered flotation; archive-quality audio and visual recording capabilities; fully CMYK coloured, tactile holographic capability; and guaranteed always-on connection to your personal encrypted data storage facility.&lt;/p&gt;&lt;p&gt;ORBs have become so integral to our life and yet they are barely a 7 year old technology. It is worth reflecting on the brief history of these astounding devices, upon which we now rely so heavily.&lt;/p&gt;&lt;p&gt;In 2027, a group of engineers, skaterboarders and film-makers came together to work on a project utilizing the first commercial Shawyer/EmDrive propulsion system released by the British National Space Centre. Their early device was designed initially as a simple anti-gravity camera to be able to follow a moving person, while filming and streaming the data. It was a personal project for their own use, but they also expected it would be useful for other filming niches. What they hadn&amp;rsquo;t expected was the enormous demand from the general public, as real-time life-recording and live-blogging quickly took off, finding a multitude of personal and business uses. They formed a company to market their ORB devices, calling themselves Ono-Sendai, in joking homage to William Gibson.&lt;/p&gt;&lt;p&gt;The market for ORBs exploded, with feature upon feature being added in response to consumer demand: multiple cameras, higher definition a/v recording, voice control and audio speakers, automated laser protection systems, and crucially - the visual feed became integrated with in-Frame overlays. In those days Frames were still competing with handheld devices, before we perfected the means to spatially interact with data.&lt;/p&gt;&lt;p&gt;Two more pieces were necessary to bring us up to date with the contemporary ORB experience - the addition of the holo-projector in 2030, in order to finally disperse with a physical interface; and, more recently in 2032, the first mature ultrasound-based haptic holographic interface was introduced to provide a truly tactile experience.&lt;/p&gt;&lt;p&gt;As many imitators as there are on the market, Ono-Sendai manages to stay one step ahead of the competitors due its truly innovative operating system, SOLX - Son Of LinuX, the most advanced and personable decision-taking, realtime smart O/S. With Ono-Sendai and SOLX assisting your life, you be sure of trusted network access, personal security, and reliable data archive - Get on with enjoying your life!&amp;#8221;&lt;/p&gt;&lt;p&gt;// reblog from &lt;a href=&#34;http://drawingb0ard.blogspot.com/2011/01/ono-sendai-slb-10-orb-system.html&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;old Drawing B0ard post&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -2099,22 +2113,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>robot</title>
-      <link>http://theb0ardside.com/robot/</link>
-      <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/robot/</guid>
-      <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>a moose loose aboot this hoose</title>
       <link>http://theb0ardside.com/amooselooseabootthishoose/</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/amooselooseabootthishoose/</guid>
       <description>&lt;p&gt;Really enjoyed programming along with this &lt;a href=&#34;http://www.linuxjournal.com/content/moose&#34; title=&#34;moose&#34; target=&#34;_blank&#34;&gt;perl Moose introduction at Linux Journal&lt;/a&gt; - The piece and code are nice and concise.&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://www.linuxjournal.com/files/linuxjournal.com/ufiles/imagecache/node-page/nodeimage/story/moose.png&#34; alt=&#34;Moose&#34; /&gt; &lt;img src=&#34;http://www.linuxjournal.com/files/linuxjournal.com/ufiles/logo-lj.jpg&#34; alt=&#34;lj&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>robot</title>
+      <link>http://theb0ardside.com/robot/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/robot/</guid>
+      <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
 </description>
     </item>
     
@@ -2319,22 +2333,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>Node.js</title>
-      <link>http://theb0ardside.com/nodejs/</link>
-      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/nodejs/</guid>
-      <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>zettabytez</title>
       <link>http://theb0ardside.com/zettabytez/</link>
       <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/zettabytez/</guid>
       <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Node.js</title>
+      <link>http://theb0ardside.com/nodejs/</link>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/nodejs/</guid>
+      <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -2374,7 +2388,7 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
       <pubDate>Sun, 01 May 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/timetravellingwithunix/</guid>
-      <description>&lt;div&gt;&lt;img class=&#34;aligncenter&#34; title=&#34;SRI International &#34; src=&#34;http://www.urigeller.com/pics/sri.jpg&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;323&#34; /&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;I discovered Unix back in 1998. At the time i was a lowly Windows desktop support engineer when i started dabbling with Red Hat Linux v 4.2. Compared to the process of fixing Windows 3.1 systems ( i.e. reinstall drivers and reboot - if that doesn&amp;rsquo;t work, reinstall OS and drivers - repeat until it does work), playing with Linux was a joy of knowledge. Every part of the installation process was a problem hiding a wormhole of required knowledge. Eventually, we managed to start X - very literally, all we had was a grey screen with an &amp;lsquo;X&amp;rsquo; to represent the mouse pointer. However, it was addictive - every time you had to fix something, there was a reason for it, and you learned from that experience, and once fixed, it would stay fixed.&lt;/p&gt;&lt;p&gt;So, fast forward 13 years, and I find myself in a wiki loop, reading up on Bell Labs, then early iterations of Unix, and especially Version 7 Unix - &lt;a href=&#34;http://en.wikipedia.org/wiki/Version_7_Unix&#34;&gt;http://en.wikipedia.org/wiki/Version_7_Unix&lt;/a&gt; - Back in 1998, i had my head full learning Linux and the newly released SunOS 5.7, so even though i was surrounded by older Vax, SGI, and Digital, I didn&amp;rsquo;t explore much historical software at the time even though i did have a bit of a fixation with the PDP-11.&lt;/p&gt;&lt;/div&gt;
+      <description>&lt;div&gt;&lt;img class=&#34;aligncenter&#34; title=&#34;SRI International &#34; src=&#34;http://www.urigeller.com/wp-content/uploads/2015/01/uri_stanford_400_01.jpg&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;323&#34; /&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;I discovered Unix back in 1998. At the time i was a lowly Windows desktop support engineer when i started dabbling with Red Hat Linux v 4.2. Compared to the process of fixing Windows 3.1 systems ( i.e. reinstall drivers and reboot - if that doesn&amp;rsquo;t work, reinstall OS and drivers - repeat until it does work), playing with Linux was a joy of knowledge. Every part of the installation process was a problem hiding a wormhole of required knowledge. Eventually, we managed to start X - very literally, all we had was a grey screen with an &amp;lsquo;X&amp;rsquo; to represent the mouse pointer. However, it was addictive - every time you had to fix something, there was a reason for it, and you learned from that experience, and once fixed, it would stay fixed.&lt;/p&gt;&lt;p&gt;So, fast forward 13 years, and I find myself in a wiki loop, reading up on Bell Labs, then early iterations of Unix, and especially Version 7 Unix - &lt;a href=&#34;http://en.wikipedia.org/wiki/Version_7_Unix&#34;&gt;http://en.wikipedia.org/wiki/Version_7_Unix&lt;/a&gt; - Back in 1998, i had my head full learning Linux and the newly released SunOS 5.7, so even though i was surrounded by older Vax, SGI, and Digital, I didn&amp;rsquo;t explore much historical software at the time even though i did have a bit of a fixation with the PDP-11.&lt;/p&gt;&lt;/div&gt;
 
 &lt;div&gt;&lt;p&gt;What caught my eye on the wiki page was this line - &amp;ldquo;Bootable images for V7 can still be &lt;a href=&#34;http://ftp.fibranet.cat/UnixArchive/PDP-11/Boot_Images/&#34;&gt;downloaded&lt;/a&gt; today, and can be run on modern hosts using PDP-11 emulators such as &lt;a href=&#34;http://en.wikipedia.org/wiki/SIMH&#34;&gt;SIMH&lt;/a&gt;.&amp;rdquo;.&lt;/p&gt;&lt;p&gt;whut??&lt;/p&gt;&lt;p&gt;Yeah! So, this is my step-by-step instructions for compiling SIMH on OS X (Snow Leopard 10.6.7), running the PDP-11 emulator and getting a V7 Unix image up and running on it. There are other HOWTOs out there and the documentation with SIMH does explain all this, but even so, I found it took me several hours of reading and searching to get things working, so I figure theres still room on the internets for what hopefully is a bit more of a concise howto..&lt;/p&gt;&lt;p&gt;You can find the SIMH homepage at:&lt;br /&gt;&lt;a href=&#34;http://simh.trailing-edge.com/&#34;&gt;http://simh.trailing-edge.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The SIMH project consists of emulators for a bunch of historical machines, load of DEC machines from the VAX, through to the PDP range, plus IBMs, Honeywell, and even the Altair 8080.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&amp;ldquo;&lt;em&gt;The Computer History Simulation Project is a loose Internet-based collective of people interested in restoring historically significant computer hardware and software systems by simulation. The goal of the project is to create highly portable system simulators and to publish them as freeware on the Internet, with freely available copies of significant or representative software.&lt;/em&gt;&amp;rdquo;&lt;/div&gt;&lt;div&gt;&lt;p&gt;(You can also find a precompiled OS X binary at &lt;a href=&#34;http://homepage.mac.com/mba/simh/index.html&#34;&gt;http://homepage.mac.com/mba/simh/index.html&lt;/a&gt; however compiling wasn&amp;rsquo;t hard, and its all part of the fun, right?!)&lt;/p&gt;&lt;p&gt;First, if you don&#39;t already have it, you&#39;ll need to install Libpcap for network support, which you can get from &lt;a href=&#34;http://www.tcpdump.org/&#34;&gt;http://www.tcpdump.org/&lt;/a&gt; - Install libpcap with the usual ./configure, make, make install dance, then download the simh source.&lt;/p&gt;&lt;p&gt;To install on OS X you need to export the OSTYPE environment variable.&lt;br /&gt;(Or you&#39;ll get:&lt;br /&gt;ld: library not found for -lrt&lt;br /&gt;collect2: ld returned 1 exit status&lt;br /&gt;make: *** [BIN/pdp1] Error 1)&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;echo $OSTYPE&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt; &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;export OSTYPE&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;make USE_NETWORK=1&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;I encountered my first failure here, no BIN directory. Easily fixed with:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;mkdir BIN&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;make USE_NETWORK=1&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;boom!&lt;/div&gt;&lt;div&gt;&lt;strong&gt;cd BIN&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;./pdp11&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;After compiling, you can fire up any of the emulators and you&amp;rsquo;ll find yourself in a &lt;strong&gt;sim&amp;gt;&lt;/strong&gt; shell.&lt;/p&gt;&lt;p&gt;&amp;ldquo;Now what the hell do i do?&amp;rdquo; was my first thought.&lt;/p&gt;&lt;p&gt;It took me a bit of reading to understand how to use the simulators, basically they are composed of the devices such as the CPU, disk, memory etc, plus Registers for which you set values. They are quite fully explained in - &lt;a href=&#34;http://simh.trailing-edge.com/pdf/simh_doc.pdf&#34;&gt;http://simh.trailing-edge.com/pdf/simh_doc.pdf&lt;/a&gt; -&lt;/p&gt;&lt;p&gt;In order to load up any of the software, you have to set some device options, map your software image to a device then load it up. You&amp;rsquo;ll find the software at:&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://simh.trailing-edge.com/software.html&#34;&gt;http://simh.trailing-edge.com/software.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;(and for more thorough explanation, read the doc at &lt;a href=&#34;http://simh.trailing-edge.com/pdf/simh_swre.pdf&#34;&gt;http://simh.trailing-edge.com/pdf/simh_swre.pdf&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;The correct V7 Unix to run on the PDP-11 is :&lt;br /&gt;&lt;a href=&#34;http://simh.trailing-edge.com/kits/uv7swre.zip&#34;&gt; http://simh.trailing-edge.com/kits/uv7swre.zip&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The instructions given in the documentation are:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;sim&amp;gt; set cpu u18 &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; sim&amp;gt; set rl0 RL02 &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; sim&amp;gt; att rl0 unix_v7_rl.dsk &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; sim&amp;gt; boot rl0 &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;@boot &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; New Boot, known devices are hp ht rk rl rp tm vt &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; : rl(0,0)rl2unix &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;#&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;They are absolutely correct, however, a gotcha for me was that after i typed &amp;ldquo;&lt;strong&gt;boot rl0&lt;/strong&gt;&amp;rdquo; I only got an &amp;ldquo;&lt;strong&gt;@&lt;/strong&gt;&amp;rdquo; sign, and nothing more. I thought perhaps i had a corrupt image or something was different with my emulator. But no, i was just being a numpty, you actually need to type &amp;ldquo;&lt;strong&gt;boot&lt;/strong&gt;&amp;rdquo; and press return, then type in the &amp;#8220;&lt;strong&gt;rl(0,0)rl2unix &lt;/strong&gt;&amp;#8221; line too.&lt;/p&gt;&lt;p&gt;I also had to create a &lt;strong&gt;/tmp&lt;/strong&gt; directory so i could view man pages, but yeah, apart from that, you should be good to go!&lt;/p&gt;&lt;p&gt;I also had fun playing with 2.11 BSD which i got from :&lt;br /&gt;&lt;a title=&#34;2.11&#34; href=&#34;http://ftp.fibranet.cat/UnixArchive/PDP-11/Boot_Images/2.11_on_Simh/&#34;&gt; http://ftp.fibranet.cat/UnixArchive/PDP-11/Boot_Images/2.11_on_Simh/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This is a really well put together package, with a clear README file on how to use it.&lt;/p&gt;&lt;p&gt;download, unzip and run as:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;./pdp11 211bsd.simh&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You can even telnet into your virtual host:&lt;/p&gt;&lt;p&gt;rar!&lt;/p&gt;&lt;/div&gt;
 </description>
