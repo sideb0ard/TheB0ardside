@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-05-11 00:00:00 &#43;0000 UTC</updated>
+    <updated>2016-06-30 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Daniel Schiffman - Purple Rain in Processing</title>
+      <link>http://theb0ardside.com/purple-rain/</link>
+      <pubDate>Thu, 30 Jun 2016 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/purple-rain/</guid>
+      <description>&lt;p&gt;I was listening to the &lt;a href=&#34;http://creativecodingpodcast.com/61-coding-rainbows-with-dan-shiffman/&#34;&gt;Creative Coding podcast&lt;/a&gt; with Daniel Shiffman the other day - One thing they discussed was Daniel&amp;rsquo;s new Coding Challenges youtube series - this one to do a &amp;lsquo;Purple Rain&amp;rsquo; in Processing is really fun!&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/KkyIDI6rQJI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Android - High Performance Audio</title>
