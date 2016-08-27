@@ -6,7 +6,33 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-06-30 00:00:00 &#43;0000 UTC</updated>
+    <updated>2016-08-27 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Plainview Public Access</title>
+      <link>http://theb0ardside.com/plainview-public-access/</link>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/plainview-public-access/</guid>
+      <description>&lt;p&gt;This is a crazy awesome animation by Anthony Lombardo and John Chrostek &amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;It is one-o-clock in the morning. You&amp;rsquo;ve had a long and tiresome day, and despite your best intentions, dozed off far before you meant to.&lt;/p&gt;
+
+&lt;p&gt;Asleep in the embrace of your old blue La-Z-Boy, you feel a flicker like a breeze full of static at room temperature. You awaken.&lt;/p&gt;
+
+&lt;p&gt;The television is still on.&lt;/p&gt;
+
+&lt;p&gt;Your eyes adjust. The feel of the room has changed. The space between the furniture grows wider, the hallway light seems a valley away. You are alone with the night.&lt;/p&gt;
+
+&lt;p&gt;The sharp hiss of static pulls you back. In your peripheral vision, what light remains dims and flickers as if bathing in the glow of the transmission. From some familiar depths, a song begins to play&amp;hellip;&amp;rdquo;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/AVLPKf0uAhI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I came across it via my friend &lt;a href=&#34;http://www.sfhaa.org/&#34;&gt;Mat&lt;/a&gt;, who recorded a segment of the opening music.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daniel Schiffman - Purple Rain in Processing</title>
@@ -165,6 +191,20 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
+      <title>Sophie Wilson, ARM ISA Architect</title>
+      <link>http://theb0ardside.com/acorn-sophie-wilson</link>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/acorn-sophie-wilson</guid>
+      <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jhwwrSaHdh8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Embedded Android Overview</title>
       <link>http://theb0ardside.com/embedded-android/</link>
       <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
@@ -177,20 +217,6 @@ While searching for some tips and prior art, I came across this talk from Google
 &lt;/div&gt;
 
 &lt;p&gt;I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sophie Wilson, ARM ISA Architect</title>
-      <link>http://theb0ardside.com/acorn-sophie-wilson</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acorn-sophie-wilson</guid>
-      <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jhwwrSaHdh8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -762,6 +788,20 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
+      <title>Seymour Cray profile</title>
+      <link>http://theb0ardside.com/seymourcray/</link>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/seymourcray/</guid>
+      <description>&lt;p&gt;This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jG63r4e6eb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Eric Brewer on Container usage at Google</title>
       <link>http://theb0ardside.com/containers-at-google/</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
@@ -787,20 +827,6 @@ While searching for some tips and prior art, I came across this talk from Google
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Seymour Cray profile</title>
-      <link>http://theb0ardside.com/seymourcray/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/seymourcray/</guid>
-      <description>&lt;p&gt;This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jG63r4e6eb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
