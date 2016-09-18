@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-08-27 00:00:00 &#43;0000 UTC</updated>
+    <updated>2016-09-17 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Julia Evans, Strange Loop 2016</title>
+      <link>http://theb0ardside.com/julia-evans-strange-loop-2016/</link>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/julia-evans-strange-loop-2016/</guid>
+      <description>&lt;p&gt;Fun talk from Julia Evans, from this year&amp;rsquo;s Strange Loop conference:&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/HfD9IMZ9rKY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Plainview Public Access</title>
@@ -191,20 +205,6 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
-      <title>Sophie Wilson, ARM ISA Architect</title>
-      <link>http://theb0ardside.com/acorn-sophie-wilson</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acorn-sophie-wilson</guid>
-      <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jhwwrSaHdh8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Embedded Android Overview</title>
       <link>http://theb0ardside.com/embedded-android/</link>
       <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
@@ -217,6 +217,20 @@ While searching for some tips and prior art, I came across this talk from Google
 &lt;/div&gt;
 
 &lt;p&gt;I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sophie Wilson, ARM ISA Architect</title>
+      <link>http://theb0ardside.com/acorn-sophie-wilson</link>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/acorn-sophie-wilson</guid>
+      <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jhwwrSaHdh8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1111,20 +1125,6 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
-      <title>Better Vim With Damian Conway</title>
-      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
-      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Acoustic Levitation</title>
       <link>http://theb0ardside.com/acoustic-levitation/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
@@ -1137,6 +1137,20 @@ While searching for some tips and prior art, I came across this talk from Google
 &lt;/div&gt;
 
 &lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Better Vim With Damian Conway</title>
+      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
+      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
