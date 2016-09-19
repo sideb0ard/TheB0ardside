@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-09-17 00:00:00 &#43;0000 UTC</updated>
+    <updated>2016-09-19 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Graham Dunning, Mechanical Techno</title>
+      <link>http://theb0ardside.com/algomech2016/</link>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/algomech2016/</guid>
+      <description>&lt;p&gt;I was reading up on &lt;a href=&#34;http://algomech.com/2016/&#34;&gt;ALGOMECH 2016&lt;/a&gt;, &amp;ldquo;the first festival of algorithmic and mechanical movement&amp;rdquo; - which looks ace! This video, by one of the performers, Graham Dunning, is kinda mind blowing - pay off around the 3:38 mark:&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wl1ZrEza7uY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Julia Evans, Strange Loop 2016</title>
@@ -325,20 +339,6 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
-      <title>From Solaris to Illumos</title>
-      <link>http://theb0ardside.com/solaris-to-illumos/</link>
-      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/solaris-to-illumos/</guid>
-      <description>&lt;p&gt;Bryan Cantrill, as entertaining as always..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-zRN7XLCRhc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MOS 6502 microcontroller</title>
       <link>http://theb0ardside.com/mos6502-microcontroller/</link>
       <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
@@ -348,6 +348,20 @@ While searching for some tips and prior art, I came across this talk from Google
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wOJj-IdYZxI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Solaris to Illumos</title>
+      <link>http://theb0ardside.com/solaris-to-illumos/</link>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/solaris-to-illumos/</guid>
+      <description>&lt;p&gt;Bryan Cantrill, as entertaining as always..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-zRN7XLCRhc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -802,20 +816,6 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
-      <title>Seymour Cray profile</title>
-      <link>http://theb0ardside.com/seymourcray/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/seymourcray/</guid>
-      <description>&lt;p&gt;This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jG63r4e6eb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Eric Brewer on Container usage at Google</title>
       <link>http://theb0ardside.com/containers-at-google/</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
@@ -841,6 +841,20 @@ While searching for some tips and prior art, I came across this talk from Google
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seymour Cray profile</title>
+      <link>http://theb0ardside.com/seymourcray/</link>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/seymourcray/</guid>
+      <description>&lt;p&gt;This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jG63r4e6eb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>

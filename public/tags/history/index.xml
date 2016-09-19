@@ -136,20 +136,6 @@
     </item>
     
     <item>
-      <title>From Solaris to Illumos</title>
-      <link>http://theb0ardside.com/solaris-to-illumos/</link>
-      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/solaris-to-illumos/</guid>
-      <description>&lt;p&gt;Bryan Cantrill, as entertaining as always..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-zRN7XLCRhc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MOS 6502 microcontroller</title>
       <link>http://theb0ardside.com/mos6502-microcontroller/</link>
       <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
@@ -159,6 +145,20 @@
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wOJj-IdYZxI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Solaris to Illumos</title>
+      <link>http://theb0ardside.com/solaris-to-illumos/</link>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/solaris-to-illumos/</guid>
+      <description>&lt;p&gt;Bryan Cantrill, as entertaining as always..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-zRN7XLCRhc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
