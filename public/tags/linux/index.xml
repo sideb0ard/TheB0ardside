@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-06-18 00:00:00 &#43;0000 UTC</updated>
+    <updated>2016-10-06 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Runtime Scheduling, Strange Loop 2016</title>
+      <link>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</guid>
+      <description>&lt;p&gt;Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/8g9fG7cApbc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Chris Simmonds - timeline for embedded linux</title>

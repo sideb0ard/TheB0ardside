@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-09-19 00:00:00 &#43;0000 UTC</updated>
+    <updated>2016-10-06 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Runtime Scheduling, Strange Loop 2016</title>
+      <link>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</guid>
+      <description>&lt;p&gt;Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/8g9fG7cApbc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Graham Dunning, Mechanical Techno</title>
@@ -816,6 +830,20 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
+      <title>Solomon Hykes, Dockercon14</title>
+      <link>http://theb0ardside.com/solomon-hykes-docker/</link>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
+      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Eric Brewer on Container usage at Google</title>
       <link>http://theb0ardside.com/containers-at-google/</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
@@ -828,20 +856,6 @@ While searching for some tips and prior art, I came across this talk from Google
 &lt;/div&gt;
 
 &lt;p&gt;Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Solomon Hykes, Dockercon14</title>
-      <link>http://theb0ardside.com/solomon-hykes-docker/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
-      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -1123,6 +1137,20 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
+      <title>Better Vim With Damian Conway</title>
+      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
+      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Stop Breaking The Web</title>
       <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
@@ -1151,20 +1179,6 @@ While searching for some tips and prior art, I came across this talk from Google
 &lt;/div&gt;
 
 &lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Better Vim With Damian Conway</title>
-      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
-      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
 </description>
     </item>
     
