@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Talk on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/talk.xml</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2016-12-30 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Developers Writing The Future</title>
+      <link>http://theb0ardside.com/developers-writing-the-future/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/developers-writing-the-future/</guid>
+      <description>&lt;p&gt;I just read this pretty awesome book &lt;a href=&#34;http://weheardyoulikebooks.com/releases/i-hate-the-internet/&#34;&gt;&amp;lsquo;I Hate The Internet&amp;rsquo; by Jarett Kobek&lt;/a&gt;. It has a nice cynical irreverence, but very astute awareness of the power of modern social networks.&lt;/p&gt;
+
+&lt;p&gt;Coincidentally, I just came across this decent talk from Joel Spolsky, which if you kinda squint a little, sorta touches upon a few similar subjects as in &amp;lsquo;I Hate The Internet&amp;rsquo;, at least in that there a lot of assumptions and decisions baked into the algorithms in modern software, a lot of hidden power structures and bias. The talk goes off in a different direction towards the end, but definitely worth watching.&lt;/p&gt;
+
+&lt;p&gt;The book is brilliant too. Check it.&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/AGyIbZotKlk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

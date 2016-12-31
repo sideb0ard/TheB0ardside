@@ -6,7 +6,25 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-10-06 00:00:00 &#43;0000 UTC</updated>
+    <updated>2016-12-30 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Developers Writing The Future</title>
+      <link>http://theb0ardside.com/developers-writing-the-future/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/developers-writing-the-future/</guid>
+      <description>&lt;p&gt;I just read this pretty awesome book &lt;a href=&#34;http://weheardyoulikebooks.com/releases/i-hate-the-internet/&#34;&gt;&amp;lsquo;I Hate The Internet&amp;rsquo; by Jarett Kobek&lt;/a&gt;. It has a nice cynical irreverence, but very astute awareness of the power of modern social networks.&lt;/p&gt;
+
+&lt;p&gt;Coincidentally, I just came across this decent talk from Joel Spolsky, which if you kinda squint a little, sorta touches upon a few similar subjects as in &amp;lsquo;I Hate The Internet&amp;rsquo;, at least in that there a lot of assumptions and decisions baked into the algorithms in modern software, a lot of hidden power structures and bias. The talk goes off in a different direction towards the end, but definitely worth watching.&lt;/p&gt;
+
+&lt;p&gt;The book is brilliant too. Check it.&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/AGyIbZotKlk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Runtime Scheduling, Strange Loop 2016</title>
@@ -233,6 +251,20 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
+      <title>Sophie Wilson, ARM ISA Architect</title>
+      <link>http://theb0ardside.com/acorn-sophie-wilson</link>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/acorn-sophie-wilson</guid>
+      <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jhwwrSaHdh8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Embedded Android Overview</title>
       <link>http://theb0ardside.com/embedded-android/</link>
       <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
@@ -245,20 +277,6 @@ While searching for some tips and prior art, I came across this talk from Google
 &lt;/div&gt;
 
 &lt;p&gt;I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sophie Wilson, ARM ISA Architect</title>
-      <link>http://theb0ardside.com/acorn-sophie-wilson</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acorn-sophie-wilson</guid>
-      <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jhwwrSaHdh8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -353,20 +371,6 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
-      <title>MOS 6502 microcontroller</title>
-      <link>http://theb0ardside.com/mos6502-microcontroller/</link>
-      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/mos6502-microcontroller/</guid>
-      <description>&lt;p&gt;Nice and short 30 min talk about the origins and background to the MOS Technologies 6502 micro-controller, which came out in 1975 and powered the BBC Micro, the Commodore 64, first Nintendo, amongst many others. Super good!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wOJj-IdYZxI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>From Solaris to Illumos</title>
       <link>http://theb0ardside.com/solaris-to-illumos/</link>
       <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
@@ -376,6 +380,20 @@ While searching for some tips and prior art, I came across this talk from Google
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-zRN7XLCRhc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MOS 6502 microcontroller</title>
+      <link>http://theb0ardside.com/mos6502-microcontroller/</link>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/mos6502-microcontroller/</guid>
+      <description>&lt;p&gt;Nice and short 30 min talk about the origins and background to the MOS Technologies 6502 micro-controller, which came out in 1975 and powered the BBC Micro, the Commodore 64, first Nintendo, amongst many others. Super good!&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wOJj-IdYZxI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1151,22 +1169,6 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
-      <title>Stop Breaking The Web</title>
-      <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
-      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Acoustic Levitation</title>
       <link>http://theb0ardside.com/acoustic-levitation/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
@@ -1179,6 +1181,22 @@ While searching for some tips and prior art, I came across this talk from Google
 &lt;/div&gt;
 
 &lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stop Breaking The Web</title>
+      <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
+      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
