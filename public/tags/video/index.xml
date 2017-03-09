@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-12-30 00:00:00 &#43;0000 UTC</updated>
+    <updated>2017-03-09 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Let Vim do the typing</title>
+      <link>http://theb0ardside.com/let-vim-do-the-typing/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/let-vim-do-the-typing/</guid>
+      <description>&lt;p&gt;Discovered lots of great vim talks - this one is neat:&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/3TX3kV3TICU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Developers Writing The Future</title>
@@ -251,20 +265,6 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
-      <title>Sophie Wilson, ARM ISA Architect</title>
-      <link>http://theb0ardside.com/acorn-sophie-wilson</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acorn-sophie-wilson</guid>
-      <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jhwwrSaHdh8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Embedded Android Overview</title>
       <link>http://theb0ardside.com/embedded-android/</link>
       <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
@@ -277,6 +277,20 @@ While searching for some tips and prior art, I came across this talk from Google
 &lt;/div&gt;
 
 &lt;p&gt;I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sophie Wilson, ARM ISA Architect</title>
+      <link>http://theb0ardside.com/acorn-sophie-wilson</link>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/acorn-sophie-wilson</guid>
+      <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jhwwrSaHdh8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -862,6 +876,20 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
+      <title>Seymour Cray profile</title>
+      <link>http://theb0ardside.com/seymourcray/</link>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/seymourcray/</guid>
+      <description>&lt;p&gt;This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jG63r4e6eb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Eric Brewer on Container usage at Google</title>
       <link>http://theb0ardside.com/containers-at-google/</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
@@ -874,20 +902,6 @@ While searching for some tips and prior art, I came across this talk from Google
 &lt;/div&gt;
 
 &lt;p&gt;Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Seymour Cray profile</title>
-      <link>http://theb0ardside.com/seymourcray/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/seymourcray/</guid>
-      <description>&lt;p&gt;This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jG63r4e6eb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -1155,16 +1169,18 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
-      <title>Better Vim With Damian Conway</title>
-      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
+      <title>Stop Breaking The Web</title>
+      <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
-      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
+      <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
+      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1185,18 +1201,16 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
-      <title>Stop Breaking The Web</title>
-      <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
+      <title>Better Vim With Damian Conway</title>
+      <link>http://theb0ardside.com/vim-fun-with-conway/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
-      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
+      <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
+      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

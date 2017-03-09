@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-06-30 00:00:00 &#43;0000 UTC</updated>
+    <updated>2017-03-09 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Let Vim do the typing</title>
+      <link>http://theb0ardside.com/let-vim-do-the-typing/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/let-vim-do-the-typing/</guid>
+      <description>&lt;p&gt;Discovered lots of great vim talks - this one is neat:&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/3TX3kV3TICU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Daniel Schiffman - Purple Rain in Processing</title>
