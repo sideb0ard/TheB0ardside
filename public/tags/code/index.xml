@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Code on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/code.xml</link>
+    <link>http://theb0ardside.com/tags/code/</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -17,7 +17,7 @@
       <description>&lt;p&gt;I&amp;rsquo;m moving into a new job position soon involving way more code, working in C/C++. I&amp;rsquo;ve just started watching this podcast series and it&amp;rsquo;s excellent - this one in particular is super relevant, bringing one of the best features from Golang into C. I like the minimalism of the project, it seems very much in alignment with the philosophy behind &lt;a href=&#34;//suckless.org&#34;&gt;Suckless&lt;/a&gt;. (There&amp;rsquo;s a previous episode, speaking with Anselm R Garbe from suckless, i&amp;rsquo;d also highly recommend..)&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;a href=&#34;https://twit.tv/shows/floss-weekly/episodes/358?autostart=false&#34;&gt;&lt;img width=&#34;900&#34; src=&#34;/static/img/floss-randall.png&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://twit.tv/shows/floss-weekly/episodes/358?autostart=false&#34;&gt;&lt;img width=&#34;900&#34; src=&#34;http://theb0ardside.com/static/img/floss-randall.png&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 </description>
     </item>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Architecture on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/architecture.xml</link>
+    <link>http://theb0ardside.com/tags/architecture/</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -26,10 +26,10 @@
     
     <item>
       <title>Sophie Wilson, ARM ISA Architect</title>
-      <link>http://theb0ardside.com/acorn-sophie-wilson</link>
+      <link>http://theb0ardside.com/acorn-sophie-wilson/</link>
       <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acorn-sophie-wilson</guid>
+      <guid>http://theb0ardside.com/acorn-sophie-wilson/</guid>
       <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;

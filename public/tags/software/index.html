@@ -5,9 +5,9 @@
 
     <base href="http://theb0ardside.com">
     <title> TheB0ardside.com </title>
-    <link rel="canonical" href="http://theb0ardside.com/tags/software.html">
-    <link href="http://theb0ardside.com/static/css/b0ardstrap.min.css" rel="stylesheet"/>
-    <link href="http://theb0ardside.com/static/css/b0ardstyle.css" rel="stylesheet"/>
+    <link rel="canonical" href="http://theb0ardside.com/tags/software/">
+    <link href="/static/css/b0ardstrap.min.css" rel="stylesheet"/>
+    <link href="/static/css/b0ardstyle.css" rel="stylesheet"/>
 
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://theb0ardside.com/index.xml" />
 
@@ -17,7 +17,7 @@
   
   <div class="navbar-blah">
   <div class="navbar-header">
-    <a class="navbar-brand" href="http://theb0ardside.com/">The B0ardside_</a>
+    <a class="navbar-brand" href="/">The B0ardside_</a>
   </div>
 
   <div>
@@ -26,7 +26,7 @@
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">hello<b class="caret"></b></a>
         <ul class="dropdown-menu">
             <li><img src="/static/img/thor.jpg"></li>
-            <li><a target="new" href="http://theb0ardside.com/categories/blog/">All Articles</a></li>
+            <li><a target="new" href="/categories/blog/">All Articles</a></li>
             <li><a target="new" href="mailto:thorsten@theb0ardside.com?subject=hullo">Email</a></li>
             <li><a target="new" href="http://github.com/sideb0ard">Code</a></li>
             <li><a target="new" href="http://drawingb0ard.blogspot.com/">Drawings</a></li>
@@ -49,52 +49,9 @@
   <div>
    <h1 id="title">Software</h1>
     
-        <article class="post">
-    <header>
-      <h2><a href='http://theb0ardside.com/developers-writing-the-future/'> Developers Writing The Future</a> </h2>
-      <div class="post-meta">Fri, Dec 30, 2016</div>
-    </header>
-    <p>I just read this pretty awesome book <a href="http://weheardyoulikebooks.com/releases/i-hate-the-internet/">&lsquo;I Hate The Internet&rsquo; by Jarett Kobek</a>. It has a nice cynical irreverence, but very astute awareness of the power of modern social networks.</p>
-
-<p>Coincidentally, I just came across this decent talk from Joel Spolsky, which if you kinda squint a little, sorta touches upon a few similar subjects as in &lsquo;I Hate The Internet&rsquo;, at least in that there a lot of assumptions and decisions baked into the algorithms in modern software, a lot of hidden power structures and bias. The talk goes off in a different direction towards the end, but definitely worth watching.</p>
-
-<p>The book is brilliant too. Check it.</p>
-
-<div class="video-container">
-<iframe width="560" height="315" src="//www.youtube.com/embed/AGyIbZotKlk" frameborder="0" allowfullscreen></iframe>
-</div>
-
-</article>
-
+        
     
-        <article class="post">
-    <header>
-      <h2><a href='http://theb0ardside.com/hugoagogo/'> Hugo A Go-Go</a> </h2>
-      <div class="post-meta">Sat, Nov 30, 2013</div>
-    </header>
-    <p><img src="http://www.internationalhero.co.uk/h/hugoagogo.jpg"></p>
-
-<p>Seems like there is quite a move towards more simple blogging platforms, with a number of static site generators all popping up, building upon the simplicity and growing popularity of <a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a>, a stripped back text-to-HTML syntax, and touting the lack of a needed database. These site generators work usually via uploading or editing the markdown files and have a pre-processor convert the markdown to static html files, alongside some form of templating system. The benefits of such simplicity are the ease of backups, being file based, there is no need for database dumps - standard tools are perfect; and secondly, speed - there is very little overheard for the webserver to serve and cache, without the need to hit the DB on each call.</p>
-
-<p>I was previously running a hosted Wordpress installation on Dreamhost, and it was fine, it was easy and it was running; However, it would slow down sometimes to the point of unusability, and well, I wanted to play with something new!</p>
-
-<p>I decided to spin up an AWS instance and play with some of the static site generators out there.</p>
-
-<p>There were a number turned up on my initial search - <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://ghost.org/">Ghost</a>, <a href="http://dropplets.com/">Dropplets</a>, <a href="http://docs.getpelican.com/en/3.3.0/">Pelican</a>.</p>
-
-<p>Dropplets was the first I looked at - it has a nice clean site, quotes a &ldquo;30 seconds installation&rdquo;, and has all the buzzwords. After downloading it however, i discovered it was written in PHP. next!</p>
-
-<p>I&rsquo;ve been doing a lot of Javascript lately, so <strong>Ghost</strong> sounded pretty good. However, I had problems with some of the required node libraries, specifically the sqlite library - i faffed around for a while trying to build from source, but after 30mins I figured a static site generator should not be this hard to install, so moved on.</p>
-
-<p>Next up i tried <strong>Pelican</strong> (( I must admit, as a Systems Engineer, i feel slightly embarrassed by not being more fluent in Python - I was a Perl guy for many years, and since moving on from there, Ruby has been my lingua franca, mostly due to how essential it is for Chef/Puppet. )). Pelican was up and running pretty quickly, no troubles with the install or running. I left that running for a day or two, but didn&rsquo;t really get around to styling it or finishing it up.</p>
-
-<p>A day or so later, however, I discovered <a href="http://hugo.spf13.com/">Hugo</a> - which just suddenly seemed like the obvious choice. I&rsquo;ve been playing around with GoLang, and although you don&rsquo;t need to actually program anything to get it running, i still liked the idea of using Go. In the end that&rsquo;s the one I&rsquo;ve went with for redoing the site - the documentation is really good, and the speed of the Hugo server seems awesome. So - there it is! Now a Hugo A Go-Go powered site!</p>
-
-<p>p.s.
-Heres <a href="https://gist.github.com/sideb0ard/7728607">the script</a> I used for importing a text dump from a Wordpress export to Markdown files.</p>
-
-</article>
-
+        
     
   </div>
 </section>

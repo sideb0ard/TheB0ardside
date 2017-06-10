@@ -2,11 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Blog on The B0ardside </title>
-    <link>http://theb0ardside.com/categories/blog.xml</link>
+    <link>http://theb0ardside.com/categories/blog/</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2017-03-09 00:00:00 &#43;0000 UTC</updated>
+    <updated>2017-06-09 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Palmbonnen II - Memories of Cindy Pt. 2</title>
+      <link>http://theb0ardside.com/palmbonnenii/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/palmbonnenii/</guid>
+      <description>&lt;p&gt;Have you been watching season 3 of Twin Peaks? so fscking good!
+This is kinda up there &amp;ndash;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/tK2zFTtygfE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Looking forward to receiving the second volume in the mail.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jenn Schiffer talks</title>
@@ -330,10 +347,10 @@ While searching for some tips and prior art, I came across this talk from Google
     
     <item>
       <title>Sophie Wilson, ARM ISA Architect</title>
-      <link>http://theb0ardside.com/acorn-sophie-wilson</link>
+      <link>http://theb0ardside.com/acorn-sophie-wilson/</link>
       <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acorn-sophie-wilson</guid>
+      <guid>http://theb0ardside.com/acorn-sophie-wilson/</guid>
       <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -369,7 +386,7 @@ While searching for some tips and prior art, I came across this talk from Google
       <description>&lt;p&gt;I&amp;rsquo;m moving into a new job position soon involving way more code, working in C/C++. I&amp;rsquo;ve just started watching this podcast series and it&amp;rsquo;s excellent - this one in particular is super relevant, bringing one of the best features from Golang into C. I like the minimalism of the project, it seems very much in alignment with the philosophy behind &lt;a href=&#34;//suckless.org&#34;&gt;Suckless&lt;/a&gt;. (There&amp;rsquo;s a previous episode, speaking with Anselm R Garbe from suckless, i&amp;rsquo;d also highly recommend..)&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;a href=&#34;https://twit.tv/shows/floss-weekly/episodes/358?autostart=false&#34;&gt;&lt;img width=&#34;900&#34; src=&#34;/static/img/floss-randall.png&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://twit.tv/shows/floss-weekly/episodes/358?autostart=false&#34;&gt;&lt;img width=&#34;900&#34; src=&#34;http://theb0ardside.com/static/img/floss-randall.png&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1250,7 +1267,7 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/debuggingproduction/</guid>
       <description>&lt;div&gt;
-&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;&lt;img width=&#34;600&#34; src=&#34;/static/img/joyentprod.png&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;&lt;img width=&#34;600&#34; src=&#34;http://theb0ardside.com/static/img/joyentprod.png&#34;&gt;&lt;/a&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;Bryan Cantrill being funny as hell.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&#34;&lt;em&gt;Bryan Cantrill discusses debugging production systems using post-mortem debugging and dynamic instrumentation, with a bit of history and an introduction to useful debugging tools.&#34;i&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -1353,7 +1370,7 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
       <guid>http://theb0ardside.com/theb0ardcastcometh/</guid>
       <description>&lt;p&gt;Woop! I just got confirmation on friday that I&amp;rsquo;ll have a regular weekly 2 hour radio starting this tuesday on &lt;a href=&#34;http://bff.fm&#34;&gt;bff.fm&lt;/a&gt; - a recent new station out of here in San Francisco. Tune in - 2pm-4pm PST (10pm-Midnite UK) &amp;ndash;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/static/img/b0ardcast.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://theb0ardside.com/static/img/b0ardcast.png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1401,41 +1418,6 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>The Cardb0ard Computer Scientists</title>
-      <link>http://theb0ardside.com/cardboard-computer-scientists/</link>
-      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/cardboard-computer-scientists/</guid>
-      <description>&lt;p&gt;A wee slideshow of my Cardb0ard Computer Scientists project..&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;.&#34; onclick=&#34;return changeImage(-1);&#34;&gt;Previous&lt;/a&gt; // &lt;a href=&#34;.&#34; onclick=&#34;return changeImage(1);&#34;&gt;Next&lt;/a&gt;
-// or better yet - use your left and right arrow-&amp;gt; keys //&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/static/img/cs/babbage.jpg&#34; id=&#34;cardboardscience&#34;&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;These are all drawn on scraps of cardboard i had around, most are either from frozen pizzas or record mailers!&lt;/p&gt;
-
-&lt;p&gt;So far i have:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Charles_Babbage&#34;&gt;Charles Babbage&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Ada_Lovelace&#34;&gt;Ada Lovelace&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Alan_Turing&#34;&gt;Alan Turing&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/John_von_Neumann&#34;&gt;John Von Neumann&lt;/a&gt; // not pictured&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Claude_Shannon&#34;&gt;Claude Shannon&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Konrad_Zuse&#34;&gt;Konrad Zuse&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Vannevar_Bush&#34;&gt;Vannevar Bush&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Doug_Engelbart&#34;&gt;Doug Engelbart&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist&#34;&gt;John McCarthy&lt;/a&gt;)&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Dennis_Ritchie&#34;&gt;Dennis Ritchie&lt;/a&gt; &lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Ken_Thompson&#34;&gt;ken Thompson&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Ted_Nelson&#34;&gt;Ted Nelson&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Seymour_Cray&#34;&gt;Seymour Cray&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;(Using the (Mousetrap)[&lt;a href=&#34;http://craig.is/killing/mice&#34;&gt;http://craig.is/killing/mice&lt;/a&gt;] library)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Joshua Davis - Beyond Play</title>
       <link>http://theb0ardside.com/joshua-davis-beyond-play/</link>
       <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
@@ -1455,6 +1437,41 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
+      <title>The Cardb0ard Computer Scientists</title>
+      <link>http://theb0ardside.com/cardboard-computer-scientists/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/cardboard-computer-scientists/</guid>
+      <description>&lt;p&gt;A wee slideshow of my Cardb0ard Computer Scientists project..&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;.&#34; onclick=&#34;return changeImage(-1);&#34;&gt;Previous&lt;/a&gt; // &lt;a href=&#34;.&#34; onclick=&#34;return changeImage(1);&#34;&gt;Next&lt;/a&gt;
+// or better yet - use your left and right arrow-&amp;gt; keys //&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://theb0ardside.com/static/img/cs/babbage.jpg&#34; id=&#34;cardboardscience&#34;&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;These are all drawn on scraps of cardboard i had around, most are either from frozen pizzas or record mailers!&lt;/p&gt;
+
+&lt;p&gt;So far i have:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Charles_Babbage&#34;&gt;Charles Babbage&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Ada_Lovelace&#34;&gt;Ada Lovelace&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Alan_Turing&#34;&gt;Alan Turing&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/John_von_Neumann&#34;&gt;John Von Neumann&lt;/a&gt; // not pictured&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Claude_Shannon&#34;&gt;Claude Shannon&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Konrad_Zuse&#34;&gt;Konrad Zuse&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Vannevar_Bush&#34;&gt;Vannevar Bush&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Doug_Engelbart&#34;&gt;Doug Engelbart&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)&#34;&gt;John McCarthy&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Dennis_Ritchie&#34;&gt;Dennis Ritchie&lt;/a&gt; &lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Ken_Thompson&#34;&gt;ken Thompson&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Ted_Nelson&#34;&gt;Ted Nelson&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Seymour_Cray&#34;&gt;Seymour Cray&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;(Using the (Mousetrap)[&lt;a href=&#34;http://craig.is/killing/mice&#34;&gt;http://craig.is/killing/mice&lt;/a&gt;] library)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Street Punk</title>
       <link>http://theb0ardside.com/streetpunk/</link>
       <pubDate>Sat, 04 Jan 2014 00:00:00 UTC</pubDate>
@@ -1469,18 +1486,18 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Stop Breaking The Web</title>
-      <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
+      <title>Acoustic Levitation</title>
+      <link>http://theb0ardside.com/acoustic-levitation/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
-      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
+      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
+      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1499,18 +1516,18 @@ Aidan Moffat - The World Around Us&lt;/p&gt;
     </item>
     
     <item>
-      <title>Acoustic Levitation</title>
-      <link>http://theb0ardside.com/acoustic-levitation/</link>
+      <title>Stop Breaking The Web</title>
+      <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
-      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
+      <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
+      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -2261,22 +2278,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>robot</title>
-      <link>http://theb0ardside.com/robot/</link>
-      <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/robot/</guid>
-      <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>a moose loose aboot this hoose</title>
       <link>http://theb0ardside.com/amooselooseabootthishoose/</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/amooselooseabootthishoose/</guid>
       <description>&lt;p&gt;Really enjoyed programming along with this &lt;a href=&#34;http://www.linuxjournal.com/content/moose&#34; title=&#34;moose&#34; target=&#34;_blank&#34;&gt;perl Moose introduction at Linux Journal&lt;/a&gt; - The piece and code are nice and concise.&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://www.linuxjournal.com/files/linuxjournal.com/ufiles/imagecache/node-page/nodeimage/story/moose.png&#34; alt=&#34;Moose&#34; /&gt; &lt;img src=&#34;http://www.linuxjournal.com/files/linuxjournal.com/ufiles/logo-lj.jpg&#34; alt=&#34;lj&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>robot</title>
+      <link>http://theb0ardside.com/robot/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/robot/</guid>
+      <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
 </description>
     </item>
     
@@ -2481,22 +2498,22 @@ Heres &lt;a href=&#34;https://gist.github.com/sideb0ard/7728607&#34;&gt;the scri
     </item>
     
     <item>
-      <title>zettabytez</title>
-      <link>http://theb0ardside.com/zettabytez/</link>
-      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/zettabytez/</guid>
-      <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Node.js</title>
       <link>http://theb0ardside.com/nodejs/</link>
       <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/nodejs/</guid>
       <description>&lt;p&gt;I keep coming across mentions of &lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt;, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks. &lt;/p&gt;&lt;p&gt;This video from node&#39;s creator, Ryan Dahl is a pretty funny and very informative introductory video. I&#39;d recommend programming along with watching it:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jo_B4LTHi3I?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s some further links:&lt;br /&gt;&lt;a href=&#34;http://nodejs.org/docs/v0.4.8/api/synopsis.html&#34;&gt;http://nodejs.org/docs/v0.4.8/api/synopsis.html&lt;/a&gt;&lt;br /&gt;&lt;a href=&#34;http://howtonode.org/&#34;&gt;http://howtonode.org/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This podcast is also a good source of information:&lt;br /&gt;&lt;a href=&#34;http://herdingcode.com/?p=299&#34;&gt;http://herdingcode.com/?p=299&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>zettabytez</title>
+      <link>http://theb0ardside.com/zettabytez/</link>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/zettabytez/</guid>
+      <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,11 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Video on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/video.xml</link>
+    <link>http://theb0ardside.com/tags/video/</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2017-03-09 00:00:00 &#43;0000 UTC</updated>
+    <updated>2017-06-09 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Palmbonnen II - Memories of Cindy Pt. 2</title>
+      <link>http://theb0ardside.com/palmbonnenii/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/palmbonnenii/</guid>
+      <description>&lt;p&gt;Have you been watching season 3 of Twin Peaks? so fscking good!
+This is kinda up there &amp;ndash;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/tK2zFTtygfE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Looking forward to receiving the second volume in the mail.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jenn Schiffer talks</title>
@@ -302,10 +319,10 @@ While searching for some tips and prior art, I came across this talk from Google
     
     <item>
       <title>Sophie Wilson, ARM ISA Architect</title>
-      <link>http://theb0ardside.com/acorn-sophie-wilson</link>
+      <link>http://theb0ardside.com/acorn-sophie-wilson/</link>
       <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
       <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acorn-sophie-wilson</guid>
+      <guid>http://theb0ardside.com/acorn-sophie-wilson/</guid>
       <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
@@ -341,7 +358,7 @@ While searching for some tips and prior art, I came across this talk from Google
       <description>&lt;p&gt;I&amp;rsquo;m moving into a new job position soon involving way more code, working in C/C++. I&amp;rsquo;ve just started watching this podcast series and it&amp;rsquo;s excellent - this one in particular is super relevant, bringing one of the best features from Golang into C. I like the minimalism of the project, it seems very much in alignment with the philosophy behind &lt;a href=&#34;//suckless.org&#34;&gt;Suckless&lt;/a&gt;. (There&amp;rsquo;s a previous episode, speaking with Anselm R Garbe from suckless, i&amp;rsquo;d also highly recommend..)&lt;/p&gt;
 
 &lt;div class=&#34;video-container&#34;&gt;
-&lt;a href=&#34;https://twit.tv/shows/floss-weekly/episodes/358?autostart=false&#34;&gt;&lt;img width=&#34;900&#34; src=&#34;/static/img/floss-randall.png&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://twit.tv/shows/floss-weekly/episodes/358?autostart=false&#34;&gt;&lt;img width=&#34;900&#34; src=&#34;http://theb0ardside.com/static/img/floss-randall.png&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1088,7 +1105,7 @@ While searching for some tips and prior art, I came across this talk from Google
       <author>Thorsten Sideb0ard</author>
       <guid>http://theb0ardside.com/debuggingproduction/</guid>
       <description>&lt;div&gt;
-&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;&lt;img width=&#34;600&#34; src=&#34;/static/img/joyentprod.png&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;&lt;img width=&#34;600&#34; src=&#34;http://theb0ardside.com/static/img/joyentprod.png&#34;&gt;&lt;/a&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;Bryan Cantrill being funny as hell.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&#34;&lt;em&gt;Bryan Cantrill discusses debugging production systems using post-mortem debugging and dynamic instrumentation, with a bit of history and an introduction to useful debugging tools.&#34;i&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -1189,6 +1206,22 @@ While searching for some tips and prior art, I came across this talk from Google
     </item>
     
     <item>
+      <title>Acoustic Levitation</title>
+      <link>http://theb0ardside.com/acoustic-levitation/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
+      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Better Vim With Damian Conway</title>
       <link>http://theb0ardside.com/vim-fun-with-conway/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
@@ -1215,22 +1248,6 @@ While searching for some tips and prior art, I came across this talk from Google
 &lt;/div&gt;
 
 &lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Acoustic Levitation</title>
-      <link>http://theb0ardside.com/acoustic-levitation/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/acoustic-levitation/</guid>
-      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

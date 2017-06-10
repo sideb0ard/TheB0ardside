@@ -1,11 +1,13 @@
 ---
 title: "The B0ardside"
-contentdir: "content"
-layoutdir: "layouts"
-publishdir: "public"
-builddrafts: false
-indexes:
+contentDir: "content"
+layoutDir: "layouts"
+publishDir: "public"
+buildDrafts: false
+taxonomies:
    category: "categories"
    tag: "tags"
-baseurl: "http://theb0ardside.com"
+baseURL: "http://theb0ardside.com"
+params:
+    SidebarRecentLimit: 5
 ...
