@@ -49,37 +49,175 @@
   <div>
    <h1 id="title">Internet</h1>
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/aaronswartz/'> Aaron Swartz story</a> </h2>
+      <div class="post-meta">Sun, Jun 29, 2014</div>
+    </header>
+    <p>Wow, this Aaron Swartz documentary is great, well worth a watch -&gt;</p>
+
+<div class="video-container">
+<iframe src="https://archive.org/embed/TheInternetsOwnBoyTheStoryOfAaronSwartz" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+</div>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/urban-giants/'> Urban Giants</a> </h2>
+      <div class="post-meta">Thu, Jun 26, 2014</div>
+    </header>
+    <p>Beautifully shot, mind blowing short documentary about New York&rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;T Long Lines Building ..</p>
+
+<div class="video-container">
+<iframe src="//player.vimeo.com/video/97945495" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<p>Found via <a href="http://bldgblog.blogspot.com/2014/06/urban-giants.html">BldBlog site</a></p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/computersforcynics/'> Computers For Cynics</a> </h2>
+      <div class="post-meta">Sun, Aug 11, 2013</div>
+    </header>
+    <p>hah, nice counterpart to all the recent good, but hyperbole books i've been reading (<a href="http://www.amazon.com/What-Dormouse-Said-Counterculture-Personal/dp/0143036769/ref=sr_1_1?s=books&#038;ie=UTF8&#038;qid=1376258195&#038;sr=1-1&#038;keywords=what+the+dormouse+said" title="What The Dormouse Said" target="_blank">What The Dormouse Said</a>, and <a href="http://www.amazon.com/Dealers-Lightning-Xerox-PARC-Computer/dp/0887309895/ref=pd_sim_b_4" title="Dealers Of Lightning" target="_blank">Dealers Of Lightning</a>) -</p><p><iframe width="590" height="443" src="http://www.youtube.com/embed/KdnGPQaICjk?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/jedbergtalkatairbnb/'> jedberg talk at Airbnb</a> </h2>
+      <div class="post-meta">Wed, May 8, 2013</div>
+    </header>
+    <p>I was along at this talk last year, and just now found it online - was one of the most informative talks i've been to, learned loads from it -</p><p><iframe width="590" height="443" src="http://www.youtube.com/embed/cCAO9moDucI?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/perlparpparp/'> perl parp parp</a> </h2>
+      <div class="post-meta">Sun, Sep 2, 2012</div>
+    </header>
+    <p>I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating.  First stop was the exceptionally useful <a href="http://www.whatsmydns.net/ " title="What&#039;s My DNS?" target="_blank">Whats My DNS</a></p><p>At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host. I googled around for a timer utility which run a command for a given time, so i could quantify the difference. Perfect answer was <a href="http://stackoverflow.com/questions/601543/command-line-command-to-auto-kill-a-command-after-a-certain-amount-of-time" title="Stack Overflow" target="_blank">here</a>, a simple perl wrapper function.</p><p>Here's how to use it to run tcpdump command for sixty seconds, and count the packets seen:</p><p><small><code># doalarm () { perl -e &#039;alarm shift; exec @ARGV&#039; "$@"; }<br /># doalarm 60 tcpdump -u  -i eth0 port 53  -n  |wc -l<br />tcpdump: verbose output suppressed, use -v or -vv for full protocol decode<br />listening on eth0, link-type EN10MB (Ethernet), capture size 65535 bytes<br />19504</code></small></p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/somefavvelocitytalks/'> some fav Velocity talks</a> </h2>
+      <div class="post-meta">Mon, Jul 2, 2012</div>
+    </header>
+    <p><a href="http://velocityconf.com/velocity2012" title="Velocity" target="_blank">Velocity</a> was on last week, and I was following along enviously on twitter - I'm making a promise to myself that I'll be along in person next year!</p><p>Quite a few of the talks now appearing online - here's a couple I've watched so far..</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/2S0k12uZR14?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/bM0yL0eQ9EM?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/aroundtheearthin200ms/'> Around the Earth in 200ms</a> </h2>
+      <div class="post-meta">Wed, Jun 20, 2012</div>
+    </header>
+    <p><img src="http://farm9.staticflickr.com/8144/7130704573_e6954f496e_z.jpg" alt="" /></p><p>A month or two back, i saw an interesting figure on Bram Cohen's blog:</p><p>&#8220;The speed of light in a fiber optic cable around the earth&rsquo;s circumference is about 200 milliseconds.&#8221;<br />(from <a href="http://bramcohen.com/2012/05/04/engineering-ip-telephony" title="Bram Cohen" target="_blank">here</a>)</p><p>I clipped it for my ever expanding Evernote tech tips, thinking it's one of those useful metrics to know. I've referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -</p><p>So - speed of light in a vacuum is 186,000 miles per second. However according to <a href="http://en.wikipedia.org/wiki/Optical_fiber#Index_of_refraction" title="optical fiber on wikipedia" target="_blank">this wikipedia article</a>, the index of refraction for the cladding of an optical fiber is 1.52. &#8220;From this information, a good rule of thumb is that signal using optical fiber for communication will travel at around 200 million meters per second&#8221;. </p><p>Ok, so 200, 000,000 meters / second = 200, 000 meters / ms</p><p>&#8220;The circumference of the earth at the equator is 24,901.55 miles (40,075.16 kilometers).&#8221; // from <a href="http://geography.about.com/library/faq/blqzcircumference.htm" title="earth circumerfence" target="_blank">here</a></p><p>40,075.15km = 40,075,000 meters</p><p><strong>With all figures then, Earth Circumference is 40,075,000 meters, and the speed of light in fiber is 200,000 meters per ms:<br />40,075,000 /2 00,000 = 200.375 ms</strong></p><p>// or to be even smarter, I could have just followed the Wolfram Alpha link from Bram's blog <a href="http://www.wolframalpha.com/input/?i=circumference+of+the+earth+%2F+speed+of+light+in+glass" title="Wolfram Alpha" target="_blank">here</a> - gotta love the <a href="http://en.wikipedia.org/wiki/Stephen_Wolfram" title="Stephen Wolfram" target="_blank">Wolfram</a> // </p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/21stcenturyinternet/'> 21st Century Internet</a> </h2>
+      <div class="post-meta">Wed, Jun 6, 2012</div>
+    </header>
+    <p><iframe width="590" height="332" src="http://www.youtube.com/embed/-Uwjt32NvVA?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>via <a href="http://googleblog.blogspot.com/2012/06/world-ipv6-launch-keeping-internet.html" title="google blog" target="_blank">Google Blog</a></p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/technologyassocietysengine/'> Technology As Society&#39;s Engine</a> </h2>
+      <div class="post-meta">Thu, May 3, 2012</div>
+    </header>
+    <p>Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it's a pretty interesting one -</p><!-- iframe plugin v:2.3 - wordpress.org/extend/plugins/iframe/ --><iframe width="560" height="340" src="http://cdn.livestream.com/embed/techonomy?layout=4&amp;clip=pla_e0493fff-f62c-4a9c-bf6b-2844f9ad8d58&amp;height=340&amp;width=560&amp;autoplay=false" style="border:0;outline:0" frameborder="0" scrolling="no" class="iframe-class"></iframe><p>A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. </p><p>I won't repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.</p><p>Technology on the other hand: absolutely it's what will drive the economy, but even that view completely misses the big picture, which is the Medium itself, The Universal Network. I believe we have created a whole new dimension, an evolutionary mathematical abstracted form of biology. This is the beginning of History, Year Zero.</p><p>One hundred years from now, or two thousand - people will be able to look back in time and know with a rich level of detail what our life is like now. Thousands, upon millions of instances of video and audio, images, writings, geo locations, online trails, all readily accessible, interlinked and searchable. This level of detail will only increase, as we start recording every aspect of life. </p><p>With such archives of data, I can easily imagine the kids of 2123 being able to walk through and interact with a virtual London in the swinging 2020&#8242;s, or San Francisco's roaring 2030&#8242;s. Whereas, for future generations, any time predating the late 1990&#8242;s will essentially be a static foreign place in comparison. We have created time-travel - we just don't know it yet.</p><p>This Network has already achieved a basic level of independence from humanity - where now it is possible for a Something to exist outwith a single containing computer system using techniques like redundancy and geographic load-balancing. I don't mean to imply there is any intelligence there, but there is a level of resilience we've never seen in nature before. To give a more concrete example, I'm referring to something like you as a user interacting with the amazon website to purchase something, meanwhile the power goes out in the datacentre hosting the server your browser was communicating with, and, if engineered correctly, your interaction could continue, picked up by a secondary datacentre with no loss of data, nor interruption of service. This isn't exactly life as we know it, but if you squint your eyes just a little, its not too hard to see an analogy to biological cell life.</p><p>Over the next few years, Society's experience of reality is going to go through the biggest change in history, as our physical world merges completely with this new virtual world of realtime interconnected information and communication, completely warping our sense of time and geography.</p><p>The iPhone was stage one, Google Glasses or <a href="http://www.theb0ardside.com/?p=32" target="_blank">something very similar</a> will be stage two, and its right around the corner.</p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/thebiologyofcode/'> the biology of code</a> </h2>
+      <div class="post-meta">Tue, Mar 27, 2012</div>
+    </header>
+    <p>Fabulous piece and video chat with George Dyson over at the always reliable Edge -</p><p><a href="http://edge.org/conversation/a-universe-of-self-replicating-code#.T3E3c83Cv8w.wordpress">A Universe Of Self-replicating Code | Conversation | Edge</a>.</p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/claudeshannonandtheclams/'> Claude Shannon and the Clams</a> </h2>
+      <div class="post-meta">Fri, Mar 16, 2012</div>
+    </header>
+    <p>I finished reading James Gleick's <a href="http://www.goodreads.com/book/show/12279559-the-information" target="_blank">The Information</a> tonite - so good!</p><p>Really, the central character is <a href="http://en.wikipedia.org/wiki/Claude_Shannon" target="_blank">Claude Shannon</a>, who I'm ashamed to admit I didn't previously know much about. Had a quick search when i finished it and found this decent little 30 min documentary which gives a good overview -</p><p><iframe width="590" height="443" src="http://www.youtube.com/embed/z2Whj_nL-x8?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/theinformation/'> The Information</a> </h2>
+      <div class="post-meta">Wed, Mar 14, 2012</div>
+    </header>
+    <p><iframe width="590" height="332" src="http://www.youtube.com/embed/iyOzSzcDwg8?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>I started reading James Gleick's &#8220;The Information&#8221; last week and haven't been able to put it down yet - so good!<br />I just found this video of a talk he presented at Google last year on the book, looks ace, i'll save it for watching this evening.</p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/'> Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</a> </h2>
+      <div class="post-meta">Sun, Feb 19, 2012</div>
+    </header>
+    <p>I've been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn't local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren't hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. </p><p>I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark's IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows. We were pretty much stumped, and the other engineer recommend i look into <a href="http://www.psc.edu/networking/projects/hpn-ssh/">HPN-SSH</a>, which does indeed sound very good, but first i started playing around with trying different ciphers and compression.</p><p>Our uploads are all run via a perl framework, which utilises Net::SFTP in order to do the transfers.<a href="https://github.com/sideb0ard/speedTester" target="_blank"> My test program was also written in perl</a> and using the same library. In order to try different cyphers i started testing uploads with the interactive command line SFTP. Boom! 6Mb/s upload speed. Biiiig difference from the Net::SFTP client. I started playing with blowfish cipher and trying to enable compression with Net::SFTP - it wasn't really working, it can only do Zlib compression, which my SSHD server wouldn't play with until i specifically enabled compression in the sshd_config file.</p><p>After much more digging around, i came across reference to <a href="http://search.cpan.org/~salva/Net-SFTP-Foreign-1.69/lib/Net/SFTP/Foreign.pm">Net::SFTP::Foreign</a>, which uses the installed ssh binary on your system for transport rather than relying on the pure perl Net::SSH.</p><p>Syntax is very similar, so it was a minor rewrite to switch modules, yet such a massive payback, from 0.30Mb/s up to 6Mb/s. </p><p>(It turns out the DSPs i mentioned earlier who could achieve 60Mb/s were actually FTP transfers, not SFTP)</p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/evolutionofthecloud/'> evolution of the cloud</a> </h2>
+      <div class="post-meta">Thu, Feb 2, 2012</div>
+    </header>
+    <p><a href="http://gigaom.com/cloud/why-2013-is-the-year-of-noops-for-programmers-infographic/?utm_source=feedburner&#038;utm_medium=feed&#038;utm_campaign=Feed%3A+OmMalik+%28GigaOM%3A+Tech%29" target="_blank"><img width="600"  src="http://gigaom2.files.wordpress.com/2012/01/appfog_infographic_013012.jpg" alt="" /></a></p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/physicalinternet/'> physical internet</a> </h2>
+      <div class="post-meta">Mon, Oct 3, 2011</div>
+    </header>
+    <p><a href="http://flowingdata.com/2011/10/03/submarine-cable-system-connecting-the-world/" target="_blank"><img alt="" src="http://flowingdata.com/wp-content/uploads/2011/10/Submarine-cable-map-625x405.png" title="submarine cable map" class="alignnone" width="625" height="405" /></a></p><p>Ever since reading Neal Stephenson's <a href="http://www.wired.com/wired/archive/4.12/ffglass_pr.html" title="mother earth mother board" target="_blank">Mother Earth Mother Board</a> article, I've been quite fascinated with the undersea cables which physically connect the land masses of the world. This map, linked above is an amazing view into this part of the Internet's current infrastructure.</p><p>(via <a href="http://flowingdata.com/2011/10/03/submarine-cable-system-connecting-the-world/" title="Flowing Data" target="_blank">flowingdata.com</a>)</p>
+
+</article>
+
     
-        
+        <article class="post">
+    <header>
+      <h2><a href='http://theb0ardside.com/internets1962tillnow/'> Internets 1962 till now</a> </h2>
+      <div class="post-meta">Wed, Aug 10, 2011</div>
+    </header>
+    <p><img alt="" src="http://www.computerhistory.org/internet_history/full_size_images/1969_4-node_map.gif" title="first 4 nodes" class="aligncenter" width="432" height="393" /></p><p>Excellent <a href="http://www.computerhistory.org/internet_history/" target="_blank">timeline of the Internet</a>&#8216;s evolution from 1962 till the present day..</p>
+
+</article>
+
     
   </div>
 </section>
