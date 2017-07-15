@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://theb0ardside.com/curtis-roads-microsound/</loc>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/john-hughes-why-functional/</loc>
     <lastmod>2017-07-13T00:00:00+00:00</lastmod>
   </url>
@@ -1101,7 +1106,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/blog/</loc>
-    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1161,7 +1166,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/</loc>
-    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1474,6 +1479,12 @@
   <url>
     <loc>http://theb0ardside.com/tags/future/</loc>
     <lastmod>2016-12-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/generative/</loc>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2097,7 +2108,13 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/sound/</loc>
-    <lastmod>2013-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/sound-art/</loc>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2229,7 +2246,7 @@
   
   <url>
     <loc>http://theb0ardside.com/</loc>
-    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2307,7 +2324,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/video/</loc>
-    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

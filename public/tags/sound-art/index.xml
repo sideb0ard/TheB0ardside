@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Sound on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/sound/</link>
+      <title>Sound Art on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/sound-art/</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -29,16 +29,6 @@
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/ul4y_e3TLyk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>substack beep boop</title>
-      <link>http://theb0ardside.com/substackbeepboop/</link>
-      <pubDate>Fri, 25 Oct 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/substackbeepboop/</guid>
-      <description>&lt;p&gt;dang, this is awesome::&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/2oz_SwhBixs?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/substack/nodepdx-beep-boop-examples/tree/master/example/waves&#34; title=&#34;github&#34;&gt;github code here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
