@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Monolake on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/monolake/</link>
+    <language>en-us</language>
+    <author>Thorsten Sideb0ard</author>
+    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
+    <updated>2017-07-16 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Robert Henke Granulator</title>
+      <link>http://theb0ardside.com/monolake-granular/</link>
+      <pubDate>Sun, 16 Jul 2017 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/monolake-granular/</guid>
+      <description>&lt;p&gt;Hmm, my &lt;a href=&#34;https://github.com/sideb0ard/SBShell/blob/master/granulator.c&#34;&gt;granular synth&lt;/a&gt; hasn&amp;rsquo;t quite coming together yet, but I&amp;rsquo;m learning a load.&lt;/p&gt;
+
+&lt;p&gt;This is a pretty informative (promo) video from Robert Henke/Monolake showcasing his &lt;a href=&#39;https://www.ableton.com/en/packs/granulator-ii/&#39;&gt;&amp;lsquo;Granulator&amp;rsquo; plugin for Ableton Live.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If i can get mine to sound anything like that i&amp;rsquo;ll be stoked!&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/9pn_b7OUO6I&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
