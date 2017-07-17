@@ -8,7 +8,7 @@ Categories:
 Slug: "monolake-granular"
 ---
 
-Hmm, my <a href="https://github.com/sideb0ard/SBShell/blob/master/granulator.c">granular synth</a> hasn't quite coming together yet, but I'm learning a load.
+Hmm, my <a href="https://github.com/sideb0ard/SBShell/blob/master/granulator.c">granular synth</a> hasn't quite come together yet, but I'm learning a load.
 
 This is a pretty informative (promo) video from Robert Henke/Monolake showcasing his <a href='https://www.ableton.com/en/packs/granulator-ii/'>'Granulator' plugin for Ableton Live.</a>
 
