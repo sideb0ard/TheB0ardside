@@ -6,7 +6,22 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2017-07-15 00:00:00 &#43;0000 UTC</updated>
+    <updated>2017-07-21 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Making Music and Art Through Machine Learning</title>
+      <link>http://theb0ardside.com/magenta-art/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/magenta-art/</guid>
+      <description>&lt;p&gt;This is a good chat with Doug Eck, of the &lt;a href=&#34;g.co/magenta&#34;&gt;Google Magenta project&lt;/a&gt;
+It&amp;rsquo;s a project I&amp;rsquo;ve been keeping an eye on, as it has a ton of potential. I&amp;rsquo;ve generated some melodies based on their &lt;a href=&#34;https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn&#34;&gt;Melody RNN&lt;/a&gt; - although i need to spend more time with it, as I&amp;rsquo;ve been more focussed on own generative algorithms.&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/yz-fHidp1M8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Curtis Roads, Microsound</title>

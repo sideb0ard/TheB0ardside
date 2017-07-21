@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://theb0ardside.com/magenta-art/</loc>
+    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/monolake-granular/</loc>
     <lastmod>2017-07-16T00:00:00+00:00</lastmod>
   </url>
@@ -1057,7 +1062,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/art/</loc>
-    <lastmod>2017-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1117,7 +1122,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/blog/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1177,7 +1182,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1495,7 +1500,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/generative/</loc>
-    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1813,7 +1818,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/music/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2263,7 +2268,7 @@
   
   <url>
     <loc>http://theb0ardside.com/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2341,7 +2346,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/video/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
