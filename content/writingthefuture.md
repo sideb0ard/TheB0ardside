@@ -1,6 +1,6 @@
 ---
 Title: "Developers Writing The Future"
-Description: "Joely Spolky keynoting Slush 2016 Conference"
+Description: "Joel Spolsky keynoting Slush 2016 Conference"
 Tags: ["video", "talk", "software", "future"]
 Date: "2016-12-30"
 Categories:
