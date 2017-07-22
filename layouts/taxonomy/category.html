@@ -1,0 +1,16 @@
+{{ template "base/header.html" . }}
+
+<section id="main">
+  <div>
+  <h1>All Entries...</h1>
+  <div>
+    {{ range .Data.Pages }}
+      {{ .Render "li"}}
+    {{ end }}
+   <br/>
+   <br/>
+  </div>
+  </div>
+</section>
+
+{{ template "base/footer.html" }}

@@ -1,0 +1,150 @@
+INFO 2017/07/21 20:05:51 Using config file: 
+INFO 2017/07/21 20:05:51 /Users/sideboard/NewCodez/TheB0ardside/static/ is the only static directory available to sync from
+INFO 2017/07/21 20:05:51 syncing static files to /
+WARN 2017/07/21 20:05:51 No translation bundle found for default language "en"
+WARN 2017/07/21 20:05:51 Translation func for language en not found, use default.
+WARN 2017/07/21 20:05:51 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2017/07/21 20:05:51 Started building sites ...
+INFO 2017/07/21 20:05:51 found taxonomies: map[string]string{"category":"categories", "tag":"tags"}
+WARN 2017/07/21 20:05:51 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.html.html taxonomy/tag.terms.html _default/terms.html.html _default/terms.html indexes/indexes.html.html indexes/indexes.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html theme/_default/terms.html.html theme/_default/terms.html theme/indexes/indexes.html.html theme/indexes/indexes.html]
+WARN 2017/07/21 20:05:51 [en] Unable to locate layout for "404": [404.html]
+LOG:   2017/07/21 20:05:51 Built site for language en:
+LOG:   2017/07/21 20:05:51 0 draft content
+LOG:   2017/07/21 20:05:51 0 future content
+LOG:   2017/07/21 20:05:51 0 expired content
+LOG:   2017/07/21 20:05:51 196 regular pages created
+LOG:   2017/07/21 20:05:51 474 other pages created
+LOG:   2017/07/21 20:05:51 0 non-page files copied
+LOG:   2017/07/21 20:05:51 0 paginator pages created
+LOG:   2017/07/21 20:05:51 233 tags created
+LOG:   2017/07/21 20:05:51 1 categories created
+LOG:   2017/07/21 20:05:51 total in 84 ms
+WARN 2017/07/21 20:05:51 Skip dataDir: lstat /Users/sideboard/NewCodez/TheB0ardside/data: no such file or directory
+WARN 2017/07/21 20:05:51 Skip i18nDir: lstat /Users/sideboard/NewCodez/TheB0ardside/i18n: no such file or directory
+WARN 2017/07/21 20:05:51 Skip dataDir: lstat /Users/sideboard/NewCodez/TheB0ardside/data: no such file or directory
+WARN 2017/07/21 20:05:51 Skip i18nDir: lstat /Users/sideboard/NewCodez/TheB0ardside/i18n: no such file or directory
+INFO 2017/07/21 20:06:08 Using config file: 
+INFO 2017/07/21 20:06:08 /Users/sideboard/NewCodez/TheB0ardside/static/ is the only static directory available to sync from
+INFO 2017/07/21 20:06:08 syncing static files to /
+WARN 2017/07/21 20:06:08 No translation bundle found for default language "en"
+WARN 2017/07/21 20:06:08 Translation func for language en not found, use default.
+WARN 2017/07/21 20:06:08 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2017/07/21 20:06:08 Started building sites ...
+INFO 2017/07/21 20:06:08 found taxonomies: map[string]string{"category":"categories", "tag":"tags"}
+WARN 2017/07/21 20:06:09 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.html.html taxonomy/tag.terms.html _default/terms.html.html _default/terms.html indexes/indexes.html.html indexes/indexes.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html theme/_default/terms.html.html theme/_default/terms.html theme/indexes/indexes.html.html theme/indexes/indexes.html]
+WARN 2017/07/21 20:06:09 [en] Unable to locate layout for "404": [404.html]
+LOG:   2017/07/21 20:06:09 Built site for language en:
+LOG:   2017/07/21 20:06:09 0 draft content
+LOG:   2017/07/21 20:06:09 0 future content
+LOG:   2017/07/21 20:06:09 0 expired content
+LOG:   2017/07/21 20:06:09 196 regular pages created
+LOG:   2017/07/21 20:06:09 474 other pages created
+LOG:   2017/07/21 20:06:09 0 non-page files copied
+LOG:   2017/07/21 20:06:09 0 paginator pages created
+LOG:   2017/07/21 20:06:09 233 tags created
+LOG:   2017/07/21 20:06:09 1 categories created
+LOG:   2017/07/21 20:06:09 total in 82 ms
+WARN 2017/07/21 20:06:09 Skip dataDir: lstat /Users/sideboard/NewCodez/TheB0ardside/data: no such file or directory
+WARN 2017/07/21 20:06:09 Skip i18nDir: lstat /Users/sideboard/NewCodez/TheB0ardside/i18n: no such file or directory
+WARN 2017/07/21 20:06:09 Skip dataDir: lstat /Users/sideboard/NewCodez/TheB0ardside/data: no such file or directory
+WARN 2017/07/21 20:06:09 Skip i18nDir: lstat /Users/sideboard/NewCodez/TheB0ardside/i18n: no such file or directory
+INFO 2017/07/21 20:07:05 Using config file: 
+INFO 2017/07/21 20:07:05 /Users/sideboard/NewCodez/TheB0ardside/static/ is the only static directory available to sync from
+INFO 2017/07/21 20:07:05 syncing static files to /
+WARN 2017/07/21 20:07:05 No translation bundle found for default language "en"
+WARN 2017/07/21 20:07:05 Translation func for language en not found, use default.
+WARN 2017/07/21 20:07:05 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2017/07/21 20:07:05 Started building sites ...
+INFO 2017/07/21 20:07:06 found taxonomies: map[string]string{"category":"categories", "tag":"tags"}
+WARN 2017/07/21 20:07:06 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.html.html taxonomy/tag.terms.html _default/terms.html.html _default/terms.html indexes/indexes.html.html indexes/indexes.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html theme/_default/terms.html.html theme/_default/terms.html theme/indexes/indexes.html.html theme/indexes/indexes.html]
+WARN 2017/07/21 20:07:06 [en] Unable to locate layout for "404": [404.html]
+LOG:   2017/07/21 20:07:06 Built site for language en:
+LOG:   2017/07/21 20:07:06 0 draft content
+LOG:   2017/07/21 20:07:06 0 future content
+LOG:   2017/07/21 20:07:06 0 expired content
+LOG:   2017/07/21 20:07:06 196 regular pages created
+LOG:   2017/07/21 20:07:06 474 other pages created
+LOG:   2017/07/21 20:07:06 0 non-page files copied
+LOG:   2017/07/21 20:07:06 0 paginator pages created
+LOG:   2017/07/21 20:07:06 1 categories created
+LOG:   2017/07/21 20:07:06 233 tags created
+LOG:   2017/07/21 20:07:06 total in 81 ms
+WARN 2017/07/21 20:07:06 Skip dataDir: lstat /Users/sideboard/NewCodez/TheB0ardside/data: no such file or directory
+WARN 2017/07/21 20:07:06 Skip i18nDir: lstat /Users/sideboard/NewCodez/TheB0ardside/i18n: no such file or directory
+WARN 2017/07/21 20:07:06 Skip dataDir: lstat /Users/sideboard/NewCodez/TheB0ardside/data: no such file or directory
+WARN 2017/07/21 20:07:06 Skip i18nDir: lstat /Users/sideboard/NewCodez/TheB0ardside/i18n: no such file or directory
+INFO 2017/07/21 20:07:33 Using config file: 
+INFO 2017/07/21 20:07:33 /Users/sideboard/NewCodez/TheB0ardside/static/ is the only static directory available to sync from
+INFO 2017/07/21 20:07:33 syncing static files to /
+WARN 2017/07/21 20:07:33 No translation bundle found for default language "en"
+WARN 2017/07/21 20:07:33 Translation func for language en not found, use default.
+WARN 2017/07/21 20:07:33 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2017/07/21 20:07:33 Started building sites ...
+INFO 2017/07/21 20:07:33 found taxonomies: map[string]string{"tag":"tags", "category":"categories"}
+WARN 2017/07/21 20:07:33 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.html.html taxonomy/tag.terms.html _default/terms.html.html _default/terms.html indexes/indexes.html.html indexes/indexes.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html theme/_default/terms.html.html theme/_default/terms.html theme/indexes/indexes.html.html theme/indexes/indexes.html]
+WARN 2017/07/21 20:07:33 [en] Unable to locate layout for "404": [404.html]
+LOG:   2017/07/21 20:07:33 Built site for language en:
+LOG:   2017/07/21 20:07:33 0 draft content
+LOG:   2017/07/21 20:07:33 0 future content
+LOG:   2017/07/21 20:07:33 0 expired content
+LOG:   2017/07/21 20:07:33 196 regular pages created
+LOG:   2017/07/21 20:07:33 474 other pages created
+LOG:   2017/07/21 20:07:33 0 non-page files copied
+LOG:   2017/07/21 20:07:33 0 paginator pages created
+LOG:   2017/07/21 20:07:33 1 categories created
+LOG:   2017/07/21 20:07:33 233 tags created
+LOG:   2017/07/21 20:07:33 total in 93 ms
+WARN 2017/07/21 20:07:33 Skip dataDir: lstat /Users/sideboard/NewCodez/TheB0ardside/data: no such file or directory
+WARN 2017/07/21 20:07:33 Skip i18nDir: lstat /Users/sideboard/NewCodez/TheB0ardside/i18n: no such file or directory
+WARN 2017/07/21 20:07:33 Skip dataDir: lstat /Users/sideboard/NewCodez/TheB0ardside/data: no such file or directory
+WARN 2017/07/21 20:07:33 Skip i18nDir: lstat /Users/sideboard/NewCodez/TheB0ardside/i18n: no such file or directory
+INFO 2017/07/21 20:10:39 Using config file: 
+INFO 2017/07/21 20:10:39 /Users/sideboard/NewCodez/TheB0ardside/static/ is the only static directory available to sync from
+INFO 2017/07/21 20:10:39 syncing static files to /
+WARN 2017/07/21 20:10:39 No translation bundle found for default language "en"
+WARN 2017/07/21 20:10:39 Translation func for language en not found, use default.
+WARN 2017/07/21 20:10:39 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2017/07/21 20:10:39 Started building sites ...
+INFO 2017/07/21 20:10:39 found taxonomies: map[string]string{"category":"categories", "tag":"tags"}
+WARN 2017/07/21 20:10:39 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.html.html taxonomy/tag.terms.html _default/terms.html.html _default/terms.html indexes/indexes.html.html indexes/indexes.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html theme/_default/terms.html.html theme/_default/terms.html theme/indexes/indexes.html.html theme/indexes/indexes.html]
+WARN 2017/07/21 20:10:39 [en] Unable to locate layout for "404": [404.html]
+LOG:   2017/07/21 20:10:39 Built site for language en:
+LOG:   2017/07/21 20:10:39 0 draft content
+LOG:   2017/07/21 20:10:39 0 future content
+LOG:   2017/07/21 20:10:39 0 expired content
+LOG:   2017/07/21 20:10:39 196 regular pages created
+LOG:   2017/07/21 20:10:39 474 other pages created
+LOG:   2017/07/21 20:10:39 0 non-page files copied
+LOG:   2017/07/21 20:10:39 0 paginator pages created
+LOG:   2017/07/21 20:10:39 233 tags created
+LOG:   2017/07/21 20:10:39 1 categories created
+LOG:   2017/07/21 20:10:39 total in 88 ms
+WARN 2017/07/21 20:10:39 Skip dataDir: lstat /Users/sideboard/NewCodez/TheB0ardside/data: no such file or directory
+WARN 2017/07/21 20:10:39 Skip i18nDir: lstat /Users/sideboard/NewCodez/TheB0ardside/i18n: no such file or directory
+WARN 2017/07/21 20:10:39 Skip dataDir: lstat /Users/sideboard/NewCodez/TheB0ardside/data: no such file or directory
+WARN 2017/07/21 20:10:39 Skip i18nDir: lstat /Users/sideboard/NewCodez/TheB0ardside/i18n: no such file or directory
+INFO 2017/07/21 20:13:45 Using config file: 
+INFO 2017/07/21 20:13:45 /Users/sideboard/NewCodez/TheB0ardside/static/ is the only static directory available to sync from
+INFO 2017/07/21 20:13:45 syncing static files to /
+WARN 2017/07/21 20:13:45 No translation bundle found for default language "en"
+WARN 2017/07/21 20:13:45 Translation func for language en not found, use default.
+WARN 2017/07/21 20:13:45 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2017/07/21 20:13:45 Started building sites ...
+INFO 2017/07/21 20:13:45 found taxonomies: map[string]string{"category":"categories", "tag":"tags"}
+WARN 2017/07/21 20:13:45 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.html.html taxonomy/tag.terms.html _default/terms.html.html _default/terms.html indexes/indexes.html.html indexes/indexes.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html theme/_default/terms.html.html theme/_default/terms.html theme/indexes/indexes.html.html theme/indexes/indexes.html]
+WARN 2017/07/21 20:13:45 [en] Unable to locate layout for "404": [404.html]
+LOG:   2017/07/21 20:13:45 Built site for language en:
+LOG:   2017/07/21 20:13:45 0 draft content
+LOG:   2017/07/21 20:13:45 0 future content
+LOG:   2017/07/21 20:13:45 0 expired content
+LOG:   2017/07/21 20:13:45 196 regular pages created
+LOG:   2017/07/21 20:13:45 474 other pages created
+LOG:   2017/07/21 20:13:45 0 non-page files copied
+LOG:   2017/07/21 20:13:45 0 paginator pages created
+LOG:   2017/07/21 20:13:45 1 categories created
+LOG:   2017/07/21 20:13:45 233 tags created
+LOG:   2017/07/21 20:13:45 total in 84 ms
+WARN 2017/07/21 20:13:45 Skip dataDir: lstat /Users/sideboard/NewCodez/TheB0ardside/data: no such file or directory
+WARN 2017/07/21 20:13:45 Skip i18nDir: lstat /Users/sideboard/NewCodez/TheB0ardside/i18n: no such file or directory
+WARN 2017/07/21 20:13:45 Skip dataDir: lstat /Users/sideboard/NewCodez/TheB0ardside/data: no such file or directory
+WARN 2017/07/21 20:13:45 Skip i18nDir: lstat /Users/sideboard/NewCodez/TheB0ardside/i18n: no such file or directory
