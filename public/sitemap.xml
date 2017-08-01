@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://theb0ardside.com/intuitivefft/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/magenta-art/</loc>
     <lastmod>2017-07-21T00:00:00+00:00</lastmod>
   </url>
@@ -1074,7 +1079,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/audio/</loc>
-    <lastmod>2016-05-11T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1122,7 +1127,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/blog/</loc>
-    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1182,7 +1187,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/</loc>
-    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1403,6 +1408,12 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/dsp/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/tags/editing/</loc>
     <lastmod>2014-01-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1441,6 +1452,12 @@
   <url>
     <loc>http://theb0ardside.com/tags/experimental-music/</loc>
     <lastmod>2016-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/fft/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2130,7 +2147,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/sound/</loc>
-    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2268,7 +2285,7 @@
   
   <url>
     <loc>http://theb0ardside.com/</loc>
-    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2346,7 +2363,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/video/</loc>
-    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2364,7 +2381,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/visualization/</loc>
-    <lastmod>2012-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
