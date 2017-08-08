@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Hacker on The B0ardside </title>
-    <link>http://theb0ardside.com/tags/hacker/</link>
+      <title>Crazygood on The B0ardside </title>
+    <link>http://theb0ardside.com/tags/crazygood/</link>
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
@@ -19,20 +19,6 @@ Link comes via man like &lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&
 
 &lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/MDrqBYkco-Y&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>You Can Be A Kernel Hacker</title>
-      <link>http://theb0ardside.com/julia-evans-kernel-hacker/</link>
-      <pubDate>Fri, 26 Sep 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
-      <guid>http://theb0ardside.com/julia-evans-kernel-hacker/</guid>
-      <description>&lt;p&gt;Brilliant, brilliant talk from &lt;a href=&#34;http://jvns.ca/&#34;&gt;Julia Evans&lt;/a&gt;, getting excited about kernel hacking. Warning: Super infectious levels of enthusiasm!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/0IQlpFWTFbM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
