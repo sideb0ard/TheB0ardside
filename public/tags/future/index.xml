@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-12-30 00:00:00 &#43;0000 UTC</updated>
+    <updated>2017-09-16 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Jason Turner - Rich Code For Tiny Computers</title>
+      <link>http://theb0ardside.com/rich-code-tiny-computers/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/rich-code-tiny-computers/</guid>
+      <description>&lt;p&gt;JD from work turned me on to this awesome CppCon talk by Jason Turner - in it he builds a simple commodore64 game using modern C++17 features, and an astounding role for Matt Godbolt&amp;rsquo;s (what a name!) &lt;a href=&#34;https://github.com/mattgodbolt/compiler-explorer&#34;&gt;Compiler Explorer&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/zBkNBP00wJE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Developers Writing The Future</title>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://theb0ardside.com/rich-code-tiny-computers/</loc>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/bcpl/</loc>
     <lastmod>2017-09-09T00:00:00+00:00</lastmod>
   </url>
@@ -1137,7 +1142,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/blog/</loc>
-    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1179,7 +1184,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/c&#43;&#43;/</loc>
-    <lastmod>2016-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1197,7 +1202,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/</loc>
-    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1270,6 +1275,12 @@
   <url>
     <loc>http://theb0ardside.com/tags/communications/</loc>
     <lastmod>2012-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/compiler/</loc>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1527,7 +1538,13 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/future/</loc>
-    <lastmod>2016-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/games/</loc>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1587,7 +1604,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/history/</loc>
-    <lastmod>2016-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2307,7 +2324,7 @@
   
   <url>
     <loc>http://theb0ardside.com/</loc>
-    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2385,7 +2402,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/video/</loc>
-    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
