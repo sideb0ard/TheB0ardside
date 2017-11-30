@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://theb0ardside.com/algorave-guardian-article/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/rich-code-tiny-computers/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
   </url>
@@ -1034,7 +1039,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/algorithmic/</loc>
-    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1142,7 +1147,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/blog/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1202,7 +1207,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1868,7 +1873,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/music/</loc>
-    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2089,6 +2094,12 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/scene/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/tags/sci-fi/</loc>
     <lastmod>2016-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2121,6 +2132,12 @@
   <url>
     <loc>http://theb0ardside.com/tags/shannon-and-the-clams/</loc>
     <lastmod>2014-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/sheffiled/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2324,7 +2341,7 @@
   
   <url>
     <loc>http://theb0ardside.com/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

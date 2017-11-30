@@ -6,7 +6,22 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2017-09-16 00:00:00 &#43;0000 UTC</updated>
+    <updated>2017-11-30 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Guardian piece on Algorave</title>
+      <link>http://theb0ardside.com/algorave-guardian-article/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/algorave-guardian-article/</guid>
+      <description>&lt;p&gt;Nice piece from the Guardian showcasing the Algorave scene in Sheffield.&lt;br /&gt;
+Big up Alex McLean!&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/h340aNznHnM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Jason Turner - Rich Code For Tiny Computers</title>
