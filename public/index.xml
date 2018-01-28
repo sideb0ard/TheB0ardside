@@ -6,7 +6,23 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2017-11-30 00:00:00 &#43;0000 UTC</updated>
+    <updated>2018-01-28 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>TidalCycles Tutorials</title>
+      <link>http://theb0ardside.com/tidalcyles-tutorial/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/tidalcyles-tutorial/</guid>
+      <description>&lt;p&gt;Alex McLean&amp;rsquo;s &lt;a href=&#34;https://tidalcycles.org/&#34;&gt;TidalCycles&lt;/a&gt; has been a big influence on my own &lt;a href=&#34;https://github.com/sideb0ard/SoundB0ard&#34;&gt;Soundb0ard&lt;/a&gt;, and lately, now that my instruments are mostly built, I&amp;rsquo;ve been looking for ways to algorithmically modify them more.&lt;/p&gt;
+
+&lt;p&gt;This series of howto&amp;rsquo;s by &lt;a href=&#34;https://www.youtube.com/channel/UC5skJN2WYbyYHUmrMQ00LtA&#34;&gt;Mike Hodnick&lt;/a&gt;/&lt;a href=&#34;https://kindohm.bandcamp.com/&#34;&gt;Kindohm&lt;/a&gt; have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/plu04_ewZUQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Guardian piece on Algorave</title>
