@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/cognitivemodelling/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/tidalcyles-tutorial/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
   </url>
@@ -1168,6 +1173,12 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/bio/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/categories/blog/</loc>
     <lastmod>2018-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1362,6 +1373,12 @@
   <url>
     <loc>http://theb0ardside.com/tags/creative-code/</loc>
     <lastmod>2014-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/creativity/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1978,6 +1995,12 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/philosophy/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/tags/physic-or-surgery/</loc>
     <lastmod>2014-01-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2472,6 +2495,12 @@
   <url>
     <loc>http://theb0ardside.com/tags/vmware/</loc>
     <lastmod>2012-04-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/vr/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
