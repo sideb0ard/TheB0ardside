@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>London on The B0ardside </title>
+    <title>London on The B0ardside</title>
     <link>http://theb0ardside.com/tags/london/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-03-04 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in London on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 04 Mar 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/london/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Tense Men - RNRFON</title>
       <link>http://theb0ardside.com/tensemen-rnrfon/</link>
-      <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tensemen-rnrfon/</guid>
-      <description>&lt;p&gt;Love this new video for &lt;a href=&#34;https://soundcloud.com/tensemen&#34;&gt;Tense Men&lt;/a&gt; -&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Z-Ltaq3UPbU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp;rsquo;s old house.&lt;/p&gt;
-</description>
+      <description>Love this new video for Tense Men -
+  It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp;rsquo;s old house.</description>
     </item>
     
   </channel>

@@ -1,348 +1,199 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Music on The B0ardside </title>
+    <title>Music on The B0ardside</title>
     <link>http://theb0ardside.com/tags/music/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2018-02-18 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Music on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 18 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Dalriada - scottish skate video by Iron Giraffe</title>
       <link>http://theb0ardside.com/dalriada/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/dalriada/</guid>
-      <description>&lt;p&gt;Check this awesome new skate video out of Scotland - great stuff! Even a wee shot of Toby Patterson in there!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/256189589&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/256189589&#34;&gt;DALRIADA&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/user24299754&#34;&gt;Iron Giraffe&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>Check this awesome new skate video out of Scotland - great stuff! Even a wee shot of Toby Patterson in there!
+ DALRIADA from Iron Giraffe on Vimeo.
+ </description>
     </item>
     
     <item>
       <title>TidalCycles Tutorials</title>
       <link>http://theb0ardside.com/tidalcyles-tutorial/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tidalcyles-tutorial/</guid>
-      <description>&lt;p&gt;Alex McLean&amp;rsquo;s &lt;a href=&#34;https://tidalcycles.org/&#34;&gt;TidalCycles&lt;/a&gt; has been a big influence on my own &lt;a href=&#34;https://github.com/sideb0ard/SoundB0ard&#34;&gt;Soundb0ard&lt;/a&gt;, and lately, now that my instruments are mostly built, I&amp;rsquo;ve been looking for ways to algorithmically modify them more.&lt;/p&gt;
-
-&lt;p&gt;This series of howto&amp;rsquo;s by &lt;a href=&#34;https://www.youtube.com/channel/UC5skJN2WYbyYHUmrMQ00LtA&#34;&gt;Mike Hodnick&lt;/a&gt;/&lt;a href=&#34;https://kindohm.bandcamp.com/&#34;&gt;Kindohm&lt;/a&gt; have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/plu04_ewZUQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Alex McLean&amp;rsquo;s TidalCycles has been a big influence on my own Soundb0ard, and lately, now that my instruments are mostly built, I&amp;rsquo;ve been looking for ways to algorithmically modify them more.
+This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:
+  </description>
     </item>
     
     <item>
       <title>Guardian piece on Algorave</title>
       <link>http://theb0ardside.com/algorave-guardian-article/</link>
-      <pubDate>Thu, 30 Nov 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/algorave-guardian-article/</guid>
-      <description>&lt;p&gt;Nice piece from the Guardian showcasing the Algorave scene in Sheffield.&lt;br /&gt;
-Big up Alex McLean!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/h340aNznHnM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Nice piece from the Guardian showcasing the Algorave scene in Sheffield.
+Big up Alex McLean!
+  </description>
     </item>
     
     <item>
       <title>Making Music and Art Through Machine Learning</title>
       <link>http://theb0ardside.com/magenta-art/</link>
-      <pubDate>Fri, 21 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/magenta-art/</guid>
-      <description>&lt;p&gt;This is a good chat with Doug Eck, of the &lt;a href=&#34;g.co/magenta&#34;&gt;Google Magenta project&lt;/a&gt;
-It&amp;rsquo;s a project I&amp;rsquo;ve been keeping an eye on, as it has a ton of potential. I&amp;rsquo;ve generated some melodies based on their &lt;a href=&#34;https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn&#34;&gt;Melody RNN&lt;/a&gt; - although i need to spend more time with it, as I&amp;rsquo;ve been more focussed on own generative algorithms.&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/yz-fHidp1M8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>This is a good chat with Doug Eck, of the Google Magenta project It&amp;rsquo;s a project I&amp;rsquo;ve been keeping an eye on, as it has a ton of potential. I&amp;rsquo;ve generated some melodies based on their Melody RNN - although i need to spend more time with it, as I&amp;rsquo;ve been more focussed on own generative algorithms.
+  </description>
     </item>
     
     <item>
       <title>Robert Henke Granulator</title>
       <link>http://theb0ardside.com/monolake-granular/</link>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/monolake-granular/</guid>
-      <description>&lt;p&gt;Hmm, my &lt;a href=&#34;https://github.com/sideb0ard/SBShell/blob/master/granulator.c&#34;&gt;granular synth&lt;/a&gt; hasn&amp;rsquo;t quite come together yet, but I&amp;rsquo;m learning a load.&lt;/p&gt;
-
-&lt;p&gt;This is a pretty informative (promo) video from Robert Henke/Monolake showcasing his &lt;a href=&#39;https://www.ableton.com/en/packs/granulator-ii/&#39;&gt;&amp;lsquo;Granulator&amp;rsquo; plugin for Ableton Live.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If i can get mine to sound anything like that i&amp;rsquo;ll be stoked!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/9pn_b7OUO6I&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Hmm, my granular synth hasn&amp;rsquo;t quite come together yet, but I&amp;rsquo;m learning a load.
+This is a pretty informative (promo) video from Robert Henke/Monolake showcasing his &amp;lsquo;Granulator&amp;rsquo; plugin for Ableton Live.
+If i can get mine to sound anything like that i&amp;rsquo;ll be stoked!
+  </description>
     </item>
     
     <item>
       <title>Palmbomen II - Memories of Cindy</title>
       <link>http://theb0ardside.com/palmbonnenii/</link>
-      <pubDate>Fri, 09 Jun 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/palmbonnenii/</guid>
-      <description>&lt;p&gt;Have you been watching season 3 of Twin Peaks? so fscking good!&lt;/p&gt;
-
-&lt;p&gt;This is kinda up there &amp;ndash;&lt;/p&gt;
-
-&lt;p&gt;Memories Of Cindy Pt. 1&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wDvEc5troQo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Memories Of Cindy Pt. 2&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/S-h2HgMi1-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Looking forward to receiving the second volume in the mail.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://palmbomen-ii.bandcamp.com/album/memories-of-cindy&#34;&gt;Grab a copy&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Have you been watching season 3 of Twin Peaks? so fscking good!
+This is kinda up there &amp;ndash;
+Memories Of Cindy Pt. 1
+  Memories Of Cindy Pt. 2
+  Looking forward to receiving the second volume in the mail.
+Grab a copy</description>
     </item>
     
     <item>
       <title>Plainview Public Access</title>
       <link>http://theb0ardside.com/plainview-public-access/</link>
-      <pubDate>Sat, 27 Aug 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/plainview-public-access/</guid>
-      <description>&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/AVLPKf0uAhI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;This is a crazy awesome animation by Anthony Lombardo and John Chrostek &amp;ndash;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;&lt;i&gt;It is one-o-clock in the morning. You&amp;rsquo;ve had a long and tiresome day, and despite your best intentions, dozed off far before you meant to.&lt;/p&gt;
-
-&lt;p&gt;Asleep in the embrace of your old blue La-Z-Boy, you feel a flicker like a breeze full of static at room temperature. You awaken.&lt;/p&gt;
-
-&lt;p&gt;The television is still on.&lt;/p&gt;
-
-&lt;p&gt;Your eyes adjust. The feel of the room has changed. The space between the furniture grows wider, the hallway light seems a valley away. You are alone with the night.&lt;/p&gt;
-
-&lt;p&gt;The sharp hiss of static pulls you back. In your peripheral vision, what light remains dims and flickers as if bathing in the glow of the transmission. From some familiar depths, a song begins to play&amp;hellip;&lt;/i&gt;&amp;ldquo;&lt;/p&gt;
-
-&lt;p&gt;I came across it via my friend &lt;a href=&#34;http://www.sfhaa.org/&#34;&gt;Mat&lt;/a&gt;, who recorded a segment of the opening music.&lt;/p&gt;
-</description>
+      <description>This is a crazy awesome animation by Anthony Lombardo and John Chrostek &amp;ndash;
+&amp;ldquo;It is one-o-clock in the morning. You&amp;rsquo;ve had a long and tiresome day, and despite your best intentions, dozed off far before you meant to.
+Asleep in the embrace of your old blue La-Z-Boy, you feel a flicker like a breeze full of static at room temperature. You awaken.
+The television is still on.
+Your eyes adjust.</description>
     </item>
     
     <item>
       <title>Shit Present - Kick Me</title>
       <link>http://theb0ardside.com/shitpresent-kickme/</link>
-      <pubDate>Sat, 12 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 12 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/shitpresent-kickme/</guid>
-      <description>&lt;p&gt;Awesome video for awesome track!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/FD2W05OuS0M&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Found via &lt;a href=&#34;http://didnotchart.blogspot.com/2015/09/shit-present.html&#34;&gt;Ben&amp;rsquo;s blog&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Awesome video for awesome track!
+  Found via Ben&amp;rsquo;s blog</description>
     </item>
     
     <item>
       <title>B0ardcast 28</title>
       <link>http://theb0ardside.com/b0ardcast28/</link>
-      <pubDate>Fri, 24 Apr 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 24 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/b0ardcast28/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s this week&amp;rsquo;s B0ardcast, broadcast on &lt;a href=&#34;http://bff.fm/shows/the-b0ardcast&#34;&gt;BFF.fm&lt;/a&gt; every friday.&lt;/p&gt;
+      <description>Here&amp;rsquo;s this week&amp;rsquo;s B0ardcast, broadcast on BFF.fm every friday.
+The B0ardcast Episode 28 by Sideb0ard on Mixcloud
 
-&lt;p&gt;&lt;iframe width=&#34;550&#34; height=&#34;180&#34; src=&#34;https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;amp;embed_uuid=25eb8364-330e-460a-8cc9-55739a4f79d1&amp;amp;feed=https%3A%2F%2Fwww.mixcloud.com%2Fsideb0ard%2Fthe-b0ardcast-episode-28%2F&amp;amp;hide_cover=1&amp;amp;hide_tracklist=1&amp;amp;replace=0&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;p style=&#34;display: block; font-size: 11px; font-family: &#39;Open Sans&#39;, Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: 652px;&#34;&gt;&lt;a href=&#34;https://www.mixcloud.com/sideb0ard/the-b0ardcast-episode-28/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;The B0ardcast Episode 28&lt;/a&gt;&lt;span&gt; by &lt;/span&gt;&lt;a href=&#34;https://www.mixcloud.com/sideb0ard/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;Sideb0ard&lt;/a&gt;&lt;span&gt; on &lt;/span&gt;&lt;a href=&#34;https://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt; Mixcloud&lt;/a&gt;&lt;/p&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Tracklist:::&lt;/p&gt;
-
-&lt;p&gt;Dhobi Fats -  She Wants A Daisy&lt;br /&gt;
-Betty And The Werewolves - Should I go to Glasgow?&lt;br /&gt;
-Orange Juice - Poor Old Soul (Part 1)&lt;br /&gt;
-halfsour - target practice (henry&amp;rsquo;s dress cover)&lt;br /&gt;
-Japanther - All We Got Is Each Other (Peanucle)&lt;br /&gt;
-Kitten Crisis - Yer Hair&lt;br /&gt;
-Braves - True Feelings&lt;br /&gt;
-peach kelli pop - Bat Wing&lt;br /&gt;
-Plantains - Wendy&lt;br /&gt;
-SadGirl - Lie Awake&lt;br /&gt;
-Dream Whip - Beach Dreams&lt;br /&gt;
-Santa Fe - Summer&lt;br /&gt;
-Dante Elephante - Heartbeat&lt;br /&gt;
-Literature - Dance Shoes&lt;br /&gt;
-The Ocean Party - Went Out&lt;br /&gt;
-The Zebras - I Have Decided&lt;br /&gt;
-Failed Flowers - When You Said I Love You&lt;br /&gt;
-ice cream social - bagel&lt;br /&gt;
-Knight School - Pizza My Coat&lt;br /&gt;
-QUARTERBACKS - LAST BOY&lt;br /&gt;
-Wakes - GONZO&lt;br /&gt;
-New Swears - Jon&amp;rsquo;s coke&lt;br /&gt;
-Jabber - Maybe Next Year&lt;br /&gt;
-Ladywolf - Die Tonight&lt;br /&gt;
-No Age - Everybody&amp;rsquo;s Down&lt;br /&gt;
-Attendant - Call Me Back&lt;br /&gt;
-Pope - Gearbear&lt;br /&gt;
-Super Soaked - I JUST WANNA DIE (fidlar cover)&lt;br /&gt;
-Cool Mutants - Be Dumb&lt;br /&gt;
-CHEAP WIG - Sleep Deprived&lt;br /&gt;
-SPORTS - I Liked You Best&lt;br /&gt;
-Gurr  - Hey, my friend&lt;br /&gt;
-Dog Legs - Things I&amp;rsquo;ll Never Be&lt;br /&gt;
-Counter Culture - Feelin&amp;rsquo; Fine&lt;br /&gt;
-American Culture - Just Driving Around&lt;br /&gt;
-Posse - 14 Days&lt;br /&gt;
-Upset - Linus&lt;br /&gt;
-Let&amp;rsquo;s Say We Did - Someday Somedays&lt;br /&gt;
-Twig Palace - Where Land Meets Sky&lt;br /&gt;
-Boomgates - Cartons and Cans&lt;br /&gt;
-flout - Seagrams&lt;br /&gt;
-Aunt Sis - Dr. Dahl&lt;br /&gt;
-The BFGs - Fuss&lt;br /&gt;
-Tullycraft - Leaders Of The New School&lt;br /&gt;
-Milky Wimpshake - True Love/Youth&lt;br /&gt;
-Mark Wynn - I&amp;rsquo;m Bob Ferris x3 (And You&amp;rsquo;re John Cale)&lt;br /&gt;
-Aidan Moffat - The World Around Us&lt;/p&gt;
-</description>
+Tracklist:::
+Dhobi Fats - She Wants A Daisy
+Betty And The Werewolves - Should I go to Glasgow?
+Orange Juice - Poor Old Soul (Part 1)
+halfsour - target practice (henry&amp;rsquo;s dress cover)
+Japanther - All We Got Is Each Other (Peanucle)
+Kitten Crisis - Yer Hair
+Braves - True Feelings
+peach kelli pop - Bat Wing</description>
     </item>
     
     <item>
       <title>B0ardcasts on Mixcloud</title>
       <link>http://theb0ardside.com/b0ardcast-mixclouds/</link>
-      <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/b0ardcast-mixclouds/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s a link to the Mixcloud page with the past couple of B0ardcast shows and tracklistings..&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe width=&#34;660&#34; height=&#34;180&#34; src=&#34;//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fsideb0ard%2Fthe-b0ardside-episode-4-03042014%2F&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=6da99aff-ee2b-489c-8566-59479e128c20&amp;amp;hide_tracklist=1&amp;amp;replace=0&amp;amp;hide_cover=1&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;p style=&#34;display: block; font-size: 11px; font-family: &#39;Open Sans&#39;, Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: 652px;&#34;&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/the-b0ardside-episode-4-03042014/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;The B0ardside Episode #4 - 03/04/2014&lt;/a&gt;&lt;span&gt; by &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/sideb0ard/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;Sideb0ard&lt;/a&gt;&lt;span&gt; on &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt; Mixcloud&lt;/a&gt;&lt;/p&gt;&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
+      <description>Here&amp;rsquo;s a link to the Mixcloud page with the past couple of B0ardcast shows and tracklistings..
+The B0ardside Episode #4 - 03/04/2014 by Sideb0ard on Mixcloud</description>
     </item>
     
     <item>
       <title>Tense Men - RNRFON</title>
       <link>http://theb0ardside.com/tensemen-rnrfon/</link>
-      <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tensemen-rnrfon/</guid>
-      <description>&lt;p&gt;Love this new video for &lt;a href=&#34;https://soundcloud.com/tensemen&#34;&gt;Tense Men&lt;/a&gt; -&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Z-Ltaq3UPbU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp;rsquo;s old house.&lt;/p&gt;
-</description>
+      <description>Love this new video for Tense Men -
+  It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp;rsquo;s old house.</description>
     </item>
     
     <item>
       <title>The B0ardcast Cometh</title>
       <link>http://theb0ardside.com/theb0ardcastcometh/</link>
-      <pubDate>Sun, 09 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 09 Feb 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/theb0ardcastcometh/</guid>
-      <description>&lt;p&gt;Woop! I just got confirmation on friday that I&amp;rsquo;ll have a regular weekly 2 hour radio starting this tuesday on &lt;a href=&#34;http://bff.fm&#34;&gt;bff.fm&lt;/a&gt; - a recent new station out of here in San Francisco. Tune in - 2pm-4pm PST (10pm-Midnite UK) &amp;ndash;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://theb0ardside.com/static/img/b0ardcast.png&#34;&gt;&lt;/p&gt;
-</description>
+      <description>Woop! I just got confirmation on friday that I&amp;rsquo;ll have a regular weekly 2 hour radio starting this tuesday on bff.fm - a recent new station out of here in San Francisco. Tune in - 2pm-4pm PST (10pm-Midnite UK) &amp;ndash;</description>
     </item>
     
     <item>
       <title>Oh yeah, Codetraxx</title>
       <link>http://theb0ardside.com/codetraxx/</link>
-      <pubDate>Tue, 07 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/codetraxx/</guid>
-      <description>&lt;p&gt;Oh yeah, that &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project I mentioned, which me and &lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..&lt;/p&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124516248&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=true&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description>Oh yeah, that Codetraxx project I mentioned, which me and Tack have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..
+ </description>
     </item>
     
     <item>
       <title>Street Punk</title>
       <link>http://theb0ardside.com/streetpunk/</link>
-      <pubDate>Sat, 04 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/streetpunk/</guid>
-      <description>&lt;p&gt;Oh man, just found &lt;a href=&#34;http://www.hardlyart.com/hunxandhispunx.html&#34;&gt;this Hunx album from 2013&lt;/a&gt; - i had seen this following video for Bad Skin but forgot about the album when it came out - this video is so disgusting and totally my anthem!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/rOM5jKK9pSU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Oh man, just found this Hunx album from 2013 - i had seen this following video for Bad Skin but forgot about the album when it came out - this video is so disgusting and totally my anthem!
+  </description>
     </item>
     
     <item>
       <title>The B0ardside Top 13 records 2013</title>
       <link>http://theb0ardside.com/toprecords2013/</link>
-      <pubDate>Fri, 06 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 06 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/toprecords2013/</guid>
-      <description>&lt;p&gt;Was hard to cut two out from this selection, so here&amp;rsquo;s my top 12 for the past year, as usual a bit of a mix between the rock n roll and the electronic noise..&lt;/p&gt;
-
-&lt;p&gt;The Pastels &amp;ndash; Slow Summit
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/70V_PcW1om8?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;The Spook School &amp;ndash; Dress Up
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/0eEVPHnHW7g?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Radiator Hospital &amp;ndash; Something Wild
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Z2eelBo0afQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Zomby &amp;ndash; With Love
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/E5fccx15b2k?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Wyatt Blair &amp;ndash; Banana Cream Dream
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jCf2tEZy7_Q?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Four Tet &amp;ndash; Beautiful Rewind
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/RD5_t69RTc4?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Basic House &amp;ndash; Oats
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/ZVwlB3qv2qs?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Patricia &amp;ndash; Body Issues
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Y85nYo0KS64?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Colour Me Wednesday &amp;ndash; I Thought It Was Morning
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Lkni5QYgcvE?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Fear Of Men &amp;ndash; Early Fragments
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/IAcMJPnYoMQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Anna Hillburg &amp;ndash; s/t
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/s5lsxLVcVNU?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Dalglish &amp;ndash; Niaiw Ot Vile
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/TeBbSbF_y_c?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;oh! scratch that, make it 13 then! How could i forget ma wedding singer?!
-The Hive Dwellers &amp;ndash; Hewn From The Wilderness
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Y6Bi8NSGvjQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Was hard to cut two out from this selection, so here&amp;rsquo;s my top 12 for the past year, as usual a bit of a mix between the rock n roll and the electronic noise..
+The Pastels &amp;ndash; Slow Summit 
+The Spook School &amp;ndash; Dress Up 
+Radiator Hospital &amp;ndash; Something Wild 
+Zomby &amp;ndash; With Love 
+Wyatt Blair &amp;ndash; Banana Cream Dream 
+Four Tet &amp;ndash; Beautiful Rewind</description>
     </item>
     
     <item>
       <title>Record Store Bot</title>
       <link>http://theb0ardside.com/recordstorebot/</link>
-      <pubDate>Tue, 24 May 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/recordstorebot/</guid>
-      <description>&lt;p&gt;&lt;img class=&#34;aligncenter&#34; title=&#34;specz&#34; src=&#34;http://farm6.static.flickr.com/5244/5309938590_21a2f8d308_z.jpg&#34; alt=&#34;&#34; width=&#34;452&#34; height=&#34;640&#34; /&gt;&lt;/p&gt;&lt;p&gt;First draft of my Record Store Bot is live over on &lt;a title=&#34;Record Store Bot&#34; href=&#34;https://github.com/sideb0ard/RecordStoreBot&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; - basically tying a Chatbot::Eliza style interface to Last.fm web services for an interactive (hopefully amusing) music recommendation bot.&lt;/p&gt;&lt;p&gt;Works surprisingly well - although only has one method at the moment..&lt;/p&gt;
-</description>
+      <description>First draft of my Record Store Bot is live over on Github - basically tying a Chatbot::Eliza style interface to Last.fm web services for an interactive (hopefully amusing) music recommendation bot.
+Works surprisingly well - although only has one method at the moment..</description>
     </item>
     
   </channel>

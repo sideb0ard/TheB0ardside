@@ -1,55 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Systems on The B0ardside </title>
+    <title>Systems on The B0ardside</title>
     <link>http://theb0ardside.com/tags/systems/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-05-15 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Systems on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 15 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/systems/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Rob Landley on Toybox</title>
       <link>http://theb0ardside.com/rob-landley-toybox/</link>
-      <pubDate>Sun, 15 May 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/rob-landley-toybox/</guid>
-      <description>&lt;p&gt;Ah, this is ace!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/SGmtP5Lg_t0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Ah, this is ace!
+  </description>
     </item>
     
     <item>
       <title>How to Build a Mind</title>
       <link>http://theb0ardside.com/joschabach-ai/</link>
-      <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/joschabach-ai/</guid>
-      <description>&lt;p&gt;Hugely compelling talk by Joscha Bach covering history and possible futures of AI..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/2o2xBOQeB7Q&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Found &lt;a href=&#34;http://cognitive-ai.com/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Hugely compelling talk by Joscha Bach covering history and possible futures of AI..
+  Found here</description>
     </item>
     
     <item>
       <title>You Can Be A Kernel Hacker</title>
       <link>http://theb0ardside.com/julia-evans-kernel-hacker/</link>
-      <pubDate>Fri, 26 Sep 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/julia-evans-kernel-hacker/</guid>
-      <description>&lt;p&gt;Brilliant, brilliant talk from &lt;a href=&#34;http://jvns.ca/&#34;&gt;Julia Evans&lt;/a&gt;, getting excited about kernel hacking. Warning: Super infectious levels of enthusiasm!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/0IQlpFWTFbM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Brilliant, brilliant talk from Julia Evans, getting excited about kernel hacking. Warning: Super infectious levels of enthusiasm!
+  </description>
     </item>
     
   </channel>

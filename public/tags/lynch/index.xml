@@ -1,39 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Lynch on The B0ardside </title>
+    <title>Lynch on The B0ardside</title>
     <link>http://theb0ardside.com/tags/lynch/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2017-06-09 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Lynch on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/lynch/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Palmbomen II - Memories of Cindy</title>
       <link>http://theb0ardside.com/palmbonnenii/</link>
-      <pubDate>Fri, 09 Jun 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/palmbonnenii/</guid>
-      <description>&lt;p&gt;Have you been watching season 3 of Twin Peaks? so fscking good!&lt;/p&gt;
-
-&lt;p&gt;This is kinda up there &amp;ndash;&lt;/p&gt;
-
-&lt;p&gt;Memories Of Cindy Pt. 1&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wDvEc5troQo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Memories Of Cindy Pt. 2&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/S-h2HgMi1-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Looking forward to receiving the second volume in the mail.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://palmbomen-ii.bandcamp.com/album/memories-of-cindy&#34;&gt;Grab a copy&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Have you been watching season 3 of Twin Peaks? so fscking good!
+This is kinda up there &amp;ndash;
+Memories Of Cindy Pt. 1
+  Memories Of Cindy Pt. 2
+  Looking forward to receiving the second volume in the mail.
+Grab a copy</description>
     </item>
     
   </channel>

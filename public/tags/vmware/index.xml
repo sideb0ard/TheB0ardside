@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Vmware on The B0ardside </title>
+    <title>Vmware on The B0ardside</title>
     <link>http://theb0ardside.com/tags/vmware/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2012-04-13 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Vmware on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 13 Apr 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/vmware/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>JVM tuning for VMs</title>
       <link>http://theb0ardside.com/jvmtuningforvms/</link>
-      <pubDate>Fri, 13 Apr 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 13 Apr 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/jvmtuningforvms/</guid>
-      <description>&lt;p&gt;This is an excellent talk about the interaction between the various layers of memory abstraction from the a machine&#39;s physical memory down through the Hypervisor&#39;s view, to the Guest OS&#39;s and down into the JVM:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/V3o4VNkTyTY?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// found via &lt;a href=&#34;http://marakana.com/s/tuning_jvm_for_a_vm_lessons_learned_directly_from_vmware_video,1138/index.html&#34; target=&#34;_blank&#34;&gt;Marakana&lt;/a&gt; //&lt;/p&gt;
-</description>
+      <description>This is an excellent talk about the interaction between the various layers of memory abstraction from the a machine&#39;s physical memory down through the Hypervisor&#39;s view, to the Guest OS&#39;s and down into the JVM:
+
+// found via Marakana //</description>
     </item>
     
   </channel>

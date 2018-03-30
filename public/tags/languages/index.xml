@@ -1,55 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Languages on The B0ardside </title>
+    <title>Languages on The B0ardside</title>
     <link>http://theb0ardside.com/tags/languages/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-04-13 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Languages on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/languages/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Wizard Book</title>
       <link>http://theb0ardside.com/wizard-book-lectures/</link>
-      <pubDate>Sun, 13 Apr 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 13 Apr 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/wizard-book-lectures/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve never made it very far through my copy of Abelson, Sussman and Sussman&amp;rsquo;s &amp;lsquo;Structure and Interpretation Of Computer Programs&amp;rsquo;, so I was super excited to find this whole series of lectures online with Harold and Gerald Jay presenting the text as a course. The lectures help a lot, making it a whole lot easier than just wading through the text yourself. I went deep over the weekend, watching the first four of them - My Lisp foo is getting strong!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/&#34;&gt;Full Course Online&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/2Op3QLzMgSY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I&amp;rsquo;ve never made it very far through my copy of Abelson, Sussman and Sussman&amp;rsquo;s &amp;lsquo;Structure and Interpretation Of Computer Programs&amp;rsquo;, so I was super excited to find this whole series of lectures online with Harold and Gerald Jay presenting the text as a course. The lectures help a lot, making it a whole lot easier than just wading through the text yourself. I went deep over the weekend, watching the first four of them - My Lisp foo is getting strong!</description>
     </item>
     
     <item>
       <title>Paul Phillips - Scala Heresies</title>
       <link>http://theb0ardside.com/paulphillips/</link>
-      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/paulphillips/</guid>
-      <description>&lt;p&gt;I didn&amp;rsquo;t see this actual talk, but pretty much the same one delivered the following evening - it gave me nightmares!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/4jh94gowim0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I didn&amp;rsquo;t see this actual talk, but pretty much the same one delivered the following evening - it gave me nightmares!
+  </description>
     </item>
     
     <item>
       <title>Go Presentation</title>
       <link>http://theb0ardside.com/gopresentation/</link>
-      <pubDate>Mon, 30 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 30 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/gopresentation/</guid>
-      <description>&lt;p&gt;More and more I&amp;rsquo;ve been dabbling with Go, which, mainly due to Hacker News, i&amp;rsquo;ve been reading so many good things about. The syntax is super easy to pick up, but the killer feature seems to be the concurrency primitives - the Go Functions and message passing Channels seem like a super tight, rock solid implementation of Hoare&amp;rsquo;s Communicating Sequential Processes. The following video is a really succinct walk through of building a concurent multi-protocol chat application ala Chat Roulette..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe src=&#34;//player.vimeo.com/video/53221560&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;http://vimeo.com/53221560&#34;&gt;Go: code that grows with grace&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user4280938&#34;&gt;&amp;Oslash;redev Conference&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>More and more I&amp;rsquo;ve been dabbling with Go, which, mainly due to Hacker News, i&amp;rsquo;ve been reading so many good things about. The syntax is super easy to pick up, but the killer feature seems to be the concurrency primitives - the Go Functions and message passing Channels seem like a super tight, rock solid implementation of Hoare&amp;rsquo;s Communicating Sequential Processes. The following video is a really succinct walk through of building a concurent multi-protocol chat application ala Chat Roulette.</description>
     </item>
     
   </channel>

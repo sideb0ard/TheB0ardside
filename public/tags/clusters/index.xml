@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Clusters on The B0ardside </title>
+    <title>Clusters on The B0ardside</title>
     <link>http://theb0ardside.com/tags/clusters/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-06-02 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Clusters on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 02 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/clusters/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Brandon Philips, CoreOS</title>
       <link>http://theb0ardside.com/brandoncoreos/</link>
-      <pubDate>Mon, 02 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/brandoncoreos/</guid>
-      <description>&lt;p&gt;Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/uaCUftirfk0?start=2242&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::
+  </description>
     </item>
     
   </channel>

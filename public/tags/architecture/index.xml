@@ -1,115 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Architecture on The B0ardside </title>
+    <title>Architecture on The B0ardside</title>
     <link>http://theb0ardside.com/tags/architecture/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-12-11 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Architecture on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 11 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Embedded Android Overview</title>
       <link>http://theb0ardside.com/embedded-android/</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/embedded-android/</guid>
-      <description>&lt;p&gt;Amazingly smooth presentation under time pressure from Karim Yaghmour, giving a super fast overview of the content in his &lt;a href=&#34;http://shop.oreilly.com/product/0636920021094.do&#34;&gt;Embedded Android&lt;/a&gt; book.&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/KLUXPxxJc5c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!&lt;/p&gt;
-</description>
+      <description>Amazingly smooth presentation under time pressure from Karim Yaghmour, giving a super fast overview of the content in his Embedded Android book.
+  I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!</description>
     </item>
     
     <item>
       <title>Sophie Wilson, ARM ISA Architect</title>
       <link>http://theb0ardside.com/acorn-sophie-wilson/</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/acorn-sophie-wilson/</guid>
-      <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jhwwrSaHdh8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Sophie Wilson is a boss..
+  </description>
     </item>
     
     <item>
       <title>How To Build a Skyscraper</title>
       <link>http://theb0ardside.com/howtobuildaskycraper/</link>
-      <pubDate>Thu, 15 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/howtobuildaskycraper/</guid>
-      <description>&lt;p&gt;Pretty rad skyscraper history as software-engineering-metaphor..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/7MeBuDLbF98&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Pretty rad skyscraper history as software-engineering-metaphor..
+  </description>
     </item>
     
     <item>
       <title>AWS VPC best practises</title>
       <link>http://theb0ardside.com/vpc-design/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/vpc-design/</guid>
-      <description>&lt;p&gt;Super detailed and practical VPC design best practises - very cool stuff..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YoX_frLHbEs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Super detailed and practical VPC design best practises - very cool stuff..
+  </description>
     </item>
     
     <item>
       <title>Urban Giants</title>
       <link>http://theb0ardside.com/urban-giants/</link>
-      <pubDate>Thu, 26 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 26 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/urban-giants/</guid>
-      <description>&lt;p&gt;Beautifully shot, mind blowing short documentary about New York&amp;rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;amp;T Long Lines Building ..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe src=&#34;//player.vimeo.com/video/97945495&#34; width=&#34;500&#34; height=&#34;281&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Found via &lt;a href=&#34;http://bldgblog.blogspot.com/2014/06/urban-giants.html&#34;&gt;BldBlog site&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Beautifully shot, mind blowing short documentary about New York&amp;rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;amp;T Long Lines Building ..
+  Found via BldBlog site</description>
     </item>
     
     <item>
       <title>Eric Brewer on Container usage at Google</title>
       <link>http://theb0ardside.com/containers-at-google/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/containers-at-google/</guid>
-      <description>&lt;p&gt;Eric Brewer&amp;rsquo;s keynote from Dockercon14 -&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YrxnVKZeqK8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!&lt;/p&gt;
-</description>
+      <description>Eric Brewer&amp;rsquo;s keynote from Dockercon14 -
+  Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
     </item>
     
     <item>
       <title>Solomon Hykes, Dockercon14</title>
       <link>http://theb0ardside.com/solomon-hykes-docker/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
-      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..
+  </description>
     </item>
     
   </channel>

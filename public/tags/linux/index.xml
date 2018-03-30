@@ -1,63 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Linux on The B0ardside </title>
+    <title>Linux on The B0ardside</title>
     <link>http://theb0ardside.com/tags/linux/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-10-06 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Linux on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Runtime Scheduling, Strange Loop 2016</title>
       <link>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</link>
-      <pubDate>Thu, 06 Oct 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</guid>
-      <description>&lt;p&gt;Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/8g9fG7cApbc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..
+  </description>
     </item>
     
     <item>
       <title>Chris Simmonds - timeline for embedded linux</title>
       <link>http://theb0ardside.com/embedded-linux-timeline/</link>
-      <pubDate>Sat, 18 Jun 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/embedded-linux-timeline/</guid>
-      <description>&lt;p&gt;Nicely informed history of Linux in embedded devices..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/7sQehx9Cs9Q&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Nicely informed history of Linux in embedded devices..
+  </description>
     </item>
     
     <item>
       <title>Etcd 2.0 walkthrough</title>
       <link>http://theb0ardside.com/etcd2.0/</link>
-      <pubDate>Thu, 29 Jan 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/etcd2.0/</guid>
-      <description>&lt;p&gt;Excellent overview of Etcd and description of new features / bug fixes in 2.0..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/z6tjawXZ71E&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Excellent overview of Etcd and description of new features / bug fixes in 2.0..
+  </description>
     </item>
     
     <item>
       <title>Brendan Gregg, Linux Performance</title>
       <link>http://theb0ardside.com/brendangregglinuxperformance/</link>
-      <pubDate>Wed, 12 Jun 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/brendangregglinuxperformance/</guid>
-      <description>&lt;p&gt;The always interesting Brendan Greg &amp;#8212; &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/0yyorhl6IjM?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>The always interesting Brendan Greg &amp;#8212;</description>
     </item>
     
   </channel>

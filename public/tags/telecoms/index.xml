@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Telecoms on The B0ardside </title>
+    <title>Telecoms on The B0ardside</title>
     <link>http://theb0ardside.com/tags/telecoms/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-06-26 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Telecoms on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 26 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/telecoms/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Urban Giants</title>
       <link>http://theb0ardside.com/urban-giants/</link>
-      <pubDate>Thu, 26 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 26 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/urban-giants/</guid>
-      <description>&lt;p&gt;Beautifully shot, mind blowing short documentary about New York&amp;rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;amp;T Long Lines Building ..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe src=&#34;//player.vimeo.com/video/97945495&#34; width=&#34;500&#34; height=&#34;281&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Found via &lt;a href=&#34;http://bldgblog.blogspot.com/2014/06/urban-giants.html&#34;&gt;BldBlog site&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Beautifully shot, mind blowing short documentary about New York&amp;rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;amp;T Long Lines Building ..
+  Found via BldBlog site</description>
     </item>
     
   </channel>

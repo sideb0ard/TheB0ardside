@@ -1,81 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Big Data on The B0ardside </title>
+    <title>Big Data on The B0ardside</title>
     <link>http://theb0ardside.com/tags/big-data/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2013-06-05 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Big Data on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 05 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Search - not a solved problem</title>
       <link>http://theb0ardside.com/searchnotasolvedproblem/</link>
-      <pubDate>Wed, 05 Jun 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/searchnotasolvedproblem/</guid>
-      <description>&lt;p&gt;Very good talk from &lt;a href=&#34;http://www.hilarymason.com/&#34; title=&#34;Hilary Mason&#34; target=&#34;_blank&#34;&gt;Hilary Mason&lt;/a&gt; from a recent Lucene Revolution keynote.&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jVMWT7I3ATM?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Very good talk from Hilary Mason from a recent Lucene Revolution keynote.</description>
     </item>
     
     <item>
       <title>immutability</title>
       <link>http://theb0ardside.com/immutability/</link>
-      <pubDate>Thu, 10 Jan 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/immutability/</guid>
-      <description>&lt;p&gt;Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/52831373&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;https://twitter.com/igrigorik/status/288758137190772736&#34; target=&#34;_blank&#34;&gt;igrigorik&#39;s twitter&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :
+
+via igrigorik&#39;s twitter</description>
     </item>
     
     <item>
       <title>some fav Velocity talks</title>
       <link>http://theb0ardside.com/somefavvelocitytalks/</link>
-      <pubDate>Mon, 02 Jul 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/somefavvelocitytalks/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://velocityconf.com/velocity2012&#34; title=&#34;Velocity&#34; target=&#34;_blank&#34;&gt;Velocity&lt;/a&gt; was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!&lt;/p&gt;&lt;p&gt;Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/2S0k12uZR14?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/bM0yL0eQ9EM?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Velocity was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!
+Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..</description>
     </item>
     
     <item>
       <title>Backblaze</title>
       <link>http://theb0ardside.com/backblaze/</link>
-      <pubDate>Wed, 16 May 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/backblaze/</guid>
-      <description>&lt;p&gt;the legendary Mike Hoover turned me on to Backblaze a few months back - they&#39;re a cloud storage provider, who opened up the design for their chassis and storage pod solution so you can build your own &amp;#8220;Storage Pod 2.0: a 135-terabyte, 4U server for $7,384&amp;#8243; (&lt;a href=&#34;http://blog.backblaze.com/2011/07/20/petabytes-on-a-budget-v2-0revealing-more-secrets/&#34; target=&#34;_blank&#34;&gt;blog post here&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/LQPVBnqzNu0?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>the legendary Mike Hoover turned me on to Backblaze a few months back - they&#39;re a cloud storage provider, who opened up the design for their chassis and storage pod solution so you can build your own &amp;#8220;Storage Pod 2.0: a 135-terabyte, 4U server for $7,384&amp;#8243; (blog post here)</description>
     </item>
     
     <item>
       <title>Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</title>
       <link>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</link>
-      <pubDate>Sun, 19 Feb 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
-      <description>&lt;p&gt;I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. &lt;/p&gt;&lt;p&gt;I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows. We were pretty much stumped, and the other engineer recommend i look into &lt;a href=&#34;http://www.psc.edu/networking/projects/hpn-ssh/&#34;&gt;HPN-SSH&lt;/a&gt;, which does indeed sound very good, but first i started playing around with trying different ciphers and compression.&lt;/p&gt;&lt;p&gt;Our uploads are all run via a perl framework, which utilises Net::SFTP in order to do the transfers.&lt;a href=&#34;https://github.com/sideb0ard/speedTester&#34; target=&#34;_blank&#34;&gt; My test program was also written in perl&lt;/a&gt; and using the same library. In order to try different cyphers i started testing uploads with the interactive command line SFTP. Boom! 6Mb/s upload speed. Biiiig difference from the Net::SFTP client. I started playing with blowfish cipher and trying to enable compression with Net::SFTP - it wasn&#39;t really working, it can only do Zlib compression, which my SSHD server wouldn&#39;t play with until i specifically enabled compression in the sshd_config file.&lt;/p&gt;&lt;p&gt;After much more digging around, i came across reference to &lt;a href=&#34;http://search.cpan.org/~salva/Net-SFTP-Foreign-1.69/lib/Net/SFTP/Foreign.pm&#34;&gt;Net::SFTP::Foreign&lt;/a&gt;, which uses the installed ssh binary on your system for transport rather than relying on the pure perl Net::SSH.&lt;/p&gt;&lt;p&gt;Syntax is very similar, so it was a minor rewrite to switch modules, yet such a massive payback, from 0.30Mb/s up to 6Mb/s. &lt;/p&gt;&lt;p&gt;(It turns out the DSPs i mentioned earlier who could achieve 60Mb/s were actually FTP transfers, not SFTP)&lt;/p&gt;
-</description>
+      <description>I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows.</description>
     </item>
     
     <item>
       <title>real-time stats &gt;</title>
       <link>http://theb0ardside.com/realtimestats/</link>
-      <pubDate>Wed, 20 Jul 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/realtimestats/</guid>
-      <description>&lt;p&gt;Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB&#39;s new real-time analytics system: &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;340&#34; src=&#34;http://cdn.livestream.com/embed/facebookeducation?layout=4&amp;#038;clip=pla_da30a53a-5399-43cc-a615-62874db1c567&amp;#038;color=0x000000&amp;#038;autoPlay=false&amp;#038;mute=false&amp;#038;iconColorOver=0xe7e7e7&amp;#038;iconColor=0xcccccc&amp;#038;allowchat=true&#34; style=&#34;border:0;outline:0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size:11px;padding-top:10px;text-align:center;width:560px&#34;&gt;Watch &lt;a href=http://www.livestream.com/?utm_source=lsplayer&amp;amp;utm_medium=embed&amp;amp;utm_campaign=footerlinks title=live streaming video&gt;live streaming video&lt;/a&gt; from &lt;a href=http://www.livestream.com/facebookeducation?utm_source=lsplayer&amp;amp;utm_medium=embed&amp;amp;utm_campaign=footerlinks title=Watch facebookeducation at livestream.com&gt;facebookeducation&lt;/a&gt; at livestream.com&lt;/div&gt;&lt;p&gt;In the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::&lt;/p&gt;&lt;div style=&#34;width:425px&#34; id=&#34;__ss_6814442&#34;&gt; &lt;strong style=&#34;display:block;margin:12px 0 4px&#34;&gt;&lt;a href=&#34;http://www.slideshare.net/kevinweil/rainbird-realtime-analytics-at-twitter-strata-2011&#34; title=&#34;Rainbird: Realtime Analytics at Twitter (Strata 2011)&#34; target=&#34;_blank&#34;&gt;Rainbird: Realtime Analytics at Twitter (Strata 2011)&lt;/a&gt;&lt;/strong&gt; &lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/6814442&#34; width=&#34;425&#34; height=&#34;355&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;padding:5px 0 12px&#34;&gt; View more &lt;a href=&#34;http://www.slideshare.net/&#34; target=&#34;_blank&#34;&gt;presentations&lt;/a&gt; from &lt;a href=&#34;http://www.slideshare.net/kevinweil&#34; target=&#34;_blank&#34;&gt;Kevin Weil&lt;/a&gt; &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;(hello &lt;a href=&#34;https://twitter.com/#!/skr&#34; title=&#34;skr&#34; target=&#34;_blank&#34;&gt;Johan&lt;/a&gt;!)&lt;/p&gt;
-</description>
+      <description>Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB&#39;s new real-time analytics system: Watch live streaming video from facebookeducation at livestream.comIn the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::
+Rainbird: Realtime Analytics at Twitter (Strata 2011) View more presentations from Kevin Weil 
+(hello Johan!)</description>
     </item>
     
     <item>
       <title>zettabytez</title>
       <link>http://theb0ardside.com/zettabytez/</link>
-      <pubDate>Fri, 24 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 24 Jun 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/zettabytez/</guid>
-      <description>&lt;p&gt;yow!&lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://blogs.cisco.com/wp-content/uploads/InternetIn2015-FINAL1.jpg&#34; title=&#34;big ass infographic&#34; class=&#34;alignnone&#34; width=&#34;612&#34; height=&#34;6136&#34; /&gt;&lt;/p&gt;&lt;p&gt;from &lt;a href=&#34;http://blogs.cisco.com/news/the-dawn-of-the-zettabyte-era-infographic/&#34;&gt;cisco blog&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>yow!
+from cisco blog</description>
     </item>
     
   </channel>

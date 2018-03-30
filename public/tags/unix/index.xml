@@ -1,206 +1,172 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Unix on The B0ardside </title>
+    <title>Unix on The B0ardside</title>
     <link>http://theb0ardside.com/tags/unix/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-04-30 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Unix on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/unix/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Computer Chronicles: Unix (1985)</title>
       <link>http://theb0ardside.com/chronicles-unix/</link>
-      <pubDate>Sat, 30 Apr 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/chronicles-unix/</guid>
-      <description>&lt;p&gt;Awesome episode of the Computer Chronicles, this one focussed on Unix. Gary Killdall is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Gary_Kildall&#34;&gt;don&lt;/a&gt;!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/g7P16mYDIJw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Awesome episode of the Computer Chronicles, this one focussed on Unix. Gary Killdall is a don!
+  </description>
     </item>
     
     <item>
       <title>Bryan Cantrill at Paper&#39;s We Love, NYC 2016</title>
       <link>http://theb0ardside.com/cantrill-papers-we-love/</link>
-      <pubDate>Sat, 05 Mar 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/cantrill-papers-we-love/</guid>
-      <description>&lt;p&gt;Bryan Cantrill on another awesome one!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/hgN8pCMLI2U&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Bryan Cantrill on another awesome one!
+  </description>
     </item>
     
     <item>
       <title>From Solaris to Illumos</title>
       <link>http://theb0ardside.com/solaris-to-illumos/</link>
-      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/solaris-to-illumos/</guid>
-      <description>&lt;p&gt;Bryan Cantrill, as entertaining as always..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-zRN7XLCRhc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Bryan Cantrill, as entertaining as always..
+  </description>
     </item>
     
     <item>
       <title>Brian Kernighan speaking with Computerphile</title>
       <link>http://theb0ardside.com/kernighan-history/</link>
-      <pubDate>Wed, 29 Jul 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/kernighan-history/</guid>
-      <description>&lt;p&gt;The legendary Brian Kernighan speaking to Computerphile about early days of computing. SHort and sweet video..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/QFK6RG47bww&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>The legendary Brian Kernighan speaking to Computerphile about early days of computing. SHort and sweet video..
+  </description>
     </item>
     
     <item>
       <title>NetBSD: Not A Linux Distro</title>
       <link>http://theb0ardside.com/netbsd-not-a-linux-distro/</link>
-      <pubDate>Sun, 08 Mar 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 08 Mar 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/netbsd-not-a-linux-distro/</guid>
-      <description>&lt;p&gt;Great intro to FreeBSD from George Neville-Neil presenting history and current status..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wwbO4eTieQY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Great intro to FreeBSD from George Neville-Neil presenting history and current status..
+  </description>
     </item>
     
     <item>
       <title>K&amp;R</title>
       <link>http://theb0ardside.com/knrunix/</link>
-      <pubDate>Sun, 10 Aug 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/knrunix/</guid>
-      <description>&lt;p&gt;Sad circumstance, lovely stories&amp;hellip;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/uxtKwJZbYr0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Sad circumstance, lovely stories&amp;hellip;
+  </description>
     </item>
     
     <item>
       <title>Systems Architecture, Design, Engineering, and Verification</title>
       <link>http://theb0ardside.com/systems-architecture-acm/</link>
-      <pubDate>Tue, 06 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/systems-architecture-acm/</guid>
-      <description>&lt;p&gt;Yow! this is great! I know my Unix history pretty well, but Multics - aside from knowing it was the precursor to Unix, i didn&amp;rsquo;t know much else of the details or who was involved - WATCH THIS! NOW! :D&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/dsMKJKTOte0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Yow! this is great! I know my Unix history pretty well, but Multics - aside from knowing it was the precursor to Unix, i didn&amp;rsquo;t know much else of the details or who was involved - WATCH THIS! NOW! :D
+  </description>
     </item>
     
     <item>
       <title>The Arrival of UNIX in the UK</title>
       <link>http://theb0ardside.com/unix70suk/</link>
-      <pubDate>Tue, 24 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 24 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/unix70suk/</guid>
-      <description>&lt;p&gt;Lovely wee video talking about the arrival of UNIX into 70&amp;rsquo;s UK Academia &amp;hellip;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-rPPqm44xLs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Lovely wee video talking about the arrival of UNIX into 70&amp;rsquo;s UK Academia &amp;hellip;
+  </description>
     </item>
     
     <item>
       <title>Ken Thompson, Cardboard Computer Scientist</title>
       <link>http://theb0ardside.com/cardboardken/</link>
-      <pubDate>Mon, 23 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/cardboardken/</guid>
-      <description>&lt;p&gt;Latest is &lt;a href=&#34;http://www.flickr.com/photos/sideb0ard/sets/72157629239791822/&#34;&gt;my series of Cardboard Computer Scientists&lt;/a&gt; is Ken Thompson, badman of Unix hisself..&lt;p&gt;
-&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7397/11508740873_bd63327b7b_o.jpg&#34;&gt;&lt;/p&gt;
-</description>
+      <description>Latest is my series of Cardboard Computer Scientists is Ken Thompson, badman of Unix hisself.. </description>
     </item>
     
     <item>
       <title>The Unix Way</title>
       <link>http://theb0ardside.com/theunixway/</link>
-      <pubDate>Wed, 12 Sep 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/theunixway/</guid>
-      <description>&lt;p&gt;Ace early Unix infomercial -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/tc4ROCJYbm0?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Ace early Unix infomercial -</description>
     </item>
     
     <item>
       <title>perl parp parp</title>
       <link>http://theb0ardside.com/perlparpparp/</link>
-      <pubDate>Sun, 02 Sep 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/perlparpparp/</guid>
-      <description>&lt;p&gt;I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating.  First stop was the exceptionally useful &lt;a href=&#34;http://www.whatsmydns.net/ &#34; title=&#34;What&amp;#039;s My DNS?&#34; target=&#34;_blank&#34;&gt;Whats My DNS&lt;/a&gt;&lt;/p&gt;&lt;p&gt;At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host. I googled around for a timer utility which run a command for a given time, so i could quantify the difference. Perfect answer was &lt;a href=&#34;http://stackoverflow.com/questions/601543/command-line-command-to-auto-kill-a-command-after-a-certain-amount-of-time&#34; title=&#34;Stack Overflow&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, a simple perl wrapper function.&lt;/p&gt;&lt;p&gt;Here&#39;s how to use it to run tcpdump command for sixty seconds, and count the packets seen:&lt;/p&gt;&lt;p&gt;&lt;small&gt;&lt;code&gt;# doalarm () { perl -e &amp;#039;alarm shift; exec @ARGV&amp;#039; &#34;$@&#34;; }&lt;br /&gt;# doalarm 60 tcpdump -u  -i eth0 port 53  -n  |wc -l&lt;br /&gt;tcpdump: verbose output suppressed, use -v or -vv for full protocol decode&lt;br /&gt;listening on eth0, link-type EN10MB (Ethernet), capture size 65535 bytes&lt;br /&gt;19504&lt;/code&gt;&lt;/small&gt;&lt;/p&gt;
-</description>
+      <description>I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating. First stop was the exceptionally useful Whats My DNS
+At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host.</description>
     </item>
     
     <item>
       <title>Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</title>
       <link>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</link>
-      <pubDate>Sun, 19 Feb 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
-      <description>&lt;p&gt;I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. &lt;/p&gt;&lt;p&gt;I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows. We were pretty much stumped, and the other engineer recommend i look into &lt;a href=&#34;http://www.psc.edu/networking/projects/hpn-ssh/&#34;&gt;HPN-SSH&lt;/a&gt;, which does indeed sound very good, but first i started playing around with trying different ciphers and compression.&lt;/p&gt;&lt;p&gt;Our uploads are all run via a perl framework, which utilises Net::SFTP in order to do the transfers.&lt;a href=&#34;https://github.com/sideb0ard/speedTester&#34; target=&#34;_blank&#34;&gt; My test program was also written in perl&lt;/a&gt; and using the same library. In order to try different cyphers i started testing uploads with the interactive command line SFTP. Boom! 6Mb/s upload speed. Biiiig difference from the Net::SFTP client. I started playing with blowfish cipher and trying to enable compression with Net::SFTP - it wasn&#39;t really working, it can only do Zlib compression, which my SSHD server wouldn&#39;t play with until i specifically enabled compression in the sshd_config file.&lt;/p&gt;&lt;p&gt;After much more digging around, i came across reference to &lt;a href=&#34;http://search.cpan.org/~salva/Net-SFTP-Foreign-1.69/lib/Net/SFTP/Foreign.pm&#34;&gt;Net::SFTP::Foreign&lt;/a&gt;, which uses the installed ssh binary on your system for transport rather than relying on the pure perl Net::SSH.&lt;/p&gt;&lt;p&gt;Syntax is very similar, so it was a minor rewrite to switch modules, yet such a massive payback, from 0.30Mb/s up to 6Mb/s. &lt;/p&gt;&lt;p&gt;(It turns out the DSPs i mentioned earlier who could achieve 60Mb/s were actually FTP transfers, not SFTP)&lt;/p&gt;
-</description>
+      <description>I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows.</description>
     </item>
     
     <item>
       <title>building a DEB package from a perl script</title>
       <link>http://theb0ardside.com/buildingadebpackagefromaperlscript/</link>
-      <pubDate>Thu, 16 Feb 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/buildingadebpackagefromaperlscript/</guid>
-      <description>&lt;p&gt;I have a speedtest perl script i wrote - nothing complicated, takes a file and uploads it to a remote FTP or SFTP server, while calculating how long, then gives you a a measure of the MB/per second bandwidth between two sites.&lt;/p&gt;&lt;p&gt;I want it available on a selection of machines so it can run from wherever, so I thought i&#39;d package it up as a .DEB file and stick it in our local repo. Nothing complicated in that, and there are a &lt;a href=&#34;http://www.debian-administration.org/articles/336&#34; target=&#34;_blank&#34;&gt;number&lt;/a&gt; of &lt;a href=&#34;http://www.debian-administration.org/articles/337&#34; target=&#34;_blank&#34;&gt;online&lt;/a&gt; &lt;a href=&#34;http://www.debian.org/doc/manuals/debian-faq/ch-pkg_basics.en.html&#34; target=&#34;_blank&#34;&gt;tutorials&lt;/a&gt; about building your own debs. The main drawback with most I found was that they assume you are actually building from source rather than just distributing a script, although I also found &lt;a href=&#34;http://askubuntu.com/questions/27715/create-a-deb-package-from-scripts-or-binaries&#34; target=&#34;_blank&#34;&gt;a relevant Ubuntu thread&lt;/a&gt; which is pretty simple and to the point.&lt;/p&gt;&lt;p&gt;However, even using these tutorials it still took me a few hours to figure out. There are just a couple of non-obvious points, so i figure writing out my own steps is worth recording -&lt;/p&gt;&lt;p&gt;So first, grab your required packages:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;apt-get install dh-make dpkg-dev debhelper devscripts fakeroot lintian&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You will need to build from a directory with the name of your script in the form &lt;code&gt;packagename-version&lt;/code&gt;, so for mine i created &lt;strong&gt;/tmp/speedtest-1.0&lt;/strong&gt;, then copied in my script &amp;#8216;&lt;strong&gt;speedtest&lt;/strong&gt;&amp;#8216; and it&#39;s data file &lt;strong&gt;25MBFLAC.file&lt;/strong&gt; ( which i could have created with &lt;strong&gt;dd&lt;/strong&gt; on the box rather than copy over, but downloading the file is actually quicker in this situation ).&lt;/p&gt;&lt;p&gt;The first step is to run:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;dh_make -s --indep --createorig -e thor@valhalla.com&lt;/code&gt;&lt;/strong&gt;&lt;br /&gt;(dash-s means create a single binary .deb - i.e. no source version; indep means architecture-independent; and createorig is to indicate you are the original maintainer)&lt;/p&gt;&lt;p&gt;this creates a top-level &amp;#8216;&lt;strong&gt;debian&lt;/strong&gt;&amp;#8216; directory containing all the necessary config files.&lt;br /&gt;The main one you need to edit is &lt;strong&gt;debian/control&lt;/strong&gt; - you prob only need fill in &amp;#8220;section&amp;#8221;, &amp;#8220;homepage&amp;#8221; and &amp;#8220;Description&amp;#8221;&lt;/p&gt;&lt;p&gt;Mine looks like:&lt;/p&gt;&lt;p&gt;&lt;code&gt;Source: speedtest&lt;br /&gt;Section: web&lt;br /&gt;Priority: extra&lt;br /&gt;Maintainer: Thorsten Sideboard &amp;lt;thor@valhalla.com&amp;gt;&lt;br /&gt;Build-Depends: debhelper (&gt;= 7.0.50~)&lt;br /&gt;Standards-Version: 3.8.4&lt;br /&gt;Homepage: http://github.com/sideboard/speedtest.git&lt;/p&gt;&lt;p&gt;Package: speedtest&lt;br /&gt;Architecture: all&lt;br /&gt;Depends: ${misc:Depends}&lt;br /&gt;Description: Test Upload Speeds&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;One of the things which baffled me for a while, which was answered in the &lt;a href=&#34;http://askubuntu.com/questions/27715/create-a-deb-package-from-scripts-or-binaries&#34; target=&#34;_blank&#34;&gt;askubuntu link above&lt;/a&gt;, was how to specify where something is installed &amp;#8212; it goes in a file &amp;#8216;&lt;strong&gt;debian/install&lt;/strong&gt;&amp;#8216; which isn&#39;t created for you. The format of the file is &amp;#8216;&lt;strong&gt;filename location/to/be/installed&lt;/strong&gt;&amp;#8221; (without the initial slash)&lt;/p&gt;&lt;p&gt;so in my case, i ran:&lt;br /&gt;&lt;code&gt;echo &#34;speedtest usr/local/Scriptz/&#34; &gt; debian/install&lt;br /&gt;echo &#34;25MBFLAC.file usr/local/Scriptz/&#34; &gt;&gt; debian/install&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;At this point, you should then be able to run:&lt;br /&gt;&lt;code&gt;debuild -us -uc&lt;/code&gt;&lt;/p&gt;&lt;p&gt;and you &lt;em&gt;should&lt;/em&gt; have a deb file built. but..&lt;/p&gt;&lt;p&gt;First i ran into :&lt;/p&gt;&lt;p&gt;&lt;code&gt;dpkg-source: error: can&amp;#039;t build with source format &amp;#039;3.0 (quilt)&amp;#039;: no orig.tar file found&lt;/code&gt;&lt;/p&gt;&lt;p&gt;As the above-mentioned askubuntu post says, you can &lt;/p&gt;&lt;p&gt;&lt;code&gt;echo &#34;1.0&#34; &gt; debian/source/format&lt;/code&gt;&lt;/p&gt;&lt;p&gt;then re-running the &lt;code&gt;debuild -us -uc&lt;/code&gt; i ran into &lt;/p&gt;&lt;p&gt;&lt;code&gt;dpkg-source: error: cannot represent change to speedtemp-1.0/25MBFLAC.file: binary file contents changed&lt;/code&gt;&lt;/p&gt;&lt;p&gt;This error is due to leftover build-cruft from my last run - if you check the directory one step up from where you are, you&#39;ll see debuild has already built some files for you, typically a tar.gz, a .dsc and a .build file. Delete all them, then re-run &lt;code&gt;debuild -us -uc&lt;/code&gt; &amp;#8212; now it should build properly!&lt;/p&gt;&lt;p&gt;ah! &lt;/p&gt;&lt;p&gt;&lt;code&gt;dh_usrlocal: debian/speedtemp/usr/local/Scriptz/speedtest is not a directory&lt;/code&gt;&lt;/p&gt;&lt;p&gt;This one also caught me out for a while - turns out this is caused by my specifying &amp;#8220;/usr/local/Scriptz&amp;#8221; as my install location - &lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;Most third-party software installs itself in the /usr/local directory hierarchy. On Debian this is reserved for private use by the system administrator, so packages must not use directories such as /usr/local/bin but should instead use system directories such as /usr/bin, obeying the Filesystem Hierarchy Standard (FHS).&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt; (from &lt;a href=&#34;http://www.debian.org/doc/manuals/maint-guide/modify.en.html#destdir&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;So, yeah, i changed my &lt;strong&gt;debian/install&lt;/strong&gt; file to be &amp;#8220;&lt;strong&gt;speedtest usr/bin&lt;/strong&gt;&amp;#8221;&lt;/p&gt;&lt;p&gt;and finally! running &lt;code&gt;debuild -us -uc&lt;/code&gt; completes properly, outputting a &lt;strong&gt;/tmp/speedtest_1.0-1_all.deb&lt;/strong&gt; which can then be installed via&lt;br /&gt;&lt;strong&gt;&lt;code&gt;dpkg -i /tmp/speedtest_1.0-1_all.deb &lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One last note &amp;#8212; there are four useful scripts to also know about &amp;#8212; &lt;strong&gt;&lt;code&gt;preinst, postinst, prerm, postrm&lt;/code&gt;&lt;/strong&gt; &amp;#8212; these should be in the &lt;code&gt;debian/&lt;/code&gt; directory - pretty self-explanatory - pre- and post- install and remove scripts - if these exist, they will be run exactly as they are named, so for example, i wanted my 25MBFLAC.file still to be installed under /usr/local/Scriptz, so i listed it to be installed in the debian/install file as &amp;#8220;25MBFLAC.file tmp&amp;#8221; and then in my postinst file, i added:&lt;/p&gt;&lt;p&gt;&lt;code&gt;#!/bin/sh&lt;br /&gt;mv /tmp/25MBFLAC.file /usr/local/Scriptz/&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;
-</description>
+      <description>I have a speedtest perl script i wrote - nothing complicated, takes a file and uploads it to a remote FTP or SFTP server, while calculating how long, then gives you a a measure of the MB/per second bandwidth between two sites.
+I want it available on a selection of machines so it can run from wherever, so I thought i&#39;d package it up as a .DEB file and stick it in our local repo.</description>
     </item>
     
     <item>
       <title>CPAN Diff script</title>
       <link>http://theb0ardside.com/cpandiffscript/</link>
-      <pubDate>Fri, 16 Dec 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 16 Dec 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/cpandiffscript/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://theslowbullet.files.wordpress.com/2011/01/clonecover.jpg&#34; alt=&#34;diff&#34; /&gt;&lt;/p&gt;&lt;p&gt;I put together a quick perl script for comparing installed CPAN modules between two hosts. Find it &lt;a href=&#34;https://github.com/sideb0ard/CPANDiff&#34; title=&#34;CPANDiff&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Quite easy to use:&lt;br /&gt;Usage: ./CompareHostCpanModules.pl login@host1 login@host2&lt;/p&gt;&lt;p&gt;The script ssh&#39;s into both hosts (so it&#39;s easier if you have your ssh-keys setup) and grabs a list of installed CPAN modules and versions, then outputs the differences - it returns two lists - one of modules installed but having different versions, and another list of modules missing from the second host. &lt;/p&gt;
-</description>
+      <description>I put together a quick perl script for comparing installed CPAN modules between two hosts. Find it here.
+Quite easy to use:
+Usage: ./CompareHostCpanModules.pl login@host1 login@host2
+The script ssh&#39;s into both hosts (so it&#39;s easier if you have your ssh-keys setup) and grabs a list of installed CPAN modules and versions, then outputs the differences - it returns two lists - one of modules installed but having different versions, and another list of modules missing from the second host.</description>
     </item>
     
     <item>
       <title>80s hair unixz</title>
       <link>http://theb0ardside.com/80shairunixz/</link>
-      <pubDate>Sat, 11 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 11 Jun 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/80shairunixz/</guid>
-      <description>&lt;p&gt;History of BSD - this is awesome:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;425&#34; height=&#34;349&#34; src=&#34;http://www.youtube.com/embed/ds77e3aO9nA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Brief history of NCP -&amp;gt; IP/TCP transition, also awesome:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;349&#34; src=&#34;http://www.youtube.com/embed/yqOS5d4gJz8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>History of BSD - this is awesome:
+
+Brief history of NCP -&amp;gt; IP/TCP transition, also awesome:</description>
     </item>
     
     <item>
       <title>time travelling with Unix</title>
       <link>http://theb0ardside.com/timetravellingwithunix/</link>
-      <pubDate>Sun, 01 May 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/timetravellingwithunix/</guid>
-      <description>&lt;div&gt;&lt;img class=&#34;aligncenter&#34; title=&#34;SRI International &#34; src=&#34;http://www.urigeller.com/wp-content/uploads/2015/01/uri_stanford_400_01.jpg&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;323&#34; /&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;I discovered Unix back in 1998. At the time i was a lowly Windows desktop support engineer when i started dabbling with Red Hat Linux v 4.2. Compared to the process of fixing Windows 3.1 systems ( i.e. reinstall drivers and reboot - if that doesn&amp;rsquo;t work, reinstall OS and drivers - repeat until it does work), playing with Linux was a joy of knowledge. Every part of the installation process was a problem hiding a wormhole of required knowledge. Eventually, we managed to start X - very literally, all we had was a grey screen with an &amp;lsquo;X&amp;rsquo; to represent the mouse pointer. However, it was addictive - every time you had to fix something, there was a reason for it, and you learned from that experience, and once fixed, it would stay fixed.&lt;/p&gt;&lt;p&gt;So, fast forward 13 years, and I find myself in a wiki loop, reading up on Bell Labs, then early iterations of Unix, and especially Version 7 Unix - &lt;a href=&#34;http://en.wikipedia.org/wiki/Version_7_Unix&#34;&gt;http://en.wikipedia.org/wiki/Version_7_Unix&lt;/a&gt; - Back in 1998, i had my head full learning Linux and the newly released SunOS 5.7, so even though i was surrounded by older Vax, SGI, and Digital, I didn&amp;rsquo;t explore much historical software at the time even though i did have a bit of a fixation with the PDP-11.&lt;/p&gt;&lt;/div&gt;
-
-&lt;div&gt;&lt;p&gt;What caught my eye on the wiki page was this line - &amp;ldquo;Bootable images for V7 can still be &lt;a href=&#34;http://ftp.fibranet.cat/UnixArchive/PDP-11/Boot_Images/&#34;&gt;downloaded&lt;/a&gt; today, and can be run on modern hosts using PDP-11 emulators such as &lt;a href=&#34;http://en.wikipedia.org/wiki/SIMH&#34;&gt;SIMH&lt;/a&gt;.&amp;rdquo;.&lt;/p&gt;&lt;p&gt;whut??&lt;/p&gt;&lt;p&gt;Yeah! So, this is my step-by-step instructions for compiling SIMH on OS X (Snow Leopard 10.6.7), running the PDP-11 emulator and getting a V7 Unix image up and running on it. There are other HOWTOs out there and the documentation with SIMH does explain all this, but even so, I found it took me several hours of reading and searching to get things working, so I figure theres still room on the internets for what hopefully is a bit more of a concise howto..&lt;/p&gt;&lt;p&gt;You can find the SIMH homepage at:&lt;br /&gt;&lt;a href=&#34;http://simh.trailing-edge.com/&#34;&gt;http://simh.trailing-edge.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The SIMH project consists of emulators for a bunch of historical machines, load of DEC machines from the VAX, through to the PDP range, plus IBMs, Honeywell, and even the Altair 8080.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&amp;ldquo;&lt;em&gt;The Computer History Simulation Project is a loose Internet-based collective of people interested in restoring historically significant computer hardware and software systems by simulation. The goal of the project is to create highly portable system simulators and to publish them as freeware on the Internet, with freely available copies of significant or representative software.&lt;/em&gt;&amp;rdquo;&lt;/div&gt;&lt;div&gt;&lt;p&gt;(You can also find a precompiled OS X binary at &lt;a href=&#34;http://homepage.mac.com/mba/simh/index.html&#34;&gt;http://homepage.mac.com/mba/simh/index.html&lt;/a&gt; however compiling wasn&amp;rsquo;t hard, and its all part of the fun, right?!)&lt;/p&gt;&lt;p&gt;First, if you don&#39;t already have it, you&#39;ll need to install Libpcap for network support, which you can get from &lt;a href=&#34;http://www.tcpdump.org/&#34;&gt;http://www.tcpdump.org/&lt;/a&gt; - Install libpcap with the usual ./configure, make, make install dance, then download the simh source.&lt;/p&gt;&lt;p&gt;To install on OS X you need to export the OSTYPE environment variable.&lt;br /&gt;(Or you&#39;ll get:&lt;br /&gt;ld: library not found for -lrt&lt;br /&gt;collect2: ld returned 1 exit status&lt;br /&gt;make: *** [BIN/pdp1] Error 1)&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;echo $OSTYPE&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt; &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;export OSTYPE&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;make USE_NETWORK=1&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;I encountered my first failure here, no BIN directory. Easily fixed with:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;mkdir BIN&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;make USE_NETWORK=1&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;boom!&lt;/div&gt;&lt;div&gt;&lt;strong&gt;cd BIN&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;./pdp11&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;After compiling, you can fire up any of the emulators and you&amp;rsquo;ll find yourself in a &lt;strong&gt;sim&amp;gt;&lt;/strong&gt; shell.&lt;/p&gt;&lt;p&gt;&amp;ldquo;Now what the hell do i do?&amp;rdquo; was my first thought.&lt;/p&gt;&lt;p&gt;It took me a bit of reading to understand how to use the simulators, basically they are composed of the devices such as the CPU, disk, memory etc, plus Registers for which you set values. They are quite fully explained in - &lt;a href=&#34;http://simh.trailing-edge.com/pdf/simh_doc.pdf&#34;&gt;http://simh.trailing-edge.com/pdf/simh_doc.pdf&lt;/a&gt; -&lt;/p&gt;&lt;p&gt;In order to load up any of the software, you have to set some device options, map your software image to a device then load it up. You&amp;rsquo;ll find the software at:&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://simh.trailing-edge.com/software.html&#34;&gt;http://simh.trailing-edge.com/software.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;(and for more thorough explanation, read the doc at &lt;a href=&#34;http://simh.trailing-edge.com/pdf/simh_swre.pdf&#34;&gt;http://simh.trailing-edge.com/pdf/simh_swre.pdf&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;The correct V7 Unix to run on the PDP-11 is :&lt;br /&gt;&lt;a href=&#34;http://simh.trailing-edge.com/kits/uv7swre.zip&#34;&gt; http://simh.trailing-edge.com/kits/uv7swre.zip&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The instructions given in the documentation are:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;sim&amp;gt; set cpu u18 &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; sim&amp;gt; set rl0 RL02 &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; sim&amp;gt; att rl0 unix_v7_rl.dsk &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; sim&amp;gt; boot rl0 &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;@boot &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; New Boot, known devices are hp ht rk rl rp tm vt &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt; : rl(0,0)rl2unix &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;#&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;They are absolutely correct, however, a gotcha for me was that after i typed &amp;ldquo;&lt;strong&gt;boot rl0&lt;/strong&gt;&amp;rdquo; I only got an &amp;ldquo;&lt;strong&gt;@&lt;/strong&gt;&amp;rdquo; sign, and nothing more. I thought perhaps i had a corrupt image or something was different with my emulator. But no, i was just being a numpty, you actually need to type &amp;ldquo;&lt;strong&gt;boot&lt;/strong&gt;&amp;rdquo; and press return, then type in the &amp;#8220;&lt;strong&gt;rl(0,0)rl2unix &lt;/strong&gt;&amp;#8221; line too.&lt;/p&gt;&lt;p&gt;I also had to create a &lt;strong&gt;/tmp&lt;/strong&gt; directory so i could view man pages, but yeah, apart from that, you should be good to go!&lt;/p&gt;&lt;p&gt;I also had fun playing with 2.11 BSD which i got from :&lt;br /&gt;&lt;a title=&#34;2.11&#34; href=&#34;http://ftp.fibranet.cat/UnixArchive/PDP-11/Boot_Images/2.11_on_Simh/&#34;&gt; http://ftp.fibranet.cat/UnixArchive/PDP-11/Boot_Images/2.11_on_Simh/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This is a really well put together package, with a clear README file on how to use it.&lt;/p&gt;&lt;p&gt;download, unzip and run as:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;./pdp11 211bsd.simh&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You can even telnet into your virtual host:&lt;/p&gt;&lt;p&gt;rar!&lt;/p&gt;&lt;/div&gt;
-</description>
+      <description>I discovered Unix back in 1998. At the time i was a lowly Windows desktop support engineer when i started dabbling with Red Hat Linux v 4.2. Compared to the process of fixing Windows 3.1 systems ( i.e. reinstall drivers and reboot - if that doesn&amp;rsquo;t work, reinstall OS and drivers - repeat until it does work), playing with Linux was a joy of knowledge. Every part of the installation process was a problem hiding a wormhole of required knowledge.</description>
     </item>
     
   </channel>

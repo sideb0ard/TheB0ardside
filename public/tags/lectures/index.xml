@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Lectures on The B0ardside </title>
+    <title>Lectures on The B0ardside</title>
     <link>http://theb0ardside.com/tags/lectures/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-04-13 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Lectures on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/lectures/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Wizard Book</title>
       <link>http://theb0ardside.com/wizard-book-lectures/</link>
-      <pubDate>Sun, 13 Apr 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 13 Apr 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/wizard-book-lectures/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve never made it very far through my copy of Abelson, Sussman and Sussman&amp;rsquo;s &amp;lsquo;Structure and Interpretation Of Computer Programs&amp;rsquo;, so I was super excited to find this whole series of lectures online with Harold and Gerald Jay presenting the text as a course. The lectures help a lot, making it a whole lot easier than just wading through the text yourself. I went deep over the weekend, watching the first four of them - My Lisp foo is getting strong!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/&#34;&gt;Full Course Online&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/2Op3QLzMgSY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I&amp;rsquo;ve never made it very far through my copy of Abelson, Sussman and Sussman&amp;rsquo;s &amp;lsquo;Structure and Interpretation Of Computer Programs&amp;rsquo;, so I was super excited to find this whole series of lectures online with Harold and Gerald Jay presenting the text as a course. The lectures help a lot, making it a whole lot easier than just wading through the text yourself. I went deep over the weekend, watching the first four of them - My Lisp foo is getting strong!</description>
     </item>
     
   </channel>

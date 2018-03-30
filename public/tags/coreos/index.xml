@@ -1,81 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Coreos on The B0ardside </title>
+    <title>Coreos on The B0ardside</title>
     <link>http://theb0ardside.com/tags/coreos/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-06-02 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Coreos on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/coreos/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>From Config Management to a proper Scheduling system</title>
       <link>http://theb0ardside.com/coreosfestcloser/</link>
-      <pubDate>Tue, 02 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/coreosfestcloser/</guid>
-      <description>&lt;p&gt;This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/juCQMnSfysQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..
+  </description>
     </item>
     
     <item>
       <title>Etcd 2.0 walkthrough</title>
       <link>http://theb0ardside.com/etcd2.0/</link>
-      <pubDate>Thu, 29 Jan 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/etcd2.0/</guid>
-      <description>&lt;p&gt;Excellent overview of Etcd and description of new features / bug fixes in 2.0..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/z6tjawXZ71E&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Excellent overview of Etcd and description of new features / bug fixes in 2.0..
+  </description>
     </item>
     
     <item>
       <title>Kelsey Hightower on Kubernetes</title>
       <link>http://theb0ardside.com/hightower-kubernetes/</link>
-      <pubDate>Tue, 12 Aug 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/hightower-kubernetes/</guid>
-      <description>&lt;p&gt;Kelsey Hightower, very funny, very good practical demo of Kubernetes..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/KFr9BHTgqkw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..
+  </description>
     </item>
     
     <item>
       <title>Brandon Philips, CoreOS</title>
       <link>http://theb0ardside.com/brandoncoreos/</link>
-      <pubDate>Mon, 02 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/brandoncoreos/</guid>
-      <description>&lt;p&gt;Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/uaCUftirfk0?start=2242&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::
+  </description>
     </item>
     
     <item>
       <title>Go For SysAdmins</title>
       <link>http://theb0ardside.com/goforsysadmins/</link>
-      <pubDate>Thu, 15 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/goforsysadmins/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been getting really into both Go and CoreOS recenty, so this video is timely and ACE!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/41GffiXhN6I&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I&amp;rsquo;ve been getting really into both Go and CoreOS recenty, so this video is timely and ACE!
+  </description>
     </item>
     
   </channel>

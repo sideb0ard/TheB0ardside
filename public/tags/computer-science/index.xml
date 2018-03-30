@@ -1,46 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Computer Science on The B0ardside </title>
+    <title>Computer Science on The B0ardside</title>
     <link>http://theb0ardside.com/tags/computer-science/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-01-06 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Computer Science on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Cardb0ard Computer Scientists</title>
       <link>http://theb0ardside.com/cardboard-computer-scientists/</link>
-      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/cardboard-computer-scientists/</guid>
-      <description>&lt;p&gt;A wee slideshow of my Cardb0ard Computer Scientists project..&lt;/p&gt;
+      <description>A wee slideshow of my Cardb0ard Computer Scientists project..
+Previous // Next // or better yet - use your left and right arrow-&amp;gt; keys //
 
-&lt;p&gt;&lt;a href=&#34;.&#34; onclick=&#34;return changeImage(-1);&#34;&gt;Previous&lt;/a&gt; // &lt;a href=&#34;.&#34; onclick=&#34;return changeImage(1);&#34;&gt;Next&lt;/a&gt;
-// or better yet - use your left and right arrow-&amp;gt; keys //&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://theb0ardside.com/static/img/cs/babbage.jpg&#34; id=&#34;cardboardscience&#34;&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;These are all drawn on scraps of cardboard i had around, most are either from frozen pizzas or record mailers!&lt;/p&gt;
-
-&lt;p&gt;So far i have:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Charles_Babbage&#34;&gt;Charles Babbage&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Ada_Lovelace&#34;&gt;Ada Lovelace&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Alan_Turing&#34;&gt;Alan Turing&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/John_von_Neumann&#34;&gt;John Von Neumann&lt;/a&gt; // not pictured&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Claude_Shannon&#34;&gt;Claude Shannon&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Konrad_Zuse&#34;&gt;Konrad Zuse&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Vannevar_Bush&#34;&gt;Vannevar Bush&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Doug_Engelbart&#34;&gt;Doug Engelbart&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)&#34;&gt;John McCarthy&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Dennis_Ritchie&#34;&gt;Dennis Ritchie&lt;/a&gt; &lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Ken_Thompson&#34;&gt;ken Thompson&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Ted_Nelson&#34;&gt;Ted Nelson&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Seymour_Cray&#34;&gt;Seymour Cray&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;(Using the (Mousetrap)[&lt;a href=&#34;http://craig.is/killing/mice&#34;&gt;http://craig.is/killing/mice&lt;/a&gt;] library)&lt;/p&gt;
-</description>
+These are all drawn on scraps of cardboard i had around, most are either from frozen pizzas or record mailers!
+So far i have:
+Charles Babbage Ada Lovelace Alan Turing John Von Neumann // not pictured Claude Shannon Konrad Zuse Vannevar Bush Doug Engelbart John McCarthy Dennis Ritchie  ken Thompson Ted Nelson Seymour Cray</description>
     </item>
     
   </channel>

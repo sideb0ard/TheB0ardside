@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Kubernetes on The B0ardside </title>
+    <title>Kubernetes on The B0ardside</title>
     <link>http://theb0ardside.com/tags/kubernetes/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-06-02 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Kubernetes on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>From Config Management to a proper Scheduling system</title>
       <link>http://theb0ardside.com/coreosfestcloser/</link>
-      <pubDate>Tue, 02 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/coreosfestcloser/</guid>
-      <description>&lt;p&gt;This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/juCQMnSfysQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..
+  </description>
     </item>
     
   </channel>

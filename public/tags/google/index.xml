@@ -1,41 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Google on The B0ardside </title>
+    <title>Google on The B0ardside</title>
     <link>http://theb0ardside.com/tags/google/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-05-08 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Google on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 08 May 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Craig Silverstein on the origin of Google</title>
       <link>http://theb0ardside.com/craig-silverstein-google/</link>
-      <pubDate>Fri, 08 May 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/craig-silverstein-google/</guid>
-      <description>&lt;p&gt;I only just learned about this guy Craig Silverstein, who was Google employee #3 after Larry and Sergey. There&amp;rsquo;s a ton more info about him if you go searching, but this is an ace little 10 minute video where he talks about the origins of google..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/QVkWmYUwhH8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I only just learned about this guy Craig Silverstein, who was Google employee #3 after Larry and Sergey. There&amp;rsquo;s a ton more info about him if you go searching, but this is an ace little 10 minute video where he talks about the origins of google..
+  </description>
     </item>
     
     <item>
       <title>Eric Brewer on Container usage at Google</title>
       <link>http://theb0ardside.com/containers-at-google/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/containers-at-google/</guid>
-      <description>&lt;p&gt;Eric Brewer&amp;rsquo;s keynote from Dockercon14 -&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YrxnVKZeqK8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!&lt;/p&gt;
-</description>
+      <description>Eric Brewer&amp;rsquo;s keynote from Dockercon14 -
+  Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
     </item>
     
   </channel>

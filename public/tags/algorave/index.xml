@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Algorave on The B0ardside </title>
+    <title>Algorave on The B0ardside</title>
     <link>http://theb0ardside.com/tags/algorave/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2018-01-28 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Algorave on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 29 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/algorave/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Soundb0ard in use at Algosix</title>
+      <link>http://theb0ardside.com/soundb0ard-algorave/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/soundb0ard-algorave/</guid>
+      <description>I&amp;rsquo;ve had my head down doing a bunch of work on my Soundb0ard software, in prep for playing at Algosix last weekened. The festival was awesome, so much great live music!
+I was quite happy with my performance, give it a listen/view:
+  </description>
+    </item>
     
     <item>
       <title>TidalCycles Tutorials</title>
       <link>http://theb0ardside.com/tidalcyles-tutorial/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tidalcyles-tutorial/</guid>
-      <description>&lt;p&gt;Alex McLean&amp;rsquo;s &lt;a href=&#34;https://tidalcycles.org/&#34;&gt;TidalCycles&lt;/a&gt; has been a big influence on my own &lt;a href=&#34;https://github.com/sideb0ard/SoundB0ard&#34;&gt;Soundb0ard&lt;/a&gt;, and lately, now that my instruments are mostly built, I&amp;rsquo;ve been looking for ways to algorithmically modify them more.&lt;/p&gt;
-
-&lt;p&gt;This series of howto&amp;rsquo;s by &lt;a href=&#34;https://www.youtube.com/channel/UC5skJN2WYbyYHUmrMQ00LtA&#34;&gt;Mike Hodnick&lt;/a&gt;/&lt;a href=&#34;https://kindohm.bandcamp.com/&#34;&gt;Kindohm&lt;/a&gt; have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/plu04_ewZUQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Alex McLean&amp;rsquo;s TidalCycles has been a big influence on my own Soundb0ard, and lately, now that my instruments are mostly built, I&amp;rsquo;ve been looking for ways to algorithmically modify them more.
+This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:
+  </description>
     </item>
     
   </channel>

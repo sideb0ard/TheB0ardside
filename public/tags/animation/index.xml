@@ -1,37 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Animation on The B0ardside </title>
+    <title>Animation on The B0ardside</title>
     <link>http://theb0ardside.com/tags/animation/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-08-27 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Animation on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 27 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Plainview Public Access</title>
       <link>http://theb0ardside.com/plainview-public-access/</link>
-      <pubDate>Sat, 27 Aug 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/plainview-public-access/</guid>
-      <description>&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/AVLPKf0uAhI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;This is a crazy awesome animation by Anthony Lombardo and John Chrostek &amp;ndash;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;&lt;i&gt;It is one-o-clock in the morning. You&amp;rsquo;ve had a long and tiresome day, and despite your best intentions, dozed off far before you meant to.&lt;/p&gt;
-
-&lt;p&gt;Asleep in the embrace of your old blue La-Z-Boy, you feel a flicker like a breeze full of static at room temperature. You awaken.&lt;/p&gt;
-
-&lt;p&gt;The television is still on.&lt;/p&gt;
-
-&lt;p&gt;Your eyes adjust. The feel of the room has changed. The space between the furniture grows wider, the hallway light seems a valley away. You are alone with the night.&lt;/p&gt;
-
-&lt;p&gt;The sharp hiss of static pulls you back. In your peripheral vision, what light remains dims and flickers as if bathing in the glow of the transmission. From some familiar depths, a song begins to play&amp;hellip;&lt;/i&gt;&amp;ldquo;&lt;/p&gt;
-
-&lt;p&gt;I came across it via my friend &lt;a href=&#34;http://www.sfhaa.org/&#34;&gt;Mat&lt;/a&gt;, who recorded a segment of the opening music.&lt;/p&gt;
-</description>
+      <description>This is a crazy awesome animation by Anthony Lombardo and John Chrostek &amp;ndash;
+&amp;ldquo;It is one-o-clock in the morning. You&amp;rsquo;ve had a long and tiresome day, and despite your best intentions, dozed off far before you meant to.
+Asleep in the embrace of your old blue La-Z-Boy, you feel a flicker like a breeze full of static at room temperature. You awaken.
+The television is still on.
+Your eyes adjust.</description>
     </item>
     
   </channel>

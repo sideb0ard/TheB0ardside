@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Philosophy on The B0ardside </title>
+    <title>Philosophy on The B0ardside</title>
     <link>http://theb0ardside.com/tags/philosophy/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2018-02-18 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Philosophy on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 18 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Steve DiPaola at Dorkbot, SF, 2018</title>
       <link>http://theb0ardside.com/cognitivemodelling/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/cognitivemodelling/</guid>
-      <description>&lt;p&gt;I ended up missing this recent Dorkbot night, so glad to see the talk turning up online - this is great!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-
-&lt;iframe src=&#34;https://player.vimeo.com/video/255835708&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/255835708&#34;&gt;Steve DiPaola, Computational/Cognitive Modelling of Expression &amp;amp; Creativity, Dorkbot-SF, 2018-01-31&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/pronoiac&#34;&gt;pronoiac&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;/div&gt;
-</description>
+      <description>I ended up missing this recent Dorkbot night, so glad to see the talk turning up online - this is great!
+ Steve DiPaola, Computational/Cognitive Modelling of Expression &amp;amp; Creativity, Dorkbot-SF, 2018-01-31 from pronoiac on Vimeo.
+ </description>
     </item>
     
   </channel>

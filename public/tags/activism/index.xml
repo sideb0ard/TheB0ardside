@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Activism on The B0ardside </title>
+    <title>Activism on The B0ardside</title>
     <link>http://theb0ardside.com/tags/activism/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-06-29 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Activism on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 29 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/activism/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Aaron Swartz story</title>
       <link>http://theb0ardside.com/aaronswartz/</link>
-      <pubDate>Sun, 29 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 29 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/aaronswartz/</guid>
-      <description>&lt;p&gt;Wow, this Aaron Swartz documentary is great, well worth a watch -&amp;gt;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe src=&#34;https://archive.org/embed/TheInternetsOwnBoyTheStoryOfAaronSwartz&#34; width=&#34;640&#34; height=&#34;480&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Wow, this Aaron Swartz documentary is great, well worth a watch -&amp;gt;
+  </description>
     </item>
     
   </channel>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Tuned To A Dead Channel on The B0ardside </title>
+    <title>Tuned to a Dead Channel on The B0ardside</title>
     <link>http://theb0ardside.com/tags/tuned-to-a-dead-channel/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-01-07 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Tuned to a Dead Channel on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/tuned-to-a-dead-channel/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Oh yeah, Codetraxx</title>
       <link>http://theb0ardside.com/codetraxx/</link>
-      <pubDate>Tue, 07 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/codetraxx/</guid>
-      <description>&lt;p&gt;Oh yeah, that &lt;a href=&#34;https://github.com/sideb0ard/Codetraxx&#34;&gt;Codetraxx&lt;/a&gt; project I mentioned, which me and &lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt; have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..&lt;/p&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124516248&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=true&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description>Oh yeah, that Codetraxx project I mentioned, which me and Tack have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..
+ </description>
     </item>
     
   </channel>

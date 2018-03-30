@@ -1,201 +1,178 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Engineering on The B0ardside </title>
+    <title>Engineering on The B0ardside</title>
     <link>http://theb0ardside.com/tags/engineering/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-10-15 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Engineering on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>How To Build a Skyscraper</title>
       <link>http://theb0ardside.com/howtobuildaskycraper/</link>
-      <pubDate>Thu, 15 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/howtobuildaskycraper/</guid>
-      <description>&lt;p&gt;Pretty rad skyscraper history as software-engineering-metaphor..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/7MeBuDLbF98&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Pretty rad skyscraper history as software-engineering-metaphor..
+  </description>
     </item>
     
     <item>
       <title>Systems At Facebook Scale</title>
       <link>http://theb0ardside.com/system-facebook-scale/</link>
-      <pubDate>Thu, 16 Apr 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/system-facebook-scale/</guid>
-      <description>&lt;p&gt;Wow, this is one of the most practical, technical talks I&amp;rsquo;ve seen in a while - super good!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/dlixGkelP9U&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Wow, this is one of the most practical, technical talks I&amp;rsquo;ve seen in a while - super good!
+  </description>
     </item>
     
     <item>
       <title>AWS VPC best practises</title>
       <link>http://theb0ardside.com/vpc-design/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/vpc-design/</guid>
-      <description>&lt;p&gt;Super detailed and practical VPC design best practises - very cool stuff..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YoX_frLHbEs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Super detailed and practical VPC design best practises - very cool stuff..
+  </description>
     </item>
     
     <item>
       <title>Underwater Cables, 1939</title>
       <link>http://theb0ardside.com/underwatercables1939/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/underwatercables1939/</guid>
-      <description>&lt;p&gt;Yow, 1056 wires - 1930s style Undersea Telephony biz..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/G5od6roIMtQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Yow, 1056 wires - 1930s style Undersea Telephony biz..
+  </description>
     </item>
     
     <item>
       <title>And It All Went Horribly Wrong</title>
       <link>http://theb0ardside.com/debuggingproduction/</link>
-      <pubDate>Fri, 04 Apr 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 04 Apr 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/debuggingproduction/</guid>
-      <description>&lt;div&gt;
-&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;&lt;img width=&#34;600&#34; src=&#34;http://theb0ardside.com/static/img/joyentprod.png&#34;&gt;&lt;/a&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;Bryan Cantrill being funny as hell.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&#34;&lt;em&gt;Bryan Cantrill discusses debugging production systems using post-mortem debugging and dynamic instrumentation, with a bit of history and an introduction to useful debugging tools.&#34;i&lt;/em&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>  Bryan Cantrill being funny as hell.
+&#34;Bryan Cantrill discusses debugging production systems using post-mortem debugging and dynamic instrumentation, with a bit of history and an introduction to useful debugging tools.&#34;i
+ </description>
     </item>
     
     <item>
       <title>Apollo Computer</title>
       <link>http://theb0ardside.com/apollocomputer/</link>
-      <pubDate>Fri, 20 Sep 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/apollocomputer/</guid>
-      <description>&lt;p&gt;awesome sauce.&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/YIBhPsyYCiM?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>awesome sauce.</description>
     </item>
     
     <item>
       <title>Brendan Gregg, Linux Performance</title>
       <link>http://theb0ardside.com/brendangregglinuxperformance/</link>
-      <pubDate>Wed, 12 Jun 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/brendangregglinuxperformance/</guid>
-      <description>&lt;p&gt;The always interesting Brendan Greg &amp;#8212; &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/0yyorhl6IjM?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>The always interesting Brendan Greg &amp;#8212;</description>
     </item>
     
     <item>
       <title>Berkshelf - the missing piece</title>
       <link>http://theb0ardside.com/berkshelfthemissingpiece/</link>
-      <pubDate>Wed, 29 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/berkshelfthemissingpiece/</guid>
-      <description>&lt;p&gt;If you&#39;ve been following my past few posts, you&#39;ve seen i was investigating how best to integrate the plethora of Chef testing tools that&#39;ve been coming out &amp;#8212; foodcritic, chefspec, test-kitchen, mini-test &amp;#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&amp;#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo? Inside a cookbook directory? How many Vagrant files am I going to create here?&lt;/p&gt;&lt;p&gt;If, like myself, you weren&#39;t along at this year&#39;s ChefConf 2013, you may also have missed on a major conceptual shift that has happened. Instead of the all-inclusive Chef-repo design pattern, as implied by the OpsCode Chef Repo - https://github.com/opscode/chef-repo - which, when used with all the community cookbooks out there, creates a mess of forked, modified and sub-moduled cookbooks and recipes. &lt;/p&gt;&lt;p&gt;The conceptual shift away and now recommended way, is to treat each cookbook as a separate piece of software and to give it it&#39;s own git repo, keeping them separate from from your Chef-repo. This combined, with a distinction between Library and Application cookbooks, and then bundled together via Berkshelf, enables a much cleaner and modular way of working. When you accept this move, it&#39;s much easier to then fit all the testing pieces together as they all live within each separate cookbook/repo.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/RiotGames/berkshelf/issues/535&#34; title=&#34;Berk Comment&#34; target=&#34;_blank&#34;&gt;This Comment Thread&lt;/a&gt; was what really drew it together for me, and then to fully clarify this way of working, watch Jamie Winsor&#39;s ChefConf talk which is the original starting point:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/hYt0E84kYUI?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>If you&#39;ve been following my past few posts, you&#39;ve seen i was investigating how best to integrate the plethora of Chef testing tools that&#39;ve been coming out &amp;#8212; foodcritic, chefspec, test-kitchen, mini-test &amp;#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&amp;#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo?</description>
     </item>
     
     <item>
       <title>Test-Driven Chef</title>
       <link>http://theb0ardside.com/testdrivenchef/</link>
-      <pubDate>Wed, 15 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 15 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/testdrivenchef/</guid>
-      <description>&lt;p&gt;I&#39;m looking to start using Test-Kitchen and Berkshelf, and basically trying to get my head round setting up a proper test driven Chef setup.&lt;/p&gt;&lt;p&gt;I found this video from last year to be quite a good introduction to some of the setup -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/o2e0aZUAVGw?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>I&#39;m looking to start using Test-Kitchen and Berkshelf, and basically trying to get my head round setting up a proper test driven Chef setup.
+I found this video from last year to be quite a good introduction to some of the setup -</description>
     </item>
     
     <item>
       <title>Netflix OSS</title>
       <link>http://theb0ardside.com/netflixoss/</link>
-      <pubDate>Sat, 11 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 11 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/netflixoss/</guid>
-      <description>&lt;p&gt;Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/A69uTnfQgB8?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:</description>
     </item>
     
     <item>
       <title>jedberg talk at Airbnb</title>
       <link>http://theb0ardside.com/jedbergtalkatairbnb/</link>
-      <pubDate>Wed, 08 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/jedbergtalkatairbnb/</guid>
-      <description>&lt;p&gt;I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/cCAO9moDucI?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -</description>
     </item>
     
     <item>
       <title>Etsy Scaling vid from 2011</title>
       <link>http://theb0ardside.com/etsyscalingvidfrom2011/</link>
-      <pubDate>Thu, 17 Jan 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 17 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/etsyscalingvidfrom2011/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/eenrfm50mXw?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;All well accepted practices by now, but still a good watch.&lt;/p&gt;
-</description>
+      <description>All well accepted practices by now, but still a good watch.</description>
     </item>
     
     <item>
       <title>scaling at dropbox</title>
       <link>http://theb0ardside.com/scalingatdropbox/</link>
-      <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/scalingatdropbox/</guid>
-      <description>&lt;p&gt;I highly recommend this &lt;a href=&#34;http://devopsweekly.com/&#34; title=&#34;DevOps Weekly&#34; target=&#34;_blank&#34;&gt;DevOps Weekly mail out&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://image-host.appspot.com/i/img?id=agppbWFnZS1ob3N0cg0LEgVJbWFnZRiJpAEM&#34; title=&#34;DevOps Weekly&#34; class=&#34;aligncenter&#34; width=&#34;798&#34; height=&#34;362&#34; /&gt;&lt;/p&gt;&lt;p&gt;The latest one has a bunch of good links, and one i found especially was this &amp;#8220;&lt;a href=&#34;http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1&#34; title=&#34;Scaling at Dropbox&#34; target=&#34;_blank&#34;&gt;Scaling lessons learned at Dropbox, part 1&lt;/a&gt;&amp;#8220;.&lt;/p&gt;
-</description>
+      <description>I highly recommend this DevOps Weekly mail out. The latest one has a bunch of good links, and one i found especially was this &amp;#8220;Scaling lessons learned at Dropbox, part 1&amp;#8220;.</description>
     </item>
     
     <item>
       <title>some fav Velocity talks</title>
       <link>http://theb0ardside.com/somefavvelocitytalks/</link>
-      <pubDate>Mon, 02 Jul 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/somefavvelocitytalks/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://velocityconf.com/velocity2012&#34; title=&#34;Velocity&#34; target=&#34;_blank&#34;&gt;Velocity&lt;/a&gt; was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!&lt;/p&gt;&lt;p&gt;Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/2S0k12uZR14?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/bM0yL0eQ9EM?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Velocity was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!
+Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..</description>
     </item>
     
     <item>
       <title>The Ono-Sendai SLB-10 ORB system</title>
       <link>http://theb0ardside.com/theonosendaislb10orbsystem/</link>
-      <pubDate>Fri, 29 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/theonosendaislb10orbsystem/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5083/5381778688_f94f95fa71_z.jpg&#34; alt=&#34;Ono-Sendai SLB-10 ORB System&#34; /&gt;&lt;/p&gt;&lt;p&gt;&amp;#8220;The SLB-10 is the latest generation of ORB manufactured by Ono-Sendai, utilizing state of the art EM pulse powered flotation; archive-quality audio and visual recording capabilities; fully CMYK coloured, tactile holographic capability; and guaranteed always-on connection to your personal encrypted data storage facility.&lt;/p&gt;&lt;p&gt;ORBs have become so integral to our life and yet they are barely a 7 year old technology. It is worth reflecting on the brief history of these astounding devices, upon which we now rely so heavily.&lt;/p&gt;&lt;p&gt;In 2027, a group of engineers, skaterboarders and film-makers came together to work on a project utilizing the first commercial Shawyer/EmDrive propulsion system released by the British National Space Centre. Their early device was designed initially as a simple anti-gravity camera to be able to follow a moving person, while filming and streaming the data. It was a personal project for their own use, but they also expected it would be useful for other filming niches. What they hadn&amp;rsquo;t expected was the enormous demand from the general public, as real-time life-recording and live-blogging quickly took off, finding a multitude of personal and business uses. They formed a company to market their ORB devices, calling themselves Ono-Sendai, in joking homage to William Gibson.&lt;/p&gt;&lt;p&gt;The market for ORBs exploded, with feature upon feature being added in response to consumer demand: multiple cameras, higher definition a/v recording, voice control and audio speakers, automated laser protection systems, and crucially - the visual feed became integrated with in-Frame overlays. In those days Frames were still competing with handheld devices, before we perfected the means to spatially interact with data.&lt;/p&gt;&lt;p&gt;Two more pieces were necessary to bring us up to date with the contemporary ORB experience - the addition of the holo-projector in 2030, in order to finally disperse with a physical interface; and, more recently in 2032, the first mature ultrasound-based haptic holographic interface was introduced to provide a truly tactile experience.&lt;/p&gt;&lt;p&gt;As many imitators as there are on the market, Ono-Sendai manages to stay one step ahead of the competitors due its truly innovative operating system, SOLX - Son Of LinuX, the most advanced and personable decision-taking, realtime smart O/S. With Ono-Sendai and SOLX assisting your life, you be sure of trusted network access, personal security, and reliable data archive - Get on with enjoying your life!&amp;#8221;&lt;/p&gt;&lt;p&gt;// reblog from &lt;a href=&#34;http://drawingb0ard.blogspot.com/2011/01/ono-sendai-slb-10-orb-system.html&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;old Drawing B0ard post&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>&amp;#8220;The SLB-10 is the latest generation of ORB manufactured by Ono-Sendai, utilizing state of the art EM pulse powered flotation; archive-quality audio and visual recording capabilities; fully CMYK coloured, tactile holographic capability; and guaranteed always-on connection to your personal encrypted data storage facility.
+ORBs have become so integral to our life and yet they are barely a 7 year old technology. It is worth reflecting on the brief history of these astounding devices, upon which we now rely so heavily.</description>
     </item>
     
     <item>
       <title>Around the Earth in 200ms</title>
       <link>http://theb0ardside.com/aroundtheearthin200ms/</link>
-      <pubDate>Wed, 20 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/aroundtheearthin200ms/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://farm9.staticflickr.com/8144/7130704573_e6954f496e_z.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&lt;p&gt;A month or two back, i saw an interesting figure on Bram Cohen&#39;s blog:&lt;/p&gt;&lt;p&gt;&amp;#8220;The speed of light in a fiber optic cable around the earth&amp;rsquo;s circumference is about 200 milliseconds.&amp;#8221;&lt;br /&gt;(from &lt;a href=&#34;http://bramcohen.com/2012/05/04/engineering-ip-telephony&#34; title=&#34;Bram Cohen&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of those useful metrics to know. I&#39;ve referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -&lt;/p&gt;&lt;p&gt;So - speed of light in a vacuum is 186,000 miles per second. However according to &lt;a href=&#34;http://en.wikipedia.org/wiki/Optical_fiber#Index_of_refraction&#34; title=&#34;optical fiber on wikipedia&#34; target=&#34;_blank&#34;&gt;this wikipedia article&lt;/a&gt;, the index of refraction for the cladding of an optical fiber is 1.52. &amp;#8220;From this information, a good rule of thumb is that signal using optical fiber for communication will travel at around 200 million meters per second&amp;#8221;. &lt;/p&gt;&lt;p&gt;Ok, so 200, 000,000 meters / second = 200, 000 meters / ms&lt;/p&gt;&lt;p&gt;&amp;#8220;The circumference of the earth at the equator is 24,901.55 miles (40,075.16 kilometers).&amp;#8221; // from &lt;a href=&#34;http://geography.about.com/library/faq/blqzcircumference.htm&#34; title=&#34;earth circumerfence&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;40,075.15km = 40,075,000 meters&lt;/p&gt;&lt;p&gt;&lt;strong&gt;With all figures then, Earth Circumference is 40,075,000 meters, and the speed of light in fiber is 200,000 meters per ms:&lt;br /&gt;40,075,000 /2 00,000 = 200.375 ms&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;// or to be even smarter, I could have just followed the Wolfram Alpha link from Bram&#39;s blog &lt;a href=&#34;http://www.wolframalpha.com/input/?i=circumference+of+the+earth+%2F+speed+of+light+in+glass&#34; title=&#34;Wolfram Alpha&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; - gotta love the &lt;a href=&#34;http://en.wikipedia.org/wiki/Stephen_Wolfram&#34; title=&#34;Stephen Wolfram&#34; target=&#34;_blank&#34;&gt;Wolfram&lt;/a&gt; // &lt;/p&gt;
-</description>
+      <description>A month or two back, i saw an interesting figure on Bram Cohen&#39;s blog:
+&amp;#8220;The speed of light in a fiber optic cable around the earth&amp;rsquo;s circumference is about 200 milliseconds.&amp;#8221;
+(from here)
+I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of those useful metrics to know. I&#39;ve referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -</description>
     </item>
     
     <item>
       <title>Allspaw on Anticipation</title>
       <link>http://theb0ardside.com/allspawonanticipation/</link>
-      <pubDate>Mon, 18 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/allspawonanticipation/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/gy2lTFD4560?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://www.kitchensoap.com/2012/06/18/resilience-engineering-part-ii-lenses/&#34; title=&#34;Resilience Engineering Part II: Lenses&#34; target=&#34;_blank&#34;&gt;via John&#39;s blog at Kitchen Soap&lt;/a&gt; //&lt;/p&gt;
-</description>
+      <description>// via John&#39;s blog at Kitchen Soap //</description>
     </item>
     
   </channel>

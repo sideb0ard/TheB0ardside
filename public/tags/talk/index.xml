@@ -1,45 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Talk on The B0ardside </title>
+    <title>Talk on The B0ardside</title>
     <link>http://theb0ardside.com/tags/talk/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2017-09-09 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Talk on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 09 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Bureau For The Containment Of Programmatic Lifeforms</title>
       <link>http://theb0ardside.com/bcpl/</link>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/bcpl/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m just back from a two week holiday in the UK, and while over there, I took part in the first Energized Labs meetup (thanks Matt!), and gave a talk about my efforts in trying to combine my art and tech influences..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/QFj8q9awAUY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Also check both Matt and Martin&amp;rsquo;s talks from the same session ..&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m just back from a two week holiday in the UK, and while over there, I took part in the first Energized Labs meetup (thanks Matt!), and gave a talk about my efforts in trying to combine my art and tech influences..
+  Also check both Matt and Martin&amp;rsquo;s talks from the same session ..</description>
     </item>
     
     <item>
       <title>Developers Writing The Future</title>
       <link>http://theb0ardside.com/developers-writing-the-future/</link>
-      <pubDate>Fri, 30 Dec 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/developers-writing-the-future/</guid>
-      <description>&lt;p&gt;I just read this pretty awesome book &lt;a href=&#34;http://weheardyoulikebooks.com/releases/i-hate-the-internet/&#34;&gt;&amp;lsquo;I Hate The Internet&amp;rsquo; by Jarett Kobek&lt;/a&gt;. It has a nice cynical irreverence, but very astute awareness of the power of modern social networks.&lt;/p&gt;
-
-&lt;p&gt;Coincidentally, I just came across this decent talk from Joel Spolsky, which if you kinda squint a little, sorta touches upon a few similar subjects as in &amp;lsquo;I Hate The Internet&amp;rsquo;, at least in that there a lot of assumptions and decisions baked into the algorithms in modern software, a lot of hidden power structures and bias. The talk goes off in a different direction towards the end, but definitely worth watching.&lt;/p&gt;
-
-&lt;p&gt;The book is brilliant too. Check it.&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/AGyIbZotKlk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I just read this pretty awesome book &amp;lsquo;I Hate The Internet&amp;rsquo; by Jarett Kobek. It has a nice cynical irreverence, but very astute awareness of the power of modern social networks.
+Coincidentally, I just came across this decent talk from Joel Spolsky, which if you kinda squint a little, sorta touches upon a few similar subjects as in &amp;lsquo;I Hate The Internet&amp;rsquo;, at least in that there a lot of assumptions and decisions baked into the algorithms in modern software, a lot of hidden power structures and bias.</description>
     </item>
     
   </channel>

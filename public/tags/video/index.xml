@@ -1,2035 +1,1512 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Video on The B0ardside </title>
+    <title>Video on The B0ardside</title>
     <link>http://theb0ardside.com/tags/video/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2018-02-18 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Video on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 29 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Soundb0ard in use at Algosix</title>
+      <link>http://theb0ardside.com/soundb0ard-algorave/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/soundb0ard-algorave/</guid>
+      <description>I&amp;rsquo;ve had my head down doing a bunch of work on my Soundb0ard software, in prep for playing at Algosix last weekened. The festival was awesome, so much great live music!
+I was quite happy with my performance, give it a listen/view:
+  </description>
+    </item>
     
     <item>
       <title>Dalriada - scottish skate video by Iron Giraffe</title>
       <link>http://theb0ardside.com/dalriada/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/dalriada/</guid>
-      <description>&lt;p&gt;Check this awesome new skate video out of Scotland - great stuff! Even a wee shot of Toby Patterson in there!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/256189589&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/256189589&#34;&gt;DALRIADA&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/user24299754&#34;&gt;Iron Giraffe&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>Check this awesome new skate video out of Scotland - great stuff! Even a wee shot of Toby Patterson in there!
+ DALRIADA from Iron Giraffe on Vimeo.
+ </description>
     </item>
     
     <item>
       <title>Steve DiPaola at Dorkbot, SF, 2018</title>
       <link>http://theb0ardside.com/cognitivemodelling/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/cognitivemodelling/</guid>
-      <description>&lt;p&gt;I ended up missing this recent Dorkbot night, so glad to see the talk turning up online - this is great!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-
-&lt;iframe src=&#34;https://player.vimeo.com/video/255835708&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/255835708&#34;&gt;Steve DiPaola, Computational/Cognitive Modelling of Expression &amp;amp; Creativity, Dorkbot-SF, 2018-01-31&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/pronoiac&#34;&gt;pronoiac&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;/div&gt;
-</description>
+      <description>I ended up missing this recent Dorkbot night, so glad to see the talk turning up online - this is great!
+ Steve DiPaola, Computational/Cognitive Modelling of Expression &amp;amp; Creativity, Dorkbot-SF, 2018-01-31 from pronoiac on Vimeo.
+ </description>
     </item>
     
     <item>
       <title>TidalCycles Tutorials</title>
       <link>http://theb0ardside.com/tidalcyles-tutorial/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tidalcyles-tutorial/</guid>
-      <description>&lt;p&gt;Alex McLean&amp;rsquo;s &lt;a href=&#34;https://tidalcycles.org/&#34;&gt;TidalCycles&lt;/a&gt; has been a big influence on my own &lt;a href=&#34;https://github.com/sideb0ard/SoundB0ard&#34;&gt;Soundb0ard&lt;/a&gt;, and lately, now that my instruments are mostly built, I&amp;rsquo;ve been looking for ways to algorithmically modify them more.&lt;/p&gt;
-
-&lt;p&gt;This series of howto&amp;rsquo;s by &lt;a href=&#34;https://www.youtube.com/channel/UC5skJN2WYbyYHUmrMQ00LtA&#34;&gt;Mike Hodnick&lt;/a&gt;/&lt;a href=&#34;https://kindohm.bandcamp.com/&#34;&gt;Kindohm&lt;/a&gt; have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/plu04_ewZUQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Alex McLean&amp;rsquo;s TidalCycles has been a big influence on my own Soundb0ard, and lately, now that my instruments are mostly built, I&amp;rsquo;ve been looking for ways to algorithmically modify them more.
+This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:
+  </description>
     </item>
     
     <item>
       <title>Jason Turner - Rich Code For Tiny Computers</title>
       <link>http://theb0ardside.com/rich-code-tiny-computers/</link>
-      <pubDate>Sat, 16 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/rich-code-tiny-computers/</guid>
-      <description>&lt;p&gt;JD from work turned me on to this awesome CppCon talk by Jason Turner - in it he builds a simple commodore64 game using modern C++17 features, and an astounding role for Matt Godbolt&amp;rsquo;s (what a name!) &lt;a href=&#34;https://github.com/mattgodbolt/compiler-explorer&#34;&gt;Compiler Explorer&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/zBkNBP00wJE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>JD from work turned me on to this awesome CppCon talk by Jason Turner - in it he builds a simple commodore64 game using modern C++17 features, and an astounding role for Matt Godbolt&amp;rsquo;s (what a name!) Compiler Explorer
+  </description>
     </item>
     
     <item>
       <title>Bureau For The Containment Of Programmatic Lifeforms</title>
       <link>http://theb0ardside.com/bcpl/</link>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/bcpl/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m just back from a two week holiday in the UK, and while over there, I took part in the first Energized Labs meetup (thanks Matt!), and gave a talk about my efforts in trying to combine my art and tech influences..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/QFj8q9awAUY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Also check both Matt and Martin&amp;rsquo;s talks from the same session ..&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m just back from a two week holiday in the UK, and while over there, I took part in the first Energized Labs meetup (thanks Matt!), and gave a talk about my efforts in trying to combine my art and tech influences..
+  Also check both Matt and Martin&amp;rsquo;s talks from the same session ..</description>
     </item>
     
     <item>
       <title>Cubase64</title>
       <link>http://theb0ardside.com/c64-cubase/</link>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/c64-cubase/</guid>
-      <description>&lt;p&gt;This is nuts, some guy wrote an awesome sound editor for the Commodore 64, Cubase64!
-Link comes via man like &lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;Tack&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/MDrqBYkco-Y&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>This is nuts, some guy wrote an awesome sound editor for the Commodore 64, Cubase64! Link comes via man like Tack
+  </description>
     </item>
     
     <item>
       <title>An Intuitive Understanding of the Fourier Transform</title>
       <link>http://theb0ardside.com/intuitivefft/</link>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/intuitivefft/</guid>
-      <description>&lt;p&gt;Really nicely, and visually, explained introduction to the Fast Fourier Transform - great stuff!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/FjmwwDHT98c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Really nicely, and visually, explained introduction to the Fast Fourier Transform - great stuff!
+  </description>
     </item>
     
     <item>
       <title>Making Music and Art Through Machine Learning</title>
       <link>http://theb0ardside.com/magenta-art/</link>
-      <pubDate>Fri, 21 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/magenta-art/</guid>
-      <description>&lt;p&gt;This is a good chat with Doug Eck, of the &lt;a href=&#34;g.co/magenta&#34;&gt;Google Magenta project&lt;/a&gt;
-It&amp;rsquo;s a project I&amp;rsquo;ve been keeping an eye on, as it has a ton of potential. I&amp;rsquo;ve generated some melodies based on their &lt;a href=&#34;https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn&#34;&gt;Melody RNN&lt;/a&gt; - although i need to spend more time with it, as I&amp;rsquo;ve been more focussed on own generative algorithms.&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/yz-fHidp1M8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>This is a good chat with Doug Eck, of the Google Magenta project It&amp;rsquo;s a project I&amp;rsquo;ve been keeping an eye on, as it has a ton of potential. I&amp;rsquo;ve generated some melodies based on their Melody RNN - although i need to spend more time with it, as I&amp;rsquo;ve been more focussed on own generative algorithms.
+  </description>
     </item>
     
     <item>
       <title>Robert Henke Granulator</title>
       <link>http://theb0ardside.com/monolake-granular/</link>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/monolake-granular/</guid>
-      <description>&lt;p&gt;Hmm, my &lt;a href=&#34;https://github.com/sideb0ard/SBShell/blob/master/granulator.c&#34;&gt;granular synth&lt;/a&gt; hasn&amp;rsquo;t quite come together yet, but I&amp;rsquo;m learning a load.&lt;/p&gt;
-
-&lt;p&gt;This is a pretty informative (promo) video from Robert Henke/Monolake showcasing his &lt;a href=&#39;https://www.ableton.com/en/packs/granulator-ii/&#39;&gt;&amp;lsquo;Granulator&amp;rsquo; plugin for Ableton Live.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If i can get mine to sound anything like that i&amp;rsquo;ll be stoked!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/9pn_b7OUO6I&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Hmm, my granular synth hasn&amp;rsquo;t quite come together yet, but I&amp;rsquo;m learning a load.
+This is a pretty informative (promo) video from Robert Henke/Monolake showcasing his &amp;lsquo;Granulator&amp;rsquo; plugin for Ableton Live.
+If i can get mine to sound anything like that i&amp;rsquo;ll be stoked!
+  </description>
     </item>
     
     <item>
       <title>Curtis Roads, Microsound</title>
       <link>http://theb0ardside.com/curtis-roads-microsound/</link>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/curtis-roads-microsound/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve just read &amp;lsquo;&lt;a href=&#34;https://www.amazon.com/Microsound-MIT-Press-Curtis-Roads/dp/0262681544/ref=sr_1_1&#34;&gt;Microsound&lt;/a&gt;&amp;rsquo; by Curtis Roads. I was well aware of the microsound movement, but hadn&amp;rsquo;t realized the depth of the theory behind granular synthesis, with it&amp;rsquo;s history going back to the 1940s, and early practise from Xenakis (using tapes) and this lad, Curtis Roads, programming his own granular synth on a &lt;code&gt;PDP-11/20&lt;/code&gt; in 1974 - what a bad-ass! Check this &lt;a href=&#34;https://granularsynthesis.com/guide.php&#34;&gt;site&lt;/a&gt; for some good background and papers.&lt;/p&gt;
-
-&lt;p&gt;I found these videos of Curtis Roads, via the site linked above.&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_Xy0szkt7ao&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_ehu8u_JTjw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/ul4y_e3TLyk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I&amp;rsquo;ve just read &amp;lsquo;Microsound&amp;rsquo; by Curtis Roads. I was well aware of the microsound movement, but hadn&amp;rsquo;t realized the depth of the theory behind granular synthesis, with it&amp;rsquo;s history going back to the 1940s, and early practise from Xenakis (using tapes) and this lad, Curtis Roads, programming his own granular synth on a PDP-11/20 in 1974 - what a bad-ass! Check this site for some good background and papers.
+I found these videos of Curtis Roads, via the site linked above.</description>
     </item>
     
     <item>
       <title>John Hughes - Why Functional Programming Matters</title>
       <link>http://theb0ardside.com/john-hughes-why-functional/</link>
-      <pubDate>Thu, 13 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/john-hughes-why-functional/</guid>
-      <description>&lt;p&gt;This is a great talk - loved the speaker&amp;rsquo;s mannerisms and humor!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Z35Tt87pIpg&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>This is a great talk - loved the speaker&amp;rsquo;s mannerisms and humor!
+  </description>
     </item>
     
     <item>
       <title>Palmbomen II - Memories of Cindy</title>
       <link>http://theb0ardside.com/palmbonnenii/</link>
-      <pubDate>Fri, 09 Jun 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/palmbonnenii/</guid>
-      <description>&lt;p&gt;Have you been watching season 3 of Twin Peaks? so fscking good!&lt;/p&gt;
-
-&lt;p&gt;This is kinda up there &amp;ndash;&lt;/p&gt;
-
-&lt;p&gt;Memories Of Cindy Pt. 1&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wDvEc5troQo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Memories Of Cindy Pt. 2&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/S-h2HgMi1-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Looking forward to receiving the second volume in the mail.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://palmbomen-ii.bandcamp.com/album/memories-of-cindy&#34;&gt;Grab a copy&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Have you been watching season 3 of Twin Peaks? so fscking good!
+This is kinda up there &amp;ndash;
+Memories Of Cindy Pt. 1
+  Memories Of Cindy Pt. 2
+  Looking forward to receiving the second volume in the mail.
+Grab a copy</description>
     </item>
     
     <item>
       <title>Jenn Schiffer talks</title>
       <link>http://theb0ardside.com/two-jenn-schiffer-talks/</link>
-      <pubDate>Thu, 09 Mar 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/two-jenn-schiffer-talks/</guid>
-      <description>&lt;p&gt;Up at XOXO last year, the Jenn Schiffer talk was definitely one of the most fun:&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wewAC5X_CZ8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;this older one i found from 2015 is equally as entertaining, I love the opening sequence, it&amp;rsquo;s got a kind of &amp;ldquo;cool&amp;rdquo; Portlandia vibe!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/zytBpLlSHms&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Up at XOXO last year, the Jenn Schiffer talk was definitely one of the most fun:
+  this older one i found from 2015 is equally as entertaining, I love the opening sequence, it&amp;rsquo;s got a kind of &amp;ldquo;cool&amp;rdquo; Portlandia vibe!
+  </description>
     </item>
     
     <item>
       <title>Let Vim do the typing</title>
       <link>http://theb0ardside.com/let-vim-do-the-typing/</link>
-      <pubDate>Thu, 09 Mar 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/let-vim-do-the-typing/</guid>
-      <description>&lt;p&gt;Discovered lots of great vim talks - this one is neat:&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/3TX3kV3TICU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Discovered lots of great vim talks - this one is neat:
+  </description>
     </item>
     
     <item>
       <title>Developers Writing The Future</title>
       <link>http://theb0ardside.com/developers-writing-the-future/</link>
-      <pubDate>Fri, 30 Dec 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/developers-writing-the-future/</guid>
-      <description>&lt;p&gt;I just read this pretty awesome book &lt;a href=&#34;http://weheardyoulikebooks.com/releases/i-hate-the-internet/&#34;&gt;&amp;lsquo;I Hate The Internet&amp;rsquo; by Jarett Kobek&lt;/a&gt;. It has a nice cynical irreverence, but very astute awareness of the power of modern social networks.&lt;/p&gt;
-
-&lt;p&gt;Coincidentally, I just came across this decent talk from Joel Spolsky, which if you kinda squint a little, sorta touches upon a few similar subjects as in &amp;lsquo;I Hate The Internet&amp;rsquo;, at least in that there a lot of assumptions and decisions baked into the algorithms in modern software, a lot of hidden power structures and bias. The talk goes off in a different direction towards the end, but definitely worth watching.&lt;/p&gt;
-
-&lt;p&gt;The book is brilliant too. Check it.&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/AGyIbZotKlk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I just read this pretty awesome book &amp;lsquo;I Hate The Internet&amp;rsquo; by Jarett Kobek. It has a nice cynical irreverence, but very astute awareness of the power of modern social networks.
+Coincidentally, I just came across this decent talk from Joel Spolsky, which if you kinda squint a little, sorta touches upon a few similar subjects as in &amp;lsquo;I Hate The Internet&amp;rsquo;, at least in that there a lot of assumptions and decisions baked into the algorithms in modern software, a lot of hidden power structures and bias.</description>
     </item>
     
     <item>
       <title>Runtime Scheduling, Strange Loop 2016</title>
       <link>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</link>
-      <pubDate>Thu, 06 Oct 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</guid>
-      <description>&lt;p&gt;Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/8g9fG7cApbc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..
+  </description>
     </item>
     
     <item>
       <title>Graham Dunning, Mechanical Techno</title>
       <link>http://theb0ardside.com/algomech2016/</link>
-      <pubDate>Mon, 19 Sep 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/algomech2016/</guid>
-      <description>&lt;p&gt;I was reading up on &lt;a href=&#34;http://algomech.com/2016/&#34;&gt;ALGOMECH 2016&lt;/a&gt;, &amp;ldquo;the first festival of algorithmic and mechanical movement&amp;rdquo; - which looks ace! This video, by one of the performers, Graham Dunning, is kinda mind blowing - pay off around the 3:38 mark:&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wl1ZrEza7uY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I was reading up on ALGOMECH 2016, &amp;ldquo;the first festival of algorithmic and mechanical movement&amp;rdquo; - which looks ace! This video, by one of the performers, Graham Dunning, is kinda mind blowing - pay off around the 3:38 mark:
+  </description>
     </item>
     
     <item>
       <title>Julia Evans, Strange Loop 2016</title>
       <link>http://theb0ardside.com/julia-evans-strange-loop-2016/</link>
-      <pubDate>Sat, 17 Sep 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/julia-evans-strange-loop-2016/</guid>
-      <description>&lt;p&gt;Fun talk from Julia Evans, from this year&amp;rsquo;s Strange Loop conference:&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/HfD9IMZ9rKY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Fun talk from Julia Evans, from this year&amp;rsquo;s Strange Loop conference:
+  </description>
     </item>
     
     <item>
       <title>Plainview Public Access</title>
       <link>http://theb0ardside.com/plainview-public-access/</link>
-      <pubDate>Sat, 27 Aug 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/plainview-public-access/</guid>
-      <description>&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/AVLPKf0uAhI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;This is a crazy awesome animation by Anthony Lombardo and John Chrostek &amp;ndash;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;&lt;i&gt;It is one-o-clock in the morning. You&amp;rsquo;ve had a long and tiresome day, and despite your best intentions, dozed off far before you meant to.&lt;/p&gt;
-
-&lt;p&gt;Asleep in the embrace of your old blue La-Z-Boy, you feel a flicker like a breeze full of static at room temperature. You awaken.&lt;/p&gt;
-
-&lt;p&gt;The television is still on.&lt;/p&gt;
-
-&lt;p&gt;Your eyes adjust. The feel of the room has changed. The space between the furniture grows wider, the hallway light seems a valley away. You are alone with the night.&lt;/p&gt;
-
-&lt;p&gt;The sharp hiss of static pulls you back. In your peripheral vision, what light remains dims and flickers as if bathing in the glow of the transmission. From some familiar depths, a song begins to play&amp;hellip;&lt;/i&gt;&amp;ldquo;&lt;/p&gt;
-
-&lt;p&gt;I came across it via my friend &lt;a href=&#34;http://www.sfhaa.org/&#34;&gt;Mat&lt;/a&gt;, who recorded a segment of the opening music.&lt;/p&gt;
-</description>
+      <description>This is a crazy awesome animation by Anthony Lombardo and John Chrostek &amp;ndash;
+&amp;ldquo;It is one-o-clock in the morning. You&amp;rsquo;ve had a long and tiresome day, and despite your best intentions, dozed off far before you meant to.
+Asleep in the embrace of your old blue La-Z-Boy, you feel a flicker like a breeze full of static at room temperature. You awaken.
+The television is still on.
+Your eyes adjust.</description>
     </item>
     
     <item>
       <title>Daniel Schiffman - Purple Rain in Processing</title>
       <link>http://theb0ardside.com/purple-rain/</link>
-      <pubDate>Thu, 30 Jun 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/purple-rain/</guid>
-      <description>&lt;p&gt;I was listening to the &lt;a href=&#34;http://creativecodingpodcast.com/61-coding-rainbows-with-dan-shiffman/&#34;&gt;Creative Coding podcast&lt;/a&gt; with Daniel Shiffman the other day - One thing they discussed was Daniel&amp;rsquo;s new Coding Challenges youtube series - this one to do a &amp;lsquo;Purple Rain&amp;rsquo; in Processing is really fun!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/KkyIDI6rQJI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I was listening to the Creative Coding podcast with Daniel Shiffman the other day - One thing they discussed was Daniel&amp;rsquo;s new Coding Challenges youtube series - this one to do a &amp;lsquo;Purple Rain&amp;rsquo; in Processing is really fun!
+  </description>
     </item>
     
     <item>
       <title>The Silicon Valley of Hardware</title>
       <link>http://theb0ardside.com/ashenzjen-wired/</link>
-      <pubDate>Fri, 10 Jun 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/ashenzjen-wired/</guid>
-      <description>&lt;p&gt;Really great wee short from Wired.com about how Shenzhen became the powerhouse it is now..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/hp6F_ApUq-c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Really great wee short from Wired.com about how Shenzhen became the powerhouse it is now..
+  </description>
     </item>
     
     <item>
       <title>Rob Landley on Toybox</title>
       <link>http://theb0ardside.com/rob-landley-toybox/</link>
-      <pubDate>Sun, 15 May 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/rob-landley-toybox/</guid>
-      <description>&lt;p&gt;Ah, this is ace!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/SGmtP5Lg_t0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Ah, this is ace!
+  </description>
     </item>
     
     <item>
       <title>Android - High Performance Audio</title>
       <link>http://theb0ardside.com/android-audio-performance/</link>
-      <pubDate>Wed, 11 May 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/android-audio-performance/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m currently working on a Brillo audio component, which will require very low latency performance.
-While searching for some tips and prior art, I came across this talk from Google I/O 2013. A bit older now, but provides an excellent overview of the problem domain and approaches to solving those issues..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/d3kfEeMZ65c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I&amp;rsquo;m currently working on a Brillo audio component, which will require very low latency performance. While searching for some tips and prior art, I came across this talk from Google I/O 2013. A bit older now, but provides an excellent overview of the problem domain and approaches to solving those issues..
+  </description>
     </item>
     
     <item>
       <title>The Computer Chronicles: Unix (1985)</title>
       <link>http://theb0ardside.com/chronicles-unix/</link>
-      <pubDate>Sat, 30 Apr 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/chronicles-unix/</guid>
-      <description>&lt;p&gt;Awesome episode of the Computer Chronicles, this one focussed on Unix. Gary Killdall is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Gary_Kildall&#34;&gt;don&lt;/a&gt;!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/g7P16mYDIJw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Awesome episode of the Computer Chronicles, this one focussed on Unix. Gary Killdall is a don!
+  </description>
     </item>
     
     <item>
       <title>Efficiency with Algorithms, Performance with Data Structures</title>
       <link>http://theb0ardside.com/efficiency-performance-talk-cppcon2014/</link>
-      <pubDate>Fri, 15 Apr 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/efficiency-performance-talk-cppcon2014/</guid>
-      <description>&lt;p&gt;This is a pretty entertaining talk from Chandler Carruth at CppCon 2014 - lots of good takeaways..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/fHNmRkzxHWs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>This is a pretty entertaining talk from Chandler Carruth at CppCon 2014 - lots of good takeaways..
+  </description>
     </item>
     
     <item>
       <title>SF - Streets by VICE</title>
       <link>http://theb0ardside.com/sanfrancisco-vice/</link>
-      <pubDate>Thu, 14 Apr 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/sanfrancisco-vice/</guid>
-      <description>&lt;p&gt;Pretty decent wee documentary on the changing face of SF from VICE mag. Near the beginning a lot of the location shots don&amp;rsquo;t match the narrative, but the interview with Andre Nickatina makes it totally worthwhile!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/TZzJbEklD5I&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Pretty decent wee documentary on the changing face of SF from VICE mag. Near the beginning a lot of the location shots don&amp;rsquo;t match the narrative, but the interview with Andre Nickatina makes it totally worthwhile!
+  </description>
     </item>
     
     <item>
       <title>Bryan Cantrill at Paper&#39;s We Love, NYC 2016</title>
       <link>http://theb0ardside.com/cantrill-papers-we-love/</link>
-      <pubDate>Sat, 05 Mar 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/cantrill-papers-we-love/</guid>
-      <description>&lt;p&gt;Bryan Cantrill on another awesome one!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/hgN8pCMLI2U&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Bryan Cantrill on another awesome one!
+  </description>
     </item>
     
     <item>
       <title>1987 - Hypercard demo</title>
       <link>http://theb0ardside.com/1987-hypercard/</link>
-      <pubDate>Thu, 28 Jan 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/1987-hypercard/</guid>
-      <description>&lt;p&gt;I never played with Hypercard, only ever heard about it - love this demo of it:&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/EMFscTOazS0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I never played with Hypercard, only ever heard about it - love this demo of it:
+  </description>
     </item>
     
     <item>
       <title>Uncanny Valley</title>
       <link>http://theb0ardside.com/sci-fi-short/</link>
-      <pubDate>Tue, 26 Jan 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/sci-fi-short/</guid>
-      <description>&lt;p&gt;Awesome wee sci-fi short..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/gR3lXEH80Nw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Awesome wee sci-fi short..
+  </description>
     </item>
     
     <item>
       <title>History and Spirit of C and C&#43;&#43;</title>
       <link>http://theb0ardside.com/historyspiritc/</link>
-      <pubDate>Sun, 27 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 27 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/historyspiritc/</guid>
-      <description>&lt;p&gt;Some excellent bits of BCPL history in here, which I hadn&amp;rsquo;t come across before&amp;hellip;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/132192250&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/132192250&#34;&gt;History and Spirit of C and C++  - Olve Maudal&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/ndcconferences&#34;&gt;NDC Conferences&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>Some excellent bits of BCPL history in here, which I hadn&amp;rsquo;t come across before&amp;hellip;
+ History and Spirit of C and C++ - Olve Maudal from NDC Conferences on Vimeo.
+ </description>
     </item>
     
     <item>
       <title>Embedded Android Overview</title>
       <link>http://theb0ardside.com/embedded-android/</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/embedded-android/</guid>
-      <description>&lt;p&gt;Amazingly smooth presentation under time pressure from Karim Yaghmour, giving a super fast overview of the content in his &lt;a href=&#34;http://shop.oreilly.com/product/0636920021094.do&#34;&gt;Embedded Android&lt;/a&gt; book.&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/KLUXPxxJc5c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!&lt;/p&gt;
-</description>
+      <description>Amazingly smooth presentation under time pressure from Karim Yaghmour, giving a super fast overview of the content in his Embedded Android book.
+  I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!</description>
     </item>
     
     <item>
       <title>Sophie Wilson, ARM ISA Architect</title>
       <link>http://theb0ardside.com/acorn-sophie-wilson/</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/acorn-sophie-wilson/</guid>
-      <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jhwwrSaHdh8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Sophie Wilson is a boss..
+  </description>
     </item>
     
     <item>
       <title>Skateboarding in Pine Ridge</title>
       <link>http://theb0ardside.com/skateboarding-reservation/</link>
-      <pubDate>Wed, 21 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/skateboarding-reservation/</guid>
-      <description>&lt;p&gt;Really great use of skateboarding to help build a sense of community for youth on a native american reservation..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;http://theberrics.com/video/post/embed/id/5937/&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Oh, also, super good soundtrack featuring David Pajo!&lt;/p&gt;
-
-&lt;p&gt;As pretty much all my skate videos are, found via the awesome &lt;a href=&#34;http://thewalloper.blogspot.com/2015/10/skateboarding-in-pine-ridge.html&#34;&gt;The Walloper&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Really great use of skateboarding to help build a sense of community for youth on a native american reservation..
+  Oh, also, super good soundtrack featuring David Pajo!
+As pretty much all my skate videos are, found via the awesome The Walloper.</description>
     </item>
     
     <item>
       <title>Libmill on Randal Schwartz&#39;s FLOSS Weekly show</title>
       <link>http://theb0ardside.com/libmill-floss-weekly/</link>
-      <pubDate>Mon, 19 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/libmill-floss-weekly/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m moving into a new job position soon involving way more code, working in C/C++. I&amp;rsquo;ve just started watching this podcast series and it&amp;rsquo;s excellent - this one in particular is super relevant, bringing one of the best features from Golang into C. I like the minimalism of the project, it seems very much in alignment with the philosophy behind &lt;a href=&#34;//suckless.org&#34;&gt;Suckless&lt;/a&gt;. (There&amp;rsquo;s a previous episode, speaking with Anselm R Garbe from suckless, i&amp;rsquo;d also highly recommend..)&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;a href=&#34;https://twit.tv/shows/floss-weekly/episodes/358?autostart=false&#34;&gt;&lt;img width=&#34;900&#34; src=&#34;http://theb0ardside.com/static/img/floss-randall.png&#34;&gt;&lt;/a&gt;
-&lt;/div&gt;
-</description>
+      <description>I&amp;rsquo;m moving into a new job position soon involving way more code, working in C/C++. I&amp;rsquo;ve just started watching this podcast series and it&amp;rsquo;s excellent - this one in particular is super relevant, bringing one of the best features from Golang into C. I like the minimalism of the project, it seems very much in alignment with the philosophy behind Suckless. (There&amp;rsquo;s a previous episode, speaking with Anselm R Garbe from suckless, i&amp;rsquo;d also highly recommend.</description>
     </item>
     
     <item>
       <title>How To Build a Skyscraper</title>
       <link>http://theb0ardside.com/howtobuildaskycraper/</link>
-      <pubDate>Thu, 15 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/howtobuildaskycraper/</guid>
-      <description>&lt;p&gt;Pretty rad skyscraper history as software-engineering-metaphor..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/7MeBuDLbF98&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Pretty rad skyscraper history as software-engineering-metaphor..
+  </description>
     </item>
     
     <item>
       <title>Andrew Gerrand talking at Go UK 2015 - stupid gopher tricks</title>
       <link>http://theb0ardside.com/andrewgerrandgouk2015/</link>
-      <pubDate>Sun, 11 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/andrewgerrandgouk2015/</guid>
-      <description>&lt;p&gt;Hah, some awesome bits in here&amp;hellip;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/UECh7X07m6E&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Hah, some awesome bits in here&amp;hellip;
+  </description>
     </item>
     
     <item>
       <title>Grant Taylor, skateboard shit</title>
       <link>http://theb0ardside.com/grant-taylor/</link>
-      <pubDate>Fri, 09 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/grant-taylor/</guid>
-      <description>&lt;p&gt;Absolutely sick skate video, fscking nuts!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/U_QxJhVfXKc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;found via &lt;a href=&#34;http://thewalloper.blogspot.com/2015/10/sb-chronicles-vol-1-extras-grant-taylor.html&#34;&gt;The Walloper&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Absolutely sick skate video, fscking nuts!
+  found via The Walloper</description>
     </item>
     
     <item>
       <title>Visualising Program Execution</title>
       <link>http://theb0ardside.com/visualprogexec/</link>
-      <pubDate>Mon, 28 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/visualprogexec/</guid>
-      <description>&lt;p&gt;Super fun live demo of program tracing and visualisation from this years Strange Loop conf..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Ml6Dp3F4Inc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Super fun live demo of program tracing and visualisation from this years Strange Loop conf..
+  </description>
     </item>
     
     <item>
       <title>From Solaris to Illumos</title>
       <link>http://theb0ardside.com/solaris-to-illumos/</link>
-      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/solaris-to-illumos/</guid>
-      <description>&lt;p&gt;Bryan Cantrill, as entertaining as always..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/-zRN7XLCRhc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Bryan Cantrill, as entertaining as always..
+  </description>
     </item>
     
     <item>
       <title>MOS 6502 microcontroller</title>
       <link>http://theb0ardside.com/mos6502-microcontroller/</link>
-      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/mos6502-microcontroller/</guid>
-      <description>&lt;p&gt;Nice and short 30 min talk about the origins and background to the MOS Technologies 6502 micro-controller, which came out in 1975 and powered the BBC Micro, the Commodore 64, first Nintendo, amongst many others. Super good!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wOJj-IdYZxI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Nice and short 30 min talk about the origins and background to the MOS Technologies 6502 micro-controller, which came out in 1975 and powered the BBC Micro, the Commodore 64, first Nintendo, amongst many others. Super good!
+  </description>
     </item>
     
     <item>
       <title>FORTRAN!</title>
       <link>http://theb0ardside.com/fortran-intro/</link>
-      <pubDate>Wed, 16 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/fortran-intro/</guid>
-      <description>&lt;p&gt;Oh shit! this is incredible - IBM engineer walks through the development of a FORTRAN program, including I&amp;rsquo;m guessing, the first appearance of a GOTO statement! Then, in part two, they have their FORmula TRANslator translate a Fortran program into IBM symbolic language/assembly, and output it to PUNCH CARDS!!. wow..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/zyHmxjyzC_g&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/fRhLP9WKESg&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Oh shit! this is incredible - IBM engineer walks through the development of a FORTRAN program, including I&amp;rsquo;m guessing, the first appearance of a GOTO statement! Then, in part two, they have their FORmula TRANslator translate a Fortran program into IBM symbolic language/assembly, and output it to PUNCH CARDS!!. wow..
+    </description>
     </item>
     
     <item>
       <title>Shit Present - Kick Me</title>
       <link>http://theb0ardside.com/shitpresent-kickme/</link>
-      <pubDate>Sat, 12 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 12 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/shitpresent-kickme/</guid>
-      <description>&lt;p&gt;Awesome video for awesome track!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/FD2W05OuS0M&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Found via &lt;a href=&#34;http://didnotchart.blogspot.com/2015/09/shit-present.html&#34;&gt;Ben&amp;rsquo;s blog&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Awesome video for awesome track!
+  Found via Ben&amp;rsquo;s blog</description>
     </item>
     
     <item>
       <title>Skater Dater, 1965</title>
       <link>http://theb0ardside.com/skater-dater-1965/</link>
-      <pubDate>Sat, 15 Aug 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/skater-dater-1965/</guid>
-      <description>&lt;p&gt;the best short film ever?&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/lRIt3aDX7-k&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.voteskaterdater.com/&#34;&gt;Nominate it for the National Film Registry&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>the best short film ever?
+  Nominate it for the National Film Registry</description>
     </item>
     
     <item>
       <title>Perl and Portaudio</title>
       <link>http://theb0ardside.com/algorithmicsoundperl/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/algorithmicsoundperl/</guid>
-      <description>&lt;p&gt;Super nice demo of algorithmic sound generation with Perl and Portaudio&amp;hellip;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/pMZ4ilLzKW8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;from &lt;a href=&#34;http://thelackthereof.org/NoiseGen&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Super nice demo of algorithmic sound generation with Perl and Portaudio&amp;hellip;
+  from here</description>
     </item>
     
     <item>
       <title>Brian Kernighan speaking with Computerphile</title>
       <link>http://theb0ardside.com/kernighan-history/</link>
-      <pubDate>Wed, 29 Jul 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/kernighan-history/</guid>
-      <description>&lt;p&gt;The legendary Brian Kernighan speaking to Computerphile about early days of computing. SHort and sweet video..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/QFK6RG47bww&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>The legendary Brian Kernighan speaking to Computerphile about early days of computing. SHort and sweet video..
+  </description>
     </item>
     
     <item>
       <title>Hashicorp are Insane(ly great)</title>
       <link>http://theb0ardside.com/hashicorp/</link>
-      <pubDate>Tue, 14 Jul 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/hashicorp/</guid>
-      <description>&lt;p&gt;Oh man, this talk is nuts - Mitchell Hashimoto introducing Terraform and Consul together..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/zi89DZiWfqg&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Oh man, this talk is nuts - Mitchell Hashimoto introducing Terraform and Consul together..
+  </description>
     </item>
     
     <item>
       <title>Selection of Early British Computers</title>
       <link>http://theb0ardside.com/early-uk-computers/</link>
-      <pubDate>Sat, 27 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/early-uk-computers/</guid>
-      <description>&lt;p&gt;I just finished reading &lt;a href=&#34;http://ed-thelen.org/comp-hist/EarlyBritish.html&#34;&gt;Early British Computers by Simon Lavington&lt;/a&gt; - super good!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://ed-thelen.org/comp-hist/EarlyBritish-p000.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;There&amp;rsquo;s an &lt;a href=&#34;https://www.youtube.com/playlist?list=PLG7EqWtzeIhUJFbSVfdGXw7fUvAfr0tb_&#34;&gt;awesome playlist of videos&lt;/a&gt; which feature the computers covered.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s a selection..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/cozcXiSSkwE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/76OhF3kR2MA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/johDLwL65tE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I just finished reading Early British Computers by Simon Lavington - super good!
+There&amp;rsquo;s an awesome playlist of videos which feature the computers covered.
+Here&amp;rsquo;s a selection..
+      </description>
     </item>
     
     <item>
       <title>Roots of Computing, 1963</title>
       <link>http://theb0ardside.com/roots-of-os-1963/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/roots-of-os-1963/</guid>
-      <description>&lt;p&gt;Oh man, this is incredible, seriously best historic piece I&amp;rsquo;ve watched, with the origins of operating system methodoligies, and crazy typewriter I/O UX, pre-CRTs!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Q07PhW5sCEk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Oh man, this is incredible, seriously best historic piece I&amp;rsquo;ve watched, with the origins of operating system methodoligies, and crazy typewriter I/O UX, pre-CRTs!
+  </description>
     </item>
     
     <item>
       <title>Docker Storage Drivers</title>
       <link>http://theb0ardside.com/docker-filesystems/</link>
-      <pubDate>Fri, 12 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/docker-filesystems/</guid>
-      <description>&lt;p&gt;Super nice quick overview of the importance of Copy-On-Write filesystems to Docker, going into detail of the benefits and downsides to each of the CoW options - AuFS, BTRFS, ZFS, Overlayfs, Device Mapper - great stuff!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/hk6wqNBLlxQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Super nice quick overview of the importance of Copy-On-Write filesystems to Docker, going into detail of the benefits and downsides to each of the CoW options - AuFS, BTRFS, ZFS, Overlayfs, Device Mapper - great stuff!
+  </description>
     </item>
     
     <item>
       <title>From Config Management to a proper Scheduling system</title>
       <link>http://theb0ardside.com/coreosfestcloser/</link>
-      <pubDate>Tue, 02 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/coreosfestcloser/</guid>
-      <description>&lt;p&gt;This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/juCQMnSfysQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..
+  </description>
     </item>
     
     <item>
       <title>Craig Silverstein on the origin of Google</title>
       <link>http://theb0ardside.com/craig-silverstein-google/</link>
-      <pubDate>Fri, 08 May 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/craig-silverstein-google/</guid>
-      <description>&lt;p&gt;I only just learned about this guy Craig Silverstein, who was Google employee #3 after Larry and Sergey. There&amp;rsquo;s a ton more info about him if you go searching, but this is an ace little 10 minute video where he talks about the origins of google..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/QVkWmYUwhH8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I only just learned about this guy Craig Silverstein, who was Google employee #3 after Larry and Sergey. There&amp;rsquo;s a ton more info about him if you go searching, but this is an ace little 10 minute video where he talks about the origins of google..
+  </description>
     </item>
     
     <item>
       <title>Vint Cerf, history of packets</title>
       <link>http://theb0ardside.com/vint-cerf-packets/</link>
-      <pubDate>Sat, 02 May 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 02 May 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/vint-cerf-packets/</guid>
-      <description>&lt;p&gt;Me and &lt;a href=&#34;https://twitter.com/tackyy&#34;&gt;tack&lt;/a&gt; went to see the illustrious Vint Cerf speak during the &lt;a href=&#34;https://www.calacademy.org/events/conversations-on-science/the-internet-of-things-iot&#34;&gt;week&lt;/a&gt; - he was awesome!&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s an excellent youtube interview with him, on the history of packets:&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jZJzNWOY0QI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Me and tack went to see the illustrious Vint Cerf speak during the week - he was awesome!
+Here&amp;rsquo;s an excellent youtube interview with him, on the history of packets:
+  </description>
     </item>
     
     <item>
       <title>Systems At Facebook Scale</title>
       <link>http://theb0ardside.com/system-facebook-scale/</link>
-      <pubDate>Thu, 16 Apr 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/system-facebook-scale/</guid>
-      <description>&lt;p&gt;Wow, this is one of the most practical, technical talks I&amp;rsquo;ve seen in a while - super good!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/dlixGkelP9U&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Wow, this is one of the most practical, technical talks I&amp;rsquo;ve seen in a while - super good!
+  </description>
     </item>
     
     <item>
       <title>Weaponizing Your Pets</title>
       <link>http://theb0ardside.com/weaponizing-your-pets/</link>
-      <pubDate>Thu, 09 Apr 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/weaponizing-your-pets/</guid>
-      <description>&lt;p&gt;My wife and I got a new projector recently &lt;a href=&#34;http://www.amazon.com/BenQ-HT1075-1080P-Theater-Projector/dp/B00LTMPOUO&#34;&gt;(this one)&lt;/a&gt;, so I had some nerds round to watch some tech talks. My friend &lt;a href=&#34;https://twitter.com/kalisen&#34;&gt;Jerome&lt;/a&gt; turned us on to this one, super fun!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/DMNSvHswljM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>My wife and I got a new projector recently (this one), so I had some nerds round to watch some tech talks. My friend Jerome turned us on to this one, super fun!
+  </description>
     </item>
     
     <item>
       <title>NetBSD: Not A Linux Distro</title>
       <link>http://theb0ardside.com/netbsd-not-a-linux-distro/</link>
-      <pubDate>Sun, 08 Mar 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 08 Mar 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/netbsd-not-a-linux-distro/</guid>
-      <description>&lt;p&gt;Great intro to FreeBSD from George Neville-Neil presenting history and current status..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wwbO4eTieQY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Great intro to FreeBSD from George Neville-Neil presenting history and current status..
+  </description>
     </item>
     
     <item>
       <title>boston dynamics</title>
       <link>http://theb0ardside.com/boston-dynamics-walking-robots/</link>
-      <pubDate>Tue, 10 Feb 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/boston-dynamics-walking-robots/</guid>
-      <description>&lt;p&gt;dang!! Boston Dynamics four legged robots are amazeballs:&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/M8YjvHYbZ9w&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>dang!! Boston Dynamics four legged robots are amazeballs:
+  </description>
     </item>
     
     <item>
       <title>Etcd 2.0 walkthrough</title>
       <link>http://theb0ardside.com/etcd2.0/</link>
-      <pubDate>Thu, 29 Jan 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/etcd2.0/</guid>
-      <description>&lt;p&gt;Excellent overview of Etcd and description of new features / bug fixes in 2.0..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/z6tjawXZ71E&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Excellent overview of Etcd and description of new features / bug fixes in 2.0..
+  </description>
     </item>
     
     <item>
       <title>Tony Hoare on the universals of computation</title>
       <link>http://theb0ardside.com/tony-hoare-univerals/</link>
-      <pubDate>Fri, 19 Dec 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 19 Dec 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tony-hoare-univerals/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m currently reading &lt;a href=&#34;http://www.amazon.com/Communicating-Sequential-Processes-International-Computing/dp/0131532715/ref=sr_1_fkmr2_1?ie=UTF8&amp;qid=1419057192&amp;sr=8-1-fkmr2&#34;&gt;Tony Hoare&amp;rsquo;s Communicating Sequential Processes&lt;/a&gt; - it&amp;rsquo;s awesome! I searched to see if I could find some youtube videos of him - this one is brilliant, him talking about what should be taught in Computer Science, the universal ideas of logic and geometry unpinning computation, going back to Euclid and Artistotle. Great stuff!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wcYMhVWsAXA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I&amp;rsquo;m currently reading Tony Hoare&amp;rsquo;s Communicating Sequential Processes - it&amp;rsquo;s awesome! I searched to see if I could find some youtube videos of him - this one is brilliant, him talking about what should be taught in Computer Science, the universal ideas of logic and geometry unpinning computation, going back to Euclid and Artistotle. Great stuff!
+  </description>
     </item>
     
     <item>
       <title>User Space Networking</title>
       <link>http://theb0ardside.com/user-space-networking/</link>
-      <pubDate>Wed, 10 Dec 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/user-space-networking/</guid>
-      <description>&lt;p&gt;One theme I&amp;rsquo;ve noticed recently is a move to User Space networking - not for normal application use per se, but for specific high throughput cases, where the kernel&amp;rsquo;s general network stack&amp;rsquo;s overhead is too much. This isn&amp;rsquo;t a new thing, but something I&amp;rsquo;ve never gotten around to exploring. This vid, from last year, provides an overview of three different implementations..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/5fqCaHcELmo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>One theme I&amp;rsquo;ve noticed recently is a move to User Space networking - not for normal application use per se, but for specific high throughput cases, where the kernel&amp;rsquo;s general network stack&amp;rsquo;s overhead is too much. This isn&amp;rsquo;t a new thing, but something I&amp;rsquo;ve never gotten around to exploring. This vid, from last year, provides an overview of three different implementations..
+  </description>
     </item>
     
     <item>
       <title>How To Debug Anything</title>
       <link>http://theb0ardside.com/how-to-debug-anything/</link>
-      <pubDate>Mon, 10 Nov 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/how-to-debug-anything/</guid>
-      <description>&lt;p&gt;Pretty decent talk on debugging methodology..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/VV7b7fs4VI8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Pretty decent talk on debugging methodology..
+  </description>
     </item>
     
     <item>
       <title>Greyglers!</title>
       <link>http://theb0ardside.com/vent-cerf-greyglers/</link>
-      <pubDate>Sat, 18 Oct 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/vent-cerf-greyglers/</guid>
-      <description>&lt;p&gt;Vint Cerf,the Don..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/t9M0RPNr9qg&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Vint Cerf,the Don..
+  </description>
     </item>
     
     <item>
       <title>How to Build a Mind</title>
       <link>http://theb0ardside.com/joschabach-ai/</link>
-      <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/joschabach-ai/</guid>
-      <description>&lt;p&gt;Hugely compelling talk by Joscha Bach covering history and possible futures of AI..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/2o2xBOQeB7Q&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Found &lt;a href=&#34;http://cognitive-ai.com/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Hugely compelling talk by Joscha Bach covering history and possible futures of AI..
+  Found here</description>
     </item>
     
     <item>
       <title>You Can Be A Kernel Hacker</title>
       <link>http://theb0ardside.com/julia-evans-kernel-hacker/</link>
-      <pubDate>Fri, 26 Sep 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/julia-evans-kernel-hacker/</guid>
-      <description>&lt;p&gt;Brilliant, brilliant talk from &lt;a href=&#34;http://jvns.ca/&#34;&gt;Julia Evans&lt;/a&gt;, getting excited about kernel hacking. Warning: Super infectious levels of enthusiasm!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/0IQlpFWTFbM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Brilliant, brilliant talk from Julia Evans, getting excited about kernel hacking. Warning: Super infectious levels of enthusiasm!
+  </description>
     </item>
     
     <item>
       <title>K&amp;R</title>
       <link>http://theb0ardside.com/knrunix/</link>
-      <pubDate>Sun, 10 Aug 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/knrunix/</guid>
-      <description>&lt;p&gt;Sad circumstance, lovely stories&amp;hellip;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/uxtKwJZbYr0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Sad circumstance, lovely stories&amp;hellip;
+  </description>
     </item>
     
     <item>
       <title>Is TLS Fast Yet?</title>
       <link>http://theb0ardside.com/ilyagrigoriktls/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/ilyagrigoriktls/</guid>
-      <description>&lt;p&gt;Modern TLS practises&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/0EB7zh_7UE4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Modern TLS practises
+  </description>
     </item>
     
     <item>
       <title>Underwater Cables, 1939</title>
       <link>http://theb0ardside.com/underwatercables1939/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/underwatercables1939/</guid>
-      <description>&lt;p&gt;Yow, 1056 wires - 1930s style Undersea Telephony biz..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/G5od6roIMtQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Yow, 1056 wires - 1930s style Undersea Telephony biz..
+  </description>
     </item>
     
     <item>
       <title>Bruce Sterling on Smart City States</title>
       <link>http://theb0ardside.com/brucesterling-smartcities/</link>
-      <pubDate>Mon, 21 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/brucesterling-smartcities/</guid>
-      <description>&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/OYNaoMkY8qY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/warrenellis&#34;&gt;via Warren Ellis&amp;rsquo; twitterfeed&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>via Warren Ellis&amp;rsquo; twitterfeed</description>
     </item>
     
     <item>
       <title>AirBnB story</title>
       <link>http://theb0ardside.com/airbnbstory/</link>
-      <pubDate>Wed, 09 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/airbnbstory/</guid>
-      <description>&lt;p&gt;This is pretty entertaining, one of the AirBnB founders telling their origin story&amp;hellip;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Ya0I6oz7q9U&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>This is pretty entertaining, one of the AirBnB founders telling their origin story&amp;hellip;
+  </description>
     </item>
     
     <item>
       <title>Aaron Swartz story</title>
       <link>http://theb0ardside.com/aaronswartz/</link>
-      <pubDate>Sun, 29 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 29 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/aaronswartz/</guid>
-      <description>&lt;p&gt;Wow, this Aaron Swartz documentary is great, well worth a watch -&amp;gt;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe src=&#34;https://archive.org/embed/TheInternetsOwnBoyTheStoryOfAaronSwartz&#34; width=&#34;640&#34; height=&#34;480&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Wow, this Aaron Swartz documentary is great, well worth a watch -&amp;gt;
+  </description>
     </item>
     
     <item>
       <title>Urban Giants</title>
       <link>http://theb0ardside.com/urban-giants/</link>
-      <pubDate>Thu, 26 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 26 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/urban-giants/</guid>
-      <description>&lt;p&gt;Beautifully shot, mind blowing short documentary about New York&amp;rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;amp;T Long Lines Building ..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe src=&#34;//player.vimeo.com/video/97945495&#34; width=&#34;500&#34; height=&#34;281&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Found via &lt;a href=&#34;http://bldgblog.blogspot.com/2014/06/urban-giants.html&#34;&gt;BldBlog site&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Beautifully shot, mind blowing short documentary about New York&amp;rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;amp;T Long Lines Building ..
+  Found via BldBlog site</description>
     </item>
     
     <item>
       <title>Eric Brewer on Container usage at Google</title>
       <link>http://theb0ardside.com/containers-at-google/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/containers-at-google/</guid>
-      <description>&lt;p&gt;Eric Brewer&amp;rsquo;s keynote from Dockercon14 -&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YrxnVKZeqK8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!&lt;/p&gt;
-</description>
+      <description>Eric Brewer&amp;rsquo;s keynote from Dockercon14 -
+  Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
     </item>
     
     <item>
       <title>Seymour Cray profile</title>
       <link>http://theb0ardside.com/seymourcray/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/seymourcray/</guid>
-      <description>&lt;p&gt;This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jG63r4e6eb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!
+  </description>
     </item>
     
     <item>
       <title>Solomon Hykes, Dockercon14</title>
       <link>http://theb0ardside.com/solomon-hykes-docker/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
-      <description>&lt;p&gt;Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/_DOXBVrlW78&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..
+  </description>
     </item>
     
     <item>
       <title>Deep Learning</title>
       <link>http://theb0ardside.com/deep-learning/</link>
-      <pubDate>Thu, 19 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 19 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/deep-learning/</guid>
-      <description>&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/hykoKDl1AtE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>  </description>
     </item>
     
     <item>
       <title>Brandon Philips, CoreOS</title>
       <link>http://theb0ardside.com/brandoncoreos/</link>
-      <pubDate>Mon, 02 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/brandoncoreos/</guid>
-      <description>&lt;p&gt;Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/uaCUftirfk0?start=2242&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::
+  </description>
     </item>
     
     <item>
       <title>Dijkstra on Elegance</title>
       <link>http://theb0ardside.com/dijkstra-on-elegance/</link>
-      <pubDate>Mon, 26 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/dijkstra-on-elegance/</guid>
-      <description>&lt;p&gt;Excellent wee 20 min documentary with Dijkstra speaking about elegance..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/RCCigccBzIU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Excellent wee 20 min documentary with Dijkstra speaking about elegance..
+  </description>
     </item>
     
     <item>
       <title>Rob Pike, Go Routines</title>
       <link>http://theb0ardside.com/robpikeconcurrency/</link>
-      <pubDate>Thu, 22 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 22 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/robpikeconcurrency/</guid>
-      <description>&lt;p&gt;This is a great talk by Rob Pike on Go Routines, Channels and concurrency&amp;hellip;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe src=&#34;//player.vimeo.com/video/49718712?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=a086ee&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;http://vimeo.com/49718712&#34;&gt;Rob Pike - &#39;Concurrency Is Not Parallelism&#39;&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/herokuwaza&#34;&gt;Waza&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>This is a great talk by Rob Pike on Go Routines, Channels and concurrency&amp;hellip;
+ Rob Pike - &#39;Concurrency Is Not Parallelism&#39; from Waza on Vimeo.
+ </description>
     </item>
     
     <item>
       <title>James Mickens - Monitorama talk 2014</title>
       <link>http://theb0ardside.com/jamesmickens/</link>
-      <pubDate>Mon, 19 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/jamesmickens/</guid>
-      <description>&lt;p&gt;Funny stuff, this is ace..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe src=&#34;//player.vimeo.com/video/95066828?portrait=0&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;http://vimeo.com/95066828&#34;&gt;Monitorama PDX 2014 - James Mickens&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/monitorama&#34;&gt;Monitorama&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>Funny stuff, this is ace..
+ Monitorama PDX 2014 - James Mickens from Monitorama on Vimeo.
+ </description>
     </item>
     
     <item>
       <title>Go For SysAdmins</title>
       <link>http://theb0ardside.com/goforsysadmins/</link>
-      <pubDate>Thu, 15 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/goforsysadmins/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been getting really into both Go and CoreOS recenty, so this video is timely and ACE!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/41GffiXhN6I&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>I&amp;rsquo;ve been getting really into both Go and CoreOS recenty, so this video is timely and ACE!
+  </description>
     </item>
     
     <item>
       <title>Category Theory Intro</title>
       <link>http://theb0ardside.com/cattheoryintro/</link>
-      <pubDate>Sat, 10 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 10 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/cattheoryintro/</guid>
-      <description>&lt;p&gt;Excellent introduction to Category Theory - presentation by Tom LaGatta at LispNYC meetup.&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/o6L6XeNdd_k&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;// via &lt;a href=&#34;thttp://www.hakkalabs.co/articles/mathematics-lectures-for-software-engineers-category-theory-by-tom-lagatta&#34;&gt;Hakka Labs Mailout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Excellent introduction to Category Theory - presentation by Tom LaGatta at LispNYC meetup.
+  // via Hakka Labs Mailout</description>
     </item>
     
     <item>
       <title>Rob Pike, GopherCon 2014 Keynote</title>
       <link>http://theb0ardside.com/robpike-gophercon-2014/</link>
-      <pubDate>Fri, 09 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/robpike-gophercon-2014/</guid>
-      <description>&lt;p&gt;Awesome, awesome talk from Rob Pike, the keynote for GopherCon 2014, some old Unix/C history and lots of details of Go development &amp;ndash;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/VoS7DsT1rdM#t=1298&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Awesome, awesome talk from Rob Pike, the keynote for GopherCon 2014, some old Unix/C history and lots of details of Go development &amp;ndash;
+  </description>
     </item>
     
     <item>
       <title>Systems Architecture, Design, Engineering, and Verification</title>
       <link>http://theb0ardside.com/systems-architecture-acm/</link>
-      <pubDate>Tue, 06 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/systems-architecture-acm/</guid>
-      <description>&lt;p&gt;Yow! this is great! I know my Unix history pretty well, but Multics - aside from knowing it was the precursor to Unix, i didn&amp;rsquo;t know much else of the details or who was involved - WATCH THIS! NOW! :D&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/dsMKJKTOte0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Yow! this is great! I know my Unix history pretty well, but Multics - aside from knowing it was the precursor to Unix, i didn&amp;rsquo;t know much else of the details or who was involved - WATCH THIS! NOW! :D
+  </description>
     </item>
     
     <item>
       <title>Born With Curiosity</title>
       <link>http://theb0ardside.com/gracehopperstory/</link>
-      <pubDate>Wed, 23 Apr 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/gracehopperstory/</guid>
-      <description>&lt;p&gt;Ooh, very nice - new IndieGoGo campaign for a movie telling the story of Grace Hopper -&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.indiegogo.com/projects/born-with-curiosity-the-grace-hopper-story/x/7229489#home/share&#34;&gt;Find out more and donate!&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/L6pFxljtQwo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Ooh, very nice - new IndieGoGo campaign for a movie telling the story of Grace Hopper -
+Find out more and donate!
+  </description>
     </item>
     
     <item>
       <title>BASIC at 50</title>
       <link>http://theb0ardside.com/basic50/</link>
-      <pubDate>Mon, 07 Apr 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 07 Apr 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/basic50/</guid>
-      <description>&lt;p&gt;Now approaching it&amp;rsquo;s 50th birthday, nice wee video about the origins of BASIC and Time Sharing..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/gxo9LVIgOiI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Now approaching it&amp;rsquo;s 50th birthday, nice wee video about the origins of BASIC and Time Sharing..
+  </description>
     </item>
     
     <item>
       <title>And It All Went Horribly Wrong</title>
       <link>http://theb0ardside.com/debuggingproduction/</link>
-      <pubDate>Fri, 04 Apr 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 04 Apr 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/debuggingproduction/</guid>
-      <description>&lt;div&gt;
-&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;&lt;img width=&#34;600&#34; src=&#34;http://theb0ardside.com/static/img/joyentprod.png&#34;&gt;&lt;/a&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/Debugging-Production-Systems&#34;&gt;Bryan Cantrill being funny as hell.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&#34;&lt;em&gt;Bryan Cantrill discusses debugging production systems using post-mortem debugging and dynamic instrumentation, with a bit of history and an introduction to useful debugging tools.&#34;i&lt;/em&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>  Bryan Cantrill being funny as hell.
+&#34;Bryan Cantrill discusses debugging production systems using post-mortem debugging and dynamic instrumentation, with a bit of history and an introduction to useful debugging tools.&#34;i
+ </description>
     </item>
     
     <item>
       <title>Frank Quitely - Geek Hard</title>
       <link>http://theb0ardside.com/frankquitely-interview/</link>
-      <pubDate>Sat, 22 Mar 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 22 Mar 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/frankquitely-interview/</guid>
-      <description>&lt;p&gt;My mother, over in Glasgow, was telling me about a BBC program called A Day In The Life, and specifically of an episode about Frank QUitely - i found it on youtube.com for about 30 mins but it&amp;rsquo;s already been taken down. (I didn&amp;rsquo;t get to see it either!!).&lt;/p&gt;
-
-&lt;p&gt;Fortunately however, I did find this lovely interview with &amp;ldquo;Frank&amp;rdquo; (whose name i just found out is a stage name! )&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/W_6kP5XpQLU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>My mother, over in Glasgow, was telling me about a BBC program called A Day In The Life, and specifically of an episode about Frank QUitely - i found it on youtube.com for about 30 mins but it&amp;rsquo;s already been taken down. (I didn&amp;rsquo;t get to see it either!!).
+Fortunately however, I did find this lovely interview with &amp;ldquo;Frank&amp;rdquo; (whose name i just found out is a stage name! )</description>
     </item>
     
     <item>
       <title>Tense Men - RNRFON</title>
       <link>http://theb0ardside.com/tensemen-rnrfon/</link>
-      <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tensemen-rnrfon/</guid>
-      <description>&lt;p&gt;Love this new video for &lt;a href=&#34;https://soundcloud.com/tensemen&#34;&gt;Tense Men&lt;/a&gt; -&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Z-Ltaq3UPbU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp;rsquo;s old house.&lt;/p&gt;
-</description>
+      <description>Love this new video for Tense Men -
+  It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp;rsquo;s old house.</description>
     </item>
     
     <item>
       <title>Y Combinator explained</title>
       <link>http://theb0ardside.com/ycombinator/</link>
-      <pubDate>Sat, 22 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 22 Feb 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/ycombinator/</guid>
-      <description>&lt;p&gt;Sadly, Jim Weirich, creator of the Ruby Rake tool died a few days back.&lt;/p&gt;
-
-&lt;p&gt;Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/FITJMJjASUs#t=3172&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Sadly, Jim Weirich, creator of the Ruby Rake tool died a few days back.
+Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:
+  </description>
     </item>
     
     <item>
       <title>Code Rush</title>
       <link>http://theb0ardside.com/coderush/</link>
-      <pubDate>Fri, 07 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 07 Feb 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/coderush/</guid>
-      <description>&lt;p&gt;Watched this on wednesday - crazy how dated it all seems now, and well, it is! Dang!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/u404SLJj7ig&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Watched this on wednesday - crazy how dated it all seems now, and well, it is! Dang!
+  </description>
     </item>
     
     <item>
       <title>Bitchin&#39; - Mac 128k</title>
       <link>http://theb0ardside.com/bitchin-mac-128/</link>
-      <pubDate>Fri, 24 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 24 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/bitchin-mac-128/</guid>
-      <description>&lt;p&gt;yow, 30 years old &amp;ndash;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Zz90MkUcho8#t=196&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;also check &lt;a href=&#34;http://www.apple.com/30-years/&#34;&gt;Apple&amp;rsquo;s own Mac 30 video&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>yow, 30 years old &amp;ndash;
+  
+also check Apple&amp;rsquo;s own Mac 30 video</description>
     </item>
     
     <item>
       <title>Street Punk</title>
       <link>http://theb0ardside.com/streetpunk/</link>
-      <pubDate>Sat, 04 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/streetpunk/</guid>
-      <description>&lt;p&gt;Oh man, just found &lt;a href=&#34;http://www.hardlyart.com/hunxandhispunx.html&#34;&gt;this Hunx album from 2013&lt;/a&gt; - i had seen this following video for Bad Skin but forgot about the album when it came out - this video is so disgusting and totally my anthem!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/rOM5jKK9pSU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Oh man, just found this Hunx album from 2013 - i had seen this following video for Bad Skin but forgot about the album when it came out - this video is so disgusting and totally my anthem!
+  </description>
     </item>
     
     <item>
       <title>Acoustic Levitation</title>
       <link>http://theb0ardside.com/acoustic-levitation/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/acoustic-levitation/</guid>
-      <description>&lt;p&gt;more future arrivals now..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/odJxJRAxdFU#t=99&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Read more &lt;a href=&#34;http://www.hardware-360.com/three-dimensional-mid-air-acoustic-manipulation/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>more future arrivals now..
+  Read more here</description>
     </item>
     
     <item>
       <title>Better Vim With Damian Conway</title>
       <link>http://theb0ardside.com/vim-fun-with-conway/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
-      <description>&lt;p&gt;Get yer Vim freak on with Damian Conway! Super fun talk..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/aHm36-na4-4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Get yer Vim freak on with Damian Conway! Super fun talk..
+  </description>
     </item>
     
     <item>
       <title>Stop Breaking The Web</title>
       <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
-      <description>&lt;p&gt;Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BQ6at0addi4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;// found via &lt;a href=&#34;https://twitter.com/littlecalculist/status/418800989634695168&#34;&gt;https://twitter.com/littlecalculist/status/418800989634695168&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..
+  // found via https://twitter.com/littlecalculist/status/418800989634695168</description>
     </item>
     
     <item>
       <title>Go Presentation</title>
       <link>http://theb0ardside.com/gopresentation/</link>
-      <pubDate>Mon, 30 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 30 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/gopresentation/</guid>
-      <description>&lt;p&gt;More and more I&amp;rsquo;ve been dabbling with Go, which, mainly due to Hacker News, i&amp;rsquo;ve been reading so many good things about. The syntax is super easy to pick up, but the killer feature seems to be the concurrency primitives - the Go Functions and message passing Channels seem like a super tight, rock solid implementation of Hoare&amp;rsquo;s Communicating Sequential Processes. The following video is a really succinct walk through of building a concurent multi-protocol chat application ala Chat Roulette..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe src=&#34;//player.vimeo.com/video/53221560&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;http://vimeo.com/53221560&#34;&gt;Go: code that grows with grace&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user4280938&#34;&gt;&amp;Oslash;redev Conference&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>More and more I&amp;rsquo;ve been dabbling with Go, which, mainly due to Hacker News, i&amp;rsquo;ve been reading so many good things about. The syntax is super easy to pick up, but the killer feature seems to be the concurrency primitives - the Go Functions and message passing Channels seem like a super tight, rock solid implementation of Hoare&amp;rsquo;s Communicating Sequential Processes. The following video is a really succinct walk through of building a concurent multi-protocol chat application ala Chat Roulette.</description>
     </item>
     
     <item>
       <title>Troubleshooting the JVM at Twitter</title>
       <link>http://theb0ardside.com/troubleshootingjvmtwitter/</link>
-      <pubDate>Mon, 09 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/troubleshootingjvmtwitter/</guid>
-      <description>&lt;p&gt;This talk is incredibly informative - Twitter have their own fork of OpenJDK, in which they have enabled registers on the CPU, normally used by the Java Compiler - this enables Frame Pointers which &lt;a href=&#34;https://perf.wiki.kernel.org/index.php/Main_Page&#34;&gt;perf&lt;/a&gt; can read and translate, enabling a full Stack trace from JVM bytecode right down into the kernel.&lt;/p&gt;
-
-&lt;p&gt;Beyond simply CPU counters and stack trace, they also tie in other JVM flags which export DTrace counters, and use these to construct connections between memory allocation and the running process, so in the end you have a tool which can spans JVM -&amp;gt; kernel connections, alongside CPU -&amp;gt; memory.&lt;/p&gt;
-
-&lt;p&gt;Sounds very useful, i look forward to them open-sourcing it..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Yg6_ulhwLw0?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>This talk is incredibly informative - Twitter have their own fork of OpenJDK, in which they have enabled registers on the CPU, normally used by the Java Compiler - this enables Frame Pointers which perf can read and translate, enabling a full Stack trace from JVM bytecode right down into the kernel.
+Beyond simply CPU counters and stack trace, they also tie in other JVM flags which export DTrace counters, and use these to construct connections between memory allocation and the running process, so in the end you have a tool which can spans JVM -&amp;gt; kernel connections, alongside CPU -&amp;gt; memory.</description>
     </item>
     
     <item>
       <title>The B0ardside Top 13 records 2013</title>
       <link>http://theb0ardside.com/toprecords2013/</link>
-      <pubDate>Fri, 06 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 06 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/toprecords2013/</guid>
-      <description>&lt;p&gt;Was hard to cut two out from this selection, so here&amp;rsquo;s my top 12 for the past year, as usual a bit of a mix between the rock n roll and the electronic noise..&lt;/p&gt;
-
-&lt;p&gt;The Pastels &amp;ndash; Slow Summit
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/70V_PcW1om8?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;The Spook School &amp;ndash; Dress Up
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/0eEVPHnHW7g?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Radiator Hospital &amp;ndash; Something Wild
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Z2eelBo0afQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Zomby &amp;ndash; With Love
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/E5fccx15b2k?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Wyatt Blair &amp;ndash; Banana Cream Dream
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jCf2tEZy7_Q?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Four Tet &amp;ndash; Beautiful Rewind
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/RD5_t69RTc4?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Basic House &amp;ndash; Oats
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/ZVwlB3qv2qs?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Patricia &amp;ndash; Body Issues
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Y85nYo0KS64?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Colour Me Wednesday &amp;ndash; I Thought It Was Morning
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Lkni5QYgcvE?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Fear Of Men &amp;ndash; Early Fragments
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/IAcMJPnYoMQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Anna Hillburg &amp;ndash; s/t
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/s5lsxLVcVNU?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;Dalglish &amp;ndash; Niaiw Ot Vile
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/TeBbSbF_y_c?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;oh! scratch that, make it 13 then! How could i forget ma wedding singer?!
-The Hive Dwellers &amp;ndash; Hewn From The Wilderness
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Y6Bi8NSGvjQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Was hard to cut two out from this selection, so here&amp;rsquo;s my top 12 for the past year, as usual a bit of a mix between the rock n roll and the electronic noise..
+The Pastels &amp;ndash; Slow Summit 
+The Spook School &amp;ndash; Dress Up 
+Radiator Hospital &amp;ndash; Something Wild 
+Zomby &amp;ndash; With Love 
+Wyatt Blair &amp;ndash; Banana Cream Dream 
+Four Tet &amp;ndash; Beautiful Rewind</description>
     </item>
     
     <item>
       <title>Bret Victor - Future Of Programming</title>
       <link>http://theb0ardside.com/bretvictorfutureofprogramming/</link>
-      <pubDate>Thu, 22 Aug 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/bretvictorfutureofprogramming/</guid>
-      <description>&lt;p&gt;great stuff!&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/71278954&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>great stuff!</description>
     </item>
     
     <item>
       <title>Computers For Cynics</title>
       <link>http://theb0ardside.com/computersforcynics/</link>
-      <pubDate>Sun, 11 Aug 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 11 Aug 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/computersforcynics/</guid>
-      <description>&lt;p&gt;hah, nice counterpart to all the recent good, but hyperbole books i&#39;ve been reading (&lt;a href=&#34;http://www.amazon.com/What-Dormouse-Said-Counterculture-Personal/dp/0143036769/ref=sr_1_1?s=books&amp;#038;ie=UTF8&amp;#038;qid=1376258195&amp;#038;sr=1-1&amp;#038;keywords=what+the+dormouse+said&#34; title=&#34;What The Dormouse Said&#34; target=&#34;_blank&#34;&gt;What The Dormouse Said&lt;/a&gt;, and &lt;a href=&#34;http://www.amazon.com/Dealers-Lightning-Xerox-PARC-Computer/dp/0887309895/ref=pd_sim_b_4&#34; title=&#34;Dealers Of Lightning&#34; target=&#34;_blank&#34;&gt;Dealers Of Lightning&lt;/a&gt;) -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/KdnGPQaICjk?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>hah, nice counterpart to all the recent good, but hyperbole books i&#39;ve been reading (What The Dormouse Said, and Dealers Of Lightning) -</description>
     </item>
     
     <item>
       <title>Steve Souders on Cacheing</title>
       <link>http://theb0ardside.com/stevesoudersoncacheing/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/stevesoudersoncacheing/</guid>
-      <description>&lt;p&gt;from january of this year, HTML5DevConf ::&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/HKNZ-tQQnSY?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>from january of this year, HTML5DevConf ::</description>
     </item>
     
     <item>
       <title>Old School</title>
       <link>http://theb0ardside.com/oldschool/</link>
-      <pubDate>Fri, 21 Jun 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 21 Jun 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/oldschool/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/cozcXiSSkwE?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;(( &lt;a href=&#34;http://googleblog.blogspot.com/2013/06/youve-come-long-way-baby-remembering.html&#34; title=&#34;Google Blog&#34; target=&#34;_blank&#34;&gt;via google&lt;/a&gt; ))&lt;/p&gt;
-</description>
+      <description>(( via google ))</description>
     </item>
     
     <item>
       <title>Brendan Gregg, Linux Performance</title>
       <link>http://theb0ardside.com/brendangregglinuxperformance/</link>
-      <pubDate>Wed, 12 Jun 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/brendangregglinuxperformance/</guid>
-      <description>&lt;p&gt;The always interesting Brendan Greg &amp;#8212; &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/0yyorhl6IjM?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>The always interesting Brendan Greg &amp;#8212;</description>
     </item>
     
     <item>
       <title>Search - not a solved problem</title>
       <link>http://theb0ardside.com/searchnotasolvedproblem/</link>
-      <pubDate>Wed, 05 Jun 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/searchnotasolvedproblem/</guid>
-      <description>&lt;p&gt;Very good talk from &lt;a href=&#34;http://www.hilarymason.com/&#34; title=&#34;Hilary Mason&#34; target=&#34;_blank&#34;&gt;Hilary Mason&lt;/a&gt; from a recent Lucene Revolution keynote.&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/jVMWT7I3ATM?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Very good talk from Hilary Mason from a recent Lucene Revolution keynote.</description>
     </item>
     
     <item>
       <title>Berkshelf - the missing piece</title>
       <link>http://theb0ardside.com/berkshelfthemissingpiece/</link>
-      <pubDate>Wed, 29 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/berkshelfthemissingpiece/</guid>
-      <description>&lt;p&gt;If you&#39;ve been following my past few posts, you&#39;ve seen i was investigating how best to integrate the plethora of Chef testing tools that&#39;ve been coming out &amp;#8212; foodcritic, chefspec, test-kitchen, mini-test &amp;#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&amp;#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo? Inside a cookbook directory? How many Vagrant files am I going to create here?&lt;/p&gt;&lt;p&gt;If, like myself, you weren&#39;t along at this year&#39;s ChefConf 2013, you may also have missed on a major conceptual shift that has happened. Instead of the all-inclusive Chef-repo design pattern, as implied by the OpsCode Chef Repo - https://github.com/opscode/chef-repo - which, when used with all the community cookbooks out there, creates a mess of forked, modified and sub-moduled cookbooks and recipes. &lt;/p&gt;&lt;p&gt;The conceptual shift away and now recommended way, is to treat each cookbook as a separate piece of software and to give it it&#39;s own git repo, keeping them separate from from your Chef-repo. This combined, with a distinction between Library and Application cookbooks, and then bundled together via Berkshelf, enables a much cleaner and modular way of working. When you accept this move, it&#39;s much easier to then fit all the testing pieces together as they all live within each separate cookbook/repo.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/RiotGames/berkshelf/issues/535&#34; title=&#34;Berk Comment&#34; target=&#34;_blank&#34;&gt;This Comment Thread&lt;/a&gt; was what really drew it together for me, and then to fully clarify this way of working, watch Jamie Winsor&#39;s ChefConf talk which is the original starting point:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/hYt0E84kYUI?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>If you&#39;ve been following my past few posts, you&#39;ve seen i was investigating how best to integrate the plethora of Chef testing tools that&#39;ve been coming out &amp;#8212; foodcritic, chefspec, test-kitchen, mini-test &amp;#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&amp;#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo?</description>
     </item>
     
     <item>
       <title>Mo&#39; Chef Testing</title>
       <link>http://theb0ardside.com/mocheftesting/</link>
-      <pubDate>Mon, 27 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 27 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/mocheftesting/</guid>
-      <description>&lt;p&gt;Following on from my last post about Test Driven Chef, this latest Food Fight show is a great roundup of the current testing tools landscape -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/DhcXXOIerIc?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Following on from my last post about Test Driven Chef, this latest Food Fight show is a great roundup of the current testing tools landscape -</description>
     </item>
     
     <item>
       <title>Test-Driven Chef</title>
       <link>http://theb0ardside.com/testdrivenchef/</link>
-      <pubDate>Wed, 15 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 15 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/testdrivenchef/</guid>
-      <description>&lt;p&gt;I&#39;m looking to start using Test-Kitchen and Berkshelf, and basically trying to get my head round setting up a proper test driven Chef setup.&lt;/p&gt;&lt;p&gt;I found this video from last year to be quite a good introduction to some of the setup -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/o2e0aZUAVGw?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>I&#39;m looking to start using Test-Kitchen and Berkshelf, and basically trying to get my head round setting up a proper test driven Chef setup.
+I found this video from last year to be quite a good introduction to some of the setup -</description>
     </item>
     
     <item>
       <title>Netflix OSS</title>
       <link>http://theb0ardside.com/netflixoss/</link>
-      <pubDate>Sat, 11 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 11 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/netflixoss/</guid>
-      <description>&lt;p&gt;Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/A69uTnfQgB8?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:</description>
     </item>
     
     <item>
       <title>jedberg talk at Airbnb</title>
       <link>http://theb0ardside.com/jedbergtalkatairbnb/</link>
-      <pubDate>Wed, 08 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/jedbergtalkatairbnb/</guid>
-      <description>&lt;p&gt;I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/cCAO9moDucI?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -</description>
     </item>
     
     <item>
       <title>PostgreSQL on AWS</title>
       <link>http://theb0ardside.com/postgresqlonaws/</link>
-      <pubDate>Wed, 24 Apr 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/postgresqlonaws/</guid>
-      <description>&lt;p&gt;Excellent video specifically for PostgreSQL on AWS, however the principles are pretty universal information for running anything on AWS -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/2fHRX-u1X4A?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Excellent video specifically for PostgreSQL on AWS, however the principles are pretty universal information for running anything on AWS -</description>
     </item>
     
     <item>
       <title>Grizzled</title>
       <link>http://theb0ardside.com/grizzled/</link>
-      <pubDate>Tue, 09 Apr 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 09 Apr 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/grizzled/</guid>
-      <description>&lt;p&gt;yow, the latest &lt;a href=&#34;http://www.openstack.org/software/&#34; title=&#34;OpenStack&#34; target=&#34;_blank&#34;&gt;OpenStack&lt;/a&gt; release is looking rather slick..&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/p4eW78gHfCg?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>yow, the latest OpenStack release is looking rather slick..</description>
     </item>
     
     <item>
       <title>Gene Kim and Etsy</title>
       <link>http://theb0ardside.com/genekimandetsy/</link>
-      <pubDate>Tue, 02 Apr 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/genekimandetsy/</guid>
-      <description>&lt;p&gt;*tumbleweeds rolling through*&lt;/p&gt;&lt;p&gt;sorry, not being finding much video content to post recently - tho heres a couple of half decent ones.&lt;/p&gt;&lt;p&gt;Gene Kim at DevOps Days London on Maximizing Flow -&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/62491066&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;( I just &lt;a href=&#34;http://www.goodreads.com/review/show/523219724&#34; title=&#34;Goodreads review&#34; target=&#34;_blank&#34;&gt;recently read his Phoenix Projects book&lt;/a&gt; which was way more enjoyable than it should have been!)&lt;/p&gt;&lt;p&gt;And a corny but well done April Fools video from John Allspaw at Etsy -&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/63087035&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>*tumbleweeds rolling through*
+sorry, not being finding much video content to post recently - tho heres a couple of half decent ones.
+Gene Kim at DevOps Days London on Maximizing Flow -
+
+( I just recently read his Phoenix Projects book which was way more enjoyable than it should have been!)
+And a corny but well done April Fools video from John Allspaw at Etsy -</description>
     </item>
     
     <item>
       <title>PBS&#39;s Silicon Valley</title>
       <link>http://theb0ardside.com/pbsssiliconvalley/</link>
-      <pubDate>Tue, 12 Feb 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 12 Feb 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/pbsssiliconvalley/</guid>
-      <description>&lt;p&gt;Really enjoying this doc:&lt;/p&gt;&lt;p&gt;&lt;object width = &#34;512&#34; height = &#34;328&#34; &gt;&lt;param name = &#34;movie&#34; value = &#34;http://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf&#34; &gt;&lt;/param&gt;&lt;param name=&#34;flashvars&#34; value=&#34;video=http://video.pbs.org/videoPlayerInfo/2328264748&amp;#038;player=viral&amp;#038;end=1003000&#34; /&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param &gt;&lt;param name = &#34;allowscriptaccess&#34; value = &#34;always&#34; &gt;&lt;/param&gt;&lt;param name=&#34;wmode&#34; value=&#34;transparent&#34;&gt;&lt;/param &gt;&lt;embed src=&#34;http://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf&#34; flashvars=&#34;video=http://video.pbs.org/videoPlayerInfo/2328264748&amp;#038;player=viral&amp;#038;end=1003000&#34; type=&#34;application/x-shockwave-flash&#34; allowscriptaccess=&#34;always&#34; wmode=&#34;transparent&#34; allowfullscreen=&#34;true&#34; width=&#34;512&#34; height=&#34;328&#34; bgcolor=&#34;#000000&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p style=&#34;font-size:11px; font-family:Arial, Helvetica, sans-serif; color: #808080; margin-top: 5px; background: transparent; text-align: center; width: 512px;&#34;&gt;Watch &lt;a style=&#34;text-decoration:none !important; font-weight:normal !important; height: 13px; color:#4eb2fe !important;&#34; href=&#34;http://video.pbs.org/video/2328264748&#34; target=&#34;_blank&#34;&gt;Silicon Valley Chapter 1&lt;/a&gt; on PBS. See more from &lt;a style=&#34;text-decoration:none !important; font-weight:normal !important; height: 13px; color:#4eb2fe !important;&#34; href=&#34;http://www.pbs.org/wgbh/americanexperience/&#34; target=&#34;_blank&#34;&gt;American Experience.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Full episode available on the &lt;a href=&#34;http://www.pbs.org/wgbh/americanexperience/films/silicon/&#34; title=&#34;PBS&#34; target=&#34;_blank&#34;&gt;PBS website&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Really enjoying this doc:
+Watch Silicon Valley Chapter 1 on PBS. See more from American Experience.
+Full episode available on the PBS website</description>
     </item>
     
     <item>
       <title>Etsy Scaling vid from 2011</title>
       <link>http://theb0ardside.com/etsyscalingvidfrom2011/</link>
-      <pubDate>Thu, 17 Jan 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 17 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/etsyscalingvidfrom2011/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/eenrfm50mXw?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;All well accepted practices by now, but still a good watch.&lt;/p&gt;
-</description>
+      <description>All well accepted practices by now, but still a good watch.</description>
     </item>
     
     <item>
       <title>immutability</title>
       <link>http://theb0ardside.com/immutability/</link>
-      <pubDate>Thu, 10 Jan 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/immutability/</guid>
-      <description>&lt;p&gt;Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/52831373&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;https://twitter.com/igrigorik/status/288758137190772736&#34; target=&#34;_blank&#34;&gt;igrigorik&#39;s twitter&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :
+
+via igrigorik&#39;s twitter</description>
     </item>
     
     <item>
       <title>JVM and GC Performance Tuning</title>
       <link>http://theb0ardside.com/jvmandgcperformancetuning/</link>
-      <pubDate>Thu, 03 Jan 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/jvmandgcperformancetuning/</guid>
-      <description>&lt;p&gt;Been working a lot of JVM GC performance problems of late, so this video interview my friend &lt;a href=&#34;https://twitter.com/skr&#34; target=&#34;_blank&#34;&gt;Johan&lt;/a&gt; turned me on has some great info  -&lt;p&gt;&lt;a href=&amp;#039;http://www.infoq.com/interviews/szegedi-performance-tuning#.UOU0FUyxAz4.wordpress&amp;#039;&gt;Attila Szegedi on JVM and GC Performance Tuning at Twitter&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/interviews/szegedi-performance-tuning&#34; target=&#34;_blank&#34;&gt;http://www.infoq.com/interviews/szegedi-performance-tuning&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Been working a lot of JVM GC performance problems of late, so this video interview my friend Johan turned me on has some great info -Attila Szegedi on JVM and GC Performance Tuning at Twitter.
+http://www.infoq.com/interviews/szegedi-performance-tuning</description>
     </item>
     
     <item>
       <title>Usenix/Lisa 12</title>
       <link>http://theb0ardside.com/usenixlisa12/</link>
-      <pubDate>Sun, 16 Dec 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 16 Dec 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/usenixlisa12/</guid>
-      <description>&lt;p&gt;Just got back from the Usenix/Lisa 12 conference in San Diego, and had a great time, super inspiring talks and content.&lt;/p&gt;&lt;p&gt;Highlight of the conference for me was Brendan Gregg speaking on Performance Analysis Methodologies - most of his talk was based upon a paper he just published in ACM - &lt;a href=&#34;https://queue.acm.org/detail.cfm?id=2413037&#34; title=&#34;ACM&#34; target=&#34;_blank&#34;&gt;Thinking Methodically About Performance&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The talks haven&#39;t yet been published on the Usenix website, but Brendan&#39;s blog has a ton of great looking content and older talks including this one on Visualisations for Performance Analysis&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/ml-t-9g6Mjc?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Just got back from the Usenix/Lisa 12 conference in San Diego, and had a great time, super inspiring talks and content.
+Highlight of the conference for me was Brendan Gregg speaking on Performance Analysis Methodologies - most of his talk was based upon a paper he just published in ACM - Thinking Methodically About Performance.
+The talks haven&#39;t yet been published on the Usenix website, but Brendan&#39;s blog has a ton of great looking content and older talks including this one on Visualisations for Performance Analysis</description>
     </item>
     
     <item>
       <title>Food Fight Show on Chef Cookbook Best Practises</title>
       <link>http://theb0ardside.com/foodfightshowonchefcookbookbestpractises/</link>
-      <pubDate>Mon, 26 Nov 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 26 Nov 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/foodfightshowonchefcookbookbestpractises/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/slF72K03ixM?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;this google+ hangout, combined with this &lt;a href=&#34;http://devopsanywhere.blogspot.it/2012/11/how-to-write-reusable-chef-cookbooks.html&#34; title=&#34;Reusable Chef Cookbooks&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt; and all it&#39;s links, provides plenty of good discussion and ideas for Chef.&lt;/p&gt;
-</description>
+      <description>this google+ hangout, combined with this post and all it&#39;s links, provides plenty of good discussion and ideas for Chef.</description>
     </item>
     
     <item>
       <title>Don&#39;t use nosql</title>
       <link>http://theb0ardside.com/dontusenosql/</link>
-      <pubDate>Mon, 05 Nov 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 05 Nov 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/dontusenosql/</guid>
-      <description>&lt;p&gt;enjoyed this talk by Mathias Meyer :&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/49713827&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>enjoyed this talk by Mathias Meyer :</description>
     </item>
     
     <item>
       <title>Percona Table Checksum</title>
       <link>http://theb0ardside.com/perconatablechecksum/</link>
-      <pubDate>Thu, 11 Oct 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/perconatablechecksum/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;http://blip.tv/play/AYLoizwC.html?p=1&#34; width=&#34;550&#34; height=&#34;443&#34; scrolling=&#34;no&#34; class=&#34;iframe-class&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;p&gt;I must admit MySQL replication is something I&amp;rsquo;ve never felt too comfortable with - in most of my positions, I&amp;rsquo;ve had the luxury of working with a full time DBA who would handle all database related work. In my current workplace we have three major pairs of database machines, and have been going through upgrading them all to Percona MySQL 5.5. As you&amp;rsquo;d expect data integrity is of the highest importance, so discovering this Percona Table Checksum tool is a real life saver, providing an amazing tool for verifying and fixing any drift or problems with MySQL slaves.&lt;/p&gt;&lt;p&gt;I can&amp;rsquo;t take any credit for these instructions or the trial and error in assembling them, as they were penned by my workmate, the awesome &lt;a href=&#34;http://www.linkedin.com/pub/trystan-leftwich/12/19b/8a2&#34; target=&#34;_blank&#34;&gt;Trystan Leftwich&lt;/a&gt; - these are his notes for use at our place, with some additional clarifications from myself from working through them.&lt;/p&gt;&lt;p&gt;First things first, grab &lt;a href=&#34;http://www.percona.com/doc/percona-toolkit&#34; title=&#34;PT&#34; target=&#34;_blank&#34;&gt;the Percona Toolkit&lt;/a&gt; and install.&lt;/p&gt;&lt;p&gt;Now on the master DB do the following:&lt;/p&gt;&lt;p&gt;&lt;code&gt;create database BLAH;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;This will be the database you store your checksums, so something like &lt;strong&gt;pt_checksums&lt;/strong&gt; will do.&lt;/p&gt;&lt;p&gt;Now on the master as the mysql user, run&lt;/p&gt;&lt;p&gt;&lt;code&gt;pt-table-checksum &amp;ndash;create-replicate &amp;ndash;replicate [db_name].[table_name] &amp;ndash;databases [comma_separated_list_of_databases_you_want_to_check] &amp;ndash;empty-replicate-table &amp;ndash;chunk-size=5000 localhost&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;Where [db_name].[table_name] is the database you created before, and a table name you will be able to remember. &lt;/p&gt;&lt;p&gt;EG &lt;strong&gt;pt_checksums.myimportanttables_checksums&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;(If you get a &amp;#8220;can not connect to host: blah, this is ok, ignore)&lt;/p&gt;&lt;p&gt;Now, when this is complete, go to the slave DB. (ensure replication is up to date - if you have errors, just skip them to get it up to date)&lt;/p&gt;&lt;p&gt;Then run the following&lt;/p&gt;&lt;p&gt;&lt;code&gt;connect [db_you_created_above];&lt;br /&gt;select * from [table_name_you_created_above] where this_crc != master_crc;&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;If this returns an empty set, Then your DB is in sync - go straight to Go, collect $200. &lt;/p&gt;&lt;p&gt;If not you will have to try and sync it -&lt;/p&gt;&lt;p&gt;Create a user with the following permissions (pretty much everything)  (Also it may not need all of these, but couldn&amp;rsquo;t find what exactly it needed)&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, RELOAD, SHUTDOWN, PROCESS, FILE, REFERENCES, INDEX, ALTER, SHOW DATABASES, SUPER, CREATE TEMPORARY TABLES, LOCK TABLES, EXECUTE, REPLICATION SLAVE, REPLICATION CLIENT&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;You can create with:&lt;/p&gt;&lt;p&gt;&lt;code&gt;create user &amp;#039;pt_checksum_maint&amp;#039;@&amp;#039;%&amp;#039; identified by &amp;#039;blah&amp;#039;;&lt;br /&gt;GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, RELOAD, SHUTDOWN, PROCESS, FILE, REFERENCES, INDEX, ALTER, SHOW DATABASES, SUPER, CREATE TEMPORARY TABLES, LOCK TABLES, EXECUTE, REPLICATION SLAVE, REPLICATION CLIENT on &lt;em&gt;.&lt;/em&gt; to  &amp;#039;pt_checksum_maint&amp;#039;@&amp;#039;%&amp;#039;;&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;Then, still on the master, run the following command&lt;/p&gt;&lt;p&gt;&lt;code&gt;pt-table-sync &amp;ndash;execute &amp;ndash;replicate [db_name].[table_name] master_db_ip/hostname &amp;ndash;user user_you_created_above &amp;ndash;ask-pass &amp;ndash;no-foreign-key-checks&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;(At first I assumed this would be run on the slave to fix it up, however the man page for pt-table-checksum explains: &lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;it always makes the changes on the replication master, never the replication slave directly.  This is in general the only safe way to bring a replica back in sync with its master; changes to the replica are usually the source of the problems in the first place.  However, the changes it makes on the master should be no-op changes that set the data to their current values, and actually affect only the replica.&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;)&lt;/p&gt;&lt;p&gt;Once this table sync has been run, re-run the pt-table-checksum command, then verify your results on the slave - should be good .&lt;/p&gt;&lt;/p&gt;
-</description>
+      <description>I must admit MySQL replication is something I&amp;rsquo;ve never felt too comfortable with - in most of my positions, I&amp;rsquo;ve had the luxury of working with a full time DBA who would handle all database related work. In my current workplace we have three major pairs of database machines, and have been going through upgrading them all to Percona MySQL 5.5. As you&amp;rsquo;d expect data integrity is of the highest importance, so discovering this Percona Table Checksum tool is a real life saver, providing an amazing tool for verifying and fixing any drift or problems with MySQL slaves.</description>
     </item>
     
     <item>
       <title>(short) history of DevOps</title>
       <link>http://theb0ardside.com/shorthistoryofdevops/</link>
-      <pubDate>Sat, 22 Sep 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 22 Sep 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/shorthistoryofdevops/</guid>
-      <description>&lt;p&gt;nice lil vid - i didn&#39;t know some of these details of how DevOps emerged -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/o7-IuYS0iSE?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;http://itrevolution.com/the-history-of-devops/&#34; title=&#34;History of DevOps&#34; target=&#34;_blank&#34;&gt;http://itrevolution.com/the-history-of-devops/&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>nice lil vid - i didn&#39;t know some of these details of how DevOps emerged -
+
+via http://itrevolution.com/the-history-of-devops/</description>
     </item>
     
     <item>
       <title>The Unix Way</title>
       <link>http://theb0ardside.com/theunixway/</link>
-      <pubDate>Wed, 12 Sep 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/theunixway/</guid>
-      <description>&lt;p&gt;Ace early Unix infomercial -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/tc4ROCJYbm0?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Ace early Unix infomercial -</description>
     </item>
     
     <item>
       <title>The Coming War Over General-Purpose Computing</title>
       <link>http://theb0ardside.com/thecomingwarovergeneralpurposecomputing/</link>
-      <pubDate>Thu, 23 Aug 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/thecomingwarovergeneralpurposecomputing/</guid>
-      <description>&lt;p&gt;I saw &lt;a href=&#34;http://longnow.org/seminars/02012/jul/31/coming-century-war-against-your-computer/&#34; title=&#34;Long Now Foundation&#34; target=&#34;_blank&#34;&gt;Cory Doctorow give this same talk a few weeks back as part of the Long Now Foundation&lt;/a&gt;, and would highly recommend it..&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/gbYXBJOFgeI?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>I saw Cory Doctorow give this same talk a few weeks back as part of the Long Now Foundation, and would highly recommend it..</description>
     </item>
     
     <item>
       <title>old school Mac design team</title>
       <link>http://theb0ardside.com/oldschoolmacdesignteam/</link>
-      <pubDate>Thu, 16 Aug 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/oldschoolmacdesignteam/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/oTtQ0l0ukvQ?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://osxdaily.com/2012/08/10/retro-mac-commercial-from-1983-unaired/&#34; title=&#34;OS X Daily&#34; target=&#34;_blank&#34;&gt;via OS X Daily&lt;/a&gt; //&lt;/p&gt;
-</description>
+      <description>// via OS X Daily //</description>
     </item>
     
     <item>
       <title>Chef Lessons from Etsy</title>
       <link>http://theb0ardside.com/cheflessonsfrometsy/</link>
-      <pubDate>Sun, 05 Aug 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 05 Aug 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/cheflessonsfrometsy/</guid>
-      <description>&lt;p&gt;really good video from this year&#39;s ChefConf::&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/nSnJCJiZDDU?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>really good video from this year&#39;s ChefConf::</description>
     </item>
     
     <item>
       <title>Sight Systems</title>
       <link>http://theb0ardside.com/sightsystems/</link>
-      <pubDate>Tue, 31 Jul 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 31 Jul 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/sightsystems/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/46304267&#34; width=&#34;590&#34; height=&#34;332&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;cool lil 7min sci-fi short via &lt;a href=&#34;http://news.ycombinator.com/item?id=4311593&#34; title=&#34;hn&#34; target=&#34;_blank&#34;&gt;Hacker News&lt;/a&gt;. As they point out in the comment section, it&#39;s very close to &lt;a href=&#34;http://en.wikipedia.org/wiki/Black_Mirror_(TV_series)&#34; title=&#34;black mirror&#34; target=&#34;_blank&#34;&gt;Charlie Brooker&#39;s Black Mirror&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>cool lil 7min sci-fi short via Hacker News. As they point out in the comment section, it&#39;s very close to Charlie Brooker&#39;s Black Mirror</description>
     </item>
     
     <item>
       <title>webkit and chrome internals</title>
       <link>http://theb0ardside.com/webkitandchromeinternals/</link>
-      <pubDate>Wed, 25 Jul 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/webkitandchromeinternals/</guid>
-      <description>&lt;p&gt;I went along to the SF Web Performance Meetup last night, for a talk by &lt;a href=&#34;http://www.igvita.com/&#34; target=&#34;_blank&#34;&gt;Ilya Grigorik&lt;/a&gt; which was one of the best and most informative Meetups I&#39;ve been along to - lots of meaty details on how Webkit in general works, and specifically how Chrome uses it across the many platforms it runs on. &lt;/p&gt;&lt;p&gt;The video has just been posted here - &lt;/p&gt;&lt;p&gt;&lt;object width=&#34;480&#34; height=&#34;296&#34; classid=&#34;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#34;&gt;&lt;param name=&#34;flashvars&#34; value=&#34;vid=24227835&amp;amp;autoplay=false&#34;/&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34;/&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34;/&gt;&lt;param name=&#34;src&#34; value=&#34;http://www.ustream.tv/flash/viewer.swf&#34;/&gt;&lt;embed flashvars=&#34;vid=24227835&amp;amp;autoplay=false&#34; width=&#34;480&#34; height=&#34;296&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; src=&#34;http://www.ustream.tv/flash/viewer.swf&#34; type=&#34;application/x-shockwave-flash&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&#34;http://www.ustream.tv/&#34; style=&#34;padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;&#34; target=&#34;_blank&#34;&gt;Video streaming by Ustream&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Ilya starts speaking around the 12 minute mark..&lt;/p&gt;
-</description>
+      <description>I went along to the SF Web Performance Meetup last night, for a talk by Ilya Grigorik which was one of the best and most informative Meetups I&#39;ve been along to - lots of meaty details on how Webkit in general works, and specifically how Chrome uses it across the many platforms it runs on. The video has just been posted here - 
+Video streaming by Ustream
+Ilya starts speaking around the 12 minute mark.</description>
     </item>
     
     <item>
       <title>Leap Motion</title>
       <link>http://theb0ardside.com/leapmotion/</link>
-      <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/leapmotion/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/_d6KuiuteIA?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;ooh, nice. Just saw this company mentioned in the &lt;a href=&#34;http://news.ycombinator.com/item?id=4189793&#34; title=&#34;HN&#34; target=&#34;_blank&#34;&gt;comments of an HN thread&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>ooh, nice. Just saw this company mentioned in the comments of an HN thread.</description>
     </item>
     
     <item>
       <title>some fav Velocity talks</title>
       <link>http://theb0ardside.com/somefavvelocitytalks/</link>
-      <pubDate>Mon, 02 Jul 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/somefavvelocitytalks/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://velocityconf.com/velocity2012&#34; title=&#34;Velocity&#34; target=&#34;_blank&#34;&gt;Velocity&lt;/a&gt; was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!&lt;/p&gt;&lt;p&gt;Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/2S0k12uZR14?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/bM0yL0eQ9EM?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Velocity was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!
+Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..</description>
     </item>
     
     <item>
       <title>Allspaw on Anticipation</title>
       <link>http://theb0ardside.com/allspawonanticipation/</link>
-      <pubDate>Mon, 18 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/allspawonanticipation/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/gy2lTFD4560?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://www.kitchensoap.com/2012/06/18/resilience-engineering-part-ii-lenses/&#34; title=&#34;Resilience Engineering Part II: Lenses&#34; target=&#34;_blank&#34;&gt;via John&#39;s blog at Kitchen Soap&lt;/a&gt; //&lt;/p&gt;
-</description>
+      <description>// via John&#39;s blog at Kitchen Soap //</description>
     </item>
     
     <item>
       <title>21st Century Internet</title>
       <link>http://theb0ardside.com/21stcenturyinternet/</link>
-      <pubDate>Wed, 06 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/21stcenturyinternet/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/-Uwjt32NvVA?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;via &lt;a href=&#34;http://googleblog.blogspot.com/2012/06/world-ipv6-launch-keeping-internet.html&#34; title=&#34;google blog&#34; target=&#34;_blank&#34;&gt;Google Blog&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>via Google Blog</description>
     </item>
     
     <item>
       <title>Von Neumann and the Institute For Advanced Study</title>
       <link>http://theb0ardside.com/vonneumannandtheinstituteforadvancedstudy/</link>
-      <pubDate>Sun, 03 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/vonneumannandtheinstituteforadvancedstudy/</guid>
-      <description>&lt;p&gt;I&#39;ve started reading &lt;a href=&#34;http://www.amazon.com/Turings-Cathedral-Origins-Digital-Universe/dp/0375422773&#34; title=&#34;amazon book link&#34; target=&#34;_blank&#34;&gt;George Dyson&#39;s &amp;#8220;Turing&#39;s Cathedral&amp;#8221;&lt;/a&gt;, and really enjoying it - I love reading the historical context of technological progress, feels like a lot of sociological reading, filling in another of the endless jigsaw pieces of a larger all-encompassing narrative.&lt;/p&gt;&lt;p&gt;Here&#39;s George Dyson doing a lecture on the material in the book :&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/Tg5gJxXBh8s?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>I&#39;ve started reading George Dyson&#39;s &amp;#8220;Turing&#39;s Cathedral&amp;#8221;, and really enjoying it - I love reading the historical context of technological progress, feels like a lot of sociological reading, filling in another of the endless jigsaw pieces of a larger all-encompassing narrative.
+Here&#39;s George Dyson doing a lecture on the material in the book :</description>
     </item>
     
     <item>
       <title>Backblaze</title>
       <link>http://theb0ardside.com/backblaze/</link>
-      <pubDate>Wed, 16 May 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/backblaze/</guid>
-      <description>&lt;p&gt;the legendary Mike Hoover turned me on to Backblaze a few months back - they&#39;re a cloud storage provider, who opened up the design for their chassis and storage pod solution so you can build your own &amp;#8220;Storage Pod 2.0: a 135-terabyte, 4U server for $7,384&amp;#8243; (&lt;a href=&#34;http://blog.backblaze.com/2011/07/20/petabytes-on-a-budget-v2-0revealing-more-secrets/&#34; target=&#34;_blank&#34;&gt;blog post here&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/LQPVBnqzNu0?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>the legendary Mike Hoover turned me on to Backblaze a few months back - they&#39;re a cloud storage provider, who opened up the design for their chassis and storage pod solution so you can build your own &amp;#8220;Storage Pod 2.0: a 135-terabyte, 4U server for $7,384&amp;#8243; (blog post here)</description>
     </item>
     
     <item>
       <title>Technology As Society&#39;s Engine</title>
       <link>http://theb0ardside.com/technologyassocietysengine/</link>
-      <pubDate>Thu, 03 May 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/technologyassocietysengine/</guid>
-      <description>&lt;p&gt;Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -&lt;/p&gt;&lt;!-- iframe plugin v:2.3 - wordpress.org/extend/plugins/iframe/ --&gt;&lt;iframe width=&#34;560&#34; height=&#34;340&#34; src=&#34;http://cdn.livestream.com/embed/techonomy?layout=4&amp;amp;clip=pla_e0493fff-f62c-4a9c-bf6b-2844f9ad8d58&amp;amp;height=340&amp;amp;width=560&amp;amp;autoplay=false&#34; style=&#34;border:0;outline:0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;iframe-class&#34;&gt;&lt;/iframe&gt;&lt;p&gt;A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. &lt;/p&gt;&lt;p&gt;I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.&lt;/p&gt;&lt;p&gt;Technology on the other hand: absolutely it&#39;s what will drive the economy, but even that view completely misses the big picture, which is the Medium itself, The Universal Network. I believe we have created a whole new dimension, an evolutionary mathematical abstracted form of biology. This is the beginning of History, Year Zero.&lt;/p&gt;&lt;p&gt;One hundred years from now, or two thousand - people will be able to look back in time and know with a rich level of detail what our life is like now. Thousands, upon millions of instances of video and audio, images, writings, geo locations, online trails, all readily accessible, interlinked and searchable. This level of detail will only increase, as we start recording every aspect of life. &lt;/p&gt;&lt;p&gt;With such archives of data, I can easily imagine the kids of 2123 being able to walk through and interact with a virtual London in the swinging 2020&amp;#8242;s, or San Francisco&#39;s roaring 2030&amp;#8242;s. Whereas, for future generations, any time predating the late 1990&amp;#8242;s will essentially be a static foreign place in comparison. We have created time-travel - we just don&#39;t know it yet.&lt;/p&gt;&lt;p&gt;This Network has already achieved a basic level of independence from humanity - where now it is possible for a Something to exist outwith a single containing computer system using techniques like redundancy and geographic load-balancing. I don&#39;t mean to imply there is any intelligence there, but there is a level of resilience we&#39;ve never seen in nature before. To give a more concrete example, I&#39;m referring to something like you as a user interacting with the amazon website to purchase something, meanwhile the power goes out in the datacentre hosting the server your browser was communicating with, and, if engineered correctly, your interaction could continue, picked up by a secondary datacentre with no loss of data, nor interruption of service. This isn&#39;t exactly life as we know it, but if you squint your eyes just a little, its not too hard to see an analogy to biological cell life.&lt;/p&gt;&lt;p&gt;Over the next few years, Society&#39;s experience of reality is going to go through the biggest change in history, as our physical world merges completely with this new virtual world of realtime interconnected information and communication, completely warping our sense of time and geography.&lt;/p&gt;&lt;p&gt;The iPhone was stage one, Google Glasses or &lt;a href=&#34;http://www.theb0ardside.com/?p=32&#34; target=&#34;_blank&#34;&gt;something very similar&lt;/a&gt; will be stage two, and its right around the corner.&lt;/p&gt;
-</description>
+      <description>Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -
+A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.</description>
     </item>
     
     <item>
       <title>JVM tuning for VMs</title>
       <link>http://theb0ardside.com/jvmtuningforvms/</link>
-      <pubDate>Fri, 13 Apr 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 13 Apr 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/jvmtuningforvms/</guid>
-      <description>&lt;p&gt;This is an excellent talk about the interaction between the various layers of memory abstraction from the a machine&#39;s physical memory down through the Hypervisor&#39;s view, to the Guest OS&#39;s and down into the JVM:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/V3o4VNkTyTY?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// found via &lt;a href=&#34;http://marakana.com/s/tuning_jvm_for_a_vm_lessons_learned_directly_from_vmware_video,1138/index.html&#34; target=&#34;_blank&#34;&gt;Marakana&lt;/a&gt; //&lt;/p&gt;
-</description>
+      <description>This is an excellent talk about the interaction between the various layers of memory abstraction from the a machine&#39;s physical memory down through the Hypervisor&#39;s view, to the Guest OS&#39;s and down into the JVM:
+
+// found via Marakana //</description>
     </item>
     
     <item>
       <title>the real google eyed</title>
       <link>http://theb0ardside.com/therealgoogleeyed/</link>
-      <pubDate>Mon, 09 Apr 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/therealgoogleeyed/</guid>
-      <description>&lt;p&gt;ha, my friend &lt;a href=&#34;http://www.mandalastudio.net/&#34; target=&#34;_blank&#34;&gt;Mat&lt;/a&gt; turned me on to this spoof version -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/t3TAOYXT840?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>ha, my friend Mat turned me on to this spoof version -</description>
     </item>
     
     <item>
       <title>going google eyed</title>
       <link>http://theb0ardside.com/goinggoogleeyed/</link>
-      <pubDate>Thu, 05 Apr 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/goinggoogleeyed/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/9c6W4CCU9M4?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Ah, see, &lt;a href=&#34;http://drawingb0ard.blogspot.com/2011/01/physic-or-surgery-issue-1.html&#34; title=&#34;Physic Or Surgery&#34; target=&#34;_blank&#34;&gt;my comic&lt;/a&gt; is all true! :D&lt;/p&gt;
-</description>
+      <description>Ah, see, my comic is all true! :D</description>
     </item>
     
     <item>
       <title>Claude Shannon and the Clams</title>
       <link>http://theb0ardside.com/claudeshannonandtheclams/</link>
-      <pubDate>Fri, 16 Mar 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/claudeshannonandtheclams/</guid>
-      <description>&lt;p&gt;I finished reading James Gleick&#39;s &lt;a href=&#34;http://www.goodreads.com/book/show/12279559-the-information&#34; target=&#34;_blank&#34;&gt;The Information&lt;/a&gt; tonite - so good!&lt;/p&gt;&lt;p&gt;Really, the central character is &lt;a href=&#34;http://en.wikipedia.org/wiki/Claude_Shannon&#34; target=&#34;_blank&#34;&gt;Claude Shannon&lt;/a&gt;, who I&#39;m ashamed to admit I didn&#39;t previously know much about. Had a quick search when i finished it and found this decent little 30 min documentary which gives a good overview -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/z2Whj_nL-x8?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>I finished reading James Gleick&#39;s The Information tonite - so good!
+Really, the central character is Claude Shannon, who I&#39;m ashamed to admit I didn&#39;t previously know much about. Had a quick search when i finished it and found this decent little 30 min documentary which gives a good overview -</description>
     </item>
     
     <item>
       <title>The Information</title>
       <link>http://theb0ardside.com/theinformation/</link>
-      <pubDate>Wed, 14 Mar 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/theinformation/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/iyOzSzcDwg8?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;I started reading James Gleick&#39;s &amp;#8220;The Information&amp;#8221; last week and haven&#39;t been able to put it down yet - so good!&lt;br /&gt;I just found this video of a talk he presented at Google last year on the book, looks ace, i&#39;ll save it for watching this evening.&lt;/p&gt;
-</description>
+      <description>I started reading James Gleick&#39;s &amp;#8220;The Information&amp;#8221; last week and haven&#39;t been able to put it down yet - so good!
+I just found this video of a talk he presented at Google last year on the book, looks ace, i&#39;ll save it for watching this evening.</description>
     </item>
     
     <item>
       <title>Apple culture</title>
       <link>http://theb0ardside.com/appleculture/</link>
-      <pubDate>Tue, 31 Jan 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/appleculture/</guid>
-      <description>&lt;p&gt;Quite an interesting interview with Adam Lashinsky, author of a new book &amp;#8220;Inside Apple&amp;#8221;:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/tOf_2HCX51w?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;/* via &lt;a href=&#34;http://osxdaily.com/2012/01/29/author-of-inside-apple-talks-apple-corporate-culture-and-secrecy-video/?utm_source=feedburner&amp;#038;utm_medium=feed&amp;#038;utm_campaign=Feed%3A+osxdaily+%28OS+X+Daily%29&#34; target=&#34;_blank&#34;&gt;OS X Daily&lt;/a&gt; */&lt;/p&gt;
-</description>
+      <description>Quite an interesting interview with Adam Lashinsky, author of a new book &amp;#8220;Inside Apple&amp;#8221;:
+
+/* via OS X Daily */</description>
     </item>
     
     <item>
       <title>robot</title>
       <link>http://theb0ardside.com/robot/</link>
-      <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/robot/</guid>
-      <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
-</description>
+      <description>crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -
+
+// found via Laughing Squid //</description>
     </item>
     
     <item>
       <title>1923 video of Einstein&#39;s Theory Of Relativity</title>
       <link>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity/</link>
-      <pubDate>Wed, 28 Dec 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 28 Dec 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity/</guid>
-      <description>&lt;p&gt;found via &lt;a href=&#34;http://boingboing.net/2011/12/27/1923-animated-film-about-einst.html&#34; title=&#34;Boing Boing&#34; target=&#34;_blank&#34;&gt;Boing Boing&lt;/a&gt;, excellent 20min short from 1923 -&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/9832926&#34; width=&#34;480&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>found via Boing Boing, excellent 20min short from 1923 -</description>
     </item>
     
     <item>
       <title>NeXT documentary</title>
       <link>http://theb0ardside.com/nextdocumentary/</link>
-      <pubDate>Thu, 08 Dec 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 08 Dec 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/nextdocumentary/</guid>
-      <description>&lt;p&gt;Bookmarked this video via &lt;a href=&#34;http://boingboing.net/2011/11/30/20-minute-biography-of-steve-j.html&#34; title=&#34;Boing Boing&#34; target=&#34;_blank&#34;&gt;Boing Boing&lt;/a&gt; last week, but only got round to watching it tonite - pretty interesting little 20 minute documentary series called &amp;#8220;Entrepreneurs&amp;#8221; doing an episode on Steve Jobs and NeXT back in 1985&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/sOlqqriBvUM?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Bookmarked this video via Boing Boing last week, but only got round to watching it tonite - pretty interesting little 20 minute documentary series called &amp;#8220;Entrepreneurs&amp;#8221; doing an episode on Steve Jobs and NeXT back in 1985</description>
     </item>
     
     <item>
       <title>Bring the Noyce</title>
       <link>http://theb0ardside.com/bringthenoyce/</link>
-      <pubDate>Mon, 14 Nov 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 14 Nov 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/bringthenoyce/</guid>
-      <description>&lt;p&gt;yow, sorry, that title&#39;s a really bad pun! &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/AfxUq_QrpyY?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;So two things here - i started to watch this video with Robert Noyce talking about the development of the IC, but in the introduction and in his opening, they talk about an article written by Tom Wolfe about Noyce - now, Tom Wolfe was a massive influence on my teenage self, or at least one of his books, The Electric Kool Aid Acid Test, which a friends older brother passed on to me when i was fifteen. Apart from being an excellent writer, the book, as I&#39;m sure most know, was about Ken Kesey and The Merry Pranksters, and the birth of acid culture. Wolfe&#39;s way with words is incredible, and the mythologizing he manages to paint is deliciously enjoyable. He applies the same magic to telling the story of Robert Noyce in &lt;a href=&#34;http://www.stanford.edu/class/e140/e140a/content/noyce.html&#34; title=&#34;Wolfe on Noyce&#34; target=&#34;_blank&#34;&gt;this truly amazing article from Esquire magazine, written in 1984&lt;/a&gt;. Well worth an hour of your time to read the article - i had no idea how much he had influenced the whole culture of Silicon Valley.&lt;/p&gt;
-</description>
+      <description>yow, sorry, that title&#39;s a really bad pun! 
+So two things here - i started to watch this video with Robert Noyce talking about the development of the IC, but in the introduction and in his opening, they talk about an article written by Tom Wolfe about Noyce - now, Tom Wolfe was a massive influence on my teenage self, or at least one of his books, The Electric Kool Aid Acid Test, which a friends older brother passed on to me when i was fifteen.</description>
     </item>
     
     <item>
       <title>Advanced Network Reconnaissance with Nmap 2006</title>
       <link>http://theb0ardside.com/advancednetworkreconnaissancewithnmap2006/</link>
-      <pubDate>Thu, 04 Aug 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 04 Aug 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/advancednetworkreconnaissancewithnmap2006/</guid>
-      <description>&lt;p&gt;yow, this is some hardcore indepth port scanning shizzle -&lt;/p&gt;&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/1728216&#34; width=&#34;400&#34; height=&#34;296&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>yow, this is some hardcore indepth port scanning shizzle -</description>
     </item>
     
     <item>
       <title>The Mother Of All Demos, 1968</title>
       <link>http://theb0ardside.com/themotherofalldemos1968/</link>
-      <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://sloan.stanford.edu/MouseSite/dce1968conferenceannouncement.jpg&#34; title=&#34;advert&#34; class=&#34;aligncenter&#34; width=&#34;566&#34; height=&#34;760&#34; /&gt;&lt;/p&gt;&lt;p&gt;Watch it &lt;a href=&#34;http://sloan.stanford.edu/MouseSite/1968Demo.html#complete&#34; title=&#34;Mother Of All Demos complete&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Watch it here</description>
     </item>
     
     <item>
       <title>real-time stats &gt;</title>
       <link>http://theb0ardside.com/realtimestats/</link>
-      <pubDate>Wed, 20 Jul 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/realtimestats/</guid>
-      <description>&lt;p&gt;Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB&#39;s new real-time analytics system: &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;340&#34; src=&#34;http://cdn.livestream.com/embed/facebookeducation?layout=4&amp;#038;clip=pla_da30a53a-5399-43cc-a615-62874db1c567&amp;#038;color=0x000000&amp;#038;autoPlay=false&amp;#038;mute=false&amp;#038;iconColorOver=0xe7e7e7&amp;#038;iconColor=0xcccccc&amp;#038;allowchat=true&#34; style=&#34;border:0;outline:0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size:11px;padding-top:10px;text-align:center;width:560px&#34;&gt;Watch &lt;a href=http://www.livestream.com/?utm_source=lsplayer&amp;amp;utm_medium=embed&amp;amp;utm_campaign=footerlinks title=live streaming video&gt;live streaming video&lt;/a&gt; from &lt;a href=http://www.livestream.com/facebookeducation?utm_source=lsplayer&amp;amp;utm_medium=embed&amp;amp;utm_campaign=footerlinks title=Watch facebookeducation at livestream.com&gt;facebookeducation&lt;/a&gt; at livestream.com&lt;/div&gt;&lt;p&gt;In the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::&lt;/p&gt;&lt;div style=&#34;width:425px&#34; id=&#34;__ss_6814442&#34;&gt; &lt;strong style=&#34;display:block;margin:12px 0 4px&#34;&gt;&lt;a href=&#34;http://www.slideshare.net/kevinweil/rainbird-realtime-analytics-at-twitter-strata-2011&#34; title=&#34;Rainbird: Realtime Analytics at Twitter (Strata 2011)&#34; target=&#34;_blank&#34;&gt;Rainbird: Realtime Analytics at Twitter (Strata 2011)&lt;/a&gt;&lt;/strong&gt; &lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/6814442&#34; width=&#34;425&#34; height=&#34;355&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;padding:5px 0 12px&#34;&gt; View more &lt;a href=&#34;http://www.slideshare.net/&#34; target=&#34;_blank&#34;&gt;presentations&lt;/a&gt; from &lt;a href=&#34;http://www.slideshare.net/kevinweil&#34; target=&#34;_blank&#34;&gt;Kevin Weil&lt;/a&gt; &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;(hello &lt;a href=&#34;https://twitter.com/#!/skr&#34; title=&#34;skr&#34; target=&#34;_blank&#34;&gt;Johan&lt;/a&gt;!)&lt;/p&gt;
-</description>
+      <description>Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB&#39;s new real-time analytics system: Watch live streaming video from facebookeducation at livestream.comIn the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::
+Rainbird: Realtime Analytics at Twitter (Strata 2011) View more presentations from Kevin Weil 
+(hello Johan!)</description>
     </item>
     
     <item>
       <title>secret military history of Silicon Valley</title>
       <link>http://theb0ardside.com/secretmilitaryhistoryofsiliconvalley/</link>
-      <pubDate>Wed, 29 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/secretmilitaryhistoryofsiliconvalley/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ZTC_RxWN_xo?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;This video ties in so well with a lot of other recent histories - from Adam Curtis&#39; &amp;#8220;All Watched Over By Machines Of Loving Grave&amp;#8221; to the Ken Holling&#39;s book I&#39;m in the middle of reading - &amp;#8220;Welcome To Mars&amp;#8221;.&lt;/p&gt;&lt;p&gt;Video found via &lt;a href=&#34;http://www.boingboing.net/2011/06/28/silicon-valleys-secr.html&#34;&gt;Boing Boing&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>This video ties in so well with a lot of other recent histories - from Adam Curtis&#39; &amp;#8220;All Watched Over By Machines Of Loving Grave&amp;#8221; to the Ken Holling&#39;s book I&#39;m in the middle of reading - &amp;#8220;Welcome To Mars&amp;#8221;.
+Video found via Boing Boing</description>
     </item>
     
     <item>
       <title>80s hair unixz</title>
       <link>http://theb0ardside.com/80shairunixz/</link>
-      <pubDate>Sat, 11 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 11 Jun 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/80shairunixz/</guid>
-      <description>&lt;p&gt;History of BSD - this is awesome:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;425&#34; height=&#34;349&#34; src=&#34;http://www.youtube.com/embed/ds77e3aO9nA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Brief history of NCP -&amp;gt; IP/TCP transition, also awesome:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;349&#34; src=&#34;http://www.youtube.com/embed/yqOS5d4gJz8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>History of BSD - this is awesome:
+
+Brief history of NCP -&amp;gt; IP/TCP transition, also awesome:</description>
     </item>
     
   </channel>

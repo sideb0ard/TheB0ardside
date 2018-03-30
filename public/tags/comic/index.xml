@@ -1,51 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Comic on The B0ardside </title>
+    <title>Comic on The B0ardside</title>
     <link>http://theb0ardside.com/tags/comic/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2012-05-17 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Comic on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/comic/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>another cardboard computer scientist portrait</title>
       <link>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</link>
-      <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Seymour Cray&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7234/7201335100_51b91c38da_b.jpg&#34; alt=&#34;Seymour Cray&#34; /&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://drawingb0ard.blogspot.com/search/label/cardboard%20computer%20scientists&#34; title=&#34;Drawing B0ard&#34; target=&#34;_blank&#34;&gt;The Cardboard Computer Scientists series 2012&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Seymour Cray
+The Cardboard Computer Scientists series 2012</description>
     </item>
     
     <item>
       <title>going google eyed</title>
       <link>http://theb0ardside.com/goinggoogleeyed/</link>
-      <pubDate>Thu, 05 Apr 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/goinggoogleeyed/</guid>
-      <description>&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/9c6W4CCU9M4?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Ah, see, &lt;a href=&#34;http://drawingb0ard.blogspot.com/2011/01/physic-or-surgery-issue-1.html&#34; title=&#34;Physic Or Surgery&#34; target=&#34;_blank&#34;&gt;my comic&lt;/a&gt; is all true! :D&lt;/p&gt;
-</description>
+      <description>Ah, see, my comic is all true! :D</description>
     </item>
     
     <item>
       <title>robot</title>
       <link>http://theb0ardside.com/robot/</link>
-      <pubDate>Tue, 24 Jan 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/robot/</guid>
-      <description>&lt;p&gt;crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/ivJNNwTGDcw?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;// &lt;a href=&#34;http://laughingsquid.com/a-jim-henson-robot-explains-data-communications-in-1963/&#34; title=&#34;robot&#34; target=&#34;_blank&#34;&gt;found via Laughing Squid&lt;/a&gt; //&lt;/p&gt;
-</description>
+      <description>crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -
+
+// found via Laughing Squid //</description>
     </item>
     
     <item>
       <title>Physic Or Surgery.</title>
       <link>http://theb0ardside.com/physicorsurgery/</link>
-      <pubDate>Tue, 14 Jun 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/physicorsurgery/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/frontcover.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page1.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page2.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page3.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page4.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page5.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page6.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page7.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page8.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page9.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page10.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page11.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page12.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page13.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page14.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page15.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/page16.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3424/5832979671_f9ebeb4c40_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5144/5832979817_586d56c9c3_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2527/5832980309_5ce8dfe189_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3047/5832979985_c26fe743d8_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3052/5832980669_02c0a348bc_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2686/5833534632_0797eeefec_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5181/5833534866_723770ced7_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5228/5832981387_3398914d9e_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3618/5833535466_bc7b666e92_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3315/5832982223_1b8b091534_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5239/5832981967_ebcf59e3a0_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2489/5832982445_8bd3ab1d96_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3006/5833536534_3769b5795a_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3606/5832982869_6c7bfe6e90_o.jpg&#34;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;http://highpointlowlife.com/physic/backcover.jpg&#34;&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

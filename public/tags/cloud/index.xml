@@ -1,169 +1,155 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Cloud on The B0ardside </title>
+    <title>Cloud on The B0ardside</title>
     <link>http://theb0ardside.com/tags/cloud/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2014-08-12 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Cloud on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Aug 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Kelsey Hightower on Kubernetes</title>
       <link>http://theb0ardside.com/hightower-kubernetes/</link>
-      <pubDate>Tue, 12 Aug 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/hightower-kubernetes/</guid>
-      <description>&lt;p&gt;Kelsey Hightower, very funny, very good practical demo of Kubernetes..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/KFr9BHTgqkw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..
+  </description>
     </item>
     
     <item>
       <title>AWS VPC best practises</title>
       <link>http://theb0ardside.com/vpc-design/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/vpc-design/</guid>
-      <description>&lt;p&gt;Super detailed and practical VPC design best practises - very cool stuff..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YoX_frLHbEs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Super detailed and practical VPC design best practises - very cool stuff..
+  </description>
     </item>
     
     <item>
       <title>Brendan Gregg, Linux Performance</title>
       <link>http://theb0ardside.com/brendangregglinuxperformance/</link>
-      <pubDate>Wed, 12 Jun 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/brendangregglinuxperformance/</guid>
-      <description>&lt;p&gt;The always interesting Brendan Greg &amp;#8212; &lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/0yyorhl6IjM?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>The always interesting Brendan Greg &amp;#8212;</description>
     </item>
     
     <item>
       <title>Netflix OSS</title>
       <link>http://theb0ardside.com/netflixoss/</link>
-      <pubDate>Sat, 11 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 11 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/netflixoss/</guid>
-      <description>&lt;p&gt;Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/A69uTnfQgB8?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:</description>
     </item>
     
     <item>
       <title>jedberg talk at Airbnb</title>
       <link>http://theb0ardside.com/jedbergtalkatairbnb/</link>
-      <pubDate>Wed, 08 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/jedbergtalkatairbnb/</guid>
-      <description>&lt;p&gt;I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/cCAO9moDucI?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -</description>
     </item>
     
     <item>
       <title>PostgreSQL on AWS</title>
       <link>http://theb0ardside.com/postgresqlonaws/</link>
-      <pubDate>Wed, 24 Apr 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/postgresqlonaws/</guid>
-      <description>&lt;p&gt;Excellent video specifically for PostgreSQL on AWS, however the principles are pretty universal information for running anything on AWS -&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;443&#34; src=&#34;http://www.youtube.com/embed/2fHRX-u1X4A?feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Excellent video specifically for PostgreSQL on AWS, however the principles are pretty universal information for running anything on AWS -</description>
     </item>
     
     <item>
       <title>Backblaze</title>
       <link>http://theb0ardside.com/backblaze/</link>
-      <pubDate>Wed, 16 May 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/backblaze/</guid>
-      <description>&lt;p&gt;the legendary Mike Hoover turned me on to Backblaze a few months back - they&#39;re a cloud storage provider, who opened up the design for their chassis and storage pod solution so you can build your own &amp;#8220;Storage Pod 2.0: a 135-terabyte, 4U server for $7,384&amp;#8243; (&lt;a href=&#34;http://blog.backblaze.com/2011/07/20/petabytes-on-a-budget-v2-0revealing-more-secrets/&#34; target=&#34;_blank&#34;&gt;blog post here&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;&lt;iframe width=&#34;590&#34; height=&#34;332&#34; src=&#34;http://www.youtube.com/embed/LQPVBnqzNu0?fs=1&amp;#038;feature=oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>the legendary Mike Hoover turned me on to Backblaze a few months back - they&#39;re a cloud storage provider, who opened up the design for their chassis and storage pod solution so you can build your own &amp;#8220;Storage Pod 2.0: a 135-terabyte, 4U server for $7,384&amp;#8243; (blog post here)</description>
     </item>
     
     <item>
       <title>Technology As Society&#39;s Engine</title>
       <link>http://theb0ardside.com/technologyassocietysengine/</link>
-      <pubDate>Thu, 03 May 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/technologyassocietysengine/</guid>
-      <description>&lt;p&gt;Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -&lt;/p&gt;&lt;!-- iframe plugin v:2.3 - wordpress.org/extend/plugins/iframe/ --&gt;&lt;iframe width=&#34;560&#34; height=&#34;340&#34; src=&#34;http://cdn.livestream.com/embed/techonomy?layout=4&amp;amp;clip=pla_e0493fff-f62c-4a9c-bf6b-2844f9ad8d58&amp;amp;height=340&amp;amp;width=560&amp;amp;autoplay=false&#34; style=&#34;border:0;outline:0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;iframe-class&#34;&gt;&lt;/iframe&gt;&lt;p&gt;A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. &lt;/p&gt;&lt;p&gt;I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.&lt;/p&gt;&lt;p&gt;Technology on the other hand: absolutely it&#39;s what will drive the economy, but even that view completely misses the big picture, which is the Medium itself, The Universal Network. I believe we have created a whole new dimension, an evolutionary mathematical abstracted form of biology. This is the beginning of History, Year Zero.&lt;/p&gt;&lt;p&gt;One hundred years from now, or two thousand - people will be able to look back in time and know with a rich level of detail what our life is like now. Thousands, upon millions of instances of video and audio, images, writings, geo locations, online trails, all readily accessible, interlinked and searchable. This level of detail will only increase, as we start recording every aspect of life. &lt;/p&gt;&lt;p&gt;With such archives of data, I can easily imagine the kids of 2123 being able to walk through and interact with a virtual London in the swinging 2020&amp;#8242;s, or San Francisco&#39;s roaring 2030&amp;#8242;s. Whereas, for future generations, any time predating the late 1990&amp;#8242;s will essentially be a static foreign place in comparison. We have created time-travel - we just don&#39;t know it yet.&lt;/p&gt;&lt;p&gt;This Network has already achieved a basic level of independence from humanity - where now it is possible for a Something to exist outwith a single containing computer system using techniques like redundancy and geographic load-balancing. I don&#39;t mean to imply there is any intelligence there, but there is a level of resilience we&#39;ve never seen in nature before. To give a more concrete example, I&#39;m referring to something like you as a user interacting with the amazon website to purchase something, meanwhile the power goes out in the datacentre hosting the server your browser was communicating with, and, if engineered correctly, your interaction could continue, picked up by a secondary datacentre with no loss of data, nor interruption of service. This isn&#39;t exactly life as we know it, but if you squint your eyes just a little, its not too hard to see an analogy to biological cell life.&lt;/p&gt;&lt;p&gt;Over the next few years, Society&#39;s experience of reality is going to go through the biggest change in history, as our physical world merges completely with this new virtual world of realtime interconnected information and communication, completely warping our sense of time and geography.&lt;/p&gt;&lt;p&gt;The iPhone was stage one, Google Glasses or &lt;a href=&#34;http://www.theb0ardside.com/?p=32&#34; target=&#34;_blank&#34;&gt;something very similar&lt;/a&gt; will be stage two, and its right around the corner.&lt;/p&gt;
-</description>
+      <description>Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -
+A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.</description>
     </item>
     
     <item>
       <title>Like Treacle, Solving Perl Net::SFTP Slow Transfer Speeds</title>
       <link>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</link>
-      <pubDate>Sun, 19 Feb 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
-      <description>&lt;p&gt;I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. &lt;/p&gt;&lt;p&gt;I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows. We were pretty much stumped, and the other engineer recommend i look into &lt;a href=&#34;http://www.psc.edu/networking/projects/hpn-ssh/&#34;&gt;HPN-SSH&lt;/a&gt;, which does indeed sound very good, but first i started playing around with trying different ciphers and compression.&lt;/p&gt;&lt;p&gt;Our uploads are all run via a perl framework, which utilises Net::SFTP in order to do the transfers.&lt;a href=&#34;https://github.com/sideb0ard/speedTester&#34; target=&#34;_blank&#34;&gt; My test program was also written in perl&lt;/a&gt; and using the same library. In order to try different cyphers i started testing uploads with the interactive command line SFTP. Boom! 6Mb/s upload speed. Biiiig difference from the Net::SFTP client. I started playing with blowfish cipher and trying to enable compression with Net::SFTP - it wasn&#39;t really working, it can only do Zlib compression, which my SSHD server wouldn&#39;t play with until i specifically enabled compression in the sshd_config file.&lt;/p&gt;&lt;p&gt;After much more digging around, i came across reference to &lt;a href=&#34;http://search.cpan.org/~salva/Net-SFTP-Foreign-1.69/lib/Net/SFTP/Foreign.pm&#34;&gt;Net::SFTP::Foreign&lt;/a&gt;, which uses the installed ssh binary on your system for transport rather than relying on the pure perl Net::SSH.&lt;/p&gt;&lt;p&gt;Syntax is very similar, so it was a minor rewrite to switch modules, yet such a massive payback, from 0.30Mb/s up to 6Mb/s. &lt;/p&gt;&lt;p&gt;(It turns out the DSPs i mentioned earlier who could achieve 60Mb/s were actually FTP transfers, not SFTP)&lt;/p&gt;
-</description>
+      <description>I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows.</description>
     </item>
     
     <item>
       <title>evolution of the cloud</title>
       <link>http://theb0ardside.com/evolutionofthecloud/</link>
-      <pubDate>Thu, 02 Feb 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 02 Feb 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/evolutionofthecloud/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://gigaom.com/cloud/why-2013-is-the-year-of-noops-for-programmers-infographic/?utm_source=feedburner&amp;#038;utm_medium=feed&amp;#038;utm_campaign=Feed%3A+OmMalik+%28GigaOM%3A+Tech%29&#34; target=&#34;_blank&#34;&gt;&lt;img width=&#34;600&#34;  src=&#34;http://gigaom2.files.wordpress.com/2012/01/appfog_infographic_013012.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
       <title>Gen Xen</title>
       <link>http://theb0ardside.com/genxen/</link>
-      <pubDate>Mon, 10 Oct 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/genxen/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;&#34; width=&#34;600&#34; src=&#34;http://www.just-marvel-x-men.com/image-files/astonishing-x-men-1-100k.jpg&#34; title=&#34;Xen&#34; class=&#34;alignnone&#34;  /&gt;&lt;/p&gt;&lt;p&gt;I&#39;ve been working pretty extensively with Xen and Puppet in my new job, really loving it! I&#39;ve been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I&#39;ve just finished a script which is over on &lt;a href=&#34;https://github.com/sideb0ard/GenXen&#34; title=&#34;GitHub&#34; target=&#34;_blank&#34;&gt;my github page&lt;/a&gt;, which basically automates what was previously a manual process.&lt;/p&gt;&lt;p&gt;Basically, it copies your existing disk.img and swap.img, generates a new xen.cfg file based on some interactive input (desired hostname, IP, memory and number of vCPUs) plus a random Xen mac address, then mounts the disk.img file and changes some appropriate system files - /etc/hostname, hosts, and network/interfaces.&lt;/p&gt;&lt;p&gt;All quite simple and straight forward, but quite nice to have automated.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sideb0ard/GenXen&#34; title=&#34;GenXen&#34; target=&#34;_blank&#34;&gt;GenXen&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Here&#39;s the README:&lt;/p&gt;&lt;p&gt;GenXen #&lt;br /&gt;#############################&lt;/p&gt;&lt;p&gt;A script for automating Xen VM deployment.&lt;/p&gt;&lt;p&gt;It requires that you have a base disk.img and swap.img already created.&lt;br /&gt;I created mine with:&lt;br /&gt;xen-create-image -pygrub -size=50Gb -swap=9Gb -vcpus=2 -memory 6Gb -dist=squeeze -dhcp -passwd -dir=/var/virt-machines -hostname=xen-squeeze-base&lt;/p&gt;&lt;p&gt;Fill in some of the variables at the top of GenXen.pl before running, then simply:&lt;br /&gt;./GenXen.pl&lt;/p&gt;&lt;p&gt;The interactive part will ask for hostname, memory size, vCPUs, IP address, then generate a unique Xen mac address, and write these all to a xen config file which will be saved in /etc/xen/&lt;/p&gt;&lt;p&gt;It&#39;ll copy your disk.img and swap.img to destination dir, mount the disk.img and create appropriate files for:&lt;br /&gt;/etc/hostname&lt;br /&gt;/etc/hosts&lt;br /&gt;/etc/network/interfaces &lt;/p&gt;&lt;p&gt;After that you should be good to launch with:&lt;/p&gt;&lt;p&gt;xm create -c /etc/xen/whatever-your-hostname-is.cfg&lt;/p&gt;
-</description>
+      <description>I&#39;ve been working pretty extensively with Xen and Puppet in my new job, really loving it! I&#39;ve been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I&#39;ve just finished a script which is over on my github page, which basically automates what was previously a manual process.
+Basically, it copies your existing disk.img and swap.img, generates a new xen.</description>
     </item>
     
     <item>
       <title>Internets 1962 till now</title>
       <link>http://theb0ardside.com/internets1962tillnow/</link>
-      <pubDate>Wed, 10 Aug 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 10 Aug 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/internets1962tillnow/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://www.computerhistory.org/internet_history/full_size_images/1969_4-node_map.gif&#34; title=&#34;first 4 nodes&#34; class=&#34;aligncenter&#34; width=&#34;432&#34; height=&#34;393&#34; /&gt;&lt;/p&gt;&lt;p&gt;Excellent &lt;a href=&#34;http://www.computerhistory.org/internet_history/&#34; target=&#34;_blank&#34;&gt;timeline of the Internet&lt;/a&gt;&amp;#8216;s evolution from 1962 till the present day..&lt;/p&gt;
-</description>
+      <description>Excellent timeline of the Internet&amp;#8216;s evolution from 1962 till the present day..</description>
     </item>
     
     <item>
       <title>Vagrant and Chef setup</title>
       <link>http://theb0ardside.com/vagrantandchefsetup/</link>
-      <pubDate>Fri, 05 Aug 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/vagrantandchefsetup/</guid>
-      <description>&lt;p&gt;I&#39;ve been reading through ThoughtWorks&#39; latest &amp;#8216;&lt;a href=&#34;http://www.thoughtworks.com/radar&#34; title=&#34;radar&#34; target=&#34;_blank&#34;&gt;technology radar&lt;/a&gt;&amp;#8216; which led me to look up &lt;a href=&#34;http://vagrantup.com/&#34; title=&#34;Vagrant&#34; target=&#34;_blank&#34;&gt;Vagrant&lt;/a&gt;, one of the tools they list as worth exploring.&lt;/p&gt;&lt;p&gt;Vagrant is a framework for building and deploying Virtual Machine environments, using Oracle VirtualBox for the actual VMs and utilizing Chef for configuration management.  &lt;/p&gt;&lt;p&gt;Watching through this intro video:&lt;/p&gt;&lt;p&gt;http://vimeo.com/9976342&lt;/p&gt;&lt;p&gt;i was quite intrigued as it is very similar to what i was looking to achieve earlier when i was &lt;a href=&#34;http://www.theb0ardside.com/?p=22&#34; title=&#34;Xen and Puppet&#34; target=&#34;_blank&#34;&gt;experimenting with installing Xen and configuring with Puppet.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;So here&#39;s what I experienced during the setup of Vagrant on my Macbook - I decided to start with a simple Chef install to familiarise myself with Chef itself and it&#39;s own requirements CouchDB, RabbitMQ and Solr, mostly by following &lt;a href=&#34;http://wiki.opscode.com/display/chef/Manual+Chef+Server+Configuration&#34; title=&#34;Chef Manual Install OS X&#34; target=&#34;_blank&#34;&gt;these instructions&lt;/a&gt; - &lt;/p&gt;&lt;p&gt;&lt;strong&gt;-CHEF INSTALL-&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;sudo gem install chef&lt;br /&gt;sudo gem install ohai&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Chef uses couchDB as it&#39;s datastore, so we need to install it using the instructions &lt;a href=&#34;http://wiki.apache.org/couchdb/Installing_on_OSX&#34; title=&#34;CouchDB install OS X&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;brew install couchdb&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The instructions I list above also contains steps to install a couchDB user and set it up as a daemon. They didn&#39;t work for me, and after 30mins of troubleshooting, i gave up and went with the simpler option of running it under my own user - in production this will be running on a Linux server rather than my Macbook, so it seemed fair enough -&lt;/p&gt;&lt;p&gt;&lt;strong&gt;cp /usr/local/Cellar/couchdb/1.1.0/Library/LaunchDaemons/org.apache.couchdb.plist ~/Library/LaunchAgents/&lt;/p&gt;&lt;p&gt;launchctl load -w ~/Library/LaunchAgents/org.apache.couchdb.plist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Check its running okay by going to&lt;br /&gt;&lt;a href=&#34;http://127.0.0.1:5984/&#34; title=&#34;Localhost&#34; target=&#34;_blank&#34;&gt;http://127.0.0.1:5984/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;which should provide something akin to :&lt;br /&gt;&lt;strong&gt;{&amp;#8220;couchdb&amp;#8221;:&amp;#8221;Welcome&amp;#8221;,&amp;#8221;version&amp;#8221;:&amp;#8221;1.1.0&amp;#8243;}&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;- INSTALL RABBITMQ -&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;brew install rabbitmq&lt;br /&gt;/usr/local/sbin/rabbitmq-server -detached&lt;/p&gt;&lt;p&gt;sudo rabbitmqctl add_vhost /chef&lt;br /&gt;sudo rabbitmqctl add_user chef testing&lt;br /&gt;sudo rabbitmqctl set_permissions -p /chef chef &amp;#8220;.*&amp;#8221; &amp;#8220;.*&amp;#8221; &amp;#8220;.*&amp;#8221;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ok, Gettin&#39; back to my mission, break out the whipped cream and the cherries, then I go through all the fly positions - oh, wrong mission! &lt;/p&gt;&lt;p&gt;Ok..&lt;/p&gt;&lt;p&gt;&lt;strong&gt;brew install gecode&lt;br /&gt;brew install solr&lt;/p&gt;&lt;p&gt;sudo gem install chef-server chef-server-api chef-server chef-solr&lt;br /&gt;sudo gem install chef-server-webui&lt;br /&gt;sudo chef-solr-installer&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Setup a conf file -&lt;br /&gt;&lt;strong&gt;sudo mkdir /etc/chef&lt;br /&gt;sudo vi /etc/chef/server.rb&lt;/strong&gt; - paste in the example from:&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://wiki.opscode.com/display/chef/Manual+Chef+Server+Configuration&#34; title=&#34;chef conf&#34; target=&#34;_blank&#34;&gt;http://wiki.opscode.com/display/chef/Manual+Chef+Server+Configuration&lt;/a&gt; - making the appropriate changes for your FQDN&lt;/p&gt;&lt;p&gt;At this point, the above instructions ask you to start the indexer however the instructions haven&#39;t been updated to reflect changes to Chef version 0.10.2 in which chef-solr-indexer has been replaced with chef-expander&lt;/p&gt;&lt;p&gt;So, instead of running:&lt;br /&gt;&lt;strong&gt;sudo chef-solr-indexer &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;you instead need to run:&lt;br /&gt;&lt;strong&gt;sudo chef-expander -n1 -d&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Next i tried&lt;br /&gt;&lt;strong&gt;sudo chef-solr&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;which ran into&lt;br /&gt;&lt;em&gt;&amp;#8220;`configure_chef&#39;: uninitialized constant Chef::Application::SocketError (NameError)&amp;#8221;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;i had to create an &lt;strong&gt;/etc/chef/solr.rb&lt;/strong&gt; file and simply add this to the file:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;require &amp;#8216;socket&#39;&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;startup now worked -&lt;br /&gt;if you want to daemonize it, use:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;sudo chef-solr -d&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Next start Chef Server with:&lt;br /&gt;&lt;strong&gt;sudo chef-server -N -e production -d&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;and finally:&lt;br /&gt;&lt;strong&gt;sudo chef-server-webui -p 4040 -e production&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Now you should be up and running - you need to configure the command client &amp;#8216;Knife&#39; follwing the instructions &lt;a href=&#34;http://wiki.opscode.com/display/chef/Manual+Chef+Server+Configuration&#34; title=&#34;Knife setup&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; - under the section &amp;#8216;&lt;strong&gt;Configure the Command Line Client&lt;/strong&gt;&amp;#8216;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;mkdir -p ~/.chef&lt;br /&gt;sudo cp /etc/chef/validation.pem /etc/chef/webui.pem ~/.chef&lt;br /&gt;sudo chown -R $USER ~/.chef&lt;/p&gt;&lt;p&gt;knife configure -i&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;(follow the instructions at the link - you only need to change the location of the two pem files you copied above)&lt;/p&gt;&lt;p&gt;Ok, so hopefully you&#39;re at the same place as me with this all working at least as far as being able to log into CouchDB, and verifying that Chef/Knife are both working.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;- VAGRANT SETUP -&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Now, onward with the original task of Vagrant setup&amp;#8230;&lt;br /&gt;Have a read over the &lt;a href=&#34;http://vagrantup.com/docs/getting-started/index.html &#34; title=&#34;Vagrant Getting Started&#34; target=&#34;_blank&#34;&gt;getting started guide:&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Install VirtualBox - download from &lt;a href=&#34;http://www.virtualbox.org/wiki/Downloads&#34; title=&#34;VirtualBox&#34; target=&#34;_blank&#34;&gt;http://www.virtualbox.org/wiki/Downloads&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Run the installer, which should all work quite easily. Next..&lt;/p&gt;&lt;p&gt;&lt;strong&gt;gem install vagrant&lt;/p&gt;&lt;p&gt;mkdir vagrant_guide&lt;br /&gt;cd vagrant_guide/&lt;br /&gt;vagrant init&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;this creates the base Vagrantfile, which the documentation compares to a Makefile, basically a reference file for the project to work with.&lt;/p&gt;&lt;p&gt;Setup our first VM -&lt;br /&gt;&lt;strong&gt;vagrant box add lucid32 http://files.vagrantup.com/lucid32.box&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is downloaded and saved in ~/.vagrant.d/boxes/ &lt;/p&gt;&lt;p&gt;edit the Vagrantfile which was created and change the &amp;#8220;box&amp;#8221; entry to be &amp;#8220;lucid32&amp;#8243;, the name of the file we just saved. &lt;/p&gt;&lt;p&gt;Bring it online with:&lt;br /&gt;&lt;strong&gt;vagrant up&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;then ssh into with&lt;br /&gt;&lt;strong&gt;vargrant ssh&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ace, that worked quite easily. After a little digging around, I  logged out and tore the machine down again with&lt;br /&gt;&lt;strong&gt;vagrant destroy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;- TYING IT ALL TOGETHER -&lt;/strong&gt;&lt;br /&gt;Now we need to connect our Vagrant install with our Chef server&lt;/p&gt;&lt;p&gt;First, clone the Chef repository with:&lt;br /&gt;&lt;strong&gt;git clone git://github.com/opscode/chef-repo.git &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;add this dir to your &lt;strong&gt;~/.chef/knife.rb&lt;/strong&gt; file&lt;br /&gt;i.e&lt;br /&gt;&lt;strong&gt;cookbook_path           [&#34;/Users/thorstensideboard/chef-repo/cookbooks&#34;]&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Download the Vagrant cookbook they use in their examples -&lt;/p&gt;&lt;p&gt;&lt;strong&gt;wget http://files.vagrantup.com/getting_started/cookbooks.tar.gz&lt;br /&gt;tar xzvf cookbooks.tar.gz&lt;br /&gt;mv cookbooks/* chef-repo/cookbooks/&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Add it to our Chef server using Knife:&lt;br /&gt;&lt;strong&gt;knife cookbook upload -a&lt;/strong&gt;&lt;br /&gt;(knife uses the cookbook_path we setup above)&lt;/p&gt;&lt;p&gt;If you browse to your localhost at&lt;br /&gt;&lt;strong&gt;http://sbd-ioda.local:4040/cookbooks/&lt;/strong&gt;&lt;br /&gt;you should see the three new cookbooks which have been added.&lt;/p&gt;&lt;p&gt;Now to edit Vagrantfile and add your Chef details:&lt;br /&gt;&lt;code&gt;&lt;br /&gt;Vagrant::Config.run do |config|&lt;/p&gt;&lt;p&gt;    config.vm.box = &#34;lucid32&#34;&lt;/p&gt;&lt;p&gt;    config.vm.provision :chef_client do |chef|&lt;/p&gt;&lt;p&gt;    chef.chef_server_url = &#34;http://SBD-IODA.local:4000&#34;&lt;br /&gt;    chef.validation_key_path = &#34;/Users/thorsten/.chef/validation.pem&#34;&lt;br /&gt;    chef.add_recipe(&#34;vagrant_main&#34;)&lt;br /&gt;    chef.add_recipe(&#34;apt&#34;)&lt;br /&gt;    chef.add_recipe(&#34;apache2&#34;)&lt;/p&gt;&lt;p&gt;    end&lt;br /&gt;end&lt;br /&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;I tried to load this up with&lt;br /&gt;&lt;strong&gt;vagrant up&lt;/strong&gt;&lt;br /&gt;however received:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&amp;#8220;[default] [Fri, 05 Aug 2011 09:27:07 -0700] INFO: *** Chef 0.10.2 ***&lt;br /&gt;: stdout&lt;br /&gt;[default] [Fri, 05 Aug 2011 09:27:07 -0700] INFO: Client key /etc/chef/client.pem is not present - registering&lt;br /&gt;: stdout&lt;br /&gt;[default] [Fri, 05 Aug 2011 09:27:28 -0700] FATAL: Stacktrace dumped to /srv/chef/file_store/chef-stacktrace.out&lt;br /&gt;: stdout&lt;br /&gt;[default] [Fri, 05 Aug 2011 09:27:28 -0700] FATAL: SocketError: Error connecting to http://SBD-IODA.local:4000/clients - getaddrinfo: Name or service not known&amp;#8221;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;I figured this was a networking issue, and yeah, within the VM it has no idea of my Macbook&#39;s local hostname, which i fixed by editing its /etc/hosts file and manually adding it.&lt;/p&gt;&lt;p&gt;Upon issuing a&lt;br /&gt;&lt;strong&gt;vagrant reload&lt;/strong&gt;, boom! you can see the Vagrant host following the recipes and loading up a bunch of things including apache2&lt;/p&gt;&lt;p&gt;However at this point, you can still only access it&#39;s webserver from within the VM, so in order to access it from our own desktop browser, we can add the following line to the Vagrantfile:&lt;br /&gt;&lt;strong&gt;config.vm.forward_port(&amp;#8220;web&amp;#8221;, 80, 8080)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After another reload, you should now be able to connect to localhost:8080 and access your new VM&#39;s apache host.&lt;/p&gt;&lt;p&gt;In order to use this setup in any sort of dev environment will still need a good deal more work, but for the moment, this should be enough to get you up and running and able to explore both Vagrant and Chef. &lt;/p&gt;
-</description>
+      <description>I&#39;ve been reading through ThoughtWorks&#39; latest &amp;#8216;technology radar&amp;#8216; which led me to look up Vagrant, one of the tools they list as worth exploring.
+Vagrant is a framework for building and deploying Virtual Machine environments, using Oracle VirtualBox for the actual VMs and utilizing Chef for configuration management. Watching through this intro video:
+http://vimeo.com/9976342
+i was quite intrigued as it is very similar to what i was looking to achieve earlier when i was experimenting with installing Xen and configuring with Puppet.</description>
     </item>
     
     <item>
       <title>Multicore UFOs</title>
       <link>http://theb0ardside.com/multicoreufos/</link>
-      <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/multicoreufos/</guid>
-      <description>&lt;p&gt;Interesting &lt;a href=&#34;http://gigaom.com/cloud/facebook-tilera/&#34; title=&#34;GigaOm FB Tilera &#34; target=&#34;_blank&#34;&gt;article on GigaOm&lt;/a&gt; this morning about Facebook benchmarking a 64-core chip from &lt;a href=&#34;http://www.tilera.com/&#34; title=&#34;Tilera&#34; target=&#34;_blank&#34;&gt;Tilera&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://www.tilera.com/sites/default/files/products/TILE64_0.jpg&#34; title=&#34;Tilera TILE64&#34; class=&#34;aligncenter&#34; width=&#34;160&#34; height=&#34;160&#34; /&gt;&lt;/p&gt;&lt;p&gt;The X86 processor architecture has been in a dominant for so many years, not based upon any inherent sophistication, but more based upon chance and circumstance (see &lt;a href=&#34;http://developer.yahoo.com/yui/theater/video.php?v=crockonjs-1&#34; title=&#34;Doug Crockford&#34; target=&#34;_blank&#34;&gt;this vid&lt;/a&gt; for more details around the 48min mark), so it does feel about time for a new advancement in hardware architecture. &lt;/p&gt;&lt;p&gt;Be interesting to watch this space and see what develops..&lt;/p&gt;
-</description>
+      <description>Interesting article on GigaOm this morning about Facebook benchmarking a 64-core chip from Tilera. The X86 processor architecture has been in a dominant for so many years, not based upon any inherent sophistication, but more based upon chance and circumstance (see this vid for more details around the 48min mark), so it does feel about time for a new advancement in hardware architecture. Be interesting to watch this space and see what develops.</description>
     </item>
     
     <item>
       <title>The Mother Of All Demos, 1968</title>
       <link>http://theb0ardside.com/themotherofalldemos1968/</link>
-      <pubDate>Mon, 25 Jul 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://sloan.stanford.edu/MouseSite/dce1968conferenceannouncement.jpg&#34; title=&#34;advert&#34; class=&#34;aligncenter&#34; width=&#34;566&#34; height=&#34;760&#34; /&gt;&lt;/p&gt;&lt;p&gt;Watch it &lt;a href=&#34;http://sloan.stanford.edu/MouseSite/1968Demo.html#complete&#34; title=&#34;Mother Of All Demos complete&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Watch it here</description>
     </item>
     
   </channel>

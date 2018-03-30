@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Arm on The B0ardside </title>
+    <title>Arm on The B0ardside</title>
     <link>http://theb0ardside.com/tags/arm/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-12-11 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Arm on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 11 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/arm/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Sophie Wilson, ARM ISA Architect</title>
       <link>http://theb0ardside.com/acorn-sophie-wilson/</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/acorn-sophie-wilson/</guid>
-      <description>&lt;p&gt;Sophie Wilson is a boss..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/jhwwrSaHdh8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Sophie Wilson is a boss..
+  </description>
     </item>
     
   </channel>

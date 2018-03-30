@@ -1,54 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>C on The B0ardside </title>
+    <title>C on The B0ardside</title>
     <link>http://theb0ardside.com/tags/c/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2016-10-06 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in C on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Runtime Scheduling, Strange Loop 2016</title>
       <link>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</link>
-      <pubDate>Thu, 06 Oct 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</guid>
-      <description>&lt;p&gt;Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/8g9fG7cApbc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..
+  </description>
     </item>
     
     <item>
       <title>History and Spirit of C and C&#43;&#43;</title>
       <link>http://theb0ardside.com/historyspiritc/</link>
-      <pubDate>Sun, 27 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 27 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/historyspiritc/</guid>
-      <description>&lt;p&gt;Some excellent bits of BCPL history in here, which I hadn&amp;rsquo;t come across before&amp;hellip;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/132192250&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/132192250&#34;&gt;History and Spirit of C and C++  - Olve Maudal&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/ndcconferences&#34;&gt;NDC Conferences&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>Some excellent bits of BCPL history in here, which I hadn&amp;rsquo;t come across before&amp;hellip;
+ History and Spirit of C and C++ - Olve Maudal from NDC Conferences on Vimeo.
+ </description>
     </item>
     
     <item>
       <title>Libmill on Randal Schwartz&#39;s FLOSS Weekly show</title>
       <link>http://theb0ardside.com/libmill-floss-weekly/</link>
-      <pubDate>Mon, 19 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/libmill-floss-weekly/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m moving into a new job position soon involving way more code, working in C/C++. I&amp;rsquo;ve just started watching this podcast series and it&amp;rsquo;s excellent - this one in particular is super relevant, bringing one of the best features from Golang into C. I like the minimalism of the project, it seems very much in alignment with the philosophy behind &lt;a href=&#34;//suckless.org&#34;&gt;Suckless&lt;/a&gt;. (There&amp;rsquo;s a previous episode, speaking with Anselm R Garbe from suckless, i&amp;rsquo;d also highly recommend..)&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;a href=&#34;https://twit.tv/shows/floss-weekly/episodes/358?autostart=false&#34;&gt;&lt;img width=&#34;900&#34; src=&#34;http://theb0ardside.com/static/img/floss-randall.png&#34;&gt;&lt;/a&gt;
-&lt;/div&gt;
-</description>
+      <description>I&amp;rsquo;m moving into a new job position soon involving way more code, working in C/C++. I&amp;rsquo;ve just started watching this podcast series and it&amp;rsquo;s excellent - this one in particular is super relevant, bringing one of the best features from Golang into C. I like the minimalism of the project, it seems very much in alignment with the philosophy behind Suckless. (There&amp;rsquo;s a previous episode, speaking with Anselm R Garbe from suckless, i&amp;rsquo;d also highly recommend.</description>
     </item>
     
   </channel>

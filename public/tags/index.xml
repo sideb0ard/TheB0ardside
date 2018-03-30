@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Tags on The B0ardside </title>
+    <title>Tags on The B0ardside</title>
     <link>http://theb0ardside.com/tags/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2013-01-10 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Tags on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 10 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Abstraction</title>
       <link>http://theb0ardside.com/tags/abstraction/</link>
-      <pubDate>Thu, 10 Jan 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/abstraction/</guid>
       <description></description>
     </item>
@@ -20,8 +22,8 @@
     <item>
       <title>Acorn</title>
       <link>http://theb0ardside.com/tags/acorn/</link>
-      <pubDate>Sun, 01 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/acorn/</guid>
       <description></description>
     </item>
@@ -29,8 +31,8 @@
     <item>
       <title>Activism</title>
       <link>http://theb0ardside.com/tags/activism/</link>
-      <pubDate>Sun, 29 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 29 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/activism/</guid>
       <description></description>
     </item>
@@ -38,8 +40,8 @@
     <item>
       <title>Aerial</title>
       <link>http://theb0ardside.com/tags/aerial/</link>
-      <pubDate>Mon, 02 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/aerial/</guid>
       <description></description>
     </item>
@@ -47,8 +49,8 @@
     <item>
       <title>Ai</title>
       <link>http://theb0ardside.com/tags/ai/</link>
-      <pubDate>Sat, 27 Sep 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/ai/</guid>
       <description></description>
     </item>
@@ -56,8 +58,8 @@
     <item>
       <title>Algorave</title>
       <link>http://theb0ardside.com/tags/algorave/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/algorave/</guid>
       <description></description>
     </item>
@@ -65,8 +67,8 @@
     <item>
       <title>Algorithm</title>
       <link>http://theb0ardside.com/tags/algorithm/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/algorithm/</guid>
       <description></description>
     </item>
@@ -74,8 +76,8 @@
     <item>
       <title>Algorithmic</title>
       <link>http://theb0ardside.com/tags/algorithmic/</link>
-      <pubDate>Thu, 30 Nov 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/algorithmic/</guid>
       <description></description>
     </item>
@@ -83,8 +85,8 @@
     <item>
       <title>Amusing</title>
       <link>http://theb0ardside.com/tags/amusing/</link>
-      <pubDate>Thu, 15 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/amusing/</guid>
       <description></description>
     </item>
@@ -92,8 +94,8 @@
     <item>
       <title>Android</title>
       <link>http://theb0ardside.com/tags/android/</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/android/</guid>
       <description></description>
     </item>
@@ -101,8 +103,8 @@
     <item>
       <title>Animation</title>
       <link>http://theb0ardside.com/tags/animation/</link>
-      <pubDate>Sat, 27 Aug 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/animation/</guid>
       <description></description>
     </item>
@@ -110,8 +112,8 @@
     <item>
       <title>Apple</title>
       <link>http://theb0ardside.com/tags/apple/</link>
-      <pubDate>Thu, 28 Jan 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/apple/</guid>
       <description></description>
     </item>
@@ -119,8 +121,8 @@
     <item>
       <title>Architecture</title>
       <link>http://theb0ardside.com/tags/architecture/</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/architecture/</guid>
       <description></description>
     </item>
@@ -128,8 +130,8 @@
     <item>
       <title>Arm</title>
       <link>http://theb0ardside.com/tags/arm/</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/arm/</guid>
       <description></description>
     </item>
@@ -137,8 +139,8 @@
     <item>
       <title>Arpanet</title>
       <link>http://theb0ardside.com/tags/arpanet/</link>
-      <pubDate>Sat, 02 May 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 02 May 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/arpanet/</guid>
       <description></description>
     </item>
@@ -146,8 +148,8 @@
     <item>
       <title>Art</title>
       <link>http://theb0ardside.com/tags/art/</link>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/art/</guid>
       <description></description>
     </item>
@@ -155,8 +157,8 @@
     <item>
       <title>Att</title>
       <link>http://theb0ardside.com/tags/att/</link>
-      <pubDate>Wed, 29 Jul 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/att/</guid>
       <description></description>
     </item>
@@ -164,8 +166,8 @@
     <item>
       <title>Audio</title>
       <link>http://theb0ardside.com/tags/audio/</link>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/audio/</guid>
       <description></description>
     </item>
@@ -173,8 +175,8 @@
     <item>
       <title>Awesome</title>
       <link>http://theb0ardside.com/tags/awesome/</link>
-      <pubDate>Mon, 19 Sep 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/awesome/</guid>
       <description></description>
     </item>
@@ -182,8 +184,8 @@
     <item>
       <title>Aws</title>
       <link>http://theb0ardside.com/tags/aws/</link>
-      <pubDate>Sat, 11 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 11 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/aws/</guid>
       <description></description>
     </item>
@@ -191,8 +193,8 @@
     <item>
       <title>B0ardcast</title>
       <link>http://theb0ardside.com/tags/b0ardcast/</link>
-      <pubDate>Fri, 24 Apr 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 24 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/b0ardcast/</guid>
       <description></description>
     </item>
@@ -200,8 +202,8 @@
     <item>
       <title>Bbc</title>
       <link>http://theb0ardside.com/tags/bbc/</link>
-      <pubDate>Sun, 01 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/bbc/</guid>
       <description></description>
     </item>
@@ -209,8 +211,8 @@
     <item>
       <title>Bell Labs</title>
       <link>http://theb0ardside.com/tags/bell-labs/</link>
-      <pubDate>Sun, 27 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 27 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/bell-labs/</guid>
       <description></description>
     </item>
@@ -218,8 +220,8 @@
     <item>
       <title>Berlin</title>
       <link>http://theb0ardside.com/tags/berlin/</link>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/berlin/</guid>
       <description></description>
     </item>
@@ -227,8 +229,8 @@
     <item>
       <title>Big Data</title>
       <link>http://theb0ardside.com/tags/big-data/</link>
-      <pubDate>Wed, 05 Jun 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/big-data/</guid>
       <description></description>
     </item>
@@ -236,8 +238,8 @@
     <item>
       <title>Bio</title>
       <link>http://theb0ardside.com/tags/bio/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/bio/</guid>
       <description></description>
     </item>
@@ -245,8 +247,8 @@
     <item>
       <title>Boston Dynamics</title>
       <link>http://theb0ardside.com/tags/boston-dynamics/</link>
-      <pubDate>Tue, 10 Feb 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/boston-dynamics/</guid>
       <description></description>
     </item>
@@ -254,8 +256,8 @@
     <item>
       <title>Britain</title>
       <link>http://theb0ardside.com/tags/britain/</link>
-      <pubDate>Sat, 27 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/britain/</guid>
       <description></description>
     </item>
@@ -263,8 +265,8 @@
     <item>
       <title>Bryan Cantrill</title>
       <link>http://theb0ardside.com/tags/bryan-cantrill/</link>
-      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/bryan-cantrill/</guid>
       <description></description>
     </item>
@@ -272,8 +274,8 @@
     <item>
       <title>Bsd</title>
       <link>http://theb0ardside.com/tags/bsd/</link>
-      <pubDate>Sun, 08 Mar 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 08 Mar 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/bsd/</guid>
       <description></description>
     </item>
@@ -281,8 +283,8 @@
     <item>
       <title>Bw</title>
       <link>http://theb0ardside.com/tags/bw/</link>
-      <pubDate>Wed, 16 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/bw/</guid>
       <description></description>
     </item>
@@ -290,8 +292,8 @@
     <item>
       <title>C</title>
       <link>http://theb0ardside.com/tags/c/</link>
-      <pubDate>Thu, 06 Oct 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/c/</guid>
       <description></description>
     </item>
@@ -299,8 +301,8 @@
     <item>
       <title>C&#43;&#43;</title>
       <link>http://theb0ardside.com/tags/c&#43;&#43;/</link>
-      <pubDate>Sat, 16 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
@@ -308,8 +310,8 @@
     <item>
       <title>California</title>
       <link>http://theb0ardside.com/tags/california/</link>
-      <pubDate>Sat, 15 Aug 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/california/</guid>
       <description></description>
     </item>
@@ -317,8 +319,8 @@
     <item>
       <title>Cardboard</title>
       <link>http://theb0ardside.com/tags/cardboard/</link>
-      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/cardboard/</guid>
       <description></description>
     </item>
@@ -326,8 +328,8 @@
     <item>
       <title>Chef</title>
       <link>http://theb0ardside.com/tags/chef/</link>
-      <pubDate>Wed, 29 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/chef/</guid>
       <description></description>
     </item>
@@ -335,8 +337,8 @@
     <item>
       <title>Chess</title>
       <link>http://theb0ardside.com/tags/chess/</link>
-      <pubDate>Sun, 29 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 29 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/chess/</guid>
       <description></description>
     </item>
@@ -344,8 +346,8 @@
     <item>
       <title>China</title>
       <link>http://theb0ardside.com/tags/china/</link>
-      <pubDate>Fri, 10 Jun 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/china/</guid>
       <description></description>
     </item>
@@ -353,8 +355,8 @@
     <item>
       <title>Cities</title>
       <link>http://theb0ardside.com/tags/cities/</link>
-      <pubDate>Mon, 21 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/cities/</guid>
       <description></description>
     </item>
@@ -362,8 +364,8 @@
     <item>
       <title>Cloud</title>
       <link>http://theb0ardside.com/tags/cloud/</link>
-      <pubDate>Tue, 12 Aug 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/cloud/</guid>
       <description></description>
     </item>
@@ -371,8 +373,8 @@
     <item>
       <title>Cluster</title>
       <link>http://theb0ardside.com/tags/cluster/</link>
-      <pubDate>Thu, 29 Jan 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/cluster/</guid>
       <description></description>
     </item>
@@ -380,8 +382,8 @@
     <item>
       <title>Clusters</title>
       <link>http://theb0ardside.com/tags/clusters/</link>
-      <pubDate>Mon, 02 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/clusters/</guid>
       <description></description>
     </item>
@@ -389,8 +391,8 @@
     <item>
       <title>Code</title>
       <link>http://theb0ardside.com/tags/code/</link>
-      <pubDate>Mon, 19 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/code/</guid>
       <description></description>
     </item>
@@ -398,8 +400,8 @@
     <item>
       <title>Comedy</title>
       <link>http://theb0ardside.com/tags/comedy/</link>
-      <pubDate>Mon, 19 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/comedy/</guid>
       <description></description>
     </item>
@@ -407,8 +409,8 @@
     <item>
       <title>Comic</title>
       <link>http://theb0ardside.com/tags/comic/</link>
-      <pubDate>Thu, 17 May 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/comic/</guid>
       <description></description>
     </item>
@@ -416,8 +418,8 @@
     <item>
       <title>Comics</title>
       <link>http://theb0ardside.com/tags/comics/</link>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/comics/</guid>
       <description></description>
     </item>
@@ -425,8 +427,8 @@
     <item>
       <title>Communications</title>
       <link>http://theb0ardside.com/tags/communications/</link>
-      <pubDate>Fri, 29 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/communications/</guid>
       <description></description>
     </item>
@@ -434,8 +436,8 @@
     <item>
       <title>Compiler</title>
       <link>http://theb0ardside.com/tags/compiler/</link>
-      <pubDate>Sat, 16 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/compiler/</guid>
       <description></description>
     </item>
@@ -443,8 +445,8 @@
     <item>
       <title>Computer Science</title>
       <link>http://theb0ardside.com/tags/computer-science/</link>
-      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/computer-science/</guid>
       <description></description>
     </item>
@@ -452,8 +454,8 @@
     <item>
       <title>Con</title>
       <link>http://theb0ardside.com/tags/con/</link>
-      <pubDate>Fri, 15 Apr 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/con/</guid>
       <description></description>
     </item>
@@ -461,8 +463,8 @@
     <item>
       <title>Concurrency</title>
       <link>http://theb0ardside.com/tags/concurrency/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/concurrency/</guid>
       <description></description>
     </item>
@@ -470,8 +472,8 @@
     <item>
       <title>Config</title>
       <link>http://theb0ardside.com/tags/config/</link>
-      <pubDate>Tue, 12 Aug 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/config/</guid>
       <description></description>
     </item>
@@ -479,8 +481,8 @@
     <item>
       <title>Configuration Management</title>
       <link>http://theb0ardside.com/tags/configuration-management/</link>
-      <pubDate>Wed, 29 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/configuration-management/</guid>
       <description></description>
     </item>
@@ -488,8 +490,8 @@
     <item>
       <title>Containers</title>
       <link>http://theb0ardside.com/tags/containers/</link>
-      <pubDate>Fri, 12 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/containers/</guid>
       <description></description>
     </item>
@@ -497,8 +499,8 @@
     <item>
       <title>Coreos</title>
       <link>http://theb0ardside.com/tags/coreos/</link>
-      <pubDate>Tue, 02 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/coreos/</guid>
       <description></description>
     </item>
@@ -506,8 +508,8 @@
     <item>
       <title>Crazygood</title>
       <link>http://theb0ardside.com/tags/crazygood/</link>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/crazygood/</guid>
       <description></description>
     </item>
@@ -515,8 +517,8 @@
     <item>
       <title>Creative Code</title>
       <link>http://theb0ardside.com/tags/creative-code/</link>
-      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/creative-code/</guid>
       <description></description>
     </item>
@@ -524,8 +526,8 @@
     <item>
       <title>Creativity</title>
       <link>http://theb0ardside.com/tags/creativity/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/creativity/</guid>
       <description></description>
     </item>
@@ -533,8 +535,8 @@
     <item>
       <title>Cryptography</title>
       <link>http://theb0ardside.com/tags/cryptography/</link>
-      <pubDate>Thu, 23 Aug 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/cryptography/</guid>
       <description></description>
     </item>
@@ -542,8 +544,8 @@
     <item>
       <title>Cybernetics</title>
       <link>http://theb0ardside.com/tags/cybernetics/</link>
-      <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/cybernetics/</guid>
       <description></description>
     </item>
@@ -551,8 +553,8 @@
     <item>
       <title>Database</title>
       <link>http://theb0ardside.com/tags/database/</link>
-      <pubDate>Wed, 24 Apr 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/database/</guid>
       <description></description>
     </item>
@@ -560,8 +562,8 @@
     <item>
       <title>Datacenter</title>
       <link>http://theb0ardside.com/tags/datacenter/</link>
-      <pubDate>Wed, 10 Dec 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/datacenter/</guid>
       <description></description>
     </item>
@@ -569,8 +571,8 @@
     <item>
       <title>Datacenters</title>
       <link>http://theb0ardside.com/tags/datacenters/</link>
-      <pubDate>Tue, 14 Jul 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/datacenters/</guid>
       <description></description>
     </item>
@@ -578,8 +580,8 @@
     <item>
       <title>Debian</title>
       <link>http://theb0ardside.com/tags/debian/</link>
-      <pubDate>Tue, 03 Apr 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/debian/</guid>
       <description></description>
     </item>
@@ -587,8 +589,8 @@
     <item>
       <title>Deep Learning</title>
       <link>http://theb0ardside.com/tags/deep-learning/</link>
-      <pubDate>Thu, 19 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 19 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/deep-learning/</guid>
       <description></description>
     </item>
@@ -596,8 +598,8 @@
     <item>
       <title>Defcon</title>
       <link>http://theb0ardside.com/tags/defcon/</link>
-      <pubDate>Thu, 09 Apr 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/defcon/</guid>
       <description></description>
     </item>
@@ -605,8 +607,8 @@
     <item>
       <title>Design</title>
       <link>http://theb0ardside.com/tags/design/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/design/</guid>
       <description></description>
     </item>
@@ -614,8 +616,8 @@
     <item>
       <title>Devops</title>
       <link>http://theb0ardside.com/tags/devops/</link>
-      <pubDate>Wed, 29 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/devops/</guid>
       <description></description>
     </item>
@@ -623,8 +625,8 @@
     <item>
       <title>Distributed</title>
       <link>http://theb0ardside.com/tags/distributed/</link>
-      <pubDate>Thu, 29 Jan 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/distributed/</guid>
       <description></description>
     </item>
@@ -632,8 +634,8 @@
     <item>
       <title>Distributed Systems</title>
       <link>http://theb0ardside.com/tags/distributed-systems/</link>
-      <pubDate>Mon, 19 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/distributed-systems/</guid>
       <description></description>
     </item>
@@ -641,8 +643,8 @@
     <item>
       <title>Distribution</title>
       <link>http://theb0ardside.com/tags/distribution/</link>
-      <pubDate>Tue, 03 Apr 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/distribution/</guid>
       <description></description>
     </item>
@@ -650,8 +652,8 @@
     <item>
       <title>Docker</title>
       <link>http://theb0ardside.com/tags/docker/</link>
-      <pubDate>Tue, 14 Jul 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/docker/</guid>
       <description></description>
     </item>
@@ -659,8 +661,8 @@
     <item>
       <title>Drawing</title>
       <link>http://theb0ardside.com/tags/drawing/</link>
-      <pubDate>Fri, 29 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/drawing/</guid>
       <description></description>
     </item>
@@ -668,8 +670,8 @@
     <item>
       <title>Dreams</title>
       <link>http://theb0ardside.com/tags/dreams/</link>
-      <pubDate>Sat, 15 Aug 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/dreams/</guid>
       <description></description>
     </item>
@@ -677,8 +679,8 @@
     <item>
       <title>Dsp</title>
       <link>http://theb0ardside.com/tags/dsp/</link>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/dsp/</guid>
       <description></description>
     </item>
@@ -686,8 +688,8 @@
     <item>
       <title>Editing</title>
       <link>http://theb0ardside.com/tags/editing/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/editing/</guid>
       <description></description>
     </item>
@@ -695,8 +697,8 @@
     <item>
       <title>Electronic</title>
       <link>http://theb0ardside.com/tags/electronic/</link>
-      <pubDate>Fri, 06 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 06 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/electronic/</guid>
       <description></description>
     </item>
@@ -704,8 +706,8 @@
     <item>
       <title>Embedded</title>
       <link>http://theb0ardside.com/tags/embedded/</link>
-      <pubDate>Sat, 18 Jun 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/embedded/</guid>
       <description></description>
     </item>
@@ -713,8 +715,8 @@
     <item>
       <title>Engineering</title>
       <link>http://theb0ardside.com/tags/engineering/</link>
-      <pubDate>Thu, 15 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/engineering/</guid>
       <description></description>
     </item>
@@ -722,8 +724,8 @@
     <item>
       <title>Erlang</title>
       <link>http://theb0ardside.com/tags/erlang/</link>
-      <pubDate>Thu, 13 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/erlang/</guid>
       <description></description>
     </item>
@@ -731,8 +733,8 @@
     <item>
       <title>Excitement</title>
       <link>http://theb0ardside.com/tags/excitement/</link>
-      <pubDate>Fri, 26 Sep 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/excitement/</guid>
       <description></description>
     </item>
@@ -740,8 +742,8 @@
     <item>
       <title>Experimental Music</title>
       <link>http://theb0ardside.com/tags/experimental-music/</link>
-      <pubDate>Mon, 19 Sep 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/experimental-music/</guid>
       <description></description>
     </item>
@@ -749,8 +751,8 @@
     <item>
       <title>Fft</title>
       <link>http://theb0ardside.com/tags/fft/</link>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/fft/</guid>
       <description></description>
     </item>
@@ -758,8 +760,8 @@
     <item>
       <title>Fiction</title>
       <link>http://theb0ardside.com/tags/fiction/</link>
-      <pubDate>Sun, 29 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 29 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/fiction/</guid>
       <description></description>
     </item>
@@ -767,8 +769,8 @@
     <item>
       <title>Filesystems</title>
       <link>http://theb0ardside.com/tags/filesystems/</link>
-      <pubDate>Fri, 12 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/filesystems/</guid>
       <description></description>
     </item>
@@ -776,8 +778,8 @@
     <item>
       <title>Film</title>
       <link>http://theb0ardside.com/tags/film/</link>
-      <pubDate>Sun, 29 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 29 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/film/</guid>
       <description></description>
     </item>
@@ -785,8 +787,8 @@
     <item>
       <title>Fortran</title>
       <link>http://theb0ardside.com/tags/fortran/</link>
-      <pubDate>Wed, 16 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/fortran/</guid>
       <description></description>
     </item>
@@ -794,8 +796,8 @@
     <item>
       <title>Freebsd</title>
       <link>http://theb0ardside.com/tags/freebsd/</link>
-      <pubDate>Sun, 08 Mar 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 08 Mar 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/freebsd/</guid>
       <description></description>
     </item>
@@ -803,8 +805,8 @@
     <item>
       <title>Frequencies</title>
       <link>http://theb0ardside.com/tags/frequencies/</link>
-      <pubDate>Sun, 09 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 09 Feb 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/frequencies/</guid>
       <description></description>
     </item>
@@ -812,8 +814,8 @@
     <item>
       <title>Functional</title>
       <link>http://theb0ardside.com/tags/functional/</link>
-      <pubDate>Thu, 13 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/functional/</guid>
       <description></description>
     </item>
@@ -821,8 +823,8 @@
     <item>
       <title>Funny</title>
       <link>http://theb0ardside.com/tags/funny/</link>
-      <pubDate>Thu, 09 Mar 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/funny/</guid>
       <description></description>
     </item>
@@ -830,8 +832,8 @@
     <item>
       <title>Future</title>
       <link>http://theb0ardside.com/tags/future/</link>
-      <pubDate>Sat, 16 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/future/</guid>
       <description></description>
     </item>
@@ -839,8 +841,8 @@
     <item>
       <title>Games</title>
       <link>http://theb0ardside.com/tags/games/</link>
-      <pubDate>Sat, 16 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/games/</guid>
       <description></description>
     </item>
@@ -848,8 +850,8 @@
     <item>
       <title>Generative</title>
       <link>http://theb0ardside.com/tags/generative/</link>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/generative/</guid>
       <description></description>
     </item>
@@ -857,8 +859,8 @@
     <item>
       <title>Go</title>
       <link>http://theb0ardside.com/tags/go/</link>
-      <pubDate>Thu, 29 Jan 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/go/</guid>
       <description></description>
     </item>
@@ -866,8 +868,8 @@
     <item>
       <title>Golang</title>
       <link>http://theb0ardside.com/tags/golang/</link>
-      <pubDate>Sun, 11 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/golang/</guid>
       <description></description>
     </item>
@@ -875,8 +877,8 @@
     <item>
       <title>Google</title>
       <link>http://theb0ardside.com/tags/google/</link>
-      <pubDate>Fri, 08 May 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/google/</guid>
       <description></description>
     </item>
@@ -884,8 +886,8 @@
     <item>
       <title>Hacker</title>
       <link>http://theb0ardside.com/tags/hacker/</link>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/hacker/</guid>
       <description></description>
     </item>
@@ -893,8 +895,8 @@
     <item>
       <title>Hacking</title>
       <link>http://theb0ardside.com/tags/hacking/</link>
-      <pubDate>Fri, 25 Oct 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 25 Oct 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/hacking/</guid>
       <description></description>
     </item>
@@ -902,8 +904,8 @@
     <item>
       <title>Hadoop</title>
       <link>http://theb0ardside.com/tags/hadoop/</link>
-      <pubDate>Mon, 19 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/hadoop/</guid>
       <description></description>
     </item>
@@ -911,8 +913,8 @@
     <item>
       <title>Hardware</title>
       <link>http://theb0ardside.com/tags/hardware/</link>
-      <pubDate>Fri, 10 Jun 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/hardware/</guid>
       <description></description>
     </item>
@@ -920,8 +922,8 @@
     <item>
       <title>Hella Cool Kids</title>
       <link>http://theb0ardside.com/tags/hella-cool-kids/</link>
-      <pubDate>Sun, 09 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 09 Feb 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/hella-cool-kids/</guid>
       <description></description>
     </item>
@@ -929,8 +931,8 @@
     <item>
       <title>History</title>
       <link>http://theb0ardside.com/tags/history/</link>
-      <pubDate>Sat, 16 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/history/</guid>
       <description></description>
     </item>
@@ -938,8 +940,8 @@
     <item>
       <title>Howto</title>
       <link>http://theb0ardside.com/tags/howto/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/howto/</guid>
       <description></description>
     </item>
@@ -947,8 +949,8 @@
     <item>
       <title>Http</title>
       <link>http://theb0ardside.com/tags/http/</link>
-      <pubDate>Wed, 25 Jul 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/http/</guid>
       <description></description>
     </item>
@@ -956,8 +958,8 @@
     <item>
       <title>Hunx</title>
       <link>http://theb0ardside.com/tags/hunx/</link>
-      <pubDate>Sat, 04 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/hunx/</guid>
       <description></description>
     </item>
@@ -965,8 +967,8 @@
     <item>
       <title>Ideas</title>
       <link>http://theb0ardside.com/tags/ideas/</link>
-      <pubDate>Thu, 10 Jan 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/ideas/</guid>
       <description></description>
     </item>
@@ -974,8 +976,8 @@
     <item>
       <title>Illumos</title>
       <link>http://theb0ardside.com/tags/illumos/</link>
-      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/illumos/</guid>
       <description></description>
     </item>
@@ -983,8 +985,8 @@
     <item>
       <title>Illustration</title>
       <link>http://theb0ardside.com/tags/illustration/</link>
-      <pubDate>Mon, 23 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/illustration/</guid>
       <description></description>
     </item>
@@ -992,8 +994,8 @@
     <item>
       <title>Indie Pop</title>
       <link>http://theb0ardside.com/tags/indie-pop/</link>
-      <pubDate>Fri, 06 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 06 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/indie-pop/</guid>
       <description></description>
     </item>
@@ -1001,8 +1003,8 @@
     <item>
       <title>Indiegogo</title>
       <link>http://theb0ardside.com/tags/indiegogo/</link>
-      <pubDate>Wed, 23 Apr 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/indiegogo/</guid>
       <description></description>
     </item>
@@ -1010,8 +1012,8 @@
     <item>
       <title>Infographic</title>
       <link>http://theb0ardside.com/tags/infographic/</link>
-      <pubDate>Wed, 06 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/infographic/</guid>
       <description></description>
     </item>
@@ -1019,8 +1021,8 @@
     <item>
       <title>Information</title>
       <link>http://theb0ardside.com/tags/information/</link>
-      <pubDate>Mon, 26 Nov 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 26 Nov 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/information/</guid>
       <description></description>
     </item>
@@ -1028,8 +1030,8 @@
     <item>
       <title>Infrastructure</title>
       <link>http://theb0ardside.com/tags/infrastructure/</link>
-      <pubDate>Tue, 14 Jul 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/infrastructure/</guid>
       <description></description>
     </item>
@@ -1037,8 +1039,8 @@
     <item>
       <title>Ink</title>
       <link>http://theb0ardside.com/tags/ink/</link>
-      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/ink/</guid>
       <description></description>
     </item>
@@ -1046,8 +1048,8 @@
     <item>
       <title>Internals</title>
       <link>http://theb0ardside.com/tags/internals/</link>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/internals/</guid>
       <description></description>
     </item>
@@ -1055,17 +1057,17 @@
     <item>
       <title>Internet</title>
       <link>http://theb0ardside.com/tags/internet/</link>
-      <pubDate>Sun, 29 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 29 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/internet/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internet Of Things</title>
+      <title>Internet of Things</title>
       <link>http://theb0ardside.com/tags/internet-of-things/</link>
-      <pubDate>Mon, 21 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/internet-of-things/</guid>
       <description></description>
     </item>
@@ -1073,8 +1075,8 @@
     <item>
       <title>Java</title>
       <link>http://theb0ardside.com/tags/java/</link>
-      <pubDate>Mon, 09 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/java/</guid>
       <description></description>
     </item>
@@ -1082,8 +1084,8 @@
     <item>
       <title>Javascript</title>
       <link>http://theb0ardside.com/tags/javascript/</link>
-      <pubDate>Tue, 07 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/javascript/</guid>
       <description></description>
     </item>
@@ -1091,8 +1093,8 @@
     <item>
       <title>John Watersesque</title>
       <link>http://theb0ardside.com/tags/john-watersesque/</link>
-      <pubDate>Sat, 04 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/john-watersesque/</guid>
       <description></description>
     </item>
@@ -1100,8 +1102,8 @@
     <item>
       <title>Jvm</title>
       <link>http://theb0ardside.com/tags/jvm/</link>
-      <pubDate>Mon, 09 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/jvm/</guid>
       <description></description>
     </item>
@@ -1109,8 +1111,8 @@
     <item>
       <title>Kernel</title>
       <link>http://theb0ardside.com/tags/kernel/</link>
-      <pubDate>Thu, 06 Oct 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/kernel/</guid>
       <description></description>
     </item>
@@ -1118,8 +1120,8 @@
     <item>
       <title>Kubernetes</title>
       <link>http://theb0ardside.com/tags/kubernetes/</link>
-      <pubDate>Tue, 02 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/kubernetes/</guid>
       <description></description>
     </item>
@@ -1127,8 +1129,8 @@
     <item>
       <title>Language</title>
       <link>http://theb0ardside.com/tags/language/</link>
-      <pubDate>Wed, 16 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/language/</guid>
       <description></description>
     </item>
@@ -1136,8 +1138,8 @@
     <item>
       <title>Languages</title>
       <link>http://theb0ardside.com/tags/languages/</link>
-      <pubDate>Sun, 13 Apr 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 13 Apr 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/languages/</guid>
       <description></description>
     </item>
@@ -1145,8 +1147,8 @@
     <item>
       <title>Lectures</title>
       <link>http://theb0ardside.com/tags/lectures/</link>
-      <pubDate>Sun, 13 Apr 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 13 Apr 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/lectures/</guid>
       <description></description>
     </item>
@@ -1154,8 +1156,8 @@
     <item>
       <title>Linux</title>
       <link>http://theb0ardside.com/tags/linux/</link>
-      <pubDate>Thu, 06 Oct 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/linux/</guid>
       <description></description>
     </item>
@@ -1163,17 +1165,26 @@
     <item>
       <title>Lisp</title>
       <link>http://theb0ardside.com/tags/lisp/</link>
-      <pubDate>Sun, 13 Apr 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 13 Apr 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/lisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Live Coding</title>
+      <link>http://theb0ardside.com/tags/live-coding/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/tags/live-coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>London</title>
       <link>http://theb0ardside.com/tags/london/</link>
-      <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/london/</guid>
       <description></description>
     </item>
@@ -1181,8 +1192,8 @@
     <item>
       <title>Lynch</title>
       <link>http://theb0ardside.com/tags/lynch/</link>
-      <pubDate>Fri, 09 Jun 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/lynch/</guid>
       <description></description>
     </item>
@@ -1190,8 +1201,8 @@
     <item>
       <title>Mac</title>
       <link>http://theb0ardside.com/tags/mac/</link>
-      <pubDate>Fri, 24 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 24 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/mac/</guid>
       <description></description>
     </item>
@@ -1199,8 +1210,8 @@
     <item>
       <title>Machine Learning</title>
       <link>http://theb0ardside.com/tags/machine-learning/</link>
-      <pubDate>Thu, 19 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 19 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/machine-learning/</guid>
       <description></description>
     </item>
@@ -1208,8 +1219,8 @@
     <item>
       <title>Mainframes</title>
       <link>http://theb0ardside.com/tags/mainframes/</link>
-      <pubDate>Tue, 29 Mar 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/mainframes/</guid>
       <description></description>
     </item>
@@ -1217,8 +1228,8 @@
     <item>
       <title>Markdown</title>
       <link>http://theb0ardside.com/tags/markdown/</link>
-      <pubDate>Sat, 30 Nov 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 30 Nov 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/markdown/</guid>
       <description></description>
     </item>
@@ -1226,8 +1237,8 @@
     <item>
       <title>Math</title>
       <link>http://theb0ardside.com/tags/math/</link>
-      <pubDate>Sun, 03 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/math/</guid>
       <description></description>
     </item>
@@ -1235,8 +1246,8 @@
     <item>
       <title>Mathematices</title>
       <link>http://theb0ardside.com/tags/mathematices/</link>
-      <pubDate>Sat, 10 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 10 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/mathematices/</guid>
       <description></description>
     </item>
@@ -1244,8 +1255,8 @@
     <item>
       <title>Measurement</title>
       <link>http://theb0ardside.com/tags/measurement/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/measurement/</guid>
       <description></description>
     </item>
@@ -1253,8 +1264,8 @@
     <item>
       <title>Meetup</title>
       <link>http://theb0ardside.com/tags/meetup/</link>
-      <pubDate>Fri, 18 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/meetup/</guid>
       <description></description>
     </item>
@@ -1262,8 +1273,8 @@
     <item>
       <title>Metadata</title>
       <link>http://theb0ardside.com/tags/metadata/</link>
-      <pubDate>Tue, 27 Mar 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/metadata/</guid>
       <description></description>
     </item>
@@ -1271,8 +1282,8 @@
     <item>
       <title>Metaphor</title>
       <link>http://theb0ardside.com/tags/metaphor/</link>
-      <pubDate>Thu, 15 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/metaphor/</guid>
       <description></description>
     </item>
@@ -1280,8 +1291,8 @@
     <item>
       <title>Military</title>
       <link>http://theb0ardside.com/tags/military/</link>
-      <pubDate>Sun, 03 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/military/</guid>
       <description></description>
     </item>
@@ -1289,8 +1300,8 @@
     <item>
       <title>Mit</title>
       <link>http://theb0ardside.com/tags/mit/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/mit/</guid>
       <description></description>
     </item>
@@ -1298,8 +1309,8 @@
     <item>
       <title>Monolake</title>
       <link>http://theb0ardside.com/tags/monolake/</link>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/monolake/</guid>
       <description></description>
     </item>
@@ -1307,8 +1318,8 @@
     <item>
       <title>Multics</title>
       <link>http://theb0ardside.com/tags/multics/</link>
-      <pubDate>Tue, 06 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/multics/</guid>
       <description></description>
     </item>
@@ -1316,8 +1327,8 @@
     <item>
       <title>Mumblecore</title>
       <link>http://theb0ardside.com/tags/mumblecore/</link>
-      <pubDate>Sun, 29 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 29 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/mumblecore/</guid>
       <description></description>
     </item>
@@ -1325,8 +1336,8 @@
     <item>
       <title>Music</title>
       <link>http://theb0ardside.com/tags/music/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/music/</guid>
       <description></description>
     </item>
@@ -1334,8 +1345,8 @@
     <item>
       <title>Nervous</title>
       <link>http://theb0ardside.com/tags/nervous/</link>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/nervous/</guid>
       <description></description>
     </item>
@@ -1343,8 +1354,8 @@
     <item>
       <title>Network</title>
       <link>http://theb0ardside.com/tags/network/</link>
-      <pubDate>Sat, 18 Oct 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/network/</guid>
       <description></description>
     </item>
@@ -1352,8 +1363,8 @@
     <item>
       <title>Networking</title>
       <link>http://theb0ardside.com/tags/networking/</link>
-      <pubDate>Wed, 10 Dec 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/networking/</guid>
       <description></description>
     </item>
@@ -1361,8 +1372,8 @@
     <item>
       <title>Now</title>
       <link>http://theb0ardside.com/tags/now/</link>
-      <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/now/</guid>
       <description></description>
     </item>
@@ -1370,8 +1381,8 @@
     <item>
       <title>Openstack</title>
       <link>http://theb0ardside.com/tags/openstack/</link>
-      <pubDate>Tue, 09 Apr 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 09 Apr 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/openstack/</guid>
       <description></description>
     </item>
@@ -1379,8 +1390,8 @@
     <item>
       <title>Operating System</title>
       <link>http://theb0ardside.com/tags/operating-system/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/operating-system/</guid>
       <description></description>
     </item>
@@ -1388,8 +1399,8 @@
     <item>
       <title>Opinion</title>
       <link>http://theb0ardside.com/tags/opinion/</link>
-      <pubDate>Sun, 15 May 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/opinion/</guid>
       <description></description>
     </item>
@@ -1397,8 +1408,8 @@
     <item>
       <title>Oscon</title>
       <link>http://theb0ardside.com/tags/oscon/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/oscon/</guid>
       <description></description>
     </item>
@@ -1406,8 +1417,8 @@
     <item>
       <title>People</title>
       <link>http://theb0ardside.com/tags/people/</link>
-      <pubDate>Wed, 20 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/people/</guid>
       <description></description>
     </item>
@@ -1415,8 +1426,8 @@
     <item>
       <title>Performance</title>
       <link>http://theb0ardside.com/tags/performance/</link>
-      <pubDate>Wed, 11 May 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/performance/</guid>
       <description></description>
     </item>
@@ -1424,8 +1435,8 @@
     <item>
       <title>Perl</title>
       <link>http://theb0ardside.com/tags/perl/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/perl/</guid>
       <description></description>
     </item>
@@ -1433,8 +1444,8 @@
     <item>
       <title>Personal</title>
       <link>http://theb0ardside.com/tags/personal/</link>
-      <pubDate>Thu, 23 Aug 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/personal/</guid>
       <description></description>
     </item>
@@ -1442,8 +1453,8 @@
     <item>
       <title>Pets</title>
       <link>http://theb0ardside.com/tags/pets/</link>
-      <pubDate>Thu, 09 Apr 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/pets/</guid>
       <description></description>
     </item>
@@ -1451,17 +1462,17 @@
     <item>
       <title>Philosophy</title>
       <link>http://theb0ardside.com/tags/philosophy/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Physic Or Surgery</title>
+      <title>Physic or Surgery</title>
       <link>http://theb0ardside.com/tags/physic-or-surgery/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/physic-or-surgery/</guid>
       <description></description>
     </item>
@@ -1469,8 +1480,8 @@
     <item>
       <title>Portaudio</title>
       <link>http://theb0ardside.com/tags/portaudio/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/portaudio/</guid>
       <description></description>
     </item>
@@ -1478,8 +1489,8 @@
     <item>
       <title>Postgresql</title>
       <link>http://theb0ardside.com/tags/postgresql/</link>
-      <pubDate>Wed, 24 Apr 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/postgresql/</guid>
       <description></description>
     </item>
@@ -1487,8 +1498,8 @@
     <item>
       <title>Practical</title>
       <link>http://theb0ardside.com/tags/practical/</link>
-      <pubDate>Thu, 16 Apr 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/practical/</guid>
       <description></description>
     </item>
@@ -1496,8 +1507,8 @@
     <item>
       <title>Processing</title>
       <link>http://theb0ardside.com/tags/processing/</link>
-      <pubDate>Mon, 06 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/processing/</guid>
       <description></description>
     </item>
@@ -1505,8 +1516,8 @@
     <item>
       <title>Programming</title>
       <link>http://theb0ardside.com/tags/programming/</link>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/programming/</guid>
       <description></description>
     </item>
@@ -1514,8 +1525,8 @@
     <item>
       <title>Programming Languages</title>
       <link>http://theb0ardside.com/tags/programming-languages/</link>
-      <pubDate>Sun, 21 Sep 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/programming-languages/</guid>
       <description></description>
     </item>
@@ -1523,8 +1534,8 @@
     <item>
       <title>Punk</title>
       <link>http://theb0ardside.com/tags/punk/</link>
-      <pubDate>Sat, 04 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/punk/</guid>
       <description></description>
     </item>
@@ -1532,8 +1543,8 @@
     <item>
       <title>Puppet</title>
       <link>http://theb0ardside.com/tags/puppet/</link>
-      <pubDate>Tue, 03 Apr 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/puppet/</guid>
       <description></description>
     </item>
@@ -1541,8 +1552,8 @@
     <item>
       <title>Radio</title>
       <link>http://theb0ardside.com/tags/radio/</link>
-      <pubDate>Tue, 04 Mar 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/radio/</guid>
       <description></description>
     </item>
@@ -1550,8 +1561,8 @@
     <item>
       <title>Rant</title>
       <link>http://theb0ardside.com/tags/rant/</link>
-      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/rant/</guid>
       <description></description>
     </item>
@@ -1559,8 +1570,8 @@
     <item>
       <title>Real Time</title>
       <link>http://theb0ardside.com/tags/real-time/</link>
-      <pubDate>Thu, 05 Apr 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/real-time/</guid>
       <description></description>
     </item>
@@ -1568,8 +1579,8 @@
     <item>
       <title>Reality</title>
       <link>http://theb0ardside.com/tags/reality/</link>
-      <pubDate>Sat, 04 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/reality/</guid>
       <description></description>
     </item>
@@ -1577,8 +1588,8 @@
     <item>
       <title>Resiliency</title>
       <link>http://theb0ardside.com/tags/resiliency/</link>
-      <pubDate>Sat, 11 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 11 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/resiliency/</guid>
       <description></description>
     </item>
@@ -1586,8 +1597,8 @@
     <item>
       <title>Restful</title>
       <link>http://theb0ardside.com/tags/restful/</link>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/restful/</guid>
       <description></description>
     </item>
@@ -1595,8 +1606,8 @@
     <item>
       <title>Rob Pike</title>
       <link>http://theb0ardside.com/tags/rob-pike/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/rob-pike/</guid>
       <description></description>
     </item>
@@ -1604,8 +1615,8 @@
     <item>
       <title>Robot</title>
       <link>http://theb0ardside.com/tags/robot/</link>
-      <pubDate>Tue, 10 Feb 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/robot/</guid>
       <description></description>
     </item>
@@ -1613,8 +1624,8 @@
     <item>
       <title>Robotics</title>
       <link>http://theb0ardside.com/tags/robotics/</link>
-      <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/robotics/</guid>
       <description></description>
     </item>
@@ -1622,8 +1633,8 @@
     <item>
       <title>Ruby</title>
       <link>http://theb0ardside.com/tags/ruby/</link>
-      <pubDate>Sat, 22 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 22 Feb 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/ruby/</guid>
       <description></description>
     </item>
@@ -1631,8 +1642,8 @@
     <item>
       <title>San Francisco</title>
       <link>http://theb0ardside.com/tags/san-francisco/</link>
-      <pubDate>Thu, 14 Apr 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/san-francisco/</guid>
       <description></description>
     </item>
@@ -1640,8 +1651,8 @@
     <item>
       <title>Scala</title>
       <link>http://theb0ardside.com/tags/scala/</link>
-      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/scala/</guid>
       <description></description>
     </item>
@@ -1649,8 +1660,8 @@
     <item>
       <title>Scalability</title>
       <link>http://theb0ardside.com/tags/scalability/</link>
-      <pubDate>Thu, 22 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 22 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/scalability/</guid>
       <description></description>
     </item>
@@ -1658,8 +1669,8 @@
     <item>
       <title>Scale</title>
       <link>http://theb0ardside.com/tags/scale/</link>
-      <pubDate>Thu, 16 Apr 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/scale/</guid>
       <description></description>
     </item>
@@ -1667,8 +1678,8 @@
     <item>
       <title>Scene</title>
       <link>http://theb0ardside.com/tags/scene/</link>
-      <pubDate>Thu, 30 Nov 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/scene/</guid>
       <description></description>
     </item>
@@ -1676,8 +1687,8 @@
     <item>
       <title>Sci Fi</title>
       <link>http://theb0ardside.com/tags/sci-fi/</link>
-      <pubDate>Tue, 26 Jan 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/sci-fi/</guid>
       <description></description>
     </item>
@@ -1685,8 +1696,8 @@
     <item>
       <title>Science</title>
       <link>http://theb0ardside.com/tags/science/</link>
-      <pubDate>Wed, 20 Jun 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/science/</guid>
       <description></description>
     </item>
@@ -1694,8 +1705,8 @@
     <item>
       <title>Scotland</title>
       <link>http://theb0ardside.com/tags/scotland/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/scotland/</guid>
       <description></description>
     </item>
@@ -1703,8 +1714,8 @@
     <item>
       <title>Scsi</title>
       <link>http://theb0ardside.com/tags/scsi/</link>
-      <pubDate>Thu, 27 Oct 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 27 Oct 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/scsi/</guid>
       <description></description>
     </item>
@@ -1712,8 +1723,8 @@
     <item>
       <title>Search</title>
       <link>http://theb0ardside.com/tags/search/</link>
-      <pubDate>Wed, 05 Jun 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/search/</guid>
       <description></description>
     </item>
@@ -1721,17 +1732,17 @@
     <item>
       <title>Security</title>
       <link>http://theb0ardside.com/tags/security/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Shannon And The Clams</title>
+      <title>Shannon and the Clams</title>
       <link>http://theb0ardside.com/tags/shannon-and-the-clams/</link>
-      <pubDate>Sat, 04 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/shannon-and-the-clams/</guid>
       <description></description>
     </item>
@@ -1739,8 +1750,8 @@
     <item>
       <title>Sheffiled</title>
       <link>http://theb0ardside.com/tags/sheffiled/</link>
-      <pubDate>Thu, 30 Nov 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/sheffiled/</guid>
       <description></description>
     </item>
@@ -1748,8 +1759,8 @@
     <item>
       <title>Silicon Valley</title>
       <link>http://theb0ardside.com/tags/silicon-valley/</link>
-      <pubDate>Wed, 09 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/silicon-valley/</guid>
       <description></description>
     </item>
@@ -1757,8 +1768,8 @@
     <item>
       <title>Simulator</title>
       <link>http://theb0ardside.com/tags/simulator/</link>
-      <pubDate>Fri, 05 Aug 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/simulator/</guid>
       <description></description>
     </item>
@@ -1766,8 +1777,8 @@
     <item>
       <title>Sinclair</title>
       <link>http://theb0ardside.com/tags/sinclair/</link>
-      <pubDate>Sun, 01 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/sinclair/</guid>
       <description></description>
     </item>
@@ -1775,8 +1786,8 @@
     <item>
       <title>Site Reliability</title>
       <link>http://theb0ardside.com/tags/site-reliability/</link>
-      <pubDate>Fri, 04 Apr 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 04 Apr 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/site-reliability/</guid>
       <description></description>
     </item>
@@ -1784,8 +1795,8 @@
     <item>
       <title>Skate</title>
       <link>http://theb0ardside.com/tags/skate/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/skate/</guid>
       <description></description>
     </item>
@@ -1793,8 +1804,8 @@
     <item>
       <title>Skateboard</title>
       <link>http://theb0ardside.com/tags/skateboard/</link>
-      <pubDate>Sat, 15 Aug 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/skateboard/</guid>
       <description></description>
     </item>
@@ -1802,8 +1813,8 @@
     <item>
       <title>Skateboarding</title>
       <link>http://theb0ardside.com/tags/skateboarding/</link>
-      <pubDate>Wed, 21 Oct 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/skateboarding/</guid>
       <description></description>
     </item>
@@ -1811,8 +1822,8 @@
     <item>
       <title>Smart Cities</title>
       <link>http://theb0ardside.com/tags/smart-cities/</link>
-      <pubDate>Mon, 21 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/smart-cities/</guid>
       <description></description>
     </item>
@@ -1820,8 +1831,8 @@
     <item>
       <title>Smartypants</title>
       <link>http://theb0ardside.com/tags/smartypants/</link>
-      <pubDate>Mon, 28 Sep 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/smartypants/</guid>
       <description></description>
     </item>
@@ -1829,8 +1840,8 @@
     <item>
       <title>Software</title>
       <link>http://theb0ardside.com/tags/software/</link>
-      <pubDate>Fri, 30 Dec 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/software/</guid>
       <description></description>
     </item>
@@ -1838,8 +1849,8 @@
     <item>
       <title>Sound</title>
       <link>http://theb0ardside.com/tags/sound/</link>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/sound/</guid>
       <description></description>
     </item>
@@ -1847,8 +1858,8 @@
     <item>
       <title>Sound Art</title>
       <link>http://theb0ardside.com/tags/sound-art/</link>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/sound-art/</guid>
       <description></description>
     </item>
@@ -1856,8 +1867,8 @@
     <item>
       <title>Speculation</title>
       <link>http://theb0ardside.com/tags/speculation/</link>
-      <pubDate>Thu, 03 May 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/speculation/</guid>
       <description></description>
     </item>
@@ -1865,8 +1876,8 @@
     <item>
       <title>Spoof</title>
       <link>http://theb0ardside.com/tags/spoof/</link>
-      <pubDate>Sat, 04 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/spoof/</guid>
       <description></description>
     </item>
@@ -1874,8 +1885,8 @@
     <item>
       <title>Startups</title>
       <link>http://theb0ardside.com/tags/startups/</link>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/startups/</guid>
       <description></description>
     </item>
@@ -1883,8 +1894,8 @@
     <item>
       <title>Static</title>
       <link>http://theb0ardside.com/tags/static/</link>
-      <pubDate>Sat, 30 Nov 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 30 Nov 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/static/</guid>
       <description></description>
     </item>
@@ -1892,8 +1903,8 @@
     <item>
       <title>Storage</title>
       <link>http://theb0ardside.com/tags/storage/</link>
-      <pubDate>Wed, 16 May 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/storage/</guid>
       <description></description>
     </item>
@@ -1901,8 +1912,8 @@
     <item>
       <title>Strange Loop</title>
       <link>http://theb0ardside.com/tags/strange-loop/</link>
-      <pubDate>Sat, 17 Sep 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/strange-loop/</guid>
       <description></description>
     </item>
@@ -1910,8 +1921,8 @@
     <item>
       <title>Stylemag</title>
       <link>http://theb0ardside.com/tags/stylemag/</link>
-      <pubDate>Thu, 14 Apr 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/stylemag/</guid>
       <description></description>
     </item>
@@ -1919,8 +1930,8 @@
     <item>
       <title>Subjective</title>
       <link>http://theb0ardside.com/tags/subjective/</link>
-      <pubDate>Fri, 06 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 06 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/subjective/</guid>
       <description></description>
     </item>
@@ -1928,8 +1939,8 @@
     <item>
       <title>Supercomputing</title>
       <link>http://theb0ardside.com/tags/supercomputing/</link>
-      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/supercomputing/</guid>
       <description></description>
     </item>
@@ -1937,8 +1948,8 @@
     <item>
       <title>Sysadmin</title>
       <link>http://theb0ardside.com/tags/sysadmin/</link>
-      <pubDate>Thu, 15 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/sysadmin/</guid>
       <description></description>
     </item>
@@ -1946,8 +1957,8 @@
     <item>
       <title>Systems</title>
       <link>http://theb0ardside.com/tags/systems/</link>
-      <pubDate>Sun, 15 May 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/systems/</guid>
       <description></description>
     </item>
@@ -1955,8 +1966,8 @@
     <item>
       <title>Systems Architecture</title>
       <link>http://theb0ardside.com/tags/systems-architecture/</link>
-      <pubDate>Thu, 22 May 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 22 May 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/systems-architecture/</guid>
       <description></description>
     </item>
@@ -1964,8 +1975,8 @@
     <item>
       <title>Systems Programming</title>
       <link>http://theb0ardside.com/tags/systems-programming/</link>
-      <pubDate>Sat, 17 Sep 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/systems-programming/</guid>
       <description></description>
     </item>
@@ -1973,8 +1984,8 @@
     <item>
       <title>Talk</title>
       <link>http://theb0ardside.com/tags/talk/</link>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/talk/</guid>
       <description></description>
     </item>
@@ -1982,8 +1993,8 @@
     <item>
       <title>Talks</title>
       <link>http://theb0ardside.com/tags/talks/</link>
-      <pubDate>Fri, 15 Apr 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/talks/</guid>
       <description></description>
     </item>
@@ -1991,8 +2002,8 @@
     <item>
       <title>Tcp/Ip</title>
       <link>http://theb0ardside.com/tags/tcp/ip/</link>
-      <pubDate>Sat, 18 Oct 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/tcp/ip/</guid>
       <description></description>
     </item>
@@ -2000,8 +2011,8 @@
     <item>
       <title>Techno</title>
       <link>http://theb0ardside.com/tags/techno/</link>
-      <pubDate>Mon, 19 Sep 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/techno/</guid>
       <description></description>
     </item>
@@ -2009,8 +2020,8 @@
     <item>
       <title>Telecoms</title>
       <link>http://theb0ardside.com/tags/telecoms/</link>
-      <pubDate>Thu, 26 Jun 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 26 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/telecoms/</guid>
       <description></description>
     </item>
@@ -2018,8 +2029,8 @@
     <item>
       <title>Telephony</title>
       <link>http://theb0ardside.com/tags/telephony/</link>
-      <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/telephony/</guid>
       <description></description>
     </item>
@@ -2027,8 +2038,8 @@
     <item>
       <title>Testing</title>
       <link>http://theb0ardside.com/tags/testing/</link>
-      <pubDate>Mon, 27 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 27 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/testing/</guid>
       <description></description>
     </item>
@@ -2036,8 +2047,8 @@
     <item>
       <title>Theory</title>
       <link>http://theb0ardside.com/tags/theory/</link>
-      <pubDate>Fri, 19 Dec 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 19 Dec 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/theory/</guid>
       <description></description>
     </item>
@@ -2045,8 +2056,8 @@
     <item>
       <title>Timesharing</title>
       <link>http://theb0ardside.com/tags/timesharing/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/timesharing/</guid>
       <description></description>
     </item>
@@ -2054,8 +2065,8 @@
     <item>
       <title>Tls</title>
       <link>http://theb0ardside.com/tags/tls/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/tls/</guid>
       <description></description>
     </item>
@@ -2063,17 +2074,17 @@
     <item>
       <title>Tools</title>
       <link>http://theb0ardside.com/tags/tools/</link>
-      <pubDate>Thu, 09 Mar 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/tools/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tuned To A Dead Channel</title>
+      <title>Tuned to a Dead Channel</title>
       <link>http://theb0ardside.com/tags/tuned-to-a-dead-channel/</link>
-      <pubDate>Tue, 07 Jan 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/tuned-to-a-dead-channel/</guid>
       <description></description>
     </item>
@@ -2081,8 +2092,8 @@
     <item>
       <title>Tv</title>
       <link>http://theb0ardside.com/tags/tv/</link>
-      <pubDate>Sat, 30 Apr 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/tv/</guid>
       <description></description>
     </item>
@@ -2090,8 +2101,8 @@
     <item>
       <title>Twitter</title>
       <link>http://theb0ardside.com/tags/twitter/</link>
-      <pubDate>Mon, 09 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/twitter/</guid>
       <description></description>
     </item>
@@ -2099,8 +2110,8 @@
     <item>
       <title>Uk</title>
       <link>http://theb0ardside.com/tags/uk/</link>
-      <pubDate>Tue, 24 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Tue, 24 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/uk/</guid>
       <description></description>
     </item>
@@ -2108,8 +2119,8 @@
     <item>
       <title>Uncategorized</title>
       <link>http://theb0ardside.com/tags/uncategorized/</link>
-      <pubDate>Mon, 16 Jul 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/uncategorized/</guid>
       <description></description>
     </item>
@@ -2117,8 +2128,8 @@
     <item>
       <title>Unix</title>
       <link>http://theb0ardside.com/tags/unix/</link>
-      <pubDate>Sat, 30 Apr 2016 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/unix/</guid>
       <description></description>
     </item>
@@ -2126,8 +2137,8 @@
     <item>
       <title>Unmanned</title>
       <link>http://theb0ardside.com/tags/unmanned/</link>
-      <pubDate>Mon, 02 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/unmanned/</guid>
       <description></description>
     </item>
@@ -2135,8 +2146,8 @@
     <item>
       <title>Vagrant</title>
       <link>http://theb0ardside.com/tags/vagrant/</link>
-      <pubDate>Wed, 29 May 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/vagrant/</guid>
       <description></description>
     </item>
@@ -2144,8 +2155,8 @@
     <item>
       <title>Video</title>
       <link>http://theb0ardside.com/tags/video/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/video/</guid>
       <description></description>
     </item>
@@ -2153,8 +2164,8 @@
     <item>
       <title>Vim</title>
       <link>http://theb0ardside.com/tags/vim/</link>
-      <pubDate>Thu, 09 Mar 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/vim/</guid>
       <description></description>
     </item>
@@ -2162,8 +2173,8 @@
     <item>
       <title>Virtualization</title>
       <link>http://theb0ardside.com/tags/virtualization/</link>
-      <pubDate>Wed, 24 Apr 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/virtualization/</guid>
       <description></description>
     </item>
@@ -2171,8 +2182,8 @@
     <item>
       <title>Visualization</title>
       <link>http://theb0ardside.com/tags/visualization/</link>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/visualization/</guid>
       <description></description>
     </item>
@@ -2180,8 +2191,8 @@
     <item>
       <title>Vmware</title>
       <link>http://theb0ardside.com/tags/vmware/</link>
-      <pubDate>Fri, 13 Apr 2012 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 13 Apr 2012 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/vmware/</guid>
       <description></description>
     </item>
@@ -2189,8 +2200,8 @@
     <item>
       <title>Vr</title>
       <link>http://theb0ardside.com/tags/vr/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/vr/</guid>
       <description></description>
     </item>
@@ -2198,8 +2209,8 @@
     <item>
       <title>Web</title>
       <link>http://theb0ardside.com/tags/web/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/web/</guid>
       <description></description>
     </item>
@@ -2207,8 +2218,8 @@
     <item>
       <title>Webperf</title>
       <link>http://theb0ardside.com/tags/webperf/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/webperf/</guid>
       <description></description>
     </item>
@@ -2216,8 +2227,8 @@
     <item>
       <title>Weird</title>
       <link>http://theb0ardside.com/tags/weird/</link>
-      <pubDate>Fri, 09 Jun 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/weird/</guid>
       <description></description>
     </item>
@@ -2225,8 +2236,8 @@
     <item>
       <title>Xen</title>
       <link>http://theb0ardside.com/tags/xen/</link>
-      <pubDate>Mon, 10 Oct 2011 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/xen/</guid>
       <description></description>
     </item>
@@ -2234,8 +2245,8 @@
     <item>
       <title>Xoxo</title>
       <link>http://theb0ardside.com/tags/xoxo/</link>
-      <pubDate>Thu, 09 Mar 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/tags/xoxo/</guid>
       <description></description>
     </item>

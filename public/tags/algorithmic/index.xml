@@ -1,42 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Algorithmic on The B0ardside </title>
+    <title>Algorithmic on The B0ardside</title>
     <link>http://theb0ardside.com/tags/algorithmic/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2017-11-30 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Algorithmic on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/algorithmic/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Guardian piece on Algorave</title>
       <link>http://theb0ardside.com/algorave-guardian-article/</link>
-      <pubDate>Thu, 30 Nov 2017 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/algorave-guardian-article/</guid>
-      <description>&lt;p&gt;Nice piece from the Guardian showcasing the Algorave scene in Sheffield.&lt;br /&gt;
-Big up Alex McLean!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/h340aNznHnM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>Nice piece from the Guardian showcasing the Algorave scene in Sheffield.
+Big up Alex McLean!
+  </description>
     </item>
     
     <item>
       <title>Perl and Portaudio</title>
       <link>http://theb0ardside.com/algorithmicsoundperl/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/algorithmicsoundperl/</guid>
-      <description>&lt;p&gt;Super nice demo of algorithmic sound generation with Perl and Portaudio&amp;hellip;&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/pMZ4ilLzKW8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;from &lt;a href=&#34;http://thelackthereof.org/NoiseGen&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Super nice demo of algorithmic sound generation with Perl and Portaudio&amp;hellip;
+  from here</description>
     </item>
     
   </channel>

@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Defcon on The B0ardside </title>
+    <title>Defcon on The B0ardside</title>
     <link>http://theb0ardside.com/tags/defcon/</link>
-    <language>en-us</language>
-    <author>Thorsten Sideb0ard</author>
-    <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2015-04-09 00:00:00 &#43;0000 UTC</updated>
+    <description>Recent content in Defcon on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/defcon/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Weaponizing Your Pets</title>
       <link>http://theb0ardside.com/weaponizing-your-pets/</link>
-      <pubDate>Thu, 09 Apr 2015 00:00:00 UTC</pubDate>
-      <author>Thorsten Sideb0ard</author>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>http://theb0ardside.com/weaponizing-your-pets/</guid>
-      <description>&lt;p&gt;My wife and I got a new projector recently &lt;a href=&#34;http://www.amazon.com/BenQ-HT1075-1080P-Theater-Projector/dp/B00LTMPOUO&#34;&gt;(this one)&lt;/a&gt;, so I had some nerds round to watch some tech talks. My friend &lt;a href=&#34;https://twitter.com/kalisen&#34;&gt;Jerome&lt;/a&gt; turned us on to this one, super fun!&lt;/p&gt;
-
-&lt;div class=&#34;video-container&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/DMNSvHswljM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>My wife and I got a new projector recently (this one), so I had some nerds round to watch some tech talks. My friend Jerome turned us on to this one, super fun!
+  </description>
     </item>
     
   </channel>
