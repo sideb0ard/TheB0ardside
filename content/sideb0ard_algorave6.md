@@ -8,7 +8,7 @@ Categories:
 Slug: "soundb0ard-algorave"
 ---
 
-I've had my head down doing a bunch of work on my [Soundb0ard software](https://github.com/sideb0ard/SoundB0ard), in prep for playing at [Algosix](https://algorave.com/wearesix/) last weekened. The festival was awesome, so much great live music!
+I've had my head down doing a bunch of work on my [Soundb0ard software](https://github.com/sideb0ard/SoundB0ard), in prep for playing at [Algosix](https://algorave.com/wearesix/) last weekend. The festival was awesome, so much great live music!
 
 I was quite happy with my performance, give it a listen/view:
 
