@@ -5,10 +5,20 @@
     <link>http://theb0ardside.com/tags/language/</link>
     <description>Recent content in Language on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 16 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://theb0ardside.com/tags/language/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Procedural Programming: It&#39;s Back? It Never Went Away</title>
+      <link>http://theb0ardside.com/procedural-programming/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/procedural-programming/</guid>
+      <description>I found this next video on a great Hacker News thread, &amp;ldquo;What is your favourite tech talk?&amp;rdquo;
+  </description>
+    </item>
     
     <item>
       <title>FORTRAN!</title>

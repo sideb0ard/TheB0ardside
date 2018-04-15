@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2018-03-29 00:00:00 &#43;0000 UTC</updated>
+    <updated>2018-04-14 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Procedural Programming: It&#39;s Back? It Never Went Away</title>
+      <link>http://theb0ardside.com/procedural-programming/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/procedural-programming/</guid>
+      <description>&lt;p&gt;I found this next video on a great &lt;a href=&#34;https://news.ycombinator.com/item?id=16838460&#34;&gt;Hacker News thread, &amp;ldquo;What is your favourite tech talk?&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/otAcmD6XEEE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Soundb0ard in use at Algosix</title>
