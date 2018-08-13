@@ -5,10 +5,20 @@
     <link>http://theb0ardside.com/tags/video/</link>
     <description>Recent content in Video on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://theb0ardside.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Tragedy Of systemd</title>
+      <link>http://theb0ardside.com/tragedy-systemd/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/tragedy-systemd/</guid>
+      <description>Awesome talk from BSDCan 2018, a balanced look at systemd&amp;rsquo;s history and ideas..
+  </description>
+    </item>
     
     <item>
       <title>BCPL Algos 1 &amp; 2</title>

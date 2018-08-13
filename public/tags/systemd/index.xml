@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systemd on The B0ardside</title>
+    <link>http://theb0ardside.com/tags/systemd/</link>
+    <description>Recent content in Systemd on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/systemd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Tragedy Of systemd</title>
+      <link>http://theb0ardside.com/tragedy-systemd/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/tragedy-systemd/</guid>
+      <description>Awesome talk from BSDCan 2018, a balanced look at systemd&amp;rsquo;s history and ideas..
+  </description>
+    </item>
+    
+  </channel>
+</rss>

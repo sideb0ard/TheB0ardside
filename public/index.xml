@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2018-06-16 00:00:00 &#43;0000 UTC</updated>
+    <updated>2018-08-13 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>The Tragedy Of systemd</title>
+      <link>http://theb0ardside.com/tragedy-systemd/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/tragedy-systemd/</guid>
+      <description>&lt;p&gt;Awesome talk from BSDCan 2018, a balanced look at systemd&amp;rsquo;s history and ideas..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/6AeWu1fZ7bY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>BCPL Algos 1 &amp; 2</title>
