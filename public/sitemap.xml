@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://theb0ardside.com/sheffield-moot/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/tragedy-systemd/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
@@ -1074,7 +1079,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/algorave/</loc>
-    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1200,7 +1205,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/blog/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1260,7 +1265,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1938,7 +1943,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/music/</loc>
-    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2291,6 +2296,12 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/soundb0ard/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/tags/speculation/</loc>
     <lastmod>2012-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2424,7 +2435,7 @@
   
   <url>
     <loc>http://theb0ardside.com/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2502,7 +2513,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/video/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

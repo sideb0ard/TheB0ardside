@@ -5,13 +5,24 @@
     <link>http://theb0ardside.com/tags/video/</link>
     <description>Recent content in Video on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://theb0ardside.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Tragedy Of systemd</title>
+      <title>Sheffield Algorave 2018</title>
+      <link>http://theb0ardside.com/sheffield-moot/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/sheffield-moot/</guid>
+      <description>Just got back from the very awesome Livecode Festival #2 in Sheffield UK, a gathering of like minded music programmers and algorithmic artists - super inspiring!
+Here&amp;rsquo;s a screencast i captured of my set for the Algorave:
+  </description>
+    </item>
+    
+    <item>
+      <title>The Tragedy of systemd</title>
       <link>http://theb0ardside.com/tragedy-systemd/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       

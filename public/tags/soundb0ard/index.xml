@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soundb0ard on The B0ardside</title>
+    <link>http://theb0ardside.com/tags/soundb0ard/</link>
+    <description>Recent content in Soundb0ard on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/soundb0ard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sheffield Algorave 2018</title>
+      <link>http://theb0ardside.com/sheffield-moot/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/sheffield-moot/</guid>
+      <description>Just got back from the very awesome Livecode Festival #2 in Sheffield UK, a gathering of like minded music programmers and algorithmic artists - super inspiring!
+Here&amp;rsquo;s a screencast i captured of my set for the Algorave:
+  </description>
+    </item>
+    
+  </channel>
+</rss>
