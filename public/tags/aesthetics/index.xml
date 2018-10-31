@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tools on The B0ardside</title>
-    <link>http://theb0ardside.com/tags/tools/</link>
-    <description>Recent content in Tools on The B0ardside</description>
+    <title>Aesthetics on The B0ardside</title>
+    <link>http://theb0ardside.com/tags/aesthetics/</link>
+    <description>Recent content in Aesthetics on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://theb0ardside.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://theb0ardside.com/tags/aesthetics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,16 +17,6 @@
       
       <guid>http://theb0ardside.com/aesthetics-and-narrative/</guid>
       <description>Great talk on composing functions for creative use!
-  </description>
-    </item>
-    
-    <item>
-      <title>Let Vim do the typing</title>
-      <link>http://theb0ardside.com/let-vim-do-the-typing/</link>
-      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://theb0ardside.com/let-vim-do-the-typing/</guid>
-      <description>Discovered lots of great vim talks - this one is neat:
   </description>
     </item>
     

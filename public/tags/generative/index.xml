@@ -5,10 +5,20 @@
     <link>http://theb0ardside.com/tags/generative/</link>
     <description>Recent content in Generative on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://theb0ardside.com/tags/generative/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>David Schmüdde - Aesthetics and Narrative: Programming What Cannot Be Programmed</title>
+      <link>http://theb0ardside.com/aesthetics-and-narrative/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/aesthetics-and-narrative/</guid>
+      <description>Great talk on composing functions for creative use!
+  </description>
+    </item>
     
     <item>
       <title>BCPL Algos 1 &amp; 2</title>
