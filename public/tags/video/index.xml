@@ -5,10 +5,20 @@
     <link>http://theb0ardside.com/tags/video/</link>
     <description>Recent content in Video on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://theb0ardside.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ron Pressler &#39;Finite of sense &amp; infinite of thought&#39;</title>
+      <link>http://theb0ardside.com/ron-pressler-codemesh18/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/ron-pressler-codemesh18/</guid>
+      <description>Found this on hacker news over Christmas - super good talk by Ron Pressler, spinning an awesome narrative around history of computation, logic and algebra &amp;ndash;
+  </description>
+    </item>
     
     <item>
       <title>David Schmüdde - Aesthetics and Narrative: Programming What Cannot Be Programmed</title>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tcp/Ip on The B0ardside</title>
+    <link>http://theb0ardside.com/tags/tcp-ip/</link>
+    <description>Recent content in Tcp/Ip on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/tcp-ip/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Greyglers!</title>
+      <link>http://theb0ardside.com/vent-cerf-greyglers/</link>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/vent-cerf-greyglers/</guid>
+      <description>Vint Cerf,the Don..
+  </description>
+    </item>
+    
+    <item>
+      <title>perl parp parp</title>
+      <link>http://theb0ardside.com/perlparpparp/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/perlparpparp/</guid>
+      <description>I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating. First stop was the exceptionally useful Whats My DNS
+At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host.</description>
+    </item>
+    
+    <item>
+      <title>webkit and chrome internals</title>
+      <link>http://theb0ardside.com/webkitandchromeinternals/</link>
+      <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/webkitandchromeinternals/</guid>
+      <description>I went along to the SF Web Performance Meetup last night, for a talk by Ilya Grigorik which was one of the best and most informative Meetups I&#39;ve been along to - lots of meaty details on how Webkit in general works, and specifically how Chrome uses it across the many platforms it runs on. The video has just been posted here - 
+Video streaming by Ustream
+Ilya starts speaking around the 12 minute mark.</description>
+    </item>
+    
+    <item>
+      <title>tcpdump patterns</title>
+      <link>http://theb0ardside.com/tcpdumppatterns/</link>
+      <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/tcpdumppatterns/</guid>
+      <description>I use tcpdump a lot, but mostly at a reasonably high level, only really restricting the capture to host and port info, then pulling the dump back into Wireshark for nicer visualisation and easier filtering.
+A couple of months back I read Moonwalking With Einsten, which is a nice pop-science history of the importance of memory in previous societies, alongside the contemporary phenomena of competitive memory competitions. The book is great, and explains how feats of memory are achieved via the technique of memory palaces, a technique dating back to Roman times - spatial memory relationships.</description>
+    </item>
+    
+  </channel>
+</rss>

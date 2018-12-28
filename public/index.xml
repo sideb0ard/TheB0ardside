@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2018-10-30 00:00:00 &#43;0000 UTC</updated>
+    <updated>2018-12-28 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Ron Pressler &#39;Finite of sense &amp; infinite of thought&#39;</title>
+      <link>http://theb0ardside.com/ron-pressler-codemesh18/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/ron-pressler-codemesh18/</guid>
+      <description>&lt;p&gt;Found this on &lt;a href=&#34;https://news.ycombinator.com/&#34;&gt;hacker news&lt;/a&gt; over Christmas - super good talk by Ron Pressler, spinning an awesome narrative around history of computation, logic and algebra &amp;ndash;&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/c_nPnURW6BU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>David Schmüdde - Aesthetics and Narrative: Programming What Cannot Be Programmed</title>

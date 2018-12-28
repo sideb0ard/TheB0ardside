@@ -22,13 +22,13 @@
     </ul>
     </div>
     <div>
-        {{ if .Prev }}
-          <a class="previous" href="{{.Prev.Permalink}}">Previous:: {{.Prev.Title}}</a>
+        {{ if .NextPage }}
+          <a class="previous" href="{{.NextPage.Permalink}}">Previous:: {{.NextPage.Title}}</a>
         {{ end }}
     </div>
     <div>
-        {{ if .Next }}
-          <a class="next" href="{{.Next.Permalink}}">Next:: {{.Next.Title}}</a>
+        {{ if .PrevPage }}
+          <a class="next" href="{{.PrevPage.Permalink}}">Next:: {{.PrevPage.Title}}</a>
         {{ end }}
     </div>
 </aside>
