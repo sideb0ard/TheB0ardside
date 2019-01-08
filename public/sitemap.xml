@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://theb0ardside.com/mark-fell-early-computer-music-langs/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/joscha-bach-ghost-in-machine/</loc>
     <lastmod>2018-12-30T00:00:00+00:00</lastmod>
   </url>
@@ -1226,7 +1231,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/blog/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1286,7 +1291,7 @@
   
   <url>
     <loc>http://theb0ardside.com/categories/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1365,6 +1370,12 @@
   <url>
     <loc>http://theb0ardside.com/tags/compiler/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/computer-music/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1694,7 +1705,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/history/</loc>
-    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2456,7 +2467,7 @@
   
   <url>
     <loc>http://theb0ardside.com/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2534,7 +2545,7 @@
   
   <url>
     <loc>http://theb0ardside.com/tags/video/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
