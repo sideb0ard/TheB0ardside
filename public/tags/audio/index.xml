@@ -5,10 +5,20 @@
     <link>http://theb0ardside.com/tags/audio/</link>
     <description>Recent content in Audio on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://theb0ardside.com/tags/audio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Golden Rules of Audio Programming, according to Pete Goodliffe</title>
+      <link>http://theb0ardside.com/golden-rules-audio-programming/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/golden-rules-audio-programming/</guid>
+      <description>I&amp;rsquo;ve been dealing with threaded data access race conditions between my ui and audio thread this weekend, so found this talk pretty informative &amp;ndash; !
+  </description>
+    </item>
     
     <item>
       <title>BCPL Algos 1 &amp; 2</title>
