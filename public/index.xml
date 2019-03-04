@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2019-02-10 00:00:00 &#43;0000 UTC</updated>
+    <updated>2019-03-03 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Let&#39;s Lisp Like It&#39;s 1959</title>
+      <link>http://theb0ardside.com/letslisp1959/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/letslisp1959/</guid>
+      <description>&lt;p&gt;Nicely delivered talk by Kristoffer Gronlund about the origins of the LISP language..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/hGY3uBHVVr4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>The Golden Rules of Audio Programming, according to Pete Goodliffe</title>
