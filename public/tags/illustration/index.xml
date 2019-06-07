@@ -5,10 +5,19 @@
     <link>http://theb0ardside.com/tags/illustration/</link>
     <description>Recent content in Illustration on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 23 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://theb0ardside.com/tags/illustration/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Side Of The City</title>
+      <link>http://theb0ardside.com/my-side-of-the-city/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/my-side-of-the-city/</guid>
+      <description>Finished a comic I&amp;rsquo;ve been working on this past year - over at the Drawing B0ard -</description>
+    </item>
     
     <item>
       <title>Ken Thompson, Cardboard Computer Scientist</title>
