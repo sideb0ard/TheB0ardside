@@ -6,7 +6,23 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2019-06-06 00:00:00 &#43;0000 UTC</updated>
+    <updated>2019-10-12 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Oboe - low latency Android Audio</title>
+      <link>http://theb0ardside.com/oboe-audio/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/oboe-audio/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve started building a toy Granular Synth for Android, using this Oboe library.&lt;/p&gt;
+
+&lt;p&gt;This video is a great introduction to it..&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/8vOf_fDtur4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>My Side Of The City</title>
