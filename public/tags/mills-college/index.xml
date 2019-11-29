@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mills College on The B0ardside</title>
+    <link>http://theb0ardside.com/tags/mills-college/</link>
+    <description>Recent content in Mills College on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://theb0ardside.com/tags/mills-college/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Phil Burk - Porting the Hierarchical Music Specification Language (HMSL) to JUCE</title>
+      <link>http://theb0ardside.com/phil-burk-hmsl/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/phil-burk-hmsl/</guid>
+      <description>I was out in London for 10 days recently, where I attended the JUCE Audio Developers Conference. Some great talks! I particularly enjoyed this one by Phil Burk on HMSL - Hierarchical Music Specification Language - a language he was involved in designing a Mill College, here in the Bay Area from the mid eighties till the early nineties. I&amp;rsquo;ve asked Phil to present a simlilar talk at Algorithmic Art Assembly 2020, which he&amp;rsquo;s agreed to!</description>
+    </item>
+    
+  </channel>
+</rss>
