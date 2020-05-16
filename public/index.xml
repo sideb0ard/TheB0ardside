@@ -6,7 +6,21 @@
     <language>en-us</language>
     <author>Thorsten Sideb0ard</author>
     <rights>Copyleft (c) 1974 - The Future, Thorsten Sideb0ard; nae rights reserved.</rights>
-    <updated>2019-11-29 00:00:00 &#43;0000 UTC</updated>
+    <updated>2020-05-16 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>The Art Of Code - Dylan Beattie</title>
+      <link>http://theb0ardside.com/the-art-of-code-dylan-beattie/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 UTC</pubDate>
+      <author>Thorsten Sideb0ard</author>
+      <guid>http://theb0ardside.com/the-art-of-code-dylan-beattie/</guid>
+      <description>&lt;p&gt;Super entertaining talk from Dylan Beattie, encompassing history of computational arts, live coding, math and having fun!&lt;/p&gt;
+
+&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/6avJHaC3C2U&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Phil Burk - Porting the Hierarchical Music Specification Language (HMSL) to JUCE</title>

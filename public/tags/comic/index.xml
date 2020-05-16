@@ -5,10 +5,20 @@
     <link>http://theb0ardside.com/tags/comic/</link>
     <description>Recent content in Comic on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 17 May 2012 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://theb0ardside.com/tags/comic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Art Of Code - Dylan Beattie</title>
+      <link>http://theb0ardside.com/the-art-of-code-dylan-beattie/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/the-art-of-code-dylan-beattie/</guid>
+      <description>Super entertaining talk from Dylan Beattie, encompassing history of computational arts, live coding, math and having fun!
+  </description>
+    </item>
     
     <item>
       <title>another cardboard computer scientist portrait</title>
