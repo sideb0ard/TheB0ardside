@@ -5,10 +5,20 @@
     <link>http://theb0ardside.com/categories/blog/</link>
     <description>Recent content in Blog on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://theb0ardside.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sound of the Stravinsky Sample</title>
+      <link>http://theb0ardside.com/stravinksy-sample/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/stravinksy-sample/</guid>
+      <description>This is an absolutely fascinating history of a Stravinsky sample which was included with the first Fairlight Synthesizers - so many songs where this appears!
+  </description>
+    </item>
     
     <item>
       <title>The Art Of Code - Dylan Beattie</title>
