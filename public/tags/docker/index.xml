@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docker on The B0ardside</title>
+    <title>docker on The B0ardside</title>
     <link>http://theb0ardside.com/tags/docker/</link>
-    <description>Recent content in Docker on The B0ardside</description>
+    <description>Recent content in docker on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Jul 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 14 Jul 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hashicorp are Insane(ly great)</title>
       <link>http://theb0ardside.com/hashicorp/</link>
       <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/hashicorp/</guid>
-      <description>Oh man, this talk is nuts - Mitchell Hashimoto introducing Terraform and Consul together..
-  </description>
+      <description>Oh man, this talk is nuts - Mitchell Hashimoto introducing Terraform and Consul together..</description>
     </item>
     
     <item>
@@ -26,8 +21,7 @@
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/docker-filesystems/</guid>
-      <description>Super nice quick overview of the importance of Copy-On-Write filesystems to Docker, going into detail of the benefits and downsides to each of the CoW options - AuFS, BTRFS, ZFS, Overlayfs, Device Mapper - great stuff!
-  </description>
+      <description>Super nice quick overview of the importance of Copy-On-Write filesystems to Docker, going into detail of the benefits and downsides to each of the CoW options - AuFS, BTRFS, ZFS, Overlayfs, Device Mapper - great stuff!</description>
     </item>
     
     <item>
@@ -36,8 +30,7 @@
       <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/hightower-kubernetes/</guid>
-      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..
-  </description>
+      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..</description>
     </item>
     
     <item>
@@ -47,7 +40,7 @@
       
       <guid>http://theb0ardside.com/containers-at-google/</guid>
       <description>Eric Brewer&amp;rsquo;s keynote from Dockercon14 -
-  Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
+Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
     </item>
     
     <item>
@@ -56,8 +49,7 @@
       <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
-      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..
-  </description>
+      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..</description>
     </item>
     
   </channel>

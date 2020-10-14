@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Distributed on The B0ardside</title>
+    <title>distributed on The B0ardside</title>
     <link>http://theb0ardside.com/tags/distributed/</link>
-    <description>Recent content in Distributed on The B0ardside</description>
+    <description>Recent content in distributed on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 29 Jan 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/distributed/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 29 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/distributed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Etcd 2.0 walkthrough</title>
       <link>http://theb0ardside.com/etcd2.0/</link>
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/etcd2.0/</guid>
-      <description>Excellent overview of Etcd and description of new features / bug fixes in 2.0..
-  </description>
+      <description>Excellent overview of Etcd and description of new features / bug fixes in 2.0..</description>
     </item>
     
   </channel>

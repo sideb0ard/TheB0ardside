@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fortran on The B0ardside</title>
+    <title>fortran on The B0ardside</title>
     <link>http://theb0ardside.com/tags/fortran/</link>
-    <description>Recent content in Fortran on The B0ardside</description>
+    <description>Recent content in fortran on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 16 Sep 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/fortran/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 16 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/fortran/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FORTRAN!</title>
       <link>http://theb0ardside.com/fortran-intro/</link>
       <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/fortran-intro/</guid>
-      <description>Oh shit! this is incredible - IBM engineer walks through the development of a FORTRAN program, including I&amp;rsquo;m guessing, the first appearance of a GOTO statement! Then, in part two, they have their FORmula TRANslator translate a Fortran program into IBM symbolic language/assembly, and output it to PUNCH CARDS!!. wow..
-    </description>
+      <description>Oh shit! this is incredible - IBM engineer walks through the development of a FORTRAN program, including I&amp;rsquo;m guessing, the first appearance of a GOTO statement! Then, in part two, they have their FORmula TRANslator translate a Fortran program into IBM symbolic language/assembly, and output it to PUNCH CARDS!!. wow..</description>
     </item>
     
   </channel>

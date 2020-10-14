@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scsi on The B0ardside</title>
+    <title>scsi on The B0ardside</title>
     <link>http://theb0ardside.com/tags/scsi/</link>
-    <description>Recent content in Scsi on The B0ardside</description>
+    <description>Recent content in scsi on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 27 Oct 2011 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/scsi/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 27 Oct 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/scsi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>the mysterious MegaCLI</title>
       <link>http://theb0ardside.com/themysteriousmegacli/</link>
       <pubDate>Thu, 27 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/themysteriousmegacli/</guid>
-      <description>I&#39;ve inherited some Production Sun Fire X4470 boxes, which upon first look appeared to only have 2 x 140GB drives. Checking the purchase orders however, revealed that they should in fact have 4 x 140GB drives, a fact confirmed by &amp;#8220;dmesg |grep scsi&amp;#8221;.
-These Sun Fire servers come with an internal 6Gb SAS PCIe RAID HBA which are managed via the LSI MegaRAID Management Suite. Unfortunately, the LSI website is a nightmare to navigate and has been re-arranged with no-redirects, requires a login and in general makes it very hard to find and download the MegaCLI utility.</description>
+      <description></description>
     </item>
     
   </channel>

@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Excitement on The B0ardside</title>
+    <title>excitement on The B0ardside</title>
     <link>http://theb0ardside.com/tags/excitement/</link>
-    <description>Recent content in Excitement on The B0ardside</description>
+    <description>Recent content in excitement on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 Sep 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/excitement/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 26 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/excitement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>You Can Be A Kernel Hacker</title>
       <link>http://theb0ardside.com/julia-evans-kernel-hacker/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/julia-evans-kernel-hacker/</guid>
-      <description>Brilliant, brilliant talk from Julia Evans, getting excited about kernel hacking. Warning: Super infectious levels of enthusiasm!
-  </description>
+      <description>Brilliant, brilliant talk from Julia Evans, getting excited about kernel hacking. Warning: Super infectious levels of enthusiasm!</description>
     </item>
     
   </channel>

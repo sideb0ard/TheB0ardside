@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hardware on The B0ardside</title>
+    <title>hardware on The B0ardside</title>
     <link>http://theb0ardside.com/tags/hardware/</link>
-    <description>Recent content in Hardware on The B0ardside</description>
+    <description>Recent content in hardware on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Jun 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 10 Jun 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Silicon Valley of Hardware</title>
       <link>http://theb0ardside.com/ashenzjen-wired/</link>
       <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/ashenzjen-wired/</guid>
-      <description>Really great wee short from Wired.com about how Shenzhen became the powerhouse it is now..
-  </description>
+      <description>Really great wee short from Wired.com about how Shenzhen became the powerhouse it is now..</description>
     </item>
     
     <item>
@@ -26,8 +21,7 @@
       <pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/mos6502-microcontroller/</guid>
-      <description>Nice and short 30 min talk about the origins and background to the MOS Technologies 6502 micro-controller, which came out in 1975 and powered the BBC Micro, the Commodore 64, first Nintendo, amongst many others. Super good!
-  </description>
+      <description>Nice and short 30 min talk about the origins and background to the MOS Technologies 6502 micro-controller, which came out in 1975 and powered the BBC Micro, the Commodore 64, first Nintendo, amongst many others. Super good!</description>
     </item>
     
     <item>
@@ -36,8 +30,7 @@
       <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/consumerdrones/</guid>
-      <description>oh wow&amp;hellip;
- </description>
+      <description>oh wow&amp;hellip;</description>
     </item>
     
     <item>
@@ -55,7 +48,7 @@
       <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/apollocomputer/</guid>
-      <description>awesome sauce.</description>
+      <description></description>
     </item>
     
     <item>
@@ -64,7 +57,7 @@
       <pubDate>Fri, 21 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/oldschool/</guid>
-      <description>(( via google ))</description>
+      <description></description>
     </item>
     
     <item>
@@ -73,7 +66,7 @@
       <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/leapmotion/</guid>
-      <description>ooh, nice. Just saw this company mentioned in the comments of an HN thread.</description>
+      <description></description>
     </item>
     
     <item>
@@ -82,10 +75,7 @@
       <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/aroundtheearthin200ms/</guid>
-      <description>A month or two back, i saw an interesting figure on Bram Cohen&#39;s blog:
-&amp;#8220;The speed of light in a fiber optic cable around the earth&amp;rsquo;s circumference is about 200 milliseconds.&amp;#8221;
-(from here)
-I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of those useful metrics to know. I&#39;ve referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -</description>
+      <description></description>
     </item>
     
     <item>
@@ -94,8 +84,7 @@ I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of 
       <pubDate>Sun, 03 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vonneumannandtheinstituteforadvancedstudy/</guid>
-      <description>I&#39;ve started reading George Dyson&#39;s &amp;#8220;Turing&#39;s Cathedral&amp;#8221;, and really enjoying it - I love reading the historical context of technological progress, feels like a lot of sociological reading, filling in another of the endless jigsaw pieces of a larger all-encompassing narrative.
-Here&#39;s George Dyson doing a lecture on the material in the book :</description>
+      <description></description>
     </item>
     
     <item>
@@ -104,9 +93,7 @@ Here&#39;s George Dyson doing a lecture on the material in the book :</descripti
       <pubDate>Fri, 13 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jvmtuningforvms/</guid>
-      <description>This is an excellent talk about the interaction between the various layers of memory abstraction from the a machine&#39;s physical memory down through the Hypervisor&#39;s view, to the Guest OS&#39;s and down into the JVM:
-
-// found via Marakana //</description>
+      <description></description>
     </item>
     
     <item>
@@ -115,7 +102,7 @@ Here&#39;s George Dyson doing a lecture on the material in the book :</descripti
       <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/therealgoogleeyed/</guid>
-      <description>ha, my friend Mat turned me on to this spoof version -</description>
+      <description></description>
     </item>
     
     <item>
@@ -124,7 +111,7 @@ Here&#39;s George Dyson doing a lecture on the material in the book :</descripti
       <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/goinggoogleeyed/</guid>
-      <description>Ah, see, my comic is all true! :D</description>
+      <description></description>
     </item>
     
     <item>
@@ -133,8 +120,7 @@ Here&#39;s George Dyson doing a lecture on the material in the book :</descripti
       <pubDate>Mon, 14 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/bringthenoyce/</guid>
-      <description>yow, sorry, that title&#39;s a really bad pun! 
-So two things here - i started to watch this video with Robert Noyce talking about the development of the IC, but in the introduction and in his opening, they talk about an article written by Tom Wolfe about Noyce - now, Tom Wolfe was a massive influence on my teenage self, or at least one of his books, The Electric Kool Aid Acid Test, which a friends older brother passed on to me when i was fifteen.</description>
+      <description></description>
     </item>
     
     <item>
@@ -143,8 +129,7 @@ So two things here - i started to watch this video with Robert Noyce talking abo
       <pubDate>Thu, 27 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/themysteriousmegacli/</guid>
-      <description>I&#39;ve inherited some Production Sun Fire X4470 boxes, which upon first look appeared to only have 2 x 140GB drives. Checking the purchase orders however, revealed that they should in fact have 4 x 140GB drives, a fact confirmed by &amp;#8220;dmesg |grep scsi&amp;#8221;.
-These Sun Fire servers come with an internal 6Gb SAS PCIe RAID HBA which are managed via the LSI MegaRAID Management Suite. Unfortunately, the LSI website is a nightmare to navigate and has been re-arranged with no-redirects, requires a login and in general makes it very hard to find and download the MegaCLI utility.</description>
+      <description></description>
     </item>
     
     <item>
@@ -153,7 +138,7 @@ These Sun Fire servers come with an internal 6Gb SAS PCIe RAID HBA which are man
       <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/multicoreufos/</guid>
-      <description>Interesting article on GigaOm this morning about Facebook benchmarking a 64-core chip from Tilera. The X86 processor architecture has been in a dominant for so many years, not based upon any inherent sophistication, but more based upon chance and circumstance (see this vid for more details around the 48min mark), so it does feel about time for a new advancement in hardware architecture. Be interesting to watch this space and see what develops.</description>
+      <description></description>
     </item>
     
   </channel>

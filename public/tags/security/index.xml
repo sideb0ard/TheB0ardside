@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Security on The B0ardside</title>
+    <title>security on The B0ardside</title>
     <link>http://theb0ardside.com/tags/security/</link>
-    <description>Recent content in Security on The B0ardside</description>
+    <description>Recent content in security on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Aug 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 09 Aug 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is TLS Fast Yet?</title>
       <link>http://theb0ardside.com/ilyagrigoriktls/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/ilyagrigoriktls/</guid>
-      <description>Modern TLS practises
-  </description>
+      <description>Modern TLS practises</description>
     </item>
     
     <item>
@@ -26,7 +21,7 @@
       <pubDate>Thu, 04 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/advancednetworkreconnaissancewithnmap2006/</guid>
-      <description>yow, this is some hardcore indepth port scanning shizzle -</description>
+      <description></description>
     </item>
     
   </channel>

@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vagrant on The B0ardside</title>
+    <title>vagrant on The B0ardside</title>
     <link>http://theb0ardside.com/tags/vagrant/</link>
-    <description>Recent content in Vagrant on The B0ardside</description>
+    <description>Recent content in vagrant on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 May 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/vagrant/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 29 May 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/vagrant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Berkshelf - the missing piece</title>
       <link>http://theb0ardside.com/berkshelfthemissingpiece/</link>
       <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/berkshelfthemissingpiece/</guid>
-      <description>If you&#39;ve been following my past few posts, you&#39;ve seen i was investigating how best to integrate the plethora of Chef testing tools that&#39;ve been coming out &amp;#8212; foodcritic, chefspec, test-kitchen, mini-test &amp;#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&amp;#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo?</description>
+      <description></description>
     </item>
     
     <item>
@@ -25,8 +21,7 @@
       <pubDate>Wed, 15 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/testdrivenchef/</guid>
-      <description>I&#39;m looking to start using Test-Kitchen and Berkshelf, and basically trying to get my head round setting up a proper test driven Chef setup.
-I found this video from last year to be quite a good introduction to some of the setup -</description>
+      <description></description>
     </item>
     
     <item>
@@ -35,10 +30,7 @@ I found this video from last year to be quite a good introduction to some of the
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vagrantandchefsetup/</guid>
-      <description>I&#39;ve been reading through ThoughtWorks&#39; latest &amp;#8216;technology radar&amp;#8216; which led me to look up Vagrant, one of the tools they list as worth exploring.
-Vagrant is a framework for building and deploying Virtual Machine environments, using Oracle VirtualBox for the actual VMs and utilizing Chef for configuration management. Watching through this intro video:
-http://vimeo.com/9976342
-i was quite intrigued as it is very similar to what i was looking to achieve earlier when i was experimenting with installing Xen and configuring with Puppet.</description>
+      <description></description>
     </item>
     
   </channel>

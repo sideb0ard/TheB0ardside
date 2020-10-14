@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creative Code on The B0ardside</title>
+    <title>creative code&#34; on The B0ardside</title>
     <link>http://theb0ardside.com/tags/creative-code/</link>
-    <description>Recent content in Creative Code on The B0ardside</description>
+    <description>Recent content in creative code&#34; on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Jan 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/creative-code/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 06 Jan 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/creative-code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Joshua Davis - Beyond Play</title>
       <link>http://theb0ardside.com/joshua-davis-beyond-play/</link>
@@ -17,8 +13,7 @@
       
       <guid>http://theb0ardside.com/joshua-davis-beyond-play/</guid>
       <description>Wow. just wow&amp;hellip;
-   Tack turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?!
-This was following me and Tack&amp;rsquo;s Codetraxx project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while.</description>
+This was following me and Tack&amp;rsquo;s Codetraxx project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while. Another friend of mine, Matt Spendlove, had told me about The Nature Of Code which i&amp;rsquo;ve been wanting to read, so I suggested we play with Processing - seems awesome already!</description>
     </item>
     
   </channel>

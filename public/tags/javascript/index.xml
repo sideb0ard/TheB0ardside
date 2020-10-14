@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Javascript on The B0ardside</title>
+    <title>javascript on The B0ardside</title>
     <link>http://theb0ardside.com/tags/javascript/</link>
-    <description>Recent content in Javascript on The B0ardside</description>
+    <description>Recent content in javascript on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Jan 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 07 Jan 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oh yeah, Codetraxx</title>
       <link>http://theb0ardside.com/codetraxx/</link>
       <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/codetraxx/</guid>
-      <description>Oh yeah, that Codetraxx project I mentioned, which me and Tack have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..
- </description>
+      <description>Oh yeah, that Codetraxx project I mentioned, which me and Tack have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..</description>
     </item>
     
     <item>
@@ -27,7 +22,7 @@
       
       <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
       <description>Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..
-  // found via https://twitter.com/littlecalculist/status/418800989634695168</description>
+// found via https://twitter.com/littlecalculist/status/418800989634695168</description>
     </item>
     
     <item>
@@ -36,7 +31,7 @@
       <pubDate>Sat, 09 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/mohistorylessons/</guid>
-      <description>wow, been finding so many good online video talks. I&#39;ve been genning up on node.js, which has led me into studying more javascript, and this latest lecture, is a massive five part series of talks about javascript. It&#39;s the first one which really stands out, and which fits in with the theme of historical lectures i&#39;ve been posting, covering the history of computing from the Jacquard Loom through the evolution of processors and programming languages up to Javascript.</description>
+      <description></description>
     </item>
     
   </channel>

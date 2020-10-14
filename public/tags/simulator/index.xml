@@ -1,25 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Simulator on The B0ardside</title>
+    <title>simulator on The B0ardside</title>
     <link>http://theb0ardside.com/tags/simulator/</link>
-    <description>Recent content in Simulator on The B0ardside</description>
+    <description>Recent content in simulator on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Aug 2011 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/simulator/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 05 Aug 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/simulator/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vagrant and Chef setup</title>
       <link>http://theb0ardside.com/vagrantandchefsetup/</link>
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vagrantandchefsetup/</guid>
-      <description>I&#39;ve been reading through ThoughtWorks&#39; latest &amp;#8216;technology radar&amp;#8216; which led me to look up Vagrant, one of the tools they list as worth exploring.
-Vagrant is a framework for building and deploying Virtual Machine environments, using Oracle VirtualBox for the actual VMs and utilizing Chef for configuration management. Watching through this intro video:
-http://vimeo.com/9976342
-i was quite intrigued as it is very similar to what i was looking to achieve earlier when i was experimenting with installing Xen and configuring with Puppet.</description>
+      <description></description>
     </item>
     
     <item>
@@ -28,8 +21,7 @@ i was quite intrigued as it is very similar to what i was looking to achieve ear
       <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/recordstorebot/</guid>
-      <description>First draft of my Record Store Bot is live over on Github - basically tying a Chatbot::Eliza style interface to Last.fm web services for an interactive (hopefully amusing) music recommendation bot.
-Works surprisingly well - although only has one method at the moment..</description>
+      <description></description>
     </item>
     
     <item>
@@ -38,7 +30,7 @@ Works surprisingly well - although only has one method at the moment..</descript
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/timetravellingwithunix/</guid>
-      <description>I discovered Unix back in 1998. At the time i was a lowly Windows desktop support engineer when i started dabbling with Red Hat Linux v 4.2. Compared to the process of fixing Windows 3.1 systems ( i.e. reinstall drivers and reboot - if that doesn&amp;rsquo;t work, reinstall OS and drivers - repeat until it does work), playing with Linux was a joy of knowledge. Every part of the installation process was a problem hiding a wormhole of required knowledge.</description>
+      <description></description>
     </item>
     
   </channel>

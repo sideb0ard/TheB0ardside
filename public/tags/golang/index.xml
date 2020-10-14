@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on The B0ardside</title>
+    <title>golang on The B0ardside</title>
     <link>http://theb0ardside.com/tags/golang/</link>
-    <description>Recent content in Golang on The B0ardside</description>
+    <description>Recent content in golang on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 11 Oct 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 11 Oct 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andrew Gerrand talking at Go UK 2015 - stupid gopher tricks</title>
       <link>http://theb0ardside.com/andrewgerrandgouk2015/</link>
       <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/andrewgerrandgouk2015/</guid>
-      <description>Hah, some awesome bits in here&amp;hellip;
-  </description>
+      <description>Hah, some awesome bits in here&amp;hellip;</description>
     </item>
     
     <item>
@@ -26,8 +21,7 @@
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robpike-go-concurrency/</guid>
-      <description>I thought I had seen this, but no, it&amp;rsquo;s just a similar theme to other talks by Rob Pike I&amp;rsquo;ve seen - this one is quite fun to code along too, its a super neat and compact concurrency app..
-  </description>
+      <description>I thought I had seen this, but no, it&amp;rsquo;s just a similar theme to other talks by Rob Pike I&amp;rsquo;ve seen - this one is quite fun to code along too, its a super neat and compact concurrency app..</description>
     </item>
     
     <item>
@@ -36,9 +30,7 @@
       <pubDate>Thu, 22 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robpikeconcurrency/</guid>
-      <description>This is a great talk by Rob Pike on Go Routines, Channels and concurrency&amp;hellip;
- Rob Pike - &#39;Concurrency Is Not Parallelism&#39; from Waza on Vimeo.
- </description>
+      <description>This is a great talk by Rob Pike on Go Routines, Channels and concurrency&amp;hellip;</description>
     </item>
     
     <item>
@@ -47,8 +39,7 @@
       <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robpike-gophercon-2014/</guid>
-      <description>Awesome, awesome talk from Rob Pike, the keynote for GopherCon 2014, some old Unix/C history and lots of details of Go development &amp;ndash;
-  </description>
+      <description>Awesome, awesome talk from Rob Pike, the keynote for GopherCon 2014, some old Unix/C history and lots of details of Go development &amp;ndash;</description>
     </item>
     
     <item>

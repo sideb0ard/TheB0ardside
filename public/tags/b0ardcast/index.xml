@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>B0ardcast on The B0ardside</title>
+    <title>b0ardcast on The B0ardside</title>
     <link>http://theb0ardside.com/tags/b0ardcast/</link>
-    <description>Recent content in B0ardcast on The B0ardside</description>
+    <description>Recent content in b0ardcast on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Apr 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/b0ardcast/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 24 Apr 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/b0ardcast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>B0ardcast 28</title>
       <link>http://theb0ardside.com/b0ardcast28/</link>
@@ -17,8 +13,6 @@
       
       <guid>http://theb0ardside.com/b0ardcast28/</guid>
       <description>Here&amp;rsquo;s this week&amp;rsquo;s B0ardcast, broadcast on BFF.fm every friday.
-The B0ardcast Episode 28 by Sideb0ard on Mixcloud
-
 Tracklist:::
 Dhobi Fats - She Wants A Daisy
 Betty And The Werewolves - Should I go to Glasgow?
@@ -27,7 +21,9 @@ halfsour - target practice (henry&amp;rsquo;s dress cover)
 Japanther - All We Got Is Each Other (Peanucle)
 Kitten Crisis - Yer Hair
 Braves - True Feelings
-peach kelli pop - Bat Wing</description>
+peach kelli pop - Bat Wing
+Plantains - Wendy
+SadGirl - Lie Awake</description>
     </item>
     
   </channel>

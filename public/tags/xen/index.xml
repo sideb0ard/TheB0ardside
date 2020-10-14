@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xen on The B0ardside</title>
+    <title>xen on The B0ardside</title>
     <link>http://theb0ardside.com/tags/xen/</link>
-    <description>Recent content in Xen on The B0ardside</description>
+    <description>Recent content in xen on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 10 Oct 2011 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/xen/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 10 Oct 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/xen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gen Xen</title>
       <link>http://theb0ardside.com/genxen/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/genxen/</guid>
-      <description>I&#39;ve been working pretty extensively with Xen and Puppet in my new job, really loving it! I&#39;ve been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I&#39;ve just finished a script which is over on my github page, which basically automates what was previously a manual process.
-Basically, it copies your existing disk.img and swap.img, generates a new xen.</description>
+      <description></description>
     </item>
     
   </channel>

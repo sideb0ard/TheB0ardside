@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resiliency on The B0ardside</title>
+    <title>resiliency on The B0ardside</title>
     <link>http://theb0ardside.com/tags/resiliency/</link>
-    <description>Recent content in Resiliency on The B0ardside</description>
+    <description>Recent content in resiliency on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 11 May 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/resiliency/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 11 May 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/resiliency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netflix OSS</title>
       <link>http://theb0ardside.com/netflixoss/</link>
       <pubDate>Sat, 11 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/netflixoss/</guid>
-      <description>Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:</description>
+      <description></description>
     </item>
     
     <item>
@@ -25,7 +21,7 @@
       <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/scalingatdropbox/</guid>
-      <description>I highly recommend this DevOps Weekly mail out. The latest one has a bunch of good links, and one i found especially was this &amp;#8220;Scaling lessons learned at Dropbox, part 1&amp;#8220;.</description>
+      <description></description>
     </item>
     
     <item>
@@ -34,8 +30,7 @@
       <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/somefavvelocitytalks/</guid>
-      <description>Velocity was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!
-Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..</description>
+      <description></description>
     </item>
     
     <item>
@@ -44,7 +39,7 @@ Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve wat
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/allspawonanticipation/</guid>
-      <description>// via John&#39;s blog at Kitchen Soap //</description>
+      <description></description>
     </item>
     
   </channel>

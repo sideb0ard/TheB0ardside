@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Twitter on The B0ardside</title>
+    <title>twitter on The B0ardside</title>
     <link>http://theb0ardside.com/tags/twitter/</link>
-    <description>Recent content in Twitter on The B0ardside</description>
+    <description>Recent content in twitter on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 09 Dec 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 09 Dec 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Troubleshooting the JVM at Twitter</title>
       <link>http://theb0ardside.com/troubleshootingjvmtwitter/</link>
@@ -26,9 +22,7 @@ Beyond simply CPU counters and stack trace, they also tie in other JVM flags whi
       <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/realtimestats/</guid>
-      <description>Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB&#39;s new real-time analytics system: Watch live streaming video from facebookeducation at livestream.comIn the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::
-Rainbird: Realtime Analytics at Twitter (Strata 2011) View more presentations from Kevin Weil 
-(hello Johan!)</description>
+      <description></description>
     </item>
     
   </channel>

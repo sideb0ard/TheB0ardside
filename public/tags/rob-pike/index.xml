@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rob Pike on The B0ardside</title>
+    <title>rob pike on The B0ardside</title>
     <link>http://theb0ardside.com/tags/rob-pike/</link>
-    <description>Recent content in Rob Pike on The B0ardside</description>
+    <description>Recent content in rob pike on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/rob-pike/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/rob-pike/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rob Pike, Go Concurrency Patterns</title>
       <link>http://theb0ardside.com/robpike-go-concurrency/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robpike-go-concurrency/</guid>
-      <description>I thought I had seen this, but no, it&amp;rsquo;s just a similar theme to other talks by Rob Pike I&amp;rsquo;ve seen - this one is quite fun to code along too, its a super neat and compact concurrency app..
-  </description>
+      <description>I thought I had seen this, but no, it&amp;rsquo;s just a similar theme to other talks by Rob Pike I&amp;rsquo;ve seen - this one is quite fun to code along too, its a super neat and compact concurrency app..</description>
     </item>
     
   </channel>

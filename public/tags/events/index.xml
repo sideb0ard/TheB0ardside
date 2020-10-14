@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events on The B0ardside</title>
+    <title>events on The B0ardside</title>
     <link>http://theb0ardside.com/tags/events/</link>
-    <description>Recent content in Events on The B0ardside</description>
+    <description>Recent content in events on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/events/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>videos from Algorithmic Art Assembly</title>
       <link>http://theb0ardside.com/algorithmic-art-assembly-vids/</link>
@@ -18,9 +14,9 @@
       <guid>http://theb0ardside.com/algorithmic-art-assembly-vids/</guid>
       <description>Oh, should have posted this a while back!
 All videos from the Algorithmic Art Assembly conference/festival I ran in March, are now online &amp;ndash;
-Friday Day  
-Friday Night  
-Saturday Day  
+Friday Day
+Friday Night
+Saturday Day
 Saturday Night</description>
     </item>
     

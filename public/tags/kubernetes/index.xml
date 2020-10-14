@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kubernetes on The B0ardside</title>
+    <title>kubernetes on The B0ardside</title>
     <link>http://theb0ardside.com/tags/kubernetes/</link>
-    <description>Recent content in Kubernetes on The B0ardside</description>
+    <description>Recent content in kubernetes on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Jun 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 02 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From Config Management to a proper Scheduling system</title>
       <link>http://theb0ardside.com/coreosfestcloser/</link>
       <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/coreosfestcloser/</guid>
-      <description>This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..
-  </description>
+      <description>This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..</description>
     </item>
     
   </channel>

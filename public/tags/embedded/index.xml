@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Embedded on The B0ardside</title>
+    <title>embedded on The B0ardside</title>
     <link>http://theb0ardside.com/tags/embedded/</link>
-    <description>Recent content in Embedded on The B0ardside</description>
+    <description>Recent content in embedded on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Jun 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/embedded/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 18 Jun 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/embedded/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chris Simmonds - timeline for embedded linux</title>
       <link>http://theb0ardside.com/embedded-linux-timeline/</link>
       <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/embedded-linux-timeline/</guid>
-      <description>Nicely informed history of Linux in embedded devices..
-  </description>
+      <description>Nicely informed history of Linux in embedded devices..</description>
     </item>
     
     <item>
@@ -26,8 +21,7 @@
       <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/rob-landley-toybox/</guid>
-      <description>Ah, this is ace!
-  </description>
+      <description>Ah, this is ace!</description>
     </item>
     
   </channel>

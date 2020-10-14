@@ -1,6 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://theb0ardside.com/categories/blog/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/categories/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/history/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/music/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>http://theb0ardside.com/stravinksy-sample/</loc>
@@ -8,7 +28,37 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/vidoe/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/comic/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/software-art/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/theartofcode/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/video/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,8 +68,33 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/audio/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/live-coding/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/mills-college/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/phil-burk-hmsl/</loc>
     <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/android/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/demo/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,7 +103,37 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/algorithm/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/art/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/events/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/illustration/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/my-side-of-the-city/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/san-francisco/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/sunset/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,13 +143,33 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/languages/</loc>
+    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/letslisp1959/</loc>
     <lastmod>2019-03-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/howto/</loc>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/programming/</loc>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/golden-rules-audio-programming/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/computer-music/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,8 +183,18 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/philosophy/</loc>
+    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/ron-pressler-codemesh18/</loc>
     <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/aesthetics/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -68,12 +203,42 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/generative/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/tools/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/algorave/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/sheffield-moot/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/soundb0ard/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/systemd/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/tragedy-systemd/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/unix/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,8 +248,23 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/language/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/procedural-programming/</loc>
     <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/performance/</loc>
+    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/sound/</loc>
+    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,7 +273,27 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/bio/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/creativity/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/dalriada/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/scotland/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/skate/</loc>
     <lastmod>2018-02-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,13 +303,53 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/vr/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/tidalcyles-tutorial/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/algorithmic/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/algorave-guardian-article/</loc>
     <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/scene/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/sheffiled/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/c&#43;&#43;/</loc>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/compiler/</loc>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/future/</loc>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/games/</loc>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -123,7 +363,37 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/comics/</loc>
+    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/nervous/</loc>
+    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/startups/</loc>
+    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/talk/</loc>
+    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/crazygood/</loc>
+    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/c64-cubase/</loc>
+    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/hacker/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,8 +403,33 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/dsp/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/fft/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/visualization/</loc>
+    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/magenta-art/</loc>
     <lastmod>2017-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/berlin/</loc>
+    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/monolake/</loc>
+    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -148,13 +443,43 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/sound-art/</loc>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/erlang/</loc>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/functional/</loc>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/john-hughes-why-functional/</loc>
     <lastmod>2017-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/lynch/</loc>
+    <lastmod>2017-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/palmbonnenii/</loc>
     <lastmod>2017-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/weird/</loc>
+    <lastmod>2017-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/funny/</loc>
+    <lastmod>2017-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -168,8 +493,38 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/vim/</loc>
+    <lastmod>2017-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/xoxo/</loc>
+    <lastmod>2017-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/developers-writing-the-future/</loc>
     <lastmod>2016-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/software/</loc>
+    <lastmod>2016-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/c/</loc>
+    <lastmod>2016-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/kernel/</loc>
+    <lastmod>2016-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/linux/</loc>
+    <lastmod>2016-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -178,13 +533,43 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/awesome/</loc>
+    <lastmod>2016-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/experimental-music/</loc>
+    <lastmod>2016-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/algomech2016/</loc>
+    <lastmod>2016-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/techno/</loc>
     <lastmod>2016-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://theb0ardside.com/julia-evans-strange-loop-2016/</loc>
     <lastmod>2016-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/strange-loop/</loc>
+    <lastmod>2016-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/systems-programming/</loc>
+    <lastmod>2016-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/animation/</loc>
+    <lastmod>2016-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -203,12 +588,37 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/embedded/</loc>
+    <lastmod>2016-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/china/</loc>
+    <lastmod>2016-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/hardware/</loc>
+    <lastmod>2016-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/ashenzjen-wired/</loc>
     <lastmod>2016-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/opinion/</loc>
+    <lastmod>2016-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/rob-landley-toybox/</loc>
+    <lastmod>2016-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/systems/</loc>
     <lastmod>2016-05-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -223,7 +633,22 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/tv/</loc>
+    <lastmod>2016-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/con/</loc>
+    <lastmod>2016-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/efficiency-performance-talk-cppcon2014/</loc>
+    <lastmod>2016-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/talks/</loc>
     <lastmod>2016-04-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,7 +658,17 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/stylemag/</loc>
+    <lastmod>2016-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/18-year-old-mainframe/</loc>
+    <lastmod>2016-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/mainframes/</loc>
     <lastmod>2016-03-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -248,8 +683,23 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/apple/</loc>
+    <lastmod>2016-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/sci-fi/</loc>
+    <lastmod>2016-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/sci-fi-short/</loc>
     <lastmod>2016-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/bell-labs/</loc>
+    <lastmod>2015-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -258,7 +708,22 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/architecture/</loc>
+    <lastmod>2015-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/arm/</loc>
+    <lastmod>2015-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/embedded-android/</loc>
+    <lastmod>2015-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/internals/</loc>
     <lastmod>2015-12-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -268,8 +733,18 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/skateboarding/</loc>
+    <lastmod>2015-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/skateboarding-reservation/</loc>
     <lastmod>2015-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/code/</loc>
+    <lastmod>2015-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -278,7 +753,22 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/amusing/</loc>
+    <lastmod>2015-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/engineering/</loc>
+    <lastmod>2015-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/howtobuildaskycraper/</loc>
+    <lastmod>2015-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/metaphor/</loc>
     <lastmod>2015-10-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -288,8 +778,18 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/golang/</loc>
+    <lastmod>2015-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/grant-taylor/</loc>
     <lastmod>2015-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/smartypants/</loc>
+    <lastmod>2015-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -298,13 +798,38 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/bryan-cantrill/</loc>
+    <lastmod>2015-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/solaris-to-illumos/</loc>
+    <lastmod>2015-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/illumos/</loc>
+    <lastmod>2015-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/meetup/</loc>
     <lastmod>2015-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://theb0ardside.com/mos6502-microcontroller/</loc>
     <lastmod>2015-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/bw/</loc>
+    <lastmod>2015-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/fortran/</loc>
+    <lastmod>2015-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -318,8 +843,28 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/california/</loc>
+    <lastmod>2015-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/dreams/</loc>
+    <lastmod>2015-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/skateboard/</loc>
+    <lastmod>2015-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/skater-dater-1965/</loc>
     <lastmod>2015-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/perl/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -328,8 +873,28 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/portaudio/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/att/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/kernighan-history/</loc>
     <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/datacenters/</loc>
+    <lastmod>2015-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/docker/</loc>
+    <lastmod>2015-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -338,8 +903,28 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/infrastructure/</loc>
+    <lastmod>2015-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/britain/</loc>
+    <lastmod>2015-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/early-uk-computers/</loc>
     <lastmod>2015-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/mit/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/operating-system/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -348,12 +933,37 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/timesharing/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/containers/</loc>
+    <lastmod>2015-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/docker-filesystems/</loc>
     <lastmod>2015-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/filesystems/</loc>
+    <lastmod>2015-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/coreos/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/coreosfestcloser/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/kubernetes/</loc>
     <lastmod>2015-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -363,8 +973,23 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/google/</loc>
+    <lastmod>2015-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/arpanet/</loc>
+    <lastmod>2015-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/vint-cerf-packets/</loc>
     <lastmod>2015-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/b0ardcast/</loc>
+    <lastmod>2015-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -373,13 +998,43 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/practical/</loc>
+    <lastmod>2015-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/scale/</loc>
+    <lastmod>2015-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/system-facebook-scale/</loc>
     <lastmod>2015-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/defcon/</loc>
+    <lastmod>2015-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/pets/</loc>
+    <lastmod>2015-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/weaponizing-your-pets/</loc>
     <lastmod>2015-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/bsd/</loc>
+    <lastmod>2015-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/freebsd/</loc>
+    <lastmod>2015-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -393,8 +1048,38 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/boston-dynamics/</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/robot/</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/cluster/</loc>
+    <lastmod>2015-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/distributed/</loc>
+    <lastmod>2015-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/etcd2.0/</loc>
     <lastmod>2015-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/go/</loc>
+    <lastmod>2015-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/theory/</loc>
+    <lastmod>2014-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -403,8 +1088,28 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/datacenter/</loc>
+    <lastmod>2014-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/networking/</loc>
+    <lastmod>2014-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/user-space-networking/</loc>
     <lastmod>2014-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/concurrency/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/rob-pike/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -423,8 +1128,23 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/network/</loc>
+    <lastmod>2014-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/ai/</loc>
+    <lastmod>2014-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/joschabach-ai/</loc>
     <lastmod>2014-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/excitement/</loc>
+    <lastmod>2014-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -435,6 +1155,21 @@
   <url>
     <loc>http://theb0ardside.com/joe-armstrong-strange-loop/</loc>
     <lastmod>2014-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/programming-languages/</loc>
+    <lastmod>2014-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/cloud/</loc>
+    <lastmod>2014-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/config/</loc>
+    <lastmod>2014-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -453,7 +1188,27 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/security/</loc>
+    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/tls/</loc>
+    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/web/</loc>
+    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/vpc-design/</loc>
+    <lastmod>2014-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/telephony/</loc>
     <lastmod>2014-07-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -468,7 +1223,27 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/cities/</loc>
+    <lastmod>2014-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/internet-of-things/</loc>
+    <lastmod>2014-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/smart-cities/</loc>
+    <lastmod>2014-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/airbnbstory/</loc>
+    <lastmod>2014-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/silicon-valley/</loc>
     <lastmod>2014-07-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -478,8 +1253,28 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/activism/</loc>
+    <lastmod>2014-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/internet/</loc>
+    <lastmod>2014-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/telecoms/</loc>
+    <lastmod>2014-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/urban-giants/</loc>
     <lastmod>2014-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/design/</loc>
+    <lastmod>2014-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -498,12 +1293,32 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/supercomputing/</loc>
+    <lastmod>2014-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/deep-learning/</loc>
     <lastmod>2014-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/deep-learning/</loc>
+    <lastmod>2014-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/machine-learning/</loc>
+    <lastmod>2014-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/brandoncoreos/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/clusters/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -518,6 +1333,31 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/scalability/</loc>
+    <lastmod>2014-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/systems-architecture/</loc>
+    <lastmod>2014-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/comedy/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/distributed-systems/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/hadoop/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/jamesmickens/</loc>
     <lastmod>2014-05-19T00:00:00+00:00</lastmod>
   </url>
@@ -528,13 +1368,28 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/sysadmin/</loc>
+    <lastmod>2014-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/cattheoryintro/</loc>
+    <lastmod>2014-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/mathematices/</loc>
     <lastmod>2014-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://theb0ardside.com/robpike-gophercon-2014/</loc>
     <lastmod>2014-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/multics/</loc>
+    <lastmod>2014-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -545,6 +1400,21 @@
   <url>
     <loc>http://theb0ardside.com/gracehopperstory/</loc>
     <lastmod>2014-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/indiegogo/</loc>
+    <lastmod>2014-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/lectures/</loc>
+    <lastmod>2014-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/lisp/</loc>
+    <lastmod>2014-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -563,7 +1433,22 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/site-reliability/</loc>
+    <lastmod>2014-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/jamesgoslingrobots/</loc>
+    <lastmod>2014-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/now/</loc>
+    <lastmod>2014-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/robotics/</loc>
     <lastmod>2014-03-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -578,8 +1463,23 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/london/</loc>
+    <lastmod>2014-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/radio/</loc>
+    <lastmod>2014-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/tensemen-rnrfon/</loc>
     <lastmod>2014-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/ruby/</loc>
+    <lastmod>2014-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -590,6 +1490,26 @@
   <url>
     <loc>http://theb0ardside.com/paulphillips/</loc>
     <lastmod>2014-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/rant/</loc>
+    <lastmod>2014-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/scala/</loc>
+    <lastmod>2014-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/frequencies/</loc>
+    <lastmod>2014-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/hella-cool-kids/</loc>
+    <lastmod>2014-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -608,8 +1528,43 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/mac/</loc>
+    <lastmod>2014-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/javascript/</loc>
+    <lastmod>2014-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/codetraxx/</loc>
     <lastmod>2014-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/tuned-to-a-dead-channel/</loc>
+    <lastmod>2014-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/cardboard/</loc>
+    <lastmod>2014-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/computer-science/</loc>
+    <lastmod>2014-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/creative-code/</loc>
+    <lastmod>2014-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/ink/</loc>
+    <lastmod>2014-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -618,8 +1573,43 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/processing/</loc>
+    <lastmod>2014-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/cardboard-computer-scientists/</loc>
     <lastmod>2014-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/hunx/</loc>
+    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/john-watersesque/</loc>
+    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/punk/</loc>
+    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/reality/</loc>
+    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/shannon-and-the-clams/</loc>
+    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/spoof/</loc>
+    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -638,6 +1628,26 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/editing/</loc>
+    <lastmod>2014-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/oscon/</loc>
+    <lastmod>2014-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/physic-or-surgery/</loc>
+    <lastmod>2014-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/restful/</loc>
+    <lastmod>2014-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/clientside-mvc-and-routes/</loc>
     <lastmod>2014-01-03T00:00:00+00:00</lastmod>
   </url>
@@ -648,7 +1658,27 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/chess/</loc>
+    <lastmod>2013-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/computerchess/</loc>
+    <lastmod>2013-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/fiction/</loc>
+    <lastmod>2013-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/film/</loc>
+    <lastmod>2013-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/mumblecore/</loc>
     <lastmod>2013-12-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -658,8 +1688,23 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/uk/</loc>
+    <lastmod>2013-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/cardboardken/</loc>
     <lastmod>2013-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/java/</loc>
+    <lastmod>2013-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/jvm/</loc>
+    <lastmod>2013-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -668,8 +1713,33 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/twitter/</loc>
+    <lastmod>2013-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/electronic/</loc>
+    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/indie-pop/</loc>
+    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/subjective/</loc>
+    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/toprecords2013/</loc>
     <lastmod>2013-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/aerial/</loc>
+    <lastmod>2013-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -678,13 +1748,48 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/unmanned/</loc>
+    <lastmod>2013-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/acorn/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/bbc/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/micromen/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/sinclair/</loc>
     <lastmod>2013-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://theb0ardside.com/hugoagogo/</loc>
     <lastmod>2013-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/markdown/</loc>
+    <lastmod>2013-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/static/</loc>
+    <lastmod>2013-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/hacking/</loc>
+    <lastmod>2013-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -708,7 +1813,17 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/measurement/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/stevesoudersoncacheing/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/webperf/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -723,6 +1838,16 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/big-data/</loc>
+    <lastmod>2013-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/search/</loc>
+    <lastmod>2013-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/searchnotasolvedproblem/</loc>
     <lastmod>2013-06-05T00:00:00+00:00</lastmod>
   </url>
@@ -733,7 +1858,32 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/chef/</loc>
+    <lastmod>2013-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/configuration-management/</loc>
+    <lastmod>2013-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/devops/</loc>
+    <lastmod>2013-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/vagrant/</loc>
+    <lastmod>2013-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/mocheftesting/</loc>
+    <lastmod>2013-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/testing/</loc>
     <lastmod>2013-05-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -743,7 +1893,17 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/aws/</loc>
+    <lastmod>2013-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/netflixoss/</loc>
+    <lastmod>2013-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/resiliency/</loc>
     <lastmod>2013-05-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -753,12 +1913,32 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/database/</loc>
+    <lastmod>2013-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/postgresql/</loc>
+    <lastmod>2013-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/postgresqlonaws/</loc>
     <lastmod>2013-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/virtualization/</loc>
+    <lastmod>2013-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/grizzled/</loc>
+    <lastmod>2013-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/openstack/</loc>
     <lastmod>2013-04-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -778,6 +1958,16 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/abstraction/</loc>
+    <lastmod>2013-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/ideas/</loc>
+    <lastmod>2013-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/immutability/</loc>
     <lastmod>2013-01-10T00:00:00+00:00</lastmod>
   </url>
@@ -794,6 +1984,11 @@
   
   <url>
     <loc>http://theb0ardside.com/foodfightshowonchefcookbookbestpractises/</loc>
+    <lastmod>2012-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/information/</loc>
     <lastmod>2012-11-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -823,6 +2018,16 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/cryptography/</loc>
+    <lastmod>2012-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/personal/</loc>
+    <lastmod>2012-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/thecomingwarovergeneralpurposecomputing/</loc>
     <lastmod>2012-08-23T00:00:00+00:00</lastmod>
   </url>
@@ -843,8 +2048,18 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/http/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/webkitandchromeinternals/</loc>
     <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/cybernetics/</loc>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -858,12 +2073,22 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/uncategorized/</loc>
+    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/somefavvelocitytalks/</loc>
     <lastmod>2012-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/theonosendaislb10orbsystem/</loc>
+    <loc>http://theb0ardside.com/tags/communications/</loc>
+    <lastmod>2012-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/drawing/</loc>
     <lastmod>2012-06-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -873,7 +2098,22 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/theonosendaislb10orbsystem/</loc>
+    <lastmod>2012-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/aroundtheearthin200ms/</loc>
+    <lastmod>2012-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/people/</loc>
+    <lastmod>2012-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/science/</loc>
     <lastmod>2012-06-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -885,6 +2125,21 @@
   <url>
     <loc>http://theb0ardside.com/21stcenturyinternet/</loc>
     <lastmod>2012-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/infographic/</loc>
+    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/math/</loc>
+    <lastmod>2012-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/military/</loc>
+    <lastmod>2012-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -908,12 +2163,27 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/storage/</loc>
+    <lastmod>2012-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/speculation/</loc>
+    <lastmod>2012-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/technologyassocietysengine/</loc>
     <lastmod>2012-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://theb0ardside.com/jvmtuningforvms/</loc>
+    <lastmod>2012-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/vmware/</loc>
     <lastmod>2012-04-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -933,8 +2203,33 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/real-time/</loc>
+    <lastmod>2012-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/debian/</loc>
+    <lastmod>2012-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/distribution/</loc>
+    <lastmod>2012-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/puppet/</loc>
+    <lastmod>2012-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/puppetstagesandapt/</loc>
     <lastmod>2012-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/metadata/</loc>
+    <lastmod>2012-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1018,12 +2313,22 @@
   </url>
   
   <url>
+    <loc>http://theb0ardside.com/tags/scsi/</loc>
+    <lastmod>2011-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://theb0ardside.com/themysteriousmegacli/</loc>
     <lastmod>2011-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://theb0ardside.com/genxen/</loc>
+    <lastmod>2011-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/xen/</loc>
     <lastmod>2011-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -1040,6 +2345,11 @@
   <url>
     <loc>http://theb0ardside.com/internets1962tillnow/</loc>
     <lastmod>2011-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theb0ardside.com/tags/simulator/</loc>
+    <lastmod>2011-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1113,1581 +2423,7 @@
   </url>
   
   <url>
-    <loc>http://theb0ardside.com/tags/abstraction/</loc>
-    <lastmod>2013-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/acorn/</loc>
-    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/activism/</loc>
-    <lastmod>2014-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/aerial/</loc>
-    <lastmod>2013-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/aesthetics/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/ai/</loc>
-    <lastmod>2014-09-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/algorave/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/algorithm/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/algorithmic/</loc>
-    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/amusing/</loc>
-    <lastmod>2015-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/android/</loc>
-    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/animation/</loc>
-    <lastmod>2016-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/apple/</loc>
-    <lastmod>2016-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/architecture/</loc>
-    <lastmod>2015-12-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/arm/</loc>
-    <lastmod>2015-12-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/arpanet/</loc>
-    <lastmod>2015-05-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/art/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/att/</loc>
-    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/audio/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/awesome/</loc>
-    <lastmod>2016-09-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/aws/</loc>
-    <lastmod>2013-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/b0ardcast/</loc>
-    <lastmod>2015-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/bbc/</loc>
-    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/bell-labs/</loc>
-    <lastmod>2015-12-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/berlin/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/big-data/</loc>
-    <lastmod>2013-06-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/bio/</loc>
-    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/categories/blog/</loc>
-    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/boston-dynamics/</loc>
-    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/britain/</loc>
-    <lastmod>2015-06-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/bryan-cantrill/</loc>
-    <lastmod>2015-09-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/bsd/</loc>
-    <lastmod>2015-03-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/bw/</loc>
-    <lastmod>2015-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/c/</loc>
-    <lastmod>2016-10-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/c&#43;&#43;/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/california/</loc>
-    <lastmod>2015-08-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/cardboard/</loc>
-    <lastmod>2014-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/categories/</loc>
-    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/chef/</loc>
-    <lastmod>2013-05-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/chess/</loc>
-    <lastmod>2013-12-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/china/</loc>
-    <lastmod>2016-06-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/cities/</loc>
-    <lastmod>2014-07-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/cloud/</loc>
-    <lastmod>2014-08-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/cluster/</loc>
-    <lastmod>2015-01-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/clusters/</loc>
-    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/code/</loc>
-    <lastmod>2015-10-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/comedy/</loc>
-    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/comic/</loc>
-    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/comics/</loc>
-    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/communications/</loc>
-    <lastmod>2012-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/compiler/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/computer-music/</loc>
-    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/computer-science/</loc>
-    <lastmod>2014-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/con/</loc>
-    <lastmod>2016-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/concurrency/</loc>
-    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/config/</loc>
-    <lastmod>2014-08-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/configuration-management/</loc>
-    <lastmod>2013-05-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/containers/</loc>
-    <lastmod>2015-06-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/coreos/</loc>
-    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/crazygood/</loc>
-    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/creative-code/</loc>
-    <lastmod>2014-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/creativity/</loc>
-    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/cryptography/</loc>
-    <lastmod>2012-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/cybernetics/</loc>
-    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/database/</loc>
-    <lastmod>2013-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/datacenter/</loc>
-    <lastmod>2014-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/datacenters/</loc>
-    <lastmod>2015-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/debian/</loc>
-    <lastmod>2012-04-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/deep-learning/</loc>
-    <lastmod>2014-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/defcon/</loc>
-    <lastmod>2015-04-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/demo/</loc>
-    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/design/</loc>
-    <lastmod>2014-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/devops/</loc>
-    <lastmod>2013-05-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/distributed/</loc>
-    <lastmod>2015-01-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/distributed-systems/</loc>
-    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/distribution/</loc>
-    <lastmod>2012-04-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/docker/</loc>
-    <lastmod>2015-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/drawing/</loc>
-    <lastmod>2012-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/dreams/</loc>
-    <lastmod>2015-08-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/dsp/</loc>
-    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/editing/</loc>
-    <lastmod>2014-01-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/electronic/</loc>
-    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/embedded/</loc>
-    <lastmod>2016-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/engineering/</loc>
-    <lastmod>2015-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/erlang/</loc>
-    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/events/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/excitement/</loc>
-    <lastmod>2014-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/experimental-music/</loc>
-    <lastmod>2016-09-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/fft/</loc>
-    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/fiction/</loc>
-    <lastmod>2013-12-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/filesystems/</loc>
-    <lastmod>2015-06-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/film/</loc>
-    <lastmod>2013-12-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/fortran/</loc>
-    <lastmod>2015-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/freebsd/</loc>
-    <lastmod>2015-03-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/frequencies/</loc>
-    <lastmod>2014-02-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/functional/</loc>
-    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/funny/</loc>
-    <lastmod>2017-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/future/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/games/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/generative/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/go/</loc>
-    <lastmod>2015-01-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/golang/</loc>
-    <lastmod>2015-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/google/</loc>
-    <lastmod>2015-05-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/hacker/</loc>
-    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/hacking/</loc>
-    <lastmod>2013-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/hadoop/</loc>
-    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/hardware/</loc>
-    <lastmod>2016-06-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/hella-cool-kids/</loc>
-    <lastmod>2014-02-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/history/</loc>
-    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/howto/</loc>
-    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/http/</loc>
-    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/hunx/</loc>
-    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/ideas/</loc>
-    <lastmod>2013-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/illumos/</loc>
-    <lastmod>2015-09-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/illustration/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/indie-pop/</loc>
-    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/indiegogo/</loc>
-    <lastmod>2014-04-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/infographic/</loc>
-    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/information/</loc>
-    <lastmod>2012-11-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/infrastructure/</loc>
-    <lastmod>2015-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/ink/</loc>
-    <lastmod>2014-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/internals/</loc>
-    <lastmod>2015-12-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/internet/</loc>
-    <lastmod>2014-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/internet-of-things/</loc>
-    <lastmod>2014-07-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/java/</loc>
-    <lastmod>2013-12-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/javascript/</loc>
-    <lastmod>2014-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/john-watersesque/</loc>
-    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/jvm/</loc>
-    <lastmod>2013-12-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/kernel/</loc>
-    <lastmod>2016-10-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/kubernetes/</loc>
-    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/language/</loc>
-    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/languages/</loc>
-    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/lectures/</loc>
-    <lastmod>2014-04-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/linux/</loc>
-    <lastmod>2016-10-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/lisp/</loc>
-    <lastmod>2014-04-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/live-coding/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/london/</loc>
-    <lastmod>2014-03-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/lynch/</loc>
-    <lastmod>2017-06-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/mac/</loc>
-    <lastmod>2014-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/machine-learning/</loc>
-    <lastmod>2014-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/mainframes/</loc>
-    <lastmod>2016-03-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/markdown/</loc>
-    <lastmod>2013-11-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/math/</loc>
-    <lastmod>2012-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/mathematices/</loc>
-    <lastmod>2014-05-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/measurement/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/meetup/</loc>
-    <lastmod>2015-09-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/metadata/</loc>
-    <lastmod>2012-03-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/metaphor/</loc>
-    <lastmod>2015-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/military/</loc>
-    <lastmod>2012-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/mills-college/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/mit/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/monolake/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/multics/</loc>
-    <lastmod>2014-05-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/mumblecore/</loc>
-    <lastmod>2013-12-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/music/</loc>
-    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/nervous/</loc>
-    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/network/</loc>
-    <lastmod>2014-10-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/networking/</loc>
-    <lastmod>2014-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/now/</loc>
-    <lastmod>2014-03-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/openstack/</loc>
-    <lastmod>2013-04-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/operating-system/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/opinion/</loc>
-    <lastmod>2016-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/oscon/</loc>
-    <lastmod>2014-01-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/people/</loc>
-    <lastmod>2012-06-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/performance/</loc>
-    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/perl/</loc>
-    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/personal/</loc>
-    <lastmod>2012-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/pets/</loc>
-    <lastmod>2015-04-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/philosophy/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/physic-or-surgery/</loc>
-    <lastmod>2014-01-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/portaudio/</loc>
-    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/postgresql/</loc>
-    <lastmod>2013-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/practical/</loc>
-    <lastmod>2015-04-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/processing/</loc>
-    <lastmod>2014-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/programming/</loc>
-    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/programming-languages/</loc>
-    <lastmod>2014-09-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/punk/</loc>
-    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/puppet/</loc>
-    <lastmod>2012-04-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/radio/</loc>
-    <lastmod>2014-03-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/rant/</loc>
-    <lastmod>2014-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/real-time/</loc>
-    <lastmod>2012-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/reality/</loc>
-    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/resiliency/</loc>
-    <lastmod>2013-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/restful/</loc>
-    <lastmod>2014-01-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/rob-pike/</loc>
-    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/robot/</loc>
-    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/robotics/</loc>
-    <lastmod>2014-03-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/ruby/</loc>
-    <lastmod>2014-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/san-francisco/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/scala/</loc>
-    <lastmod>2014-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/scalability/</loc>
-    <lastmod>2014-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/scale/</loc>
-    <lastmod>2015-04-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/scene/</loc>
-    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/sci-fi/</loc>
-    <lastmod>2016-01-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/science/</loc>
-    <lastmod>2012-06-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/scotland/</loc>
-    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/scsi/</loc>
-    <lastmod>2011-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/search/</loc>
-    <lastmod>2013-06-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/security/</loc>
-    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/shannon-and-the-clams/</loc>
-    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/sheffiled/</loc>
-    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/silicon-valley/</loc>
-    <lastmod>2014-07-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/simulator/</loc>
-    <lastmod>2011-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/sinclair/</loc>
-    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/site-reliability/</loc>
-    <lastmod>2014-04-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/skate/</loc>
-    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/skateboard/</loc>
-    <lastmod>2015-08-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/skateboarding/</loc>
-    <lastmod>2015-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/smart-cities/</loc>
-    <lastmod>2014-07-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/smartypants/</loc>
-    <lastmod>2015-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/software/</loc>
-    <lastmod>2016-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/software-art/</loc>
-    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/sound/</loc>
-    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/sound-art/</loc>
-    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/soundb0ard/</loc>
-    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/speculation/</loc>
-    <lastmod>2012-05-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/spoof/</loc>
-    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/startups/</loc>
-    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/static/</loc>
-    <lastmod>2013-11-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/storage/</loc>
-    <lastmod>2012-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/strange-loop/</loc>
-    <lastmod>2016-09-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/stylemag/</loc>
-    <lastmod>2016-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/subjective/</loc>
-    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/sunset/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/supercomputing/</loc>
-    <lastmod>2014-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/sysadmin/</loc>
-    <lastmod>2014-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/systemd/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/systems/</loc>
-    <lastmod>2016-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/systems-architecture/</loc>
-    <lastmod>2014-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/systems-programming/</loc>
-    <lastmod>2016-09-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/</loc>
-    <lastmod>2013-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/talk/</loc>
-    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/talks/</loc>
-    <lastmod>2016-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/tcp-ip/</loc>
-    <lastmod>2014-10-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/techno/</loc>
-    <lastmod>2016-09-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/telecoms/</loc>
-    <lastmod>2014-06-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/telephony/</loc>
-    <lastmod>2014-07-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/testing/</loc>
-    <lastmod>2013-05-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/</loc>
-    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/theory/</loc>
-    <lastmod>2014-12-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/timesharing/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/tls/</loc>
-    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/tools/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/tuned-to-a-dead-channel/</loc>
-    <lastmod>2014-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/tv/</loc>
-    <lastmod>2016-04-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/twitter/</loc>
-    <lastmod>2013-12-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/uk/</loc>
-    <lastmod>2013-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/uncategorized/</loc>
-    <lastmod>2012-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/unix/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/unmanned/</loc>
-    <lastmod>2013-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/vagrant/</loc>
-    <lastmod>2013-05-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/video/</loc>
-    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/vidoe/</loc>
-    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/vim/</loc>
-    <lastmod>2017-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/virtualization/</loc>
-    <lastmod>2013-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/visualization/</loc>
-    <lastmod>2017-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/vmware/</loc>
-    <lastmod>2012-04-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/vr/</loc>
-    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/web/</loc>
-    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/webperf/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/weird/</loc>
-    <lastmod>2017-06-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/xen/</loc>
-    <lastmod>2011-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://theb0ardside.com/tags/xoxo/</loc>
-    <lastmod>2017-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://theb0ardside.com/tags/tcp/ip/</loc>
   </url>
   
 </urlset>

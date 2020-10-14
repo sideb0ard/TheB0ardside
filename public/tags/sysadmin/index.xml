@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sysadmin on The B0ardside</title>
+    <title>sysadmin on The B0ardside</title>
     <link>http://theb0ardside.com/tags/sysadmin/</link>
-    <description>Recent content in Sysadmin on The B0ardside</description>
+    <description>Recent content in sysadmin on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 May 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/sysadmin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 15 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/sysadmin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go For SysAdmins</title>
       <link>http://theb0ardside.com/goforsysadmins/</link>
       <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/goforsysadmins/</guid>
-      <description>I&amp;rsquo;ve been getting really into both Go and CoreOS recenty, so this video is timely and ACE!
-  </description>
+      <description>I&amp;rsquo;ve been getting really into both Go and CoreOS recenty, so this video is timely and ACE!</description>
     </item>
     
   </channel>

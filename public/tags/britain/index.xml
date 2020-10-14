@@ -1,25 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Britain on The B0ardside</title>
+    <title>britain on The B0ardside</title>
     <link>http://theb0ardside.com/tags/britain/</link>
-    <description>Recent content in Britain on The B0ardside</description>
+    <description>Recent content in britain on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 Jun 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/britain/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 27 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/britain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Selection of Early British Computers</title>
       <link>http://theb0ardside.com/early-uk-computers/</link>
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/early-uk-computers/</guid>
-      <description>I just finished reading Early British Computers by Simon Lavington - super good!
-There&amp;rsquo;s an awesome playlist of videos which feature the computers covered.
-Here&amp;rsquo;s a selection..
-      </description>
+      <description>I just finished reading Early British Computers by Simon Lavington- super good!
+There&amp;rsquo;s an awesome playlist of videoswhich feature the computers covered.
+Here&amp;rsquo;s a selection..</description>
     </item>
     
   </channel>

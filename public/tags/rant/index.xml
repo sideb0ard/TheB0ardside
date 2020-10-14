@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rant on The B0ardside</title>
+    <title>rant on The B0ardside</title>
     <link>http://theb0ardside.com/tags/rant/</link>
-    <description>Recent content in Rant on The B0ardside</description>
+    <description>Recent content in rant on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Feb 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/rant/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 18 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/rant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paul Phillips - Scala Heresies</title>
       <link>http://theb0ardside.com/paulphillips/</link>
       <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/paulphillips/</guid>
-      <description>I didn&amp;rsquo;t see this actual talk, but pretty much the same one delivered the following evening - it gave me nightmares!
-  </description>
+      <description>I didn&amp;rsquo;t see this actual talk, but pretty much the same one delivered the following evening - it gave me nightmares!</description>
     </item>
     
   </channel>

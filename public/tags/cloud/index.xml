@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cloud on The B0ardside</title>
+    <title>cloud on The B0ardside</title>
     <link>http://theb0ardside.com/tags/cloud/</link>
-    <description>Recent content in Cloud on The B0ardside</description>
+    <description>Recent content in cloud on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Aug 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 12 Aug 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kelsey Hightower on Kubernetes</title>
       <link>http://theb0ardside.com/hightower-kubernetes/</link>
       <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/hightower-kubernetes/</guid>
-      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..
-  </description>
+      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..</description>
     </item>
     
     <item>
@@ -26,8 +21,7 @@
       <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vpc-design/</guid>
-      <description>Super detailed and practical VPC design best practises - very cool stuff..
-  </description>
+      <description>Super detailed and practical VPC design best practises - very cool stuff..</description>
     </item>
     
     <item>
@@ -36,7 +30,7 @@
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/brendangregglinuxperformance/</guid>
-      <description>The always interesting Brendan Greg &amp;#8212;</description>
+      <description></description>
     </item>
     
     <item>
@@ -45,7 +39,7 @@
       <pubDate>Sat, 11 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/netflixoss/</guid>
-      <description>Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:</description>
+      <description></description>
     </item>
     
     <item>
@@ -54,7 +48,7 @@
       <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jedbergtalkatairbnb/</guid>
-      <description>I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -</description>
+      <description></description>
     </item>
     
     <item>
@@ -63,7 +57,7 @@
       <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/postgresqlonaws/</guid>
-      <description>Excellent video specifically for PostgreSQL on AWS, however the principles are pretty universal information for running anything on AWS -</description>
+      <description></description>
     </item>
     
     <item>
@@ -72,7 +66,7 @@
       <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/backblaze/</guid>
-      <description>the legendary Mike Hoover turned me on to Backblaze a few months back - they&#39;re a cloud storage provider, who opened up the design for their chassis and storage pod solution so you can build your own &amp;#8220;Storage Pod 2.0: a 135-terabyte, 4U server for $7,384&amp;#8243; (blog post here)</description>
+      <description></description>
     </item>
     
     <item>
@@ -81,8 +75,7 @@
       <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/technologyassocietysengine/</guid>
-      <description>Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -
-A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.</description>
+      <description></description>
     </item>
     
     <item>
@@ -91,7 +84,7 @@ A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Co
       <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
-      <description>I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows.</description>
+      <description></description>
     </item>
     
     <item>
@@ -109,8 +102,7 @@ A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Co
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/genxen/</guid>
-      <description>I&#39;ve been working pretty extensively with Xen and Puppet in my new job, really loving it! I&#39;ve been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I&#39;ve just finished a script which is over on my github page, which basically automates what was previously a manual process.
-Basically, it copies your existing disk.img and swap.img, generates a new xen.</description>
+      <description></description>
     </item>
     
     <item>
@@ -119,7 +111,7 @@ Basically, it copies your existing disk.img and swap.img, generates a new xen.</
       <pubDate>Wed, 10 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/internets1962tillnow/</guid>
-      <description>Excellent timeline of the Internet&amp;#8216;s evolution from 1962 till the present day..</description>
+      <description></description>
     </item>
     
     <item>
@@ -128,10 +120,7 @@ Basically, it copies your existing disk.img and swap.img, generates a new xen.</
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vagrantandchefsetup/</guid>
-      <description>I&#39;ve been reading through ThoughtWorks&#39; latest &amp;#8216;technology radar&amp;#8216; which led me to look up Vagrant, one of the tools they list as worth exploring.
-Vagrant is a framework for building and deploying Virtual Machine environments, using Oracle VirtualBox for the actual VMs and utilizing Chef for configuration management. Watching through this intro video:
-http://vimeo.com/9976342
-i was quite intrigued as it is very similar to what i was looking to achieve earlier when i was experimenting with installing Xen and configuring with Puppet.</description>
+      <description></description>
     </item>
     
     <item>
@@ -140,7 +129,7 @@ i was quite intrigued as it is very similar to what i was looking to achieve ear
       <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/multicoreufos/</guid>
-      <description>Interesting article on GigaOm this morning about Facebook benchmarking a 64-core chip from Tilera. The X86 processor architecture has been in a dominant for so many years, not based upon any inherent sophistication, but more based upon chance and circumstance (see this vid for more details around the 48min mark), so it does feel about time for a new advancement in hardware architecture. Be interesting to watch this space and see what develops.</description>
+      <description></description>
     </item>
     
     <item>
@@ -149,7 +138,7 @@ i was quite intrigued as it is very similar to what i was looking to achieve ear
       <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
-      <description>Watch it here</description>
+      <description></description>
     </item>
     
   </channel>

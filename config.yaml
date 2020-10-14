@@ -10,4 +10,8 @@ taxonomies:
 baseURL: "http://theb0ardside.com"
 params:
     SidebarRecentLimit: 5
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 ...

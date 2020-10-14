@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coreos on The B0ardside</title>
+    <title>coreos on The B0ardside</title>
     <link>http://theb0ardside.com/tags/coreos/</link>
-    <description>Recent content in Coreos on The B0ardside</description>
+    <description>Recent content in coreos on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Jun 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/coreos/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 02 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/coreos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From Config Management to a proper Scheduling system</title>
       <link>http://theb0ardside.com/coreosfestcloser/</link>
       <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/coreosfestcloser/</guid>
-      <description>This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..
-  </description>
+      <description>This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..</description>
     </item>
     
     <item>
@@ -26,8 +21,7 @@
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/etcd2.0/</guid>
-      <description>Excellent overview of Etcd and description of new features / bug fixes in 2.0..
-  </description>
+      <description>Excellent overview of Etcd and description of new features / bug fixes in 2.0..</description>
     </item>
     
     <item>
@@ -36,8 +30,7 @@
       <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/hightower-kubernetes/</guid>
-      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..
-  </description>
+      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..</description>
     </item>
     
     <item>
@@ -46,8 +39,7 @@
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/brandoncoreos/</guid>
-      <description>Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::
-  </description>
+      <description>Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::</description>
     </item>
     
     <item>
@@ -56,8 +48,7 @@
       <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/goforsysadmins/</guid>
-      <description>I&amp;rsquo;ve been getting really into both Go and CoreOS recenty, so this video is timely and ACE!
-  </description>
+      <description>I&amp;rsquo;ve been getting really into both Go and CoreOS recenty, so this video is timely and ACE!</description>
     </item>
     
   </channel>

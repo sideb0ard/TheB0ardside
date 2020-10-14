@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Telecoms on The B0ardside</title>
+    <title>telecoms on The B0ardside</title>
     <link>http://theb0ardside.com/tags/telecoms/</link>
-    <description>Recent content in Telecoms on The B0ardside</description>
+    <description>Recent content in telecoms on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 26 Jun 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/telecoms/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 26 Jun 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/telecoms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Urban Giants</title>
       <link>http://theb0ardside.com/urban-giants/</link>
@@ -17,7 +13,7 @@
       
       <guid>http://theb0ardside.com/urban-giants/</guid>
       <description>Beautifully shot, mind blowing short documentary about New York&amp;rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;amp;T Long Lines Building ..
-  Found via BldBlog site</description>
+Found via BldBlog site</description>
     </item>
     
   </channel>

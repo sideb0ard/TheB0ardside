@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Languages on The B0ardside</title>
+    <title>languages on The B0ardside</title>
     <link>http://theb0ardside.com/tags/languages/</link>
-    <description>Recent content in Languages on The B0ardside</description>
+    <description>Recent content in languages on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/languages/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/languages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Let&#39;s Lisp Like It&#39;s 1959</title>
       <link>http://theb0ardside.com/letslisp1959/</link>
       <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/letslisp1959/</guid>
-      <description>Nicely delivered talk by Kristoffer Gronlund about the origins of the LISP language..
-  </description>
+      <description>Nicely delivered talk by Kristoffer Gronlund about the origins of the LISP language..</description>
     </item>
     
     <item>
@@ -35,8 +30,7 @@
       <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/paulphillips/</guid>
-      <description>I didn&amp;rsquo;t see this actual talk, but pretty much the same one delivered the following evening - it gave me nightmares!
-  </description>
+      <description>I didn&amp;rsquo;t see this actual talk, but pretty much the same one delivered the following evening - it gave me nightmares!</description>
     </item>
     
     <item>

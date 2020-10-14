@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Database on The B0ardside</title>
+    <title>database on The B0ardside</title>
     <link>http://theb0ardside.com/tags/database/</link>
-    <description>Recent content in Database on The B0ardside</description>
+    <description>Recent content in database on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 24 Apr 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/database/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 24 Apr 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PostgreSQL on AWS</title>
       <link>http://theb0ardside.com/postgresqlonaws/</link>
       <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/postgresqlonaws/</guid>
-      <description>Excellent video specifically for PostgreSQL on AWS, however the principles are pretty universal information for running anything on AWS -</description>
+      <description></description>
     </item>
     
     <item>
@@ -25,9 +21,7 @@
       <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/immutability/</guid>
-      <description>Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :
-
-via igrigorik&#39;s twitter</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,7 +30,7 @@ via igrigorik&#39;s twitter</description>
       <pubDate>Mon, 05 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/dontusenosql/</guid>
-      <description>enjoyed this talk by Mathias Meyer :</description>
+      <description></description>
     </item>
     
     <item>
@@ -45,7 +39,7 @@ via igrigorik&#39;s twitter</description>
       <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/perconatablechecksum/</guid>
-      <description>I must admit MySQL replication is something I&amp;rsquo;ve never felt too comfortable with - in most of my positions, I&amp;rsquo;ve had the luxury of working with a full time DBA who would handle all database related work. In my current workplace we have three major pairs of database machines, and have been going through upgrading them all to Percona MySQL 5.5. As you&amp;rsquo;d expect data integrity is of the highest importance, so discovering this Percona Table Checksum tool is a real life saver, providing an amazing tool for verifying and fixing any drift or problems with MySQL slaves.</description>
+      <description></description>
     </item>
     
   </channel>

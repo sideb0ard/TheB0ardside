@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruby on The B0ardside</title>
+    <title>ruby on The B0ardside</title>
     <link>http://theb0ardside.com/tags/ruby/</link>
-    <description>Recent content in Ruby on The B0ardside</description>
+    <description>Recent content in ruby on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Feb 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 22 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Y Combinator explained</title>
       <link>http://theb0ardside.com/ycombinator/</link>
@@ -17,8 +13,7 @@
       
       <guid>http://theb0ardside.com/ycombinator/</guid>
       <description>Sadly, Jim Weirich, creator of the Ruby Rake tool died a few days back.
-Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:
-  </description>
+Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:</description>
     </item>
     
   </channel>

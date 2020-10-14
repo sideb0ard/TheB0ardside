@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tuned to a Dead Channel on The B0ardside</title>
+    <title>tuned to a dead channel on The B0ardside</title>
     <link>http://theb0ardside.com/tags/tuned-to-a-dead-channel/</link>
-    <description>Recent content in Tuned to a Dead Channel on The B0ardside</description>
+    <description>Recent content in tuned to a dead channel on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Jan 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/tuned-to-a-dead-channel/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 07 Jan 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/tuned-to-a-dead-channel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oh yeah, Codetraxx</title>
       <link>http://theb0ardside.com/codetraxx/</link>
       <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/codetraxx/</guid>
-      <description>Oh yeah, that Codetraxx project I mentioned, which me and Tack have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..
- </description>
+      <description>Oh yeah, that Codetraxx project I mentioned, which me and Tack have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..</description>
     </item>
     
   </channel>

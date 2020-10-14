@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Android on The B0ardside</title>
+    <title>android on The B0ardside</title>
     <link>http://theb0ardside.com/tags/android/</link>
-    <description>Recent content in Android on The B0ardside</description>
+    <description>Recent content in android on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oboe - low latency Android Audio</title>
       <link>http://theb0ardside.com/oboe-audio/</link>
@@ -17,8 +13,7 @@
       
       <guid>http://theb0ardside.com/oboe-audio/</guid>
       <description>I&amp;rsquo;ve started building a toy Granular Synth for Android, using this Oboe library.
-This video is a great introduction to it..
-  </description>
+This video is a great introduction to it..</description>
     </item>
     
     <item>
@@ -27,8 +22,8 @@ This video is a great introduction to it..
       <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/embedded-android/</guid>
-      <description>Amazingly smooth presentation under time pressure from Karim Yaghmour, giving a super fast overview of the content in his Embedded Android book.
-  I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!</description>
+      <description>Amazingly smooth presentation under time pressure from Karim Yaghmour, giving a super fast overview of the content in his Embedded Androidbook.
+I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!</description>
     </item>
     
   </channel>

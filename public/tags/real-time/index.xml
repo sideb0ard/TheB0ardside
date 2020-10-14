@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Real Time on The B0ardside</title>
+    <title>real-time on The B0ardside</title>
     <link>http://theb0ardside.com/tags/real-time/</link>
-    <description>Recent content in Real Time on The B0ardside</description>
+    <description>Recent content in real-time on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Apr 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/real-time/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 05 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/real-time/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>going google eyed</title>
       <link>http://theb0ardside.com/goinggoogleeyed/</link>
       <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/goinggoogleeyed/</guid>
-      <description>Ah, see, my comic is all true! :D</description>
+      <description></description>
     </item>
     
     <item>
@@ -25,9 +21,7 @@
       <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/realtimestats/</guid>
-      <description>Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB&#39;s new real-time analytics system: Watch live streaming video from facebookeducation at livestream.comIn the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::
-Rainbird: Realtime Analytics at Twitter (Strata 2011) View more presentations from Kevin Weil 
-(hello Johan!)</description>
+      <description></description>
     </item>
     
   </channel>

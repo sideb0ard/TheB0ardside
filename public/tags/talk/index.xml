@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talk on The B0ardside</title>
+    <title>talk on The B0ardside</title>
     <link>http://theb0ardside.com/tags/talk/</link>
-    <description>Recent content in Talk on The B0ardside</description>
+    <description>Recent content in talk on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Sep 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/talk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 09 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bureau For The Containment Of Programmatic Lifeforms</title>
       <link>http://theb0ardside.com/bcpl/</link>
@@ -17,7 +13,7 @@
       
       <guid>http://theb0ardside.com/bcpl/</guid>
       <description>I&amp;rsquo;m just back from a two week holiday in the UK, and while over there, I took part in the first Energized Labs meetup (thanks Matt!), and gave a talk about my efforts in trying to combine my art and tech influences..
-  Also check both Matt and Martin&amp;rsquo;s talks from the same session ..</description>
+Also check both Matt and Martin&amp;rsquo;s talks from the same session ..</description>
     </item>
     
     <item>

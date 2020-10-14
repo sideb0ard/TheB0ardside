@@ -1,26 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Distribution on The B0ardside</title>
+    <title>distribution on The B0ardside</title>
     <link>http://theb0ardside.com/tags/distribution/</link>
-    <description>Recent content in Distribution on The B0ardside</description>
+    <description>Recent content in distribution on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Apr 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/distribution/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 03 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/distribution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Puppet stages and APT</title>
       <link>http://theb0ardside.com/puppetstagesandapt/</link>
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/puppetstagesandapt/</guid>
-      <description>At work, our old code deployment strategy was basically a wrapper script doing an svn checkout and some symlinking. With our move to Puppet for config management, we also moved to using Apt packaging for our code deployment, tying them together with a line similar to :
-class foo-export {
-package { &amp;#039;foo-export&amp;#039;: ensure = latest }
-}
-So that whenever we deploy a new version of a package to our apt-repo, it can then be installed with a:</description>
+      <description></description>
     </item>
     
     <item>
@@ -29,7 +21,7 @@ So that whenever we deploy a new version of a package to our apt-repo, it can th
       <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
-      <description>I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows.</description>
+      <description></description>
     </item>
     
   </channel>

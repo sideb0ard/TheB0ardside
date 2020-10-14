@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vidoe on The B0ardside</title>
+    <title>vidoe on The B0ardside</title>
     <link>http://theb0ardside.com/tags/vidoe/</link>
-    <description>Recent content in Vidoe on The B0ardside</description>
+    <description>Recent content in vidoe on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/vidoe/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/vidoe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sound of the Stravinsky Sample</title>
       <link>http://theb0ardside.com/stravinksy-sample/</link>
@@ -17,7 +13,7 @@
       
       <guid>http://theb0ardside.com/stravinksy-sample/</guid>
       <description>This is an absolutely fascinating history of a Stravinsky sample which was included with the first Fairlight Synthesizers - so many songs where this appears!
-  (I found the video via this Landr blog post)</description>
+(I found the video via this Landr blog post)</description>
     </item>
     
   </channel>

@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks on The B0ardside</title>
+    <title>talks on The B0ardside</title>
     <link>http://theb0ardside.com/tags/talks/</link>
-    <description>Recent content in Talks on The B0ardside</description>
+    <description>Recent content in talks on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 15 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/talks/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 15 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Efficiency with Algorithms, Performance with Data Structures</title>
       <link>http://theb0ardside.com/efficiency-performance-talk-cppcon2014/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/efficiency-performance-talk-cppcon2014/</guid>
-      <description>This is a pretty entertaining talk from Chandler Carruth at CppCon 2014 - lots of good takeaways..
-  </description>
+      <description>This is a pretty entertaining talk from Chandler Carruth at CppCon 2014 - lots of good takeaways..</description>
     </item>
     
     <item>
@@ -26,8 +21,7 @@
       <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/cantrill-papers-we-love/</guid>
-      <description>Bryan Cantrill on another awesome one!
-  </description>
+      <description>Bryan Cantrill on another awesome one!</description>
     </item>
     
   </channel>

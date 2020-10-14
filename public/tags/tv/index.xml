@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tv on The B0ardside</title>
+    <title>tv on The B0ardside</title>
     <link>http://theb0ardside.com/tags/tv/</link>
-    <description>Recent content in Tv on The B0ardside</description>
+    <description>Recent content in tv on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/tv/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 30 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/tv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Computer Chronicles: Unix (1985)</title>
       <link>http://theb0ardside.com/chronicles-unix/</link>
       <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/chronicles-unix/</guid>
-      <description>Awesome episode of the Computer Chronicles, this one focussed on Unix. Gary Killdall is a don!
-  </description>
+      <description>Awesome episode of the Computer Chronicles, this one focussed on Unix. Gary Killdall is a don!</description>
     </item>
     
   </channel>

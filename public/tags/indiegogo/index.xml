@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Indiegogo on The B0ardside</title>
+    <title>indiegogo on The B0ardside</title>
     <link>http://theb0ardside.com/tags/indiegogo/</link>
-    <description>Recent content in Indiegogo on The B0ardside</description>
+    <description>Recent content in indiegogo on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 23 Apr 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/indiegogo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 23 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/indiegogo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Born With Curiosity</title>
       <link>http://theb0ardside.com/gracehopperstory/</link>
@@ -17,8 +13,7 @@
       
       <guid>http://theb0ardside.com/gracehopperstory/</guid>
       <description>Ooh, very nice - new IndieGoGo campaign for a movie telling the story of Grace Hopper -
-Find out more and donate!
-  </description>
+Find out more and donate!</description>
     </item>
     
   </channel>

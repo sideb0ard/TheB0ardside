@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ink on The B0ardside</title>
+    <title>ink on The B0ardside</title>
     <link>http://theb0ardside.com/tags/ink/</link>
-    <description>Recent content in Ink on The B0ardside</description>
+    <description>Recent content in ink on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Jan 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/ink/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 06 Jan 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/ink/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Cardb0ard Computer Scientists</title>
       <link>http://theb0ardside.com/cardboard-computer-scientists/</link>
@@ -17,11 +13,10 @@
       
       <guid>http://theb0ardside.com/cardboard-computer-scientists/</guid>
       <description>A wee slideshow of my Cardb0ard Computer Scientists project..
-Previous // Next // or better yet - use your left and right arrow-&amp;gt; keys //
-
+Previous// Next// or better yet - use your left and right arrow-&amp;gt; keys //
 These are all drawn on scraps of cardboard i had around, most are either from frozen pizzas or record mailers!
 So far i have:
-Charles Babbage Ada Lovelace Alan Turing John Von Neumann // not pictured Claude Shannon Konrad Zuse Vannevar Bush Doug Engelbart John McCarthy Dennis Ritchie  ken Thompson Ted Nelson Seymour Cray</description>
+Charles BabbageAda LovelaceAlan TuringJohn Von Neumann // not picturedClaude ShannonKonrad ZuseVannevar BushDoug EngelbartJohn McCarthyDennis Ritchie ken ThompsonTed NelsonSeymour Cray(Using the (Mousetrap)[http://craig.is/killing/mice] library)</description>
     </item>
     
   </channel>

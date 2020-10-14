@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unix on The B0ardside</title>
+    <title>unix on The B0ardside</title>
     <link>http://theb0ardside.com/tags/unix/</link>
-    <description>Recent content in Unix on The B0ardside</description>
+    <description>Recent content in unix on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/unix/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/unix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Tragedy of systemd</title>
       <link>http://theb0ardside.com/tragedy-systemd/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/tragedy-systemd/</guid>
-      <description>Awesome talk from BSDCan 2018, a balanced look at systemd&amp;rsquo;s history and ideas..
-  </description>
+      <description>Awesome talk from BSDCan 2018, a balanced look at systemd&amp;rsquo;s history and ideas..</description>
     </item>
     
     <item>
@@ -26,8 +21,7 @@
       <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/chronicles-unix/</guid>
-      <description>Awesome episode of the Computer Chronicles, this one focussed on Unix. Gary Killdall is a don!
-  </description>
+      <description>Awesome episode of the Computer Chronicles, this one focussed on Unix. Gary Killdall is a don!</description>
     </item>
     
     <item>
@@ -36,8 +30,7 @@
       <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/cantrill-papers-we-love/</guid>
-      <description>Bryan Cantrill on another awesome one!
-  </description>
+      <description>Bryan Cantrill on another awesome one!</description>
     </item>
     
     <item>
@@ -46,8 +39,7 @@
       <pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/solaris-to-illumos/</guid>
-      <description>Bryan Cantrill, as entertaining as always..
-  </description>
+      <description>Bryan Cantrill, as entertaining as always..</description>
     </item>
     
     <item>
@@ -56,8 +48,7 @@
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/kernighan-history/</guid>
-      <description>The legendary Brian Kernighan speaking to Computerphile about early days of computing. SHort and sweet video..
-  </description>
+      <description>The legendary Brian Kernighan speaking to Computerphile about early days of computing. SHort and sweet video..</description>
     </item>
     
     <item>
@@ -66,8 +57,7 @@
       <pubDate>Sun, 08 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/netbsd-not-a-linux-distro/</guid>
-      <description>Great intro to FreeBSD from George Neville-Neil presenting history and current status..
-  </description>
+      <description>Great intro to FreeBSD from George Neville-Neil presenting history and current status..</description>
     </item>
     
     <item>
@@ -76,8 +66,7 @@
       <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/knrunix/</guid>
-      <description>Sad circumstance, lovely stories&amp;hellip;
-  </description>
+      <description>Sad circumstance, lovely stories&amp;hellip;</description>
     </item>
     
     <item>
@@ -86,8 +75,7 @@
       <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/systems-architecture-acm/</guid>
-      <description>Yow! this is great! I know my Unix history pretty well, but Multics - aside from knowing it was the precursor to Unix, i didn&amp;rsquo;t know much else of the details or who was involved - WATCH THIS! NOW! :D
-  </description>
+      <description>Yow! this is great! I know my Unix history pretty well, but Multics - aside from knowing it was the precursor to Unix, i didn&amp;rsquo;t know much else of the details or who was involved - WATCH THIS! NOW! :D</description>
     </item>
     
     <item>
@@ -96,8 +84,7 @@
       <pubDate>Tue, 24 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/unix70suk/</guid>
-      <description>Lovely wee video talking about the arrival of UNIX into 70&amp;rsquo;s UK Academia &amp;hellip;
-  </description>
+      <description>Lovely wee video talking about the arrival of UNIX into 70&amp;rsquo;s UK Academia &amp;hellip;</description>
     </item>
     
     <item>
@@ -106,7 +93,7 @@
       <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/cardboardken/</guid>
-      <description>Latest is my series of Cardboard Computer Scientists is Ken Thompson, badman of Unix hisself.. </description>
+      <description></description>
     </item>
     
     <item>
@@ -115,7 +102,7 @@
       <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theunixway/</guid>
-      <description>Ace early Unix infomercial -</description>
+      <description></description>
     </item>
     
     <item>
@@ -124,8 +111,7 @@
       <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/perlparpparp/</guid>
-      <description>I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating. First stop was the exceptionally useful Whats My DNS
-At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host.</description>
+      <description></description>
     </item>
     
     <item>
@@ -134,7 +120,7 @@ At the host level I also wanted to track the incoming DNS queries using tcpdump.
       <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
-      <description>I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows.</description>
+      <description></description>
     </item>
     
     <item>
@@ -143,8 +129,7 @@ At the host level I also wanted to track the incoming DNS queries using tcpdump.
       <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/buildingadebpackagefromaperlscript/</guid>
-      <description>I have a speedtest perl script i wrote - nothing complicated, takes a file and uploads it to a remote FTP or SFTP server, while calculating how long, then gives you a a measure of the MB/per second bandwidth between two sites.
-I want it available on a selection of machines so it can run from wherever, so I thought i&#39;d package it up as a .DEB file and stick it in our local repo.</description>
+      <description></description>
     </item>
     
     <item>
@@ -153,10 +138,7 @@ I want it available on a selection of machines so it can run from wherever, so I
       <pubDate>Fri, 16 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/cpandiffscript/</guid>
-      <description>I put together a quick perl script for comparing installed CPAN modules between two hosts. Find it here.
-Quite easy to use:
-Usage: ./CompareHostCpanModules.pl login@host1 login@host2
-The script ssh&#39;s into both hosts (so it&#39;s easier if you have your ssh-keys setup) and grabs a list of installed CPAN modules and versions, then outputs the differences - it returns two lists - one of modules installed but having different versions, and another list of modules missing from the second host.</description>
+      <description></description>
     </item>
     
     <item>
@@ -165,9 +147,7 @@ The script ssh&#39;s into both hosts (so it&#39;s easier if you have your ssh-ke
       <pubDate>Sat, 11 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/80shairunixz/</guid>
-      <description>History of BSD - this is awesome:
-
-Brief history of NCP -&amp;gt; IP/TCP transition, also awesome:</description>
+      <description></description>
     </item>
     
     <item>
@@ -176,7 +156,7 @@ Brief history of NCP -&amp;gt; IP/TCP transition, also awesome:</description>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/timetravellingwithunix/</guid>
-      <description>I discovered Unix back in 1998. At the time i was a lowly Windows desktop support engineer when i started dabbling with Red Hat Linux v 4.2. Compared to the process of fixing Windows 3.1 systems ( i.e. reinstall drivers and reboot - if that doesn&amp;rsquo;t work, reinstall OS and drivers - repeat until it does work), playing with Linux was a joy of knowledge. Every part of the installation process was a problem hiding a wormhole of required knowledge.</description>
+      <description></description>
     </item>
     
   </channel>

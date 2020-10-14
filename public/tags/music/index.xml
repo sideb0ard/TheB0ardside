@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Music on The B0ardside</title>
+    <title>music on The B0ardside</title>
     <link>http://theb0ardside.com/tags/music/</link>
-    <description>Recent content in Music on The B0ardside</description>
+    <description>Recent content in music on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sound of the Stravinsky Sample</title>
       <link>http://theb0ardside.com/stravinksy-sample/</link>
@@ -17,7 +13,7 @@
       
       <guid>http://theb0ardside.com/stravinksy-sample/</guid>
       <description>This is an absolutely fascinating history of a Stravinsky sample which was included with the first Fairlight Synthesizers - so many songs where this appears!
-  (I found the video via this Landr blog post)</description>
+(I found the video via this Landr blog post)</description>
     </item>
     
     <item>
@@ -26,8 +22,7 @@
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/soundb0rd-furtherin/</guid>
-      <description>This was my live set from Further_in a few weeks back - Had a list minute thought to stick on my Thor costume!
-  </description>
+      <description>This was my live set from Further_in a few weeks back - Had a list minute thought to stick on my Thor costume!</description>
     </item>
     
     <item>
@@ -37,8 +32,7 @@
       
       <guid>http://theb0ardside.com/sheffield-moot/</guid>
       <description>Just got back from the very awesome Livecode Festival #2 in Sheffield UK, a gathering of like minded music programmers and algorithmic artists - super inspiring!
-Here&amp;rsquo;s a screencast i captured of my set for the Algorave:
-  </description>
+Here&amp;rsquo;s a screencast i captured of my set for the Algorave:</description>
     </item>
     
     <item>
@@ -47,9 +41,7 @@ Here&amp;rsquo;s a screencast i captured of my set for the Algorave:
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/dalriada/</guid>
-      <description>Check this awesome new skate video out of Scotland - great stuff! Even a wee shot of Toby Patterson in there!
- DALRIADA from Iron Giraffe on Vimeo.
- </description>
+      <description>Check this awesome new skate video out of Scotland - great stuff! Even a wee shot of Toby Patterson in there!</description>
     </item>
     
     <item>
@@ -59,8 +51,7 @@ Here&amp;rsquo;s a screencast i captured of my set for the Algorave:
       
       <guid>http://theb0ardside.com/tidalcyles-tutorial/</guid>
       <description>Alex McLean&amp;rsquo;s TidalCycles has been a big influence on my own Soundb0ard, and lately, now that my instruments are mostly built, I&amp;rsquo;ve been looking for ways to algorithmically modify them more.
-This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:
-  </description>
+This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:</description>
     </item>
     
     <item>
@@ -70,8 +61,7 @@ This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing so
       
       <guid>http://theb0ardside.com/algorave-guardian-article/</guid>
       <description>Nice piece from the Guardian showcasing the Algorave scene in Sheffield.
-Big up Alex McLean!
-  </description>
+Big up Alex McLean!</description>
     </item>
     
     <item>
@@ -80,8 +70,7 @@ Big up Alex McLean!
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/magenta-art/</guid>
-      <description>This is a good chat with Doug Eck, of the Google Magenta project It&amp;rsquo;s a project I&amp;rsquo;ve been keeping an eye on, as it has a ton of potential. I&amp;rsquo;ve generated some melodies based on their Melody RNN - although i need to spend more time with it, as I&amp;rsquo;ve been more focussed on own generative algorithms.
-  </description>
+      <description>This is a good chat with Doug Eck, of the Google Magenta projectIt&amp;rsquo;s a project I&amp;rsquo;ve been keeping an eye on, as it has a ton of potential. I&amp;rsquo;ve generated some melodies based on their Melody RNN- although i need to spend more time with it, as I&amp;rsquo;ve been more focussed on own generative algorithms.</description>
     </item>
     
     <item>
@@ -90,10 +79,8 @@ Big up Alex McLean!
       <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/monolake-granular/</guid>
-      <description>Hmm, my granular synth hasn&amp;rsquo;t quite come together yet, but I&amp;rsquo;m learning a load.
-This is a pretty informative (promo) video from Robert Henke/Monolake showcasing his &amp;lsquo;Granulator&amp;rsquo; plugin for Ableton Live.
-If i can get mine to sound anything like that i&amp;rsquo;ll be stoked!
-  </description>
+      <description>Hmm, my granular synthhasn&amp;rsquo;t quite come together yet, but I&amp;rsquo;m learning a load.
+This is a pretty informative (promo) video from Robert Henke/Monolake showcasing his &amp;lsquo;Granulator&amp;rsquo; plugin for Ableton Live.If i can get mine to sound anything like that i&amp;rsquo;ll be stoked!</description>
     </item>
     
     <item>
@@ -105,8 +92,8 @@ If i can get mine to sound anything like that i&amp;rsquo;ll be stoked!
       <description>Have you been watching season 3 of Twin Peaks? so fscking good!
 This is kinda up there &amp;ndash;
 Memories Of Cindy Pt. 1
-  Memories Of Cindy Pt. 2
-  Looking forward to receiving the second volume in the mail.
+Memories Of Cindy Pt. 2
+Looking forward to receiving the second volume in the mail.
 Grab a copy</description>
     </item>
     
@@ -120,7 +107,7 @@ Grab a copy</description>
 &amp;ldquo;It is one-o-clock in the morning. You&amp;rsquo;ve had a long and tiresome day, and despite your best intentions, dozed off far before you meant to.
 Asleep in the embrace of your old blue La-Z-Boy, you feel a flicker like a breeze full of static at room temperature. You awaken.
 The television is still on.
-Your eyes adjust.</description>
+Your eyes adjust. The feel of the room has changed.</description>
     </item>
     
     <item>
@@ -130,7 +117,7 @@ Your eyes adjust.</description>
       
       <guid>http://theb0ardside.com/shitpresent-kickme/</guid>
       <description>Awesome video for awesome track!
-  Found via Ben&amp;rsquo;s blog</description>
+Found via Ben&amp;rsquo;s blog</description>
     </item>
     
     <item>
@@ -140,8 +127,6 @@ Your eyes adjust.</description>
       
       <guid>http://theb0ardside.com/b0ardcast28/</guid>
       <description>Here&amp;rsquo;s this week&amp;rsquo;s B0ardcast, broadcast on BFF.fm every friday.
-The B0ardcast Episode 28 by Sideb0ard on Mixcloud
-
 Tracklist:::
 Dhobi Fats - She Wants A Daisy
 Betty And The Werewolves - Should I go to Glasgow?
@@ -150,7 +135,9 @@ halfsour - target practice (henry&amp;rsquo;s dress cover)
 Japanther - All We Got Is Each Other (Peanucle)
 Kitten Crisis - Yer Hair
 Braves - True Feelings
-peach kelli pop - Bat Wing</description>
+peach kelli pop - Bat Wing
+Plantains - Wendy
+SadGirl - Lie Awake</description>
     </item>
     
     <item>
@@ -159,8 +146,7 @@ peach kelli pop - Bat Wing</description>
       <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/b0ardcast-mixclouds/</guid>
-      <description>Here&amp;rsquo;s a link to the Mixcloud page with the past couple of B0ardcast shows and tracklistings..
-The B0ardside Episode #4 - 03/04/2014 by Sideb0ard on Mixcloud</description>
+      <description>Here&amp;rsquo;s a link to the Mixcloud page with the past couple of B0ardcast shows and tracklistings..</description>
     </item>
     
     <item>
@@ -169,8 +155,8 @@ The B0ardside Episode #4 - 03/04/2014 by Sideb0ard on Mixcloud</description>
       <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/tensemen-rnrfon/</guid>
-      <description>Love this new video for Tense Men -
-  It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp;rsquo;s old house.</description>
+      <description>Love this new video for Tense Men-
+It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp;rsquo;s old house.</description>
     </item>
     
     <item>
@@ -188,8 +174,7 @@ The B0ardside Episode #4 - 03/04/2014 by Sideb0ard on Mixcloud</description>
       <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/codetraxx/</guid>
-      <description>Oh yeah, that Codetraxx project I mentioned, which me and Tack have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..
- </description>
+      <description>Oh yeah, that Codetraxx project I mentioned, which me and Tack have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..</description>
     </item>
     
     <item>
@@ -198,8 +183,7 @@ The B0ardside Episode #4 - 03/04/2014 by Sideb0ard on Mixcloud</description>
       <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/streetpunk/</guid>
-      <description>Oh man, just found this Hunx album from 2013 - i had seen this following video for Bad Skin but forgot about the album when it came out - this video is so disgusting and totally my anthem!
-  </description>
+      <description>Oh man, just found this Hunx album from 2013 - i had seen this following video for Bad Skin but forgot about the album when it came out - this video is so disgusting and totally my anthem!</description>
     </item>
     
     <item>
@@ -209,12 +193,14 @@ The B0ardside Episode #4 - 03/04/2014 by Sideb0ard on Mixcloud</description>
       
       <guid>http://theb0ardside.com/toprecords2013/</guid>
       <description>Was hard to cut two out from this selection, so here&amp;rsquo;s my top 12 for the past year, as usual a bit of a mix between the rock n roll and the electronic noise..
-The Pastels &amp;ndash; Slow Summit 
-The Spook School &amp;ndash; Dress Up 
-Radiator Hospital &amp;ndash; Something Wild 
-Zomby &amp;ndash; With Love 
-Wyatt Blair &amp;ndash; Banana Cream Dream 
-Four Tet &amp;ndash; Beautiful Rewind</description>
+The Pastels &amp;ndash; Slow Summit
+The Spook School &amp;ndash; Dress Up
+Radiator Hospital &amp;ndash; Something Wild
+Zomby &amp;ndash; With Love
+Wyatt Blair &amp;ndash; Banana Cream Dream
+Four Tet &amp;ndash; Beautiful Rewind
+Basic House &amp;ndash; Oats
+Patricia &amp;ndash; Body Issues</description>
     </item>
     
     <item>
@@ -223,8 +209,7 @@ Four Tet &amp;ndash; Beautiful Rewind</description>
       <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/recordstorebot/</guid>
-      <description>First draft of my Record Store Bot is live over on Github - basically tying a Chatbot::Eliza style interface to Last.fm web services for an interactive (hopefully amusing) music recommendation bot.
-Works surprisingly well - although only has one method at the moment..</description>
+      <description></description>
     </item>
     
   </channel>

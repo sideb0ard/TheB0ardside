@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multics on The B0ardside</title>
+    <title>multics on The B0ardside</title>
     <link>http://theb0ardside.com/tags/multics/</link>
-    <description>Recent content in Multics on The B0ardside</description>
+    <description>Recent content in multics on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 May 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/multics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 06 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/multics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Systems Architecture, Design, Engineering, and Verification</title>
       <link>http://theb0ardside.com/systems-architecture-acm/</link>
       <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/systems-architecture-acm/</guid>
-      <description>Yow! this is great! I know my Unix history pretty well, but Multics - aside from knowing it was the precursor to Unix, i didn&amp;rsquo;t know much else of the details or who was involved - WATCH THIS! NOW! :D
-  </description>
+      <description>Yow! this is great! I know my Unix history pretty well, but Multics - aside from knowing it was the precursor to Unix, i didn&amp;rsquo;t know much else of the details or who was involved - WATCH THIS! NOW! :D</description>
     </item>
     
   </channel>

@@ -1,25 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>People on The B0ardside</title>
+    <title>people on The B0ardside</title>
     <link>http://theb0ardside.com/tags/people/</link>
-    <description>Recent content in People on The B0ardside</description>
+    <description>Recent content in people on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jun 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/people/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 20 Jun 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Around the Earth in 200ms</title>
       <link>http://theb0ardside.com/aroundtheearthin200ms/</link>
       <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/aroundtheearthin200ms/</guid>
-      <description>A month or two back, i saw an interesting figure on Bram Cohen&#39;s blog:
-&amp;#8220;The speed of light in a fiber optic cable around the earth&amp;rsquo;s circumference is about 200 milliseconds.&amp;#8221;
-(from here)
-I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of those useful metrics to know. I&#39;ve referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -</description>
+      <description></description>
     </item>
     
     <item>
@@ -28,7 +21,7 @@ I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of 
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/allspawonanticipation/</guid>
-      <description>// via John&#39;s blog at Kitchen Soap //</description>
+      <description></description>
     </item>
     
     <item>
@@ -37,8 +30,7 @@ I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of 
       <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/thenetworkedcity/</guid>
-      <description>[[ image half-inched from here]]
-I started studying Sociology a few years back with the Open University, but never managed to complete my course as I got a job here in the States and turned my study-time back towards practical technology. I did however study it long enough for it have quite a profound effect on my understanding and conceptualisation of networking, and felt especially influenced by the works of Manuel Castells and Stephen Graham.</description>
+      <description></description>
     </item>
     
     <item>
@@ -47,7 +39,7 @@ I started studying Sociology a few years back with the Open University, but neve
       <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/goinggoogleeyed/</guid>
-      <description>Ah, see, my comic is all true! :D</description>
+      <description></description>
     </item>
     
     <item>
@@ -56,8 +48,7 @@ I started studying Sociology a few years back with the Open University, but neve
       <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/claudeshannonandtheclams/</guid>
-      <description>I finished reading James Gleick&#39;s The Information tonite - so good!
-Really, the central character is Claude Shannon, who I&#39;m ashamed to admit I didn&#39;t previously know much about. Had a quick search when i finished it and found this decent little 30 min documentary which gives a good overview -</description>
+      <description></description>
     </item>
     
     <item>
@@ -66,8 +57,7 @@ Really, the central character is Claude Shannon, who I&#39;m ashamed to admit I 
       <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theinformation/</guid>
-      <description>I started reading James Gleick&#39;s &amp;#8220;The Information&amp;#8221; last week and haven&#39;t been able to put it down yet - so good!
-I just found this video of a talk he presented at Google last year on the book, looks ace, i&#39;ll save it for watching this evening.</description>
+      <description></description>
     </item>
     
     <item>
@@ -76,8 +66,7 @@ I just found this video of a talk he presented at Google last year on the book, 
       <pubDate>Mon, 14 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/bringthenoyce/</guid>
-      <description>yow, sorry, that title&#39;s a really bad pun! 
-So two things here - i started to watch this video with Robert Noyce talking about the development of the IC, but in the introduction and in his opening, they talk about an article written by Tom Wolfe about Noyce - now, Tom Wolfe was a massive influence on my teenage self, or at least one of his books, The Electric Kool Aid Acid Test, which a friends older brother passed on to me when i was fifteen.</description>
+      <description></description>
     </item>
     
   </channel>

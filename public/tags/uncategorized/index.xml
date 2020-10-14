@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncategorized on The B0ardside</title>
     <link>http://theb0ardside.com/tags/uncategorized/</link>
     <description>Recent content in Uncategorized on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 16 Jul 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/uncategorized/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 16 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leap Motion</title>
       <link>http://theb0ardside.com/leapmotion/</link>
       <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/leapmotion/</guid>
-      <description>ooh, nice. Just saw this company mentioned in the comments of an HN thread.</description>
+      <description></description>
     </item>
     
     <item>
@@ -25,7 +21,7 @@
       <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/scalingatdropbox/</guid>
-      <description>I highly recommend this DevOps Weekly mail out. The latest one has a bunch of good links, and one i found especially was this &amp;#8220;Scaling lessons learned at Dropbox, part 1&amp;#8220;.</description>
+      <description></description>
     </item>
     
     <item>
@@ -34,8 +30,7 @@
       <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</guid>
-      <description>Seymour Cray
-The Cardboard Computer Scientists series 2012</description>
+      <description></description>
     </item>
     
     <item>
@@ -44,9 +39,7 @@ The Cardboard Computer Scientists series 2012</description>
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/appleculture/</guid>
-      <description>Quite an interesting interview with Adam Lashinsky, author of a new book &amp;#8220;Inside Apple&amp;#8221;:
-
-/* via OS X Daily */</description>
+      <description></description>
     </item>
     
     <item>
@@ -55,9 +48,7 @@ The Cardboard Computer Scientists series 2012</description>
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robot/</guid>
-      <description>crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -
-
-// found via Laughing Squid //</description>
+      <description></description>
     </item>
     
     <item>
@@ -66,7 +57,7 @@ The Cardboard Computer Scientists series 2012</description>
       <pubDate>Wed, 28 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity/</guid>
-      <description>found via Boing Boing, excellent 20min short from 1923 -</description>
+      <description></description>
     </item>
     
     <item>
@@ -75,9 +66,7 @@ The Cardboard Computer Scientists series 2012</description>
       <pubDate>Fri, 09 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/bankrobbermorancerf/</guid>
-      <description>hah, great (real-life) story -
-
-(( via Bruce Schneier ))</description>
+      <description></description>
     </item>
     
     <item>
@@ -86,7 +75,7 @@ The Cardboard Computer Scientists series 2012</description>
       <pubDate>Thu, 08 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/nextdocumentary/</guid>
-      <description>Bookmarked this video via Boing Boing last week, but only got round to watching it tonite - pretty interesting little 20 minute documentary series called &amp;#8220;Entrepreneurs&amp;#8221; doing an episode on Steve Jobs and NeXT back in 1985</description>
+      <description></description>
     </item>
     
   </channel>

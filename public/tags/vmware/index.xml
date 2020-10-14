@@ -1,24 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vmware on The B0ardside</title>
+    <title>vmware on The B0ardside</title>
     <link>http://theb0ardside.com/tags/vmware/</link>
-    <description>Recent content in Vmware on The B0ardside</description>
+    <description>Recent content in vmware on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 Apr 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/vmware/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 13 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/vmware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JVM tuning for VMs</title>
       <link>http://theb0ardside.com/jvmtuningforvms/</link>
       <pubDate>Fri, 13 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jvmtuningforvms/</guid>
-      <description>This is an excellent talk about the interaction between the various layers of memory abstraction from the a machine&#39;s physical memory down through the Hypervisor&#39;s view, to the Guest OS&#39;s and down into the JVM:
-
-// found via Marakana //</description>
+      <description></description>
     </item>
     
   </channel>

@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Operating System on The B0ardside</title>
+    <title>operating system on The B0ardside</title>
     <link>http://theb0ardside.com/tags/operating-system/</link>
-    <description>Recent content in Operating System on The B0ardside</description>
+    <description>Recent content in operating system on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/operating-system/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/operating-system/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Roots of Computing, 1963</title>
       <link>http://theb0ardside.com/roots-of-os-1963/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/roots-of-os-1963/</guid>
-      <description>Oh man, this is incredible, seriously best historic piece I&amp;rsquo;ve watched, with the origins of operating system methodoligies, and crazy typewriter I/O UX, pre-CRTs!
-  </description>
+      <description>Oh man, this is incredible, seriously best historic piece I&amp;rsquo;ve watched, with the origins of operating system methodoligies, and crazy typewriter I/O UX, pre-CRTs!</description>
     </item>
     
   </channel>

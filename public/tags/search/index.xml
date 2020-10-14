@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Search on The B0ardside</title>
+    <title>search on The B0ardside</title>
     <link>http://theb0ardside.com/tags/search/</link>
-    <description>Recent content in Search on The B0ardside</description>
+    <description>Recent content in search on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 Jun 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/search/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 05 Jun 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/search/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Search - not a solved problem</title>
       <link>http://theb0ardside.com/searchnotasolvedproblem/</link>
       <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/searchnotasolvedproblem/</guid>
-      <description>Very good talk from Hilary Mason from a recent Lucene Revolution keynote.</description>
+      <description></description>
     </item>
     
   </channel>

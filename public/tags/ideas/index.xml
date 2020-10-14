@@ -1,24 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ideas on The B0ardside</title>
+    <title>ideas on The B0ardside</title>
     <link>http://theb0ardside.com/tags/ideas/</link>
-    <description>Recent content in Ideas on The B0ardside</description>
+    <description>Recent content in ideas on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 10 Jan 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 10 Jan 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>immutability</title>
       <link>http://theb0ardside.com/immutability/</link>
       <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/immutability/</guid>
-      <description>Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :
-
-via igrigorik&#39;s twitter</description>
+      <description></description>
     </item>
     
     <item>
@@ -27,7 +21,7 @@ via igrigorik&#39;s twitter</description>
       <pubDate>Mon, 26 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/foodfightshowonchefcookbookbestpractises/</guid>
-      <description>this google+ hangout, combined with this post and all it&#39;s links, provides plenty of good discussion and ideas for Chef.</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,8 +30,7 @@ via igrigorik&#39;s twitter</description>
       <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/technologyassocietysengine/</guid>
-      <description>Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -
-A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.</description>
+      <description></description>
     </item>
     
     <item>
@@ -46,7 +39,7 @@ A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Co
       <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/goinggoogleeyed/</guid>
-      <description>Ah, see, my comic is all true! :D</description>
+      <description></description>
     </item>
     
     <item>
@@ -55,8 +48,7 @@ A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Co
       <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theinformation/</guid>
-      <description>I started reading James Gleick&#39;s &amp;#8220;The Information&amp;#8221; last week and haven&#39;t been able to put it down yet - so good!
-I just found this video of a talk he presented at Google last year on the book, looks ace, i&#39;ll save it for watching this evening.</description>
+      <description></description>
     </item>
     
     <item>
@@ -65,9 +57,7 @@ I just found this video of a talk he presented at Google last year on the book, 
       <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theedgequestion2012/</guid>
-      <description>The Edge just published their annual Q/A in which they pose a question and ask a group of artists, scientists, and various kinds of intellectuals for their answer. This year the question was &amp;#8220;What Is Your Favorite Deep, Elegant, Or Beautiful Explanation?&amp;#8220;
-The list of contributors stretches to 192, most of whom i can&amp;rsquo;t claim to know, however three names I&amp;rsquo;m particularly interested in stick out:
-Rudy Rucker on Inverse Power Laws</description>
+      <description></description>
     </item>
     
   </channel>

@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Comic on The B0ardside</title>
+    <title>comic on The B0ardside</title>
     <link>http://theb0ardside.com/tags/comic/</link>
-    <description>Recent content in Comic on The B0ardside</description>
+    <description>Recent content in comic on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/comic/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/comic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Art Of Code - Dylan Beattie</title>
       <link>http://theb0ardside.com/theartofcode/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theartofcode/</guid>
-      <description>Super entertaining talk from Dylan Beattie, encompassing history of computational arts, live coding, math and having fun!
-  </description>
+      <description>Super entertaining talk from Dylan Beattie, encompassing history of computational arts, live coding, math and having fun!</description>
     </item>
     
     <item>
@@ -26,8 +21,7 @@
       <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</guid>
-      <description>Seymour Cray
-The Cardboard Computer Scientists series 2012</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,7 +30,7 @@ The Cardboard Computer Scientists series 2012</description>
       <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/goinggoogleeyed/</guid>
-      <description>Ah, see, my comic is all true! :D</description>
+      <description></description>
     </item>
     
     <item>
@@ -45,9 +39,7 @@ The Cardboard Computer Scientists series 2012</description>
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robot/</guid>
-      <description>crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -
-
-// found via Laughing Squid //</description>
+      <description></description>
     </item>
     
     <item>

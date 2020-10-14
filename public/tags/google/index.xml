@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Google on The B0ardside</title>
+    <title>google on The B0ardside</title>
     <link>http://theb0ardside.com/tags/google/</link>
-    <description>Recent content in Google on The B0ardside</description>
+    <description>Recent content in google on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 08 May 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/google/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 08 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/google/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Craig Silverstein on the origin of Google</title>
       <link>http://theb0ardside.com/craig-silverstein-google/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/craig-silverstein-google/</guid>
-      <description>I only just learned about this guy Craig Silverstein, who was Google employee #3 after Larry and Sergey. There&amp;rsquo;s a ton more info about him if you go searching, but this is an ace little 10 minute video where he talks about the origins of google..
-  </description>
+      <description>I only just learned about this guy Craig Silverstein, who was Google employee #3 after Larry and Sergey. There&amp;rsquo;s a ton more info about him if you go searching, but this is an ace little 10 minute video where he talks about the origins of google..</description>
     </item>
     
     <item>
@@ -27,7 +22,7 @@
       
       <guid>http://theb0ardside.com/containers-at-google/</guid>
       <description>Eric Brewer&amp;rsquo;s keynote from Dockercon14 -
-  Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
+Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
     </item>
     
   </channel>

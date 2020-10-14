@@ -1,24 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hacking on The B0ardside</title>
+    <title>hacking on The B0ardside</title>
     <link>http://theb0ardside.com/tags/hacking/</link>
-    <description>Recent content in Hacking on The B0ardside</description>
+    <description>Recent content in hacking on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 25 Oct 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 25 Oct 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>substack beep boop</title>
       <link>http://theb0ardside.com/substackbeepboop/</link>
       <pubDate>Fri, 25 Oct 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/substackbeepboop/</guid>
-      <description>dang, this is awesome::
-
-github code here</description>
+      <description></description>
     </item>
     
     <item>
@@ -27,8 +21,7 @@ github code here</description>
       <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/somefavvelocitytalks/</guid>
-      <description>Velocity was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!
-Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..</description>
+      <description></description>
     </item>
     
     <item>
@@ -37,8 +30,7 @@ Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve wat
       <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theonosendaislb10orbsystem/</guid>
-      <description>&amp;#8220;The SLB-10 is the latest generation of ORB manufactured by Ono-Sendai, utilizing state of the art EM pulse powered flotation; archive-quality audio and visual recording capabilities; fully CMYK coloured, tactile holographic capability; and guaranteed always-on connection to your personal encrypted data storage facility.
-ORBs have become so integral to our life and yet they are barely a 7 year old technology. It is worth reflecting on the brief history of these astounding devices, upon which we now rely so heavily.</description>
+      <description></description>
     </item>
     
     <item>
@@ -47,8 +39,7 @@ ORBs have become so integral to our life and yet they are barely a 7 year old te
       <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/technologyassocietysengine/</guid>
-      <description>Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -
-A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.</description>
+      <description></description>
     </item>
     
     <item>
@@ -57,8 +48,7 @@ A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Co
       <pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/thebiologyofcode/</guid>
-      <description>Fabulous piece and video chat with George Dyson over at the always reliable Edge -
-A Universe Of Self-replicating Code | Conversation | Edge.</description>
+      <description></description>
     </item>
     
     <item>
@@ -67,7 +57,7 @@ A Universe Of Self-replicating Code | Conversation | Edge.</description>
       <pubDate>Thu, 04 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/advancednetworkreconnaissancewithnmap2006/</guid>
-      <description>yow, this is some hardcore indepth port scanning shizzle -</description>
+      <description></description>
     </item>
     
   </channel>

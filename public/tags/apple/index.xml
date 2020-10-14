@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Apple on The B0ardside</title>
+    <title>apple on The B0ardside</title>
     <link>http://theb0ardside.com/tags/apple/</link>
-    <description>Recent content in Apple on The B0ardside</description>
+    <description>Recent content in apple on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Jan 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 28 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1987 - Hypercard demo</title>
       <link>http://theb0ardside.com/1987-hypercard/</link>
       <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/1987-hypercard/</guid>
-      <description>I never played with Hypercard, only ever heard about it - love this demo of it:
-  </description>
+      <description>I never played with Hypercard, only ever heard about it - love this demo of it:</description>
     </item>
     
     <item>
@@ -26,7 +21,7 @@
       <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/oldschoolmacdesignteam/</guid>
-      <description>// via OS X Daily //</description>
+      <description></description>
     </item>
     
     <item>
@@ -35,9 +30,7 @@
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/appleculture/</guid>
-      <description>Quite an interesting interview with Adam Lashinsky, author of a new book &amp;#8220;Inside Apple&amp;#8221;:
-
-/* via OS X Daily */</description>
+      <description></description>
     </item>
     
     <item>
@@ -46,7 +39,7 @@
       <pubDate>Thu, 08 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/nextdocumentary/</guid>
-      <description>Bookmarked this video via Boing Boing last week, but only got round to watching it tonite - pretty interesting little 20 minute documentary series called &amp;#8220;Entrepreneurs&amp;#8221; doing an episode on Steve Jobs and NeXT back in 1985</description>
+      <description></description>
     </item>
     
   </channel>

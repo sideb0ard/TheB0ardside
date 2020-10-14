@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Supercomputing on The B0ardside</title>
+    <title>supercomputing on The B0ardside</title>
     <link>http://theb0ardside.com/tags/supercomputing/</link>
-    <description>Recent content in Supercomputing on The B0ardside</description>
+    <description>Recent content in supercomputing on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 21 Jun 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/supercomputing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 21 Jun 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/supercomputing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seymour Cray profile</title>
       <link>http://theb0ardside.com/seymourcray/</link>
       <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/seymourcray/</guid>
-      <description>This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!
-  </description>
+      <description>This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!</description>
     </item>
     
   </channel>

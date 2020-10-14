@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Theory on The B0ardside</title>
+    <title>theory on The B0ardside</title>
     <link>http://theb0ardside.com/tags/theory/</link>
-    <description>Recent content in Theory on The B0ardside</description>
+    <description>Recent content in theory on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Dec 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/theory/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 19 Dec 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tony Hoare on the universals of computation</title>
       <link>http://theb0ardside.com/tony-hoare-univerals/</link>
       <pubDate>Fri, 19 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/tony-hoare-univerals/</guid>
-      <description>I&amp;rsquo;m currently reading Tony Hoare&amp;rsquo;s Communicating Sequential Processes - it&amp;rsquo;s awesome! I searched to see if I could find some youtube videos of him - this one is brilliant, him talking about what should be taught in Computer Science, the universal ideas of logic and geometry unpinning computation, going back to Euclid and Artistotle. Great stuff!
-  </description>
+      <description>I&amp;rsquo;m currently reading Tony Hoare&amp;rsquo;s Communicating Sequential Processes- it&amp;rsquo;s awesome! I searched to see if I could find some youtube videos of him - this one is brilliant, him talking about what should be taught in Computer Science, the universal ideas of logic and geometry unpinning computation, going back to Euclid and Artistotle. Great stuff!</description>
     </item>
     
     <item>
@@ -26,8 +21,7 @@
       <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/dijkstra-on-elegance/</guid>
-      <description>Excellent wee 20 min documentary with Dijkstra speaking about elegance..
-  </description>
+      <description>Excellent wee 20 min documentary with Dijkstra speaking about elegance..</description>
     </item>
     
     <item>
@@ -37,7 +31,7 @@
       
       <guid>http://theb0ardside.com/cattheoryintro/</guid>
       <description>Excellent introduction to Category Theory - presentation by Tom LaGatta at LispNYC meetup.
-  // via Hakka Labs Mailout</description>
+// via Hakka Labs Mailout</description>
     </item>
     
   </channel>

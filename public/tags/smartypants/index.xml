@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Smartypants on The B0ardside</title>
+    <title>smartypants on The B0ardside</title>
     <link>http://theb0ardside.com/tags/smartypants/</link>
-    <description>Recent content in Smartypants on The B0ardside</description>
+    <description>Recent content in smartypants on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 28 Sep 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/smartypants/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 28 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/smartypants/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Visualising Program Execution</title>
       <link>http://theb0ardside.com/visualprogexec/</link>
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/visualprogexec/</guid>
-      <description>Super fun live demo of program tracing and visualisation from this years Strange Loop conf..
-  </description>
+      <description>Super fun live demo of program tracing and visualisation from this years Strange Loop conf..</description>
     </item>
     
   </channel>

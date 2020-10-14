@@ -1,26 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Puppet on The B0ardside</title>
+    <title>puppet on The B0ardside</title>
     <link>http://theb0ardside.com/tags/puppet/</link>
-    <description>Recent content in Puppet on The B0ardside</description>
+    <description>Recent content in puppet on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Apr 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/puppet/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 03 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/puppet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Puppet stages and APT</title>
       <link>http://theb0ardside.com/puppetstagesandapt/</link>
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/puppetstagesandapt/</guid>
-      <description>At work, our old code deployment strategy was basically a wrapper script doing an svn checkout and some symlinking. With our move to Puppet for config management, we also moved to using Apt packaging for our code deployment, tying them together with a line similar to :
-class foo-export {
-package { &amp;#039;foo-export&amp;#039;: ensure = latest }
-}
-So that whenever we deploy a new version of a package to our apt-repo, it can then be installed with a:</description>
+      <description></description>
     </item>
     
     <item>
@@ -29,9 +21,7 @@ So that whenever we deploy a new version of a package to our apt-repo, it can th
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robot/</guid>
-      <description>crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -
-
-// found via Laughing Squid //</description>
+      <description></description>
     </item>
     
     <item>
@@ -40,10 +30,7 @@ So that whenever we deploy a new version of a package to our apt-repo, it can th
       <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/puppetmastering/</guid>
-      <description>At my work, we&#39;re now really digging into using Puppet - no longer just as a TechOps tools, but for our whole development cycle.
-The hardest thing I&#39;ve come across so far is in deploying Perl CPAN packages, although i have been using manifest/recipe i found here -
-http://www.windley.com/archives/2008/10/using_puppet_and_cpan.shtml
-It had been working quite well, but now as we&#39;ve been adding more and more to Puppet, I started seeing an error message:</description>
+      <description></description>
     </item>
     
   </channel>

@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorave on The B0ardside</title>
     <link>http://theb0ardside.com/tags/algorave/</link>
     <description>Recent content in Algorave on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/algorave/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/algorave/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sheffield Algorave 2018</title>
       <link>http://theb0ardside.com/sheffield-moot/</link>
@@ -17,8 +13,7 @@
       
       <guid>http://theb0ardside.com/sheffield-moot/</guid>
       <description>Just got back from the very awesome Livecode Festival #2 in Sheffield UK, a gathering of like minded music programmers and algorithmic artists - super inspiring!
-Here&amp;rsquo;s a screencast i captured of my set for the Algorave:
-  </description>
+Here&amp;rsquo;s a screencast i captured of my set for the Algorave:</description>
     </item>
     
     <item>
@@ -27,9 +22,7 @@ Here&amp;rsquo;s a screencast i captured of my set for the Algorave:
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/bcpl-traxx/</guid>
-      <description>Here&amp;rsquo;s a couple of new tracks I&amp;rsquo;ve put together using my Soundb0ard software..
-   
-  </description>
+      <description>Here&amp;rsquo;s a couple of new tracks I&amp;rsquo;ve put together using my Soundb0ard software..</description>
     </item>
     
     <item>
@@ -39,8 +32,7 @@ Here&amp;rsquo;s a screencast i captured of my set for the Algorave:
       
       <guid>http://theb0ardside.com/soundb0ard-algorave/</guid>
       <description>I&amp;rsquo;ve had my head down doing a bunch of work on my Soundb0ard software, in prep for playing at Algosix last weekend. The festival was awesome, so much great live music!
-I was quite happy with my performance, give it a listen/view:
-  </description>
+I was quite happy with my performance, give it a listen/view:</description>
     </item>
     
     <item>
@@ -50,8 +42,7 @@ I was quite happy with my performance, give it a listen/view:
       
       <guid>http://theb0ardside.com/tidalcyles-tutorial/</guid>
       <description>Alex McLean&amp;rsquo;s TidalCycles has been a big influence on my own Soundb0ard, and lately, now that my instruments are mostly built, I&amp;rsquo;ve been looking for ways to algorithmically modify them more.
-This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:
-  </description>
+This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:</description>
     </item>
     
   </channel>

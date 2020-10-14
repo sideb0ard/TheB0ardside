@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Silicon Valley on The B0ardside</title>
+    <title>silicon valley on The B0ardside</title>
     <link>http://theb0ardside.com/tags/silicon-valley/</link>
-    <description>Recent content in Silicon Valley on The B0ardside</description>
+    <description>Recent content in silicon valley on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 09 Jul 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/silicon-valley/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 09 Jul 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/silicon-valley/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AirBnB story</title>
       <link>http://theb0ardside.com/airbnbstory/</link>
       <pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/airbnbstory/</guid>
-      <description>This is pretty entertaining, one of the AirBnB founders telling their origin story&amp;hellip;
-  </description>
+      <description>This is pretty entertaining, one of the AirBnB founders telling their origin story&amp;hellip;</description>
     </item>
     
   </channel>

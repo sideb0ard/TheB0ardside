@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux on The B0ardside</title>
+    <title>linux on The B0ardside</title>
     <link>http://theb0ardside.com/tags/linux/</link>
-    <description>Recent content in Linux on The B0ardside</description>
+    <description>Recent content in linux on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 Oct 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 06 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Runtime Scheduling, Strange Loop 2016</title>
       <link>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</link>
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</guid>
-      <description>Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..
-  </description>
+      <description>Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..</description>
     </item>
     
     <item>
@@ -26,8 +21,7 @@
       <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/embedded-linux-timeline/</guid>
-      <description>Nicely informed history of Linux in embedded devices..
-  </description>
+      <description>Nicely informed history of Linux in embedded devices..</description>
     </item>
     
     <item>
@@ -36,8 +30,7 @@
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/etcd2.0/</guid>
-      <description>Excellent overview of Etcd and description of new features / bug fixes in 2.0..
-  </description>
+      <description>Excellent overview of Etcd and description of new features / bug fixes in 2.0..</description>
     </item>
     
     <item>
@@ -46,7 +39,7 @@
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/brendangregglinuxperformance/</guid>
-      <description>The always interesting Brendan Greg &amp;#8212;</description>
+      <description></description>
     </item>
     
   </channel>

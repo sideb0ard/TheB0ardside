@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Metaphor on The B0ardside</title>
+    <title>metaphor on The B0ardside</title>
     <link>http://theb0ardside.com/tags/metaphor/</link>
-    <description>Recent content in Metaphor on The B0ardside</description>
+    <description>Recent content in metaphor on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Oct 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/metaphor/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 15 Oct 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/metaphor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Build a Skyscraper</title>
       <link>http://theb0ardside.com/howtobuildaskycraper/</link>
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/howtobuildaskycraper/</guid>
-      <description>Pretty rad skyscraper history as software-engineering-metaphor..
-  </description>
+      <description>Pretty rad skyscraper history as software-engineering-metaphor..</description>
     </item>
     
   </channel>

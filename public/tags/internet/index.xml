@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Internet on The B0ardside</title>
+    <title>internet on The B0ardside</title>
     <link>http://theb0ardside.com/tags/internet/</link>
-    <description>Recent content in Internet on The B0ardside</description>
+    <description>Recent content in internet on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Jun 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 29 Jun 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aaron Swartz story</title>
       <link>http://theb0ardside.com/aaronswartz/</link>
       <pubDate>Sun, 29 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/aaronswartz/</guid>
-      <description>Wow, this Aaron Swartz documentary is great, well worth a watch -&amp;gt;
-  </description>
+      <description>Wow, this Aaron Swartz documentary is great, well worth a watch -&amp;gt;</description>
     </item>
     
     <item>
@@ -27,7 +22,7 @@
       
       <guid>http://theb0ardside.com/urban-giants/</guid>
       <description>Beautifully shot, mind blowing short documentary about New York&amp;rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;amp;T Long Lines Building ..
-  Found via BldBlog site</description>
+Found via BldBlog site</description>
     </item>
     
     <item>
@@ -36,7 +31,7 @@
       <pubDate>Sun, 11 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/computersforcynics/</guid>
-      <description>hah, nice counterpart to all the recent good, but hyperbole books i&#39;ve been reading (What The Dormouse Said, and Dealers Of Lightning) -</description>
+      <description></description>
     </item>
     
     <item>
@@ -45,7 +40,7 @@
       <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jedbergtalkatairbnb/</guid>
-      <description>I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -</description>
+      <description></description>
     </item>
     
     <item>
@@ -54,8 +49,7 @@
       <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/perlparpparp/</guid>
-      <description>I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating. First stop was the exceptionally useful Whats My DNS
-At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host.</description>
+      <description></description>
     </item>
     
     <item>
@@ -64,8 +58,7 @@ At the host level I also wanted to track the incoming DNS queries using tcpdump.
       <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/somefavvelocitytalks/</guid>
-      <description>Velocity was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!
-Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..</description>
+      <description></description>
     </item>
     
     <item>
@@ -74,10 +67,7 @@ Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve wat
       <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/aroundtheearthin200ms/</guid>
-      <description>A month or two back, i saw an interesting figure on Bram Cohen&#39;s blog:
-&amp;#8220;The speed of light in a fiber optic cable around the earth&amp;rsquo;s circumference is about 200 milliseconds.&amp;#8221;
-(from here)
-I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of those useful metrics to know. I&#39;ve referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -</description>
+      <description></description>
     </item>
     
     <item>
@@ -86,7 +76,7 @@ I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of 
       <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/21stcenturyinternet/</guid>
-      <description>via Google Blog</description>
+      <description></description>
     </item>
     
     <item>
@@ -95,8 +85,7 @@ I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of 
       <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/technologyassocietysengine/</guid>
-      <description>Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -
-A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.</description>
+      <description></description>
     </item>
     
     <item>
@@ -105,8 +94,7 @@ A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Co
       <pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/thebiologyofcode/</guid>
-      <description>Fabulous piece and video chat with George Dyson over at the always reliable Edge -
-A Universe Of Self-replicating Code | Conversation | Edge.</description>
+      <description></description>
     </item>
     
     <item>
@@ -115,8 +103,7 @@ A Universe Of Self-replicating Code | Conversation | Edge.</description>
       <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/claudeshannonandtheclams/</guid>
-      <description>I finished reading James Gleick&#39;s The Information tonite - so good!
-Really, the central character is Claude Shannon, who I&#39;m ashamed to admit I didn&#39;t previously know much about. Had a quick search when i finished it and found this decent little 30 min documentary which gives a good overview -</description>
+      <description></description>
     </item>
     
     <item>
@@ -125,8 +112,7 @@ Really, the central character is Claude Shannon, who I&#39;m ashamed to admit I 
       <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theinformation/</guid>
-      <description>I started reading James Gleick&#39;s &amp;#8220;The Information&amp;#8221; last week and haven&#39;t been able to put it down yet - so good!
-I just found this video of a talk he presented at Google last year on the book, looks ace, i&#39;ll save it for watching this evening.</description>
+      <description></description>
     </item>
     
     <item>
@@ -135,7 +121,7 @@ I just found this video of a talk he presented at Google last year on the book, 
       <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
-      <description>I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows.</description>
+      <description></description>
     </item>
     
     <item>
@@ -153,8 +139,7 @@ I just found this video of a talk he presented at Google last year on the book, 
       <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/physicalinternet/</guid>
-      <description>Ever since reading Neal Stephenson&#39;s Mother Earth Mother Board article, I&#39;ve been quite fascinated with the undersea cables which physically connect the land masses of the world. This map, linked above is an amazing view into this part of the Internet&#39;s current infrastructure.
-(via flowingdata.com)</description>
+      <description></description>
     </item>
     
     <item>
@@ -163,7 +148,7 @@ I just found this video of a talk he presented at Google last year on the book, 
       <pubDate>Wed, 10 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/internets1962tillnow/</guid>
-      <description>Excellent timeline of the Internet&amp;#8216;s evolution from 1962 till the present day..</description>
+      <description></description>
     </item>
     
   </channel>

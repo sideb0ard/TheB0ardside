@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Virtualization on The B0ardside</title>
+    <title>virtualization on The B0ardside</title>
     <link>http://theb0ardside.com/tags/virtualization/</link>
-    <description>Recent content in Virtualization on The B0ardside</description>
+    <description>Recent content in virtualization on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 24 Apr 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/virtualization/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 24 Apr 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/virtualization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PostgreSQL on AWS</title>
       <link>http://theb0ardside.com/postgresqlonaws/</link>
       <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/postgresqlonaws/</guid>
-      <description>Excellent video specifically for PostgreSQL on AWS, however the principles are pretty universal information for running anything on AWS -</description>
+      <description></description>
     </item>
     
     <item>
@@ -25,7 +21,7 @@
       <pubDate>Tue, 09 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/grizzled/</guid>
-      <description>yow, the latest OpenStack release is looking rather slick..</description>
+      <description></description>
     </item>
     
     <item>
@@ -34,8 +30,7 @@
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/genxen/</guid>
-      <description>I&#39;ve been working pretty extensively with Xen and Puppet in my new job, really loving it! I&#39;ve been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I&#39;ve just finished a script which is over on my github page, which basically automates what was previously a manual process.
-Basically, it copies your existing disk.img and swap.img, generates a new xen.</description>
+      <description></description>
     </item>
     
     <item>
@@ -44,10 +39,7 @@ Basically, it copies your existing disk.img and swap.img, generates a new xen.</
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vagrantandchefsetup/</guid>
-      <description>I&#39;ve been reading through ThoughtWorks&#39; latest &amp;#8216;technology radar&amp;#8216; which led me to look up Vagrant, one of the tools they list as worth exploring.
-Vagrant is a framework for building and deploying Virtual Machine environments, using Oracle VirtualBox for the actual VMs and utilizing Chef for configuration management. Watching through this intro video:
-http://vimeo.com/9976342
-i was quite intrigued as it is very similar to what i was looking to achieve earlier when i was experimenting with installing Xen and configuring with Puppet.</description>
+      <description></description>
     </item>
     
   </channel>

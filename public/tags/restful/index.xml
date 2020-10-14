@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Restful on The B0ardside</title>
+    <title>restful on The B0ardside</title>
     <link>http://theb0ardside.com/tags/restful/</link>
-    <description>Recent content in Restful on The B0ardside</description>
+    <description>Recent content in restful on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Jan 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/restful/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 03 Jan 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/restful/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stop Breaking The Web</title>
       <link>http://theb0ardside.com/clientside-mvc-and-routes/</link>
@@ -17,7 +13,7 @@
       
       <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
       <description>Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..
-  // found via https://twitter.com/littlecalculist/status/418800989634695168</description>
+// found via https://twitter.com/littlecalculist/status/418800989634695168</description>
     </item>
     
   </channel>

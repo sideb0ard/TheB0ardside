@@ -1,26 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Debian on The B0ardside</title>
+    <title>debian on The B0ardside</title>
     <link>http://theb0ardside.com/tags/debian/</link>
-    <description>Recent content in Debian on The B0ardside</description>
+    <description>Recent content in debian on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Apr 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/debian/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 03 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/debian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Puppet stages and APT</title>
       <link>http://theb0ardside.com/puppetstagesandapt/</link>
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/puppetstagesandapt/</guid>
-      <description>At work, our old code deployment strategy was basically a wrapper script doing an svn checkout and some symlinking. With our move to Puppet for config management, we also moved to using Apt packaging for our code deployment, tying them together with a line similar to :
-class foo-export {
-package { &amp;#039;foo-export&amp;#039;: ensure = latest }
-}
-So that whenever we deploy a new version of a package to our apt-repo, it can then be installed with a:</description>
+      <description></description>
     </item>
     
     <item>
@@ -29,8 +21,7 @@ So that whenever we deploy a new version of a package to our apt-repo, it can th
       <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/buildingadebpackagefromaperlscript/</guid>
-      <description>I have a speedtest perl script i wrote - nothing complicated, takes a file and uploads it to a remote FTP or SFTP server, while calculating how long, then gives you a a measure of the MB/per second bandwidth between two sites.
-I want it available on a selection of machines so it can run from wherever, so I thought i&#39;d package it up as a .DEB file and stick it in our local repo.</description>
+      <description></description>
     </item>
     
   </channel>

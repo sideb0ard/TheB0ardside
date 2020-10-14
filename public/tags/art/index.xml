@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Art on The B0ardside</title>
+    <title>art on The B0ardside</title>
     <link>http://theb0ardside.com/tags/art/</link>
-    <description>Recent content in Art on The B0ardside</description>
+    <description>Recent content in art on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Side Of The City</title>
       <link>http://theb0ardside.com/my-side-of-the-city/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/my-side-of-the-city/</guid>
-      <description>Finished a comic I&amp;rsquo;ve been working on this past year - over at the Drawing B0ard -</description>
+      <description>Finished a comic I&amp;rsquo;ve been working on this past year - over at the Drawing B0ard-</description>
     </item>
     
     <item>
@@ -27,9 +23,9 @@
       <guid>http://theb0ardside.com/algorithmic-art-assembly-vids/</guid>
       <description>Oh, should have posted this a while back!
 All videos from the Algorithmic Art Assembly conference/festival I ran in March, are now online &amp;ndash;
-Friday Day  
-Friday Night  
-Saturday Day  
+Friday Day
+Friday Night
+Saturday Day
 Saturday Night</description>
     </item>
     
@@ -40,7 +36,7 @@ Saturday Night</description>
       
       <guid>http://theb0ardside.com/bcpl/</guid>
       <description>I&amp;rsquo;m just back from a two week holiday in the UK, and while over there, I took part in the first Energized Labs meetup (thanks Matt!), and gave a talk about my efforts in trying to combine my art and tech influences..
-  Also check both Matt and Martin&amp;rsquo;s talks from the same session ..</description>
+Also check both Matt and Martin&amp;rsquo;s talks from the same session ..</description>
     </item>
     
     <item>
@@ -49,8 +45,7 @@ Saturday Night</description>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/magenta-art/</guid>
-      <description>This is a good chat with Doug Eck, of the Google Magenta project It&amp;rsquo;s a project I&amp;rsquo;ve been keeping an eye on, as it has a ton of potential. I&amp;rsquo;ve generated some melodies based on their Melody RNN - although i need to spend more time with it, as I&amp;rsquo;ve been more focussed on own generative algorithms.
-  </description>
+      <description>This is a good chat with Doug Eck, of the Google Magenta projectIt&amp;rsquo;s a project I&amp;rsquo;ve been keeping an eye on, as it has a ton of potential. I&amp;rsquo;ve generated some melodies based on their Melody RNN- although i need to spend more time with it, as I&amp;rsquo;ve been more focussed on own generative algorithms.</description>
     </item>
     
     <item>
@@ -60,8 +55,7 @@ Saturday Night</description>
       
       <guid>http://theb0ardside.com/two-jenn-schiffer-talks/</guid>
       <description>Up at XOXO last year, the Jenn Schiffer talk was definitely one of the most fun:
-  this older one i found from 2015 is equally as entertaining, I love the opening sequence, it&amp;rsquo;s got a kind of &amp;ldquo;cool&amp;rdquo; Portlandia vibe!
-  </description>
+this older one i found from 2015 is equally as entertaining, I love the opening sequence, it&amp;rsquo;s got a kind of &amp;ldquo;cool&amp;rdquo; Portlandia vibe!</description>
     </item>
     
     <item>
@@ -80,8 +74,7 @@ Fortunately however, I did find this lovely interview with &amp;ldquo;Frank&amp;
       <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/codetraxx/</guid>
-      <description>Oh yeah, that Codetraxx project I mentioned, which me and Tack have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..
- </description>
+      <description>Oh yeah, that Codetraxx project I mentioned, which me and Tack have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..</description>
     </item>
     
     <item>
@@ -91,8 +84,7 @@ Fortunately however, I did find this lovely interview with &amp;ldquo;Frank&amp;
       
       <guid>http://theb0ardside.com/joshua-davis-beyond-play/</guid>
       <description>Wow. just wow&amp;hellip;
-   Tack turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?!
-This was following me and Tack&amp;rsquo;s Codetraxx project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while.</description>
+This was following me and Tack&amp;rsquo;s Codetraxx project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while. Another friend of mine, Matt Spendlove, had told me about The Nature Of Code which i&amp;rsquo;ve been wanting to read, so I suggested we play with Processing - seems awesome already!</description>
     </item>
     
     <item>
@@ -102,11 +94,10 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       
       <guid>http://theb0ardside.com/cardboard-computer-scientists/</guid>
       <description>A wee slideshow of my Cardb0ard Computer Scientists project..
-Previous // Next // or better yet - use your left and right arrow-&amp;gt; keys //
-
+Previous// Next// or better yet - use your left and right arrow-&amp;gt; keys //
 These are all drawn on scraps of cardboard i had around, most are either from frozen pizzas or record mailers!
 So far i have:
-Charles Babbage Ada Lovelace Alan Turing John Von Neumann // not pictured Claude Shannon Konrad Zuse Vannevar Bush Doug Engelbart John McCarthy Dennis Ritchie  ken Thompson Ted Nelson Seymour Cray</description>
+Charles BabbageAda LovelaceAlan TuringJohn Von Neumann // not picturedClaude ShannonKonrad ZuseVannevar BushDoug EngelbartJohn McCarthyDennis Ritchie ken ThompsonTed NelsonSeymour Cray(Using the (Mousetrap)[http://craig.is/killing/mice] library)</description>
     </item>
     
   </channel>

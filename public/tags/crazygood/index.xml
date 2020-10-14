@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Crazygood on The B0ardside</title>
+    <title>crazygood on The B0ardside</title>
     <link>http://theb0ardside.com/tags/crazygood/</link>
-    <description>Recent content in Crazygood on The B0ardside</description>
+    <description>Recent content in crazygood on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/crazygood/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/crazygood/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cubase64</title>
       <link>http://theb0ardside.com/c64-cubase/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/c64-cubase/</guid>
-      <description>This is nuts, some guy wrote an awesome sound editor for the Commodore 64, Cubase64! Link comes via man like Tack
-  </description>
+      <description>This is nuts, some guy wrote an awesome sound editor for the Commodore 64, Cubase64! Link comes via man like Tack</description>
     </item>
     
   </channel>

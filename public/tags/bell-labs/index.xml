@@ -1,24 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bell Labs on The B0ardside</title>
+    <title>bell labs on The B0ardside</title>
     <link>http://theb0ardside.com/tags/bell-labs/</link>
-    <description>Recent content in Bell Labs on The B0ardside</description>
+    <description>Recent content in bell labs on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Dec 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/bell-labs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 27 Dec 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/bell-labs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>History and Spirit of C and C&#43;&#43;</title>
       <link>http://theb0ardside.com/historyspiritc/</link>
       <pubDate>Sun, 27 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/historyspiritc/</guid>
-      <description>Some excellent bits of BCPL history in here, which I hadn&amp;rsquo;t come across before&amp;hellip;
- History and Spirit of C and C++ - Olve Maudal from NDC Conferences on Vimeo.
- </description>
+      <description>Some excellent bits of BCPL history in here, which I hadn&amp;rsquo;t come across before&amp;hellip;</description>
     </item>
     
     <item>
@@ -27,8 +21,7 @@
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robpike-go-concurrency/</guid>
-      <description>I thought I had seen this, but no, it&amp;rsquo;s just a similar theme to other talks by Rob Pike I&amp;rsquo;ve seen - this one is quite fun to code along too, its a super neat and compact concurrency app..
-  </description>
+      <description>I thought I had seen this, but no, it&amp;rsquo;s just a similar theme to other talks by Rob Pike I&amp;rsquo;ve seen - this one is quite fun to code along too, its a super neat and compact concurrency app..</description>
     </item>
     
   </channel>

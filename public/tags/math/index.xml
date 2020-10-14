@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Math on The B0ardside</title>
+    <title>math on The B0ardside</title>
     <link>http://theb0ardside.com/tags/math/</link>
-    <description>Recent content in Math on The B0ardside</description>
+    <description>Recent content in math on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 Jun 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/math/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 03 Jun 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Von Neumann and the Institute For Advanced Study</title>
       <link>http://theb0ardside.com/vonneumannandtheinstituteforadvancedstudy/</link>
       <pubDate>Sun, 03 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vonneumannandtheinstituteforadvancedstudy/</guid>
-      <description>I&#39;ve started reading George Dyson&#39;s &amp;#8220;Turing&#39;s Cathedral&amp;#8221;, and really enjoying it - I love reading the historical context of technological progress, feels like a lot of sociological reading, filling in another of the endless jigsaw pieces of a larger all-encompassing narrative.
-Here&#39;s George Dyson doing a lecture on the material in the book :</description>
+      <description></description>
     </item>
     
     <item>
@@ -26,8 +21,7 @@ Here&#39;s George Dyson doing a lecture on the material in the book :</descripti
       <pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/thebiologyofcode/</guid>
-      <description>Fabulous piece and video chat with George Dyson over at the always reliable Edge -
-A Universe Of Self-replicating Code | Conversation | Edge.</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,8 +30,7 @@ A Universe Of Self-replicating Code | Conversation | Edge.</description>
       <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/claudeshannonandtheclams/</guid>
-      <description>I finished reading James Gleick&#39;s The Information tonite - so good!
-Really, the central character is Claude Shannon, who I&#39;m ashamed to admit I didn&#39;t previously know much about. Had a quick search when i finished it and found this decent little 30 min documentary which gives a good overview -</description>
+      <description></description>
     </item>
     
   </channel>

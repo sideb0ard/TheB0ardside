@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portaudio on The B0ardside</title>
+    <title>portaudio on The B0ardside</title>
     <link>http://theb0ardside.com/tags/portaudio/</link>
-    <description>Recent content in Portaudio on The B0ardside</description>
+    <description>Recent content in portaudio on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/portaudio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/portaudio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perl and Portaudio</title>
       <link>http://theb0ardside.com/algorithmicsoundperl/</link>
@@ -17,7 +13,7 @@
       
       <guid>http://theb0ardside.com/algorithmicsoundperl/</guid>
       <description>Super nice demo of algorithmic sound generation with Perl and Portaudio&amp;hellip;
-  from here</description>
+from here</description>
     </item>
     
   </channel>

@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mainframes on The B0ardside</title>
+    <title>mainframes on The B0ardside</title>
     <link>http://theb0ardside.com/tags/mainframes/</link>
-    <description>Recent content in Mainframes on The B0ardside</description>
+    <description>Recent content in mainframes on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Mar 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/mainframes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 29 Mar 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/mainframes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Here&#39;s What Happens When an 18 Year Old Buys a Mainframe</title>
       <link>http://theb0ardside.com/18-year-old-mainframe/</link>
       <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/18-year-old-mainframe/</guid>
-      <description>Heh, funny talk from a young enthusiast who bought, moved, and got up and running, an IBM z890.
-  </description>
+      <description>Heh, funny talk from a young enthusiast who bought, moved, and got up and running, an IBM z890.</description>
     </item>
     
   </channel>

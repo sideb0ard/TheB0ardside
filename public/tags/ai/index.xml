@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ai on The B0ardside</title>
+    <title>ai on The B0ardside</title>
     <link>http://theb0ardside.com/tags/ai/</link>
-    <description>Recent content in Ai on The B0ardside</description>
+    <description>Recent content in ai on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 Sep 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 27 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Build a Mind</title>
       <link>http://theb0ardside.com/joschabach-ai/</link>
@@ -17,7 +13,7 @@
       
       <guid>http://theb0ardside.com/joschabach-ai/</guid>
       <description>Hugely compelling talk by Joscha Bach covering history and possible futures of AI..
-  Found here</description>
+Found here</description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Thu, 19 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/deep-learning/</guid>
-      <description>  </description>
+      <description></description>
     </item>
     
   </channel>

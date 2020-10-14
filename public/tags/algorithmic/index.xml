@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Algorithmic on The B0ardside</title>
+    <title>algorithmic on The B0ardside</title>
     <link>http://theb0ardside.com/tags/algorithmic/</link>
-    <description>Recent content in Algorithmic on The B0ardside</description>
+    <description>Recent content in algorithmic on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/algorithmic/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/algorithmic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guardian piece on Algorave</title>
       <link>http://theb0ardside.com/algorave-guardian-article/</link>
@@ -17,8 +13,7 @@
       
       <guid>http://theb0ardside.com/algorave-guardian-article/</guid>
       <description>Nice piece from the Guardian showcasing the Algorave scene in Sheffield.
-Big up Alex McLean!
-  </description>
+Big up Alex McLean!</description>
     </item>
     
     <item>
@@ -28,7 +23,7 @@ Big up Alex McLean!
       
       <guid>http://theb0ardside.com/algorithmicsoundperl/</guid>
       <description>Super nice demo of algorithmic sound generation with Perl and Portaudio&amp;hellip;
-  from here</description>
+from here</description>
     </item>
     
   </channel>

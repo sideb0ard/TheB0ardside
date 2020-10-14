@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stylemag on The B0ardside</title>
+    <title>stylemag on The B0ardside</title>
     <link>http://theb0ardside.com/tags/stylemag/</link>
-    <description>Recent content in Stylemag on The B0ardside</description>
+    <description>Recent content in stylemag on The B0ardside</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 14 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theb0ardside.com/tags/stylemag/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 14 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/stylemag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SF - Streets by VICE</title>
       <link>http://theb0ardside.com/sanfrancisco-vice/</link>
       <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/sanfrancisco-vice/</guid>
-      <description>Pretty decent wee documentary on the changing face of SF from VICE mag. Near the beginning a lot of the location shots don&amp;rsquo;t match the narrative, but the interview with Andre Nickatina makes it totally worthwhile!
-  </description>
+      <description>Pretty decent wee documentary on the changing face of SF from VICE mag. Near the beginning a lot of the location shots don&amp;rsquo;t match the narrative, but the interview with Andre Nickatina makes it totally worthwhile!</description>
     </item>
     
   </channel>
