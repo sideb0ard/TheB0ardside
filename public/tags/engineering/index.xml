@@ -12,7 +12,8 @@
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/howtobuildaskycraper/</guid>
-      <description>Pretty rad skyscraper history as software-engineering-metaphor..</description>
+      <description>Pretty rad skyscraper history as software-engineering-metaphor..
+  </description>
     </item>
     
     <item>
@@ -21,7 +22,8 @@
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/system-facebook-scale/</guid>
-      <description>Wow, this is one of the most practical, technical talks I&amp;rsquo;ve seen in a while - super good!</description>
+      <description>Wow, this is one of the most practical, technical talks I&amp;rsquo;ve seen in a while - super good!
+  </description>
     </item>
     
     <item>
@@ -30,7 +32,8 @@
       <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vpc-design/</guid>
-      <description>Super detailed and practical VPC design best practises - very cool stuff..</description>
+      <description>Super detailed and practical VPC design best practises - very cool stuff..
+  </description>
     </item>
     
     <item>
@@ -39,7 +42,8 @@
       <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/underwatercables1939/</guid>
-      <description>Yow, 1056 wires - 1930s style Undersea Telephony biz..</description>
+      <description>Yow, 1056 wires - 1930s style Undersea Telephony biz..
+  </description>
     </item>
     
     <item>
@@ -48,7 +52,9 @@
       <pubDate>Fri, 04 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/debuggingproduction/</guid>
-      <description></description>
+      <description>  Bryan Cantrill being funny as hell.
+&#34;Bryan Cantrill discusses debugging production systems using post-mortem debugging and dynamic instrumentation, with a bit of history and an introduction to useful debugging tools.&#34;i
+ </description>
     </item>
     
     <item>
@@ -57,7 +63,7 @@
       <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/apollocomputer/</guid>
-      <description></description>
+      <description>awesome sauce.</description>
     </item>
     
     <item>
@@ -66,7 +72,7 @@
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/brendangregglinuxperformance/</guid>
-      <description></description>
+      <description>The always interesting Brendan Greg &amp;#8212;</description>
     </item>
     
     <item>
@@ -75,7 +81,7 @@
       <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/berkshelfthemissingpiece/</guid>
-      <description></description>
+      <description>If you&#39;ve been following my past few posts, you&#39;ve seen i was investigating how best to integrate the plethora of Chef testing tools that&#39;ve been coming out &amp;#8212; foodcritic, chefspec, test-kitchen, mini-test &amp;#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&amp;#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo?</description>
     </item>
     
     <item>
@@ -84,7 +90,8 @@
       <pubDate>Wed, 15 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/testdrivenchef/</guid>
-      <description></description>
+      <description>I&#39;m looking to start using Test-Kitchen and Berkshelf, and basically trying to get my head round setting up a proper test driven Chef setup.
+I found this video from last year to be quite a good introduction to some of the setup -</description>
     </item>
     
     <item>
@@ -93,7 +100,7 @@
       <pubDate>Sat, 11 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/netflixoss/</guid>
-      <description></description>
+      <description>Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:</description>
     </item>
     
     <item>
@@ -102,7 +109,7 @@
       <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jedbergtalkatairbnb/</guid>
-      <description></description>
+      <description>I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -</description>
     </item>
     
     <item>
@@ -111,7 +118,7 @@
       <pubDate>Thu, 17 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/etsyscalingvidfrom2011/</guid>
-      <description></description>
+      <description>All well accepted practices by now, but still a good watch.</description>
     </item>
     
     <item>
@@ -120,7 +127,7 @@
       <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/scalingatdropbox/</guid>
-      <description></description>
+      <description>I highly recommend this DevOps Weekly mail out. The latest one has a bunch of good links, and one i found especially was this &amp;#8220;Scaling lessons learned at Dropbox, part 1&amp;#8220;.</description>
     </item>
     
     <item>
@@ -129,7 +136,8 @@
       <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/somefavvelocitytalks/</guid>
-      <description></description>
+      <description>Velocity was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!
+Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..</description>
     </item>
     
     <item>
@@ -138,7 +146,8 @@
       <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theonosendaislb10orbsystem/</guid>
-      <description></description>
+      <description>&amp;#8220;The SLB-10 is the latest generation of ORB manufactured by Ono-Sendai, utilizing state of the art EM pulse powered flotation; archive-quality audio and visual recording capabilities; fully CMYK coloured, tactile holographic capability; and guaranteed always-on connection to your personal encrypted data storage facility.
+ORBs have become so integral to our life and yet they are barely a 7 year old technology. It is worth reflecting on the brief history of these astounding devices, upon which we now rely so heavily.</description>
     </item>
     
     <item>
@@ -147,7 +156,10 @@
       <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/aroundtheearthin200ms/</guid>
-      <description></description>
+      <description>A month or two back, i saw an interesting figure on Bram Cohen&#39;s blog:
+&amp;#8220;The speed of light in a fiber optic cable around the earth&amp;rsquo;s circumference is about 200 milliseconds.&amp;#8221;
+(from here)
+I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of those useful metrics to know. I&#39;ve referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -</description>
     </item>
     
     <item>
@@ -156,7 +168,7 @@
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/allspawonanticipation/</guid>
-      <description></description>
+      <description>// via John&#39;s blog at Kitchen Soap //</description>
     </item>
     
   </channel>

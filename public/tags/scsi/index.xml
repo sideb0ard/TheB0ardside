@@ -12,7 +12,8 @@
       <pubDate>Thu, 27 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/themysteriousmegacli/</guid>
-      <description></description>
+      <description>I&#39;ve inherited some Production Sun Fire X4470 boxes, which upon first look appeared to only have 2 x 140GB drives. Checking the purchase orders however, revealed that they should in fact have 4 x 140GB drives, a fact confirmed by &amp;#8220;dmesg |grep scsi&amp;#8221;.
+These Sun Fire servers come with an internal 6Gb SAS PCIe RAID HBA which are managed via the LSI MegaRAID Management Suite. Unfortunately, the LSI website is a nightmare to navigate and has been re-arranged with no-redirects, requires a login and in general makes it very hard to find and download the MegaCLI utility.</description>
     </item>
     
   </channel>

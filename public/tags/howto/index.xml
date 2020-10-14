@@ -12,7 +12,8 @@
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/golden-rules-audio-programming/</guid>
-      <description>I&amp;rsquo;ve been dealing with threaded data access race conditions between my ui and audio thread this weekend, so found this talk pretty informative &amp;ndash; !</description>
+      <description>I&amp;rsquo;ve been dealing with threaded data access race conditions between my ui and audio thread this weekend, so found this talk pretty informative &amp;ndash; !
+  </description>
     </item>
     
     <item>
@@ -22,7 +23,8 @@
       
       <guid>http://theb0ardside.com/tidalcyles-tutorial/</guid>
       <description>Alex McLean&amp;rsquo;s TidalCycles has been a big influence on my own Soundb0ard, and lately, now that my instruments are mostly built, I&amp;rsquo;ve been looking for ways to algorithmically modify them more.
-This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:</description>
+This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:
+  </description>
     </item>
     
     <item>
@@ -31,8 +33,10 @@ This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing so
       <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/monolake-granular/</guid>
-      <description>Hmm, my granular synthhasn&amp;rsquo;t quite come together yet, but I&amp;rsquo;m learning a load.
-This is a pretty informative (promo) video from Robert Henke/Monolake showcasing his &amp;lsquo;Granulator&amp;rsquo; plugin for Ableton Live.If i can get mine to sound anything like that i&amp;rsquo;ll be stoked!</description>
+      <description>Hmm, my granular synth hasn&amp;rsquo;t quite come together yet, but I&amp;rsquo;m learning a load.
+This is a pretty informative (promo) video from Robert Henke/Monolake showcasing his &amp;lsquo;Granulator&amp;rsquo; plugin for Ableton Live.
+If i can get mine to sound anything like that i&amp;rsquo;ll be stoked!
+  </description>
     </item>
     
     <item>
@@ -41,7 +45,8 @@ This is a pretty informative (promo) video from Robert Henke/Monolake showcasing
       <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/let-vim-do-the-typing/</guid>
-      <description>Discovered lots of great vim talks - this one is neat:</description>
+      <description>Discovered lots of great vim talks - this one is neat:
+  </description>
     </item>
     
     <item>
@@ -50,7 +55,8 @@ This is a pretty informative (promo) video from Robert Henke/Monolake showcasing
       <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/purple-rain/</guid>
-      <description>I was listening to the Creative Coding podcastwith Daniel Shiffman the other day - One thing they discussed was Daniel&amp;rsquo;s new Coding Challenges youtube series - this one to do a &amp;lsquo;Purple Rain&amp;rsquo; in Processing is really fun!</description>
+      <description>I was listening to the Creative Coding podcast with Daniel Shiffman the other day - One thing they discussed was Daniel&amp;rsquo;s new Coding Challenges youtube series - this one to do a &amp;lsquo;Purple Rain&amp;rsquo; in Processing is really fun!
+  </description>
     </item>
     
     <item>
@@ -59,7 +65,8 @@ This is a pretty informative (promo) video from Robert Henke/Monolake showcasing
       <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/android-audio-performance/</guid>
-      <description>I&amp;rsquo;m currently working on a Brillo audio component, which will require very low latency performance. While searching for some tips and prior art, I came across this talk from Google I/O 2013. A bit older now, but provides an excellent overview of the problem domain and approaches to solving those issues..</description>
+      <description>I&amp;rsquo;m currently working on a Brillo audio component, which will require very low latency performance. While searching for some tips and prior art, I came across this talk from Google I/O 2013. A bit older now, but provides an excellent overview of the problem domain and approaches to solving those issues..
+  </description>
     </item>
     
     <item>
@@ -77,7 +84,8 @@ This is a pretty informative (promo) video from Robert Henke/Monolake showcasing
       <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/andrewgerrandgouk2015/</guid>
-      <description>Hah, some awesome bits in here&amp;hellip;</description>
+      <description>Hah, some awesome bits in here&amp;hellip;
+  </description>
     </item>
     
     <item>
@@ -86,7 +94,8 @@ This is a pretty informative (promo) video from Robert Henke/Monolake showcasing
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/visualprogexec/</guid>
-      <description>Super fun live demo of program tracing and visualisation from this years Strange Loop conf..</description>
+      <description>Super fun live demo of program tracing and visualisation from this years Strange Loop conf..
+  </description>
     </item>
     
     <item>
@@ -95,7 +104,8 @@ This is a pretty informative (promo) video from Robert Henke/Monolake showcasing
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/docker-filesystems/</guid>
-      <description>Super nice quick overview of the importance of Copy-On-Write filesystems to Docker, going into detail of the benefits and downsides to each of the CoW options - AuFS, BTRFS, ZFS, Overlayfs, Device Mapper - great stuff!</description>
+      <description>Super nice quick overview of the importance of Copy-On-Write filesystems to Docker, going into detail of the benefits and downsides to each of the CoW options - AuFS, BTRFS, ZFS, Overlayfs, Device Mapper - great stuff!
+  </description>
     </item>
     
     <item>
@@ -104,7 +114,8 @@ This is a pretty informative (promo) video from Robert Henke/Monolake showcasing
       <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/how-to-debug-anything/</guid>
-      <description>Pretty decent talk on debugging methodology..</description>
+      <description>Pretty decent talk on debugging methodology..
+  </description>
     </item>
     
     <item>
@@ -114,7 +125,7 @@ This is a pretty informative (promo) video from Robert Henke/Monolake showcasing
       
       <guid>http://theb0ardside.com/joschabach-ai/</guid>
       <description>Hugely compelling talk by Joscha Bach covering history and possible futures of AI..
-Found here</description>
+  Found here</description>
     </item>
     
     <item>
@@ -123,7 +134,8 @@ Found here</description>
       <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vpc-design/</guid>
-      <description>Super detailed and practical VPC design best practises - very cool stuff..</description>
+      <description>Super detailed and practical VPC design best practises - very cool stuff..
+  </description>
     </item>
     
     <item>
@@ -133,7 +145,7 @@ Found here</description>
       
       <guid>http://theb0ardside.com/joshua-davis-beyond-play/</guid>
       <description>Wow. just wow&amp;hellip;
-This was following me and Tack&amp;rsquo;s Codetraxx project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while. Another friend of mine, Matt Spendlove, had told me about The Nature Of Code which i&amp;rsquo;ve been wanting to read, so I suggested we play with Processing - seems awesome already!</description>
+   [Tack](https://twitter.com/tackyy) turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?! This was following me and Tack&amp;rsquo;s Codetraxx project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while.</description>
     </item>
     
     <item>
@@ -151,7 +163,7 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/brendangregglinuxperformance/</guid>
-      <description></description>
+      <description>The always interesting Brendan Greg &amp;#8212;</description>
     </item>
     
     <item>
@@ -160,7 +172,7 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/berkshelfthemissingpiece/</guid>
-      <description></description>
+      <description>If you&#39;ve been following my past few posts, you&#39;ve seen i was investigating how best to integrate the plethora of Chef testing tools that&#39;ve been coming out &amp;#8212; foodcritic, chefspec, test-kitchen, mini-test &amp;#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&amp;#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo?</description>
     </item>
     
     <item>
@@ -169,7 +181,7 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       <pubDate>Mon, 27 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/mocheftesting/</guid>
-      <description></description>
+      <description>Following on from my last post about Test Driven Chef, this latest Food Fight show is a great roundup of the current testing tools landscape -</description>
     </item>
     
     <item>
@@ -178,7 +190,8 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       <pubDate>Wed, 15 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/testdrivenchef/</guid>
-      <description></description>
+      <description>I&#39;m looking to start using Test-Kitchen and Berkshelf, and basically trying to get my head round setting up a proper test driven Chef setup.
+I found this video from last year to be quite a good introduction to some of the setup -</description>
     </item>
     
     <item>
@@ -187,7 +200,7 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       <pubDate>Sat, 11 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/netflixoss/</guid>
-      <description></description>
+      <description>Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:</description>
     </item>
     
     <item>
@@ -196,7 +209,7 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       <pubDate>Thu, 17 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/etsyscalingvidfrom2011/</guid>
-      <description></description>
+      <description>All well accepted practices by now, but still a good watch.</description>
     </item>
     
     <item>
@@ -205,7 +218,9 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       <pubDate>Sun, 16 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/usenixlisa12/</guid>
-      <description></description>
+      <description>Just got back from the Usenix/Lisa 12 conference in San Diego, and had a great time, super inspiring talks and content.
+Highlight of the conference for me was Brendan Gregg speaking on Performance Analysis Methodologies - most of his talk was based upon a paper he just published in ACM - Thinking Methodically About Performance.
+The talks haven&#39;t yet been published on the Usenix website, but Brendan&#39;s blog has a ton of great looking content and older talks including this one on Visualisations for Performance Analysis</description>
     </item>
     
     <item>
@@ -214,7 +229,7 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/perconatablechecksum/</guid>
-      <description></description>
+      <description>I must admit MySQL replication is something I&#39;ve never felt too comfortable with - in most of my positions, I&#39;ve had the luxury of working with a full time DBA who would handle all database related work. In my current workplace we have three major pairs of database machines, and have been going through upgrading them all to Percona MySQL 5.5. As you&#39;d expect data integrity is of the highest importance, so discovering this Percona Table Checksum tool is a real life saver, providing an amazing tool for verifying and fixing any drift or problems with MySQL slaves.</description>
     </item>
     
     <item>
@@ -223,7 +238,8 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/perlparpparp/</guid>
-      <description></description>
+      <description>I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating. First stop was the exceptionally useful Whats My DNS
+At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host.</description>
     </item>
     
     <item>
@@ -232,7 +248,8 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/tcpdumppatterns/</guid>
-      <description></description>
+      <description>I use tcpdump a lot, but mostly at a reasonably high level, only really restricting the capture to host and port info, then pulling the dump back into Wireshark for nicer visualisation and easier filtering.
+A couple of months back I read Moonwalking With Einsten, which is a nice pop-science history of the importance of memory in previous societies, alongside the contemporary phenomena of competitive memory competitions. The book is great, and explains how feats of memory are achieved via the technique of memory palaces, a technique dating back to Roman times - spatial memory relationships.</description>
     </item>
     
     <item>
@@ -241,7 +258,11 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/puppetstagesandapt/</guid>
-      <description></description>
+      <description>At work, our old code deployment strategy was basically a wrapper script doing an svn checkout and some symlinking. With our move to Puppet for config management, we also moved to using Apt packaging for our code deployment, tying them together with a line similar to :
+class foo-export {
+package { &amp;#039;foo-export&amp;#039;: ensure = latest }
+}
+So that whenever we deploy a new version of a package to our apt-repo, it can then be installed with a:</description>
     </item>
     
     <item>
@@ -250,7 +271,10 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vagrantandchefsetup/</guid>
-      <description></description>
+      <description>I&#39;ve been reading through ThoughtWorks&#39; latest &amp;#8216;technology radar&amp;#8216; which led me to look up Vagrant, one of the tools they list as worth exploring.
+Vagrant is a framework for building and deploying Virtual Machine environments, using Oracle VirtualBox for the actual VMs and utilizing Chef for configuration management. Watching through this intro video:
+http://vimeo.com/9976342
+i was quite intrigued as it is very similar to what i was looking to achieve earlier when i was experimenting with installing Xen and configuring with Puppet.</description>
     </item>
     
   </channel>

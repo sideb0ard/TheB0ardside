@@ -12,7 +12,8 @@
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</guid>
-      <description>Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..</description>
+      <description>Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..
+  </description>
     </item>
     
     <item>
@@ -21,7 +22,9 @@
       <pubDate>Sun, 27 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/historyspiritc/</guid>
-      <description>Some excellent bits of BCPL history in here, which I hadn&amp;rsquo;t come across before&amp;hellip;</description>
+      <description>Some excellent bits of BCPL history in here, which I hadn&amp;rsquo;t come across before&amp;hellip;
+ History and Spirit of C and C++ - Olve Maudal from NDC Conferences on Vimeo.
+ </description>
     </item>
     
     <item>

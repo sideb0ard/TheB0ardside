@@ -12,7 +12,8 @@
       <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/hashicorp/</guid>
-      <description>Oh man, this talk is nuts - Mitchell Hashimoto introducing Terraform and Consul together..</description>
+      <description>Oh man, this talk is nuts - Mitchell Hashimoto introducing Terraform and Consul together..
+  </description>
     </item>
     
     <item>
@@ -21,7 +22,8 @@
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/docker-filesystems/</guid>
-      <description>Super nice quick overview of the importance of Copy-On-Write filesystems to Docker, going into detail of the benefits and downsides to each of the CoW options - AuFS, BTRFS, ZFS, Overlayfs, Device Mapper - great stuff!</description>
+      <description>Super nice quick overview of the importance of Copy-On-Write filesystems to Docker, going into detail of the benefits and downsides to each of the CoW options - AuFS, BTRFS, ZFS, Overlayfs, Device Mapper - great stuff!
+  </description>
     </item>
     
     <item>
@@ -30,7 +32,8 @@
       <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/hightower-kubernetes/</guid>
-      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..</description>
+      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..
+  </description>
     </item>
     
     <item>
@@ -40,7 +43,7 @@
       
       <guid>http://theb0ardside.com/containers-at-google/</guid>
       <description>Eric Brewer&amp;rsquo;s keynote from Dockercon14 -
-Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
+  Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
     </item>
     
     <item>
@@ -49,7 +52,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
-      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..</description>
+      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..
+  </description>
     </item>
     
   </channel>

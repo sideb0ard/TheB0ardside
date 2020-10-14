@@ -57,7 +57,9 @@
     <p>This talk is incredibly informative - Twitter have their own fork of OpenJDK, in which they have enabled registers on the CPU, normally used by the Java Compiler - this enables Frame Pointers which <a href="https://perf.wiki.kernel.org/index.php/Main_Page">perf</a> can read and translate, enabling a full Stack trace from JVM bytecode right down into the kernel.</p>
 <p>Beyond simply CPU counters and stack trace, they also tie in other JVM flags which export DTrace counters, and use these to construct connections between memory allocation and the running process, so in the end you have a tool which can spans JVM -&gt; kernel connections, alongside CPU -&gt; memory.</p>
 <p>Sounds very useful, i look forward to them open-sourcing it..</p>
-<!-- raw HTML omitted -->
+<div class="video-container">
+<iframe width="560" height="315" src="//www.youtube.com/embed/Yg6_ulhwLw0?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 </article>
 
@@ -67,7 +69,7 @@
       <h2><a href='http://theb0ardside.com/jvmandgcperformancetuning/'> JVM and GC Performance Tuning</a> </h2>
       <div class="post-meta">Thu, Jan 3, 2013</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p>Been working a lot of JVM GC performance problems of late, so this video interview my friend <a href="https://twitter.com/skr" target="_blank">Johan</a> turned me on has some great info  -<p><a href=&#039;http://www.infoq.com/interviews/szegedi-performance-tuning#.UOU0FUyxAz4.wordpress&#039;>Attila Szegedi on JVM and GC Performance Tuning at Twitter</a>.</p><p><a href="http://www.infoq.com/interviews/szegedi-performance-tuning" target="_blank">http://www.infoq.com/interviews/szegedi-performance-tuning</a></p>
 
 </article>
 
@@ -77,7 +79,7 @@
       <h2><a href='http://theb0ardside.com/jvmtuningforvms/'> JVM tuning for VMs</a> </h2>
       <div class="post-meta">Fri, Apr 13, 2012</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p>This is an excellent talk about the interaction between the various layers of memory abstraction from the a machine's physical memory down through the Hypervisor's view, to the Guest OS's and down into the JVM:</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/V3o4VNkTyTY?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>// found via <a href="http://marakana.com/s/tuning_jvm_for_a_vm_lessons_learned_directly_from_vmware_video,1138/index.html" target="_blank">Marakana</a> //</p>
 
 </article>
 

@@ -12,7 +12,8 @@
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/etcd2.0/</guid>
-      <description>Excellent overview of Etcd and description of new features / bug fixes in 2.0..</description>
+      <description>Excellent overview of Etcd and description of new features / bug fixes in 2.0..
+  </description>
     </item>
     
     <item>
@@ -21,7 +22,8 @@
       <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/hightower-kubernetes/</guid>
-      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..</description>
+      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..
+  </description>
     </item>
     
   </channel>

@@ -13,7 +13,8 @@
       
       <guid>http://theb0ardside.com/ycombinator/</guid>
       <description>Sadly, Jim Weirich, creator of the Ruby Rake tool died a few days back.
-Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:</description>
+Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:
+  </description>
     </item>
     
   </channel>

@@ -12,7 +12,8 @@
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/system-facebook-scale/</guid>
-      <description>Wow, this is one of the most practical, technical talks I&amp;rsquo;ve seen in a while - super good!</description>
+      <description>Wow, this is one of the most practical, technical talks I&amp;rsquo;ve seen in a while - super good!
+  </description>
     </item>
     
     <item>
@@ -21,7 +22,8 @@
       <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/hightower-kubernetes/</guid>
-      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..</description>
+      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..
+  </description>
     </item>
     
     <item>
@@ -30,7 +32,9 @@
       <pubDate>Fri, 04 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/debuggingproduction/</guid>
-      <description></description>
+      <description>  Bryan Cantrill being funny as hell.
+&#34;Bryan Cantrill discusses debugging production systems using post-mortem debugging and dynamic instrumentation, with a bit of history and an introduction to useful debugging tools.&#34;i
+ </description>
     </item>
     
   </channel>

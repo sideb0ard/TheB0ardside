@@ -12,7 +12,7 @@
       <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/berkshelfthemissingpiece/</guid>
-      <description></description>
+      <description>If you&#39;ve been following my past few posts, you&#39;ve seen i was investigating how best to integrate the plethora of Chef testing tools that&#39;ve been coming out &amp;#8212; foodcritic, chefspec, test-kitchen, mini-test &amp;#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&amp;#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo?</description>
     </item>
     
     <item>
@@ -21,7 +21,7 @@
       <pubDate>Mon, 26 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/foodfightshowonchefcookbookbestpractises/</guid>
-      <description></description>
+      <description>this google+ hangout, combined with this post and all it&#39;s links, provides plenty of good discussion and ideas for Chef.</description>
     </item>
     
     <item>
@@ -30,7 +30,7 @@
       <pubDate>Sun, 05 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/cheflessonsfrometsy/</guid>
-      <description></description>
+      <description>really good video from this year&#39;s ChefConf::</description>
     </item>
     
     <item>
@@ -39,7 +39,7 @@
       <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/scalingatdropbox/</guid>
-      <description></description>
+      <description>I highly recommend this DevOps Weekly mail out. The latest one has a bunch of good links, and one i found especially was this &amp;#8220;Scaling lessons learned at Dropbox, part 1&amp;#8220;.</description>
     </item>
     
     <item>
@@ -48,7 +48,8 @@
       <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/somefavvelocitytalks/</guid>
-      <description></description>
+      <description>Velocity was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!
+Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..</description>
     </item>
     
     <item>
@@ -57,7 +58,11 @@
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/puppetstagesandapt/</guid>
-      <description></description>
+      <description>At work, our old code deployment strategy was basically a wrapper script doing an svn checkout and some symlinking. With our move to Puppet for config management, we also moved to using Apt packaging for our code deployment, tying them together with a line similar to :
+class foo-export {
+package { &amp;#039;foo-export&amp;#039;: ensure = latest }
+}
+So that whenever we deploy a new version of a package to our apt-repo, it can then be installed with a:</description>
     </item>
     
     <item>
@@ -66,7 +71,8 @@
       <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/buildingadebpackagefromaperlscript/</guid>
-      <description></description>
+      <description>I have a speedtest perl script i wrote - nothing complicated, takes a file and uploads it to a remote FTP or SFTP server, while calculating how long, then gives you a a measure of the MB/per second bandwidth between two sites.
+I want it available on a selection of machines so it can run from wherever, so I thought i&#39;d package it up as a .DEB file and stick it in our local repo.</description>
     </item>
     
     <item>
@@ -75,7 +81,10 @@
       <pubDate>Fri, 16 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/cpandiffscript/</guid>
-      <description></description>
+      <description>I put together a quick perl script for comparing installed CPAN modules between two hosts. Find it here.
+Quite easy to use:
+Usage: ./CompareHostCpanModules.pl login@host1 login@host2
+The script ssh&#39;s into both hosts (so it&#39;s easier if you have your ssh-keys setup) and grabs a list of installed CPAN modules and versions, then outputs the differences - it returns two lists - one of modules installed but having different versions, and another list of modules missing from the second host.</description>
     </item>
     
     <item>
@@ -84,7 +93,8 @@
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/genxen/</guid>
-      <description></description>
+      <description>I&#39;ve been working pretty extensively with Xen and Puppet in my new job, really loving it! I&#39;ve been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I&#39;ve just finished a script which is over on my github page, which basically automates what was previously a manual process.
+Basically, it copies your existing disk.img and swap.img, generates a new xen.</description>
     </item>
     
     <item>
@@ -93,7 +103,10 @@
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vagrantandchefsetup/</guid>
-      <description></description>
+      <description>I&#39;ve been reading through ThoughtWorks&#39; latest &amp;#8216;technology radar&amp;#8216; which led me to look up Vagrant, one of the tools they list as worth exploring.
+Vagrant is a framework for building and deploying Virtual Machine environments, using Oracle VirtualBox for the actual VMs and utilizing Chef for configuration management. Watching through this intro video:
+http://vimeo.com/9976342
+i was quite intrigued as it is very similar to what i was looking to achieve earlier when i was experimenting with installing Xen and configuring with Puppet.</description>
     </item>
     
   </channel>

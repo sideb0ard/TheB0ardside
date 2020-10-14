@@ -12,7 +12,8 @@
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/intuitivefft/</guid>
-      <description>Really nicely, and visually, explained introduction to the Fast Fourier Transform - great stuff!</description>
+      <description>Really nicely, and visually, explained introduction to the Fast Fourier Transform - great stuff!
+  </description>
     </item>
     
     <item>
@@ -21,7 +22,9 @@
       <pubDate>Sun, 16 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/usenixlisa12/</guid>
-      <description></description>
+      <description>Just got back from the Usenix/Lisa 12 conference in San Diego, and had a great time, super inspiring talks and content.
+Highlight of the conference for me was Brendan Gregg speaking on Performance Analysis Methodologies - most of his talk was based upon a paper he just published in ACM - Thinking Methodically About Performance.
+The talks haven&#39;t yet been published on the Usenix website, but Brendan&#39;s blog has a ton of great looking content and older talks including this one on Visualisations for Performance Analysis</description>
     </item>
     
     <item>
@@ -30,7 +33,7 @@
       <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/goinggoogleeyed/</guid>
-      <description></description>
+      <description>Ah, see, my comic is all true! :D</description>
     </item>
     
     <item>
@@ -39,7 +42,8 @@
       <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/physicalinternet/</guid>
-      <description></description>
+      <description>Ever since reading Neal Stephenson&#39;s Mother Earth Mother Board article, I&#39;ve been quite fascinated with the undersea cables which physically connect the land masses of the world. This map, linked above is an amazing view into this part of the Internet&#39;s current infrastructure.
+(via flowingdata.com)</description>
     </item>
     
     <item>
@@ -48,7 +52,7 @@
       <pubDate>Wed, 10 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/internets1962tillnow/</guid>
-      <description></description>
+      <description>Excellent timeline of the Internet&amp;#8216;s evolution from 1962 till the present day..</description>
     </item>
     
   </channel>

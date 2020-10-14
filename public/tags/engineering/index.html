@@ -55,7 +55,9 @@
       <div class="post-meta">Thu, Oct 15, 2015</div>
     </header>
     <p>Pretty rad skyscraper history as software-engineering-metaphor..</p>
-<!-- raw HTML omitted -->
+<div class="video-container">
+<iframe width="560" height="315" src="//www.youtube.com/embed/7MeBuDLbF98" frameborder="0" allowfullscreen></iframe>
+</div>
 
 </article>
 
@@ -66,7 +68,9 @@
       <div class="post-meta">Thu, Apr 16, 2015</div>
     </header>
     <p>Wow, this is one of the most practical, technical talks I&rsquo;ve seen in a while - super good!</p>
-<!-- raw HTML omitted -->
+<div class="video-container">
+<iframe width="560" height="315" src="//www.youtube.com/embed/dlixGkelP9U" frameborder="0" allowfullscreen></iframe>
+</div>
 
 </article>
 
@@ -77,7 +81,9 @@
       <div class="post-meta">Sat, Jul 26, 2014</div>
     </header>
     <p>Super detailed and practical VPC design best practises - very cool stuff..</p>
-<!-- raw HTML omitted -->
+<div class="video-container">
+<iframe width="560" height="315" src="//www.youtube.com/embed/YoX_frLHbEs" frameborder="0" allowfullscreen></iframe>
+</div>
 
 </article>
 
@@ -88,7 +94,9 @@
       <div class="post-meta">Sat, Jul 26, 2014</div>
     </header>
     <p>Yow, 1056 wires - 1930s style Undersea Telephony biz..</p>
-<!-- raw HTML omitted -->
+<div class="video-container">
+<iframe width="560" height="315" src="//www.youtube.com/embed/G5od6roIMtQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 </article>
 
@@ -98,7 +106,11 @@
       <h2><a href='http://theb0ardside.com/debuggingproduction/'> And It All Went Horribly Wrong</a> </h2>
       <div class="post-meta">Fri, Apr 4, 2014</div>
     </header>
-    <!-- raw HTML omitted -->
+    <div>
+<a href="http://www.infoq.com/presentations/Debugging-Production-Systems"><img width="600" src="/static/img/joyentprod.png"></a>
+<p><a href="http://www.infoq.com/presentations/Debugging-Production-Systems">Bryan Cantrill being funny as hell.</a></p>
+<p>"<em>Bryan Cantrill discusses debugging production systems using post-mortem debugging and dynamic instrumentation, with a bit of history and an introduction to useful debugging tools."i</em></p>
+</div>
 
 </article>
 
@@ -108,7 +120,7 @@
       <h2><a href='http://theb0ardside.com/apollocomputer/'> Apollo Computer</a> </h2>
       <div class="post-meta">Fri, Sep 20, 2013</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p>awesome sauce.</p><p><iframe width="590" height="443" src="http://www.youtube.com/embed/YIBhPsyYCiM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 
 </article>
 
@@ -118,7 +130,7 @@
       <h2><a href='http://theb0ardside.com/brendangregglinuxperformance/'> Brendan Gregg, Linux Performance</a> </h2>
       <div class="post-meta">Wed, Jun 12, 2013</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p>The always interesting Brendan Greg &#8212; </p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/0yyorhl6IjM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 
 </article>
 
@@ -128,7 +140,7 @@
       <h2><a href='http://theb0ardside.com/berkshelfthemissingpiece/'> Berkshelf - the missing piece</a> </h2>
       <div class="post-meta">Wed, May 29, 2013</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p>If you've been following my past few posts, you've seen i was investigating how best to integrate the plethora of Chef testing tools that've been coming out &#8212; foodcritic, chefspec, test-kitchen, mini-test &#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo? Inside a cookbook directory? How many Vagrant files am I going to create here?</p><p>If, like myself, you weren't along at this year's ChefConf 2013, you may also have missed on a major conceptual shift that has happened. Instead of the all-inclusive Chef-repo design pattern, as implied by the OpsCode Chef Repo - https://github.com/opscode/chef-repo - which, when used with all the community cookbooks out there, creates a mess of forked, modified and sub-moduled cookbooks and recipes. </p><p>The conceptual shift away and now recommended way, is to treat each cookbook as a separate piece of software and to give it it's own git repo, keeping them separate from from your Chef-repo. This combined, with a distinction between Library and Application cookbooks, and then bundled together via Berkshelf, enables a much cleaner and modular way of working. When you accept this move, it's much easier to then fit all the testing pieces together as they all live within each separate cookbook/repo.</p><p><a href="https://github.com/RiotGames/berkshelf/issues/535" title="Berk Comment" target="_blank">This Comment Thread</a> was what really drew it together for me, and then to fully clarify this way of working, watch Jamie Winsor's ChefConf talk which is the original starting point:</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/hYt0E84kYUI?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 
 </article>
 
@@ -138,7 +150,7 @@
       <h2><a href='http://theb0ardside.com/testdrivenchef/'> Test-Driven Chef</a> </h2>
       <div class="post-meta">Wed, May 15, 2013</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p>I'm looking to start using Test-Kitchen and Berkshelf, and basically trying to get my head round setting up a proper test driven Chef setup.</p><p>I found this video from last year to be quite a good introduction to some of the setup -</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/o2e0aZUAVGw?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 
 </article>
 
@@ -148,7 +160,7 @@
       <h2><a href='http://theb0ardside.com/netflixoss/'> Netflix OSS</a> </h2>
       <div class="post-meta">Sat, May 11, 2013</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p>Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/A69uTnfQgB8?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 
 </article>
 
@@ -158,7 +170,7 @@
       <h2><a href='http://theb0ardside.com/jedbergtalkatairbnb/'> jedberg talk at Airbnb</a> </h2>
       <div class="post-meta">Wed, May 8, 2013</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p>I was along at this talk last year, and just now found it online - was one of the most informative talks i've been to, learned loads from it -</p><p><iframe width="590" height="443" src="http://www.youtube.com/embed/cCAO9moDucI?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 
 </article>
 
@@ -168,7 +180,7 @@
       <h2><a href='http://theb0ardside.com/etsyscalingvidfrom2011/'> Etsy Scaling vid from 2011</a> </h2>
       <div class="post-meta">Thu, Jan 17, 2013</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p><iframe width="590" height="332" src="http://www.youtube.com/embed/eenrfm50mXw?feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>All well accepted practices by now, but still a good watch.</p>
 
 </article>
 
@@ -178,7 +190,7 @@
       <h2><a href='http://theb0ardside.com/scalingatdropbox/'> scaling at dropbox</a> </h2>
       <div class="post-meta">Mon, Jul 16, 2012</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p>I highly recommend this <a href="http://devopsweekly.com/" title="DevOps Weekly" target="_blank">DevOps Weekly mail out</a>. </p><p><img alt="" src="http://image-host.appspot.com/i/img?id=agppbWFnZS1ob3N0cg0LEgVJbWFnZRiJpAEM" title="DevOps Weekly" class="aligncenter" width="798" height="362" /></p><p>The latest one has a bunch of good links, and one i found especially was this &#8220;<a href="http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1" title="Scaling at Dropbox" target="_blank">Scaling lessons learned at Dropbox, part 1</a>&#8220;.</p>
 
 </article>
 
@@ -188,7 +200,7 @@
       <h2><a href='http://theb0ardside.com/somefavvelocitytalks/'> some fav Velocity talks</a> </h2>
       <div class="post-meta">Mon, Jul 2, 2012</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p><a href="http://velocityconf.com/velocity2012" title="Velocity" target="_blank">Velocity</a> was on last week, and I was following along enviously on twitter - I'm making a promise to myself that I'll be along in person next year!</p><p>Quite a few of the talks now appearing online - here's a couple I've watched so far..</p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/2S0k12uZR14?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p><iframe width="590" height="332" src="http://www.youtube.com/embed/bM0yL0eQ9EM?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 
 </article>
 
@@ -198,7 +210,7 @@
       <h2><a href='http://theb0ardside.com/theonosendaislb10orbsystem/'> The Ono-Sendai SLB-10 ORB system</a> </h2>
       <div class="post-meta">Fri, Jun 29, 2012</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p><img src="http://farm6.static.flickr.com/5083/5381778688_f94f95fa71_z.jpg" alt="Ono-Sendai SLB-10 ORB System" /></p><p>&#8220;The SLB-10 is the latest generation of ORB manufactured by Ono-Sendai, utilizing state of the art EM pulse powered flotation; archive-quality audio and visual recording capabilities; fully CMYK coloured, tactile holographic capability; and guaranteed always-on connection to your personal encrypted data storage facility.</p><p>ORBs have become so integral to our life and yet they are barely a 7 year old technology. It is worth reflecting on the brief history of these astounding devices, upon which we now rely so heavily.</p><p>In 2027, a group of engineers, skaterboarders and film-makers came together to work on a project utilizing the first commercial Shawyer/EmDrive propulsion system released by the British National Space Centre. Their early device was designed initially as a simple anti-gravity camera to be able to follow a moving person, while filming and streaming the data. It was a personal project for their own use, but they also expected it would be useful for other filming niches. What they hadn&rsquo;t expected was the enormous demand from the general public, as real-time life-recording and live-blogging quickly took off, finding a multitude of personal and business uses. They formed a company to market their ORB devices, calling themselves Ono-Sendai, in joking homage to William Gibson.</p><p>The market for ORBs exploded, with feature upon feature being added in response to consumer demand: multiple cameras, higher definition a/v recording, voice control and audio speakers, automated laser protection systems, and crucially - the visual feed became integrated with in-Frame overlays. In those days Frames were still competing with handheld devices, before we perfected the means to spatially interact with data.</p><p>Two more pieces were necessary to bring us up to date with the contemporary ORB experience - the addition of the holo-projector in 2030, in order to finally disperse with a physical interface; and, more recently in 2032, the first mature ultrasound-based haptic holographic interface was introduced to provide a truly tactile experience.</p><p>As many imitators as there are on the market, Ono-Sendai manages to stay one step ahead of the competitors due its truly innovative operating system, SOLX - Son Of LinuX, the most advanced and personable decision-taking, realtime smart O/S. With Ono-Sendai and SOLX assisting your life, you be sure of trusted network access, personal security, and reliable data archive - Get on with enjoying your life!&#8221;</p><p>// reblog from <a href="http://drawingb0ard.blogspot.com/2011/01/ono-sendai-slb-10-orb-system.html" title="Drawing B0ard" target="_blank">old Drawing B0ard post</a></p>
 
 </article>
 
@@ -208,7 +220,7 @@
       <h2><a href='http://theb0ardside.com/aroundtheearthin200ms/'> Around the Earth in 200ms</a> </h2>
       <div class="post-meta">Wed, Jun 20, 2012</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p><img src="http://farm9.staticflickr.com/8144/7130704573_e6954f496e_z.jpg" alt="" /></p><p>A month or two back, i saw an interesting figure on Bram Cohen's blog:</p><p>&#8220;The speed of light in a fiber optic cable around the earth&rsquo;s circumference is about 200 milliseconds.&#8221;<br />(from <a href="http://bramcohen.com/2012/05/04/engineering-ip-telephony" title="Bram Cohen" target="_blank">here</a>)</p><p>I clipped it for my ever expanding Evernote tech tips, thinking it's one of those useful metrics to know. I've referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -</p><p>So - speed of light in a vacuum is 186,000 miles per second. However according to <a href="http://en.wikipedia.org/wiki/Optical_fiber#Index_of_refraction" title="optical fiber on wikipedia" target="_blank">this wikipedia article</a>, the index of refraction for the cladding of an optical fiber is 1.52. &#8220;From this information, a good rule of thumb is that signal using optical fiber for communication will travel at around 200 million meters per second&#8221;. </p><p>Ok, so 200, 000,000 meters / second = 200, 000 meters / ms</p><p>&#8220;The circumference of the earth at the equator is 24,901.55 miles (40,075.16 kilometers).&#8221; // from <a href="http://geography.about.com/library/faq/blqzcircumference.htm" title="earth circumerfence" target="_blank">here</a></p><p>40,075.15km = 40,075,000 meters</p><p><strong>With all figures then, Earth Circumference is 40,075,000 meters, and the speed of light in fiber is 200,000 meters per ms:<br />40,075,000 /2 00,000 = 200.375 ms</strong></p><p>// or to be even smarter, I could have just followed the Wolfram Alpha link from Bram's blog <a href="http://www.wolframalpha.com/input/?i=circumference+of+the+earth+%2F+speed+of+light+in+glass" title="Wolfram Alpha" target="_blank">here</a> - gotta love the <a href="http://en.wikipedia.org/wiki/Stephen_Wolfram" title="Stephen Wolfram" target="_blank">Wolfram</a> // </p>
 
 </article>
 
@@ -218,7 +230,7 @@
       <h2><a href='http://theb0ardside.com/allspawonanticipation/'> Allspaw on Anticipation</a> </h2>
       <div class="post-meta">Mon, Jun 18, 2012</div>
     </header>
-    <!-- raw HTML omitted -->
+    <p><iframe width="590" height="332" src="http://www.youtube.com/embed/gy2lTFD4560?fs=1&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></p><p>// <a href="http://www.kitchensoap.com/2012/06/18/resilience-engineering-part-ii-lenses/" title="Resilience Engineering Part II: Lenses" target="_blank">via John's blog at Kitchen Soap</a> //</p>
 
 </article>
 

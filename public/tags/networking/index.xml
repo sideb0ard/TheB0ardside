@@ -12,7 +12,8 @@
       <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/user-space-networking/</guid>
-      <description>One theme I&amp;rsquo;ve noticed recently is a move to User Space networking - not for normal application use per se, but for specific high throughput cases, where the kernel&amp;rsquo;s general network stack&amp;rsquo;s overhead is too much. This isn&amp;rsquo;t a new thing, but something I&amp;rsquo;ve never gotten around to exploring. This vid, from last year, provides an overview of three different implementations..</description>
+      <description>One theme I&amp;rsquo;ve noticed recently is a move to User Space networking - not for normal application use per se, but for specific high throughput cases, where the kernel&amp;rsquo;s general network stack&amp;rsquo;s overhead is too much. This isn&amp;rsquo;t a new thing, but something I&amp;rsquo;ve never gotten around to exploring. This vid, from last year, provides an overview of three different implementations..
+  </description>
     </item>
     
     <item>
@@ -21,7 +22,8 @@
       <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
-      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..</description>
+      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..
+  </description>
     </item>
     
     <item>
@@ -30,7 +32,8 @@
       <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/perlparpparp/</guid>
-      <description></description>
+      <description>I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating. First stop was the exceptionally useful Whats My DNS
+At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host.</description>
     </item>
     
     <item>
@@ -39,7 +42,8 @@
       <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/tcpdumppatterns/</guid>
-      <description></description>
+      <description>I use tcpdump a lot, but mostly at a reasonably high level, only really restricting the capture to host and port info, then pulling the dump back into Wireshark for nicer visualisation and easier filtering.
+A couple of months back I read Moonwalking With Einsten, which is a nice pop-science history of the importance of memory in previous societies, alongside the contemporary phenomena of competitive memory competitions. The book is great, and explains how feats of memory are achieved via the technique of memory palaces, a technique dating back to Roman times - spatial memory relationships.</description>
     </item>
     
     <item>
@@ -48,7 +52,10 @@
       <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/aroundtheearthin200ms/</guid>
-      <description></description>
+      <description>A month or two back, i saw an interesting figure on Bram Cohen&#39;s blog:
+&amp;#8220;The speed of light in a fiber optic cable around the earth&amp;rsquo;s circumference is about 200 milliseconds.&amp;#8221;
+(from here)
+I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of those useful metrics to know. I&#39;ve referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -</description>
     </item>
     
     <item>
@@ -57,7 +64,7 @@
       <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/21stcenturyinternet/</guid>
-      <description></description>
+      <description>via Google Blog</description>
     </item>
     
     <item>
@@ -66,7 +73,8 @@
       <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/thenetworkedcity/</guid>
-      <description></description>
+      <description>[[ image half-inched from here]]
+I started studying Sociology a few years back with the Open University, but never managed to complete my course as I got a job here in the States and turned my study-time back towards practical technology. I did however study it long enough for it have quite a profound effect on my understanding and conceptualisation of networking, and felt especially influenced by the works of Manuel Castells and Stephen Graham.</description>
     </item>
     
     <item>
@@ -75,7 +83,8 @@
       <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theinformation/</guid>
-      <description></description>
+      <description>I started reading James Gleick&#39;s &amp;#8220;The Information&amp;#8221; last week and haven&#39;t been able to put it down yet - so good!
+I just found this video of a talk he presented at Google last year on the book, looks ace, i&#39;ll save it for watching this evening.</description>
     </item>
     
     <item>
@@ -84,7 +93,7 @@
       <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
-      <description></description>
+      <description>I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows.</description>
     </item>
     
     <item>
@@ -93,7 +102,8 @@
       <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/physicalinternet/</guid>
-      <description></description>
+      <description>Ever since reading Neal Stephenson&#39;s Mother Earth Mother Board article, I&#39;ve been quite fascinated with the undersea cables which physically connect the land masses of the world. This map, linked above is an amazing view into this part of the Internet&#39;s current infrastructure.
+(via flowingdata.com)</description>
     </item>
     
     <item>
@@ -102,7 +112,8 @@
       <pubDate>Mon, 05 Sep 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/iperfandvirtualisationandcloudsandclouds/</guid>
-      <description></description>
+      <description>One of the tools i&#39;ve been using a lot of recently is iperf - a really simple and sleek tool for measuring bandwidth between two hosts - rather than write up a full tutorial myself, i&#39;ll simply point you at this one by Jayson Broughton
+more soon!</description>
     </item>
     
     <item>
@@ -111,7 +122,7 @@
       <pubDate>Thu, 04 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/advancednetworkreconnaissancewithnmap2006/</guid>
-      <description></description>
+      <description>yow, this is some hardcore indepth port scanning shizzle -</description>
     </item>
     
     <item>
@@ -120,7 +131,7 @@
       <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/multicoreufos/</guid>
-      <description></description>
+      <description>Interesting article on GigaOm this morning about Facebook benchmarking a 64-core chip from Tilera. The X86 processor architecture has been in a dominant for so many years, not based upon any inherent sophistication, but more based upon chance and circumstance (see this vid for more details around the 48min mark), so it does feel about time for a new advancement in hardware architecture. Be interesting to watch this space and see what develops.</description>
     </item>
     
     <item>
@@ -129,7 +140,7 @@
       <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
-      <description></description>
+      <description>Watch it here</description>
     </item>
     
     <item>
@@ -138,7 +149,9 @@
       <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/realtimestats/</guid>
-      <description></description>
+      <description>Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB&#39;s new real-time analytics system: Watch live streaming video from facebookeducation at livestream.comIn the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::
+Rainbird: Realtime Analytics at Twitter (Strata 2011) View more presentations from Kevin Weil 
+(hello Johan!)</description>
     </item>
     
     <item>
@@ -147,7 +160,7 @@
       <pubDate>Fri, 24 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/nodejs/</guid>
-      <description></description>
+      <description>I keep coming across mentions of node.js, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks.</description>
     </item>
     
   </channel>

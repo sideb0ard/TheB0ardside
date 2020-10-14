@@ -13,7 +13,8 @@
       
       <guid>http://theb0ardside.com/soundb0ard-algorave/</guid>
       <description>I&amp;rsquo;ve had my head down doing a bunch of work on my Soundb0ard software, in prep for playing at Algosix last weekend. The festival was awesome, so much great live music!
-I was quite happy with my performance, give it a listen/view:</description>
+I was quite happy with my performance, give it a listen/view:
+  </description>
     </item>
     
     <item>
@@ -22,7 +23,8 @@ I was quite happy with my performance, give it a listen/view:</description>
       <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/android-audio-performance/</guid>
-      <description>I&amp;rsquo;m currently working on a Brillo audio component, which will require very low latency performance. While searching for some tips and prior art, I came across this talk from Google I/O 2013. A bit older now, but provides an excellent overview of the problem domain and approaches to solving those issues..</description>
+      <description>I&amp;rsquo;m currently working on a Brillo audio component, which will require very low latency performance. While searching for some tips and prior art, I came across this talk from Google I/O 2013. A bit older now, but provides an excellent overview of the problem domain and approaches to solving those issues..
+  </description>
     </item>
     
     <item>
@@ -31,7 +33,8 @@ I was quite happy with my performance, give it a listen/view:</description>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/efficiency-performance-talk-cppcon2014/</guid>
-      <description>This is a pretty entertaining talk from Chandler Carruth at CppCon 2014 - lots of good takeaways..</description>
+      <description>This is a pretty entertaining talk from Chandler Carruth at CppCon 2014 - lots of good takeaways..
+  </description>
     </item>
     
     <item>
@@ -50,7 +53,7 @@ Beyond simply CPU counters and stack trace, they also tie in other JVM flags whi
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/brendangregglinuxperformance/</guid>
-      <description></description>
+      <description>The always interesting Brendan Greg &amp;#8212;</description>
     </item>
     
     <item>
@@ -59,7 +62,7 @@ Beyond simply CPU counters and stack trace, they also tie in other JVM flags whi
       <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jedbergtalkatairbnb/</guid>
-      <description></description>
+      <description>I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -</description>
     </item>
     
     <item>
@@ -68,7 +71,8 @@ Beyond simply CPU counters and stack trace, they also tie in other JVM flags whi
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jvmandgcperformancetuning/</guid>
-      <description></description>
+      <description>Been working a lot of JVM GC performance problems of late, so this video interview my friend Johan turned me on has some great info -Attila Szegedi on JVM and GC Performance Tuning at Twitter.
+http://www.infoq.com/interviews/szegedi-performance-tuning</description>
     </item>
     
     <item>
@@ -77,7 +81,9 @@ Beyond simply CPU counters and stack trace, they also tie in other JVM flags whi
       <pubDate>Sun, 16 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/usenixlisa12/</guid>
-      <description></description>
+      <description>Just got back from the Usenix/Lisa 12 conference in San Diego, and had a great time, super inspiring talks and content.
+Highlight of the conference for me was Brendan Gregg speaking on Performance Analysis Methodologies - most of his talk was based upon a paper he just published in ACM - Thinking Methodically About Performance.
+The talks haven&#39;t yet been published on the Usenix website, but Brendan&#39;s blog has a ton of great looking content and older talks including this one on Visualisations for Performance Analysis</description>
     </item>
     
   </channel>

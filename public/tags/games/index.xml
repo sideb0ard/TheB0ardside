@@ -12,7 +12,8 @@
       <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/rich-code-tiny-computers/</guid>
-      <description>JD from work turned me on to this awesome CppCon talk by Jason Turner - in it he builds a simple commodore64 game using modern C++17 features, and an astounding role for Matt Godbolt&amp;rsquo;s (what a name!) Compiler Explorer</description>
+      <description>JD from work turned me on to this awesome CppCon talk by Jason Turner - in it he builds a simple commodore64 game using modern C++17 features, and an astounding role for Matt Godbolt&amp;rsquo;s (what a name!) Compiler Explorer
+  </description>
     </item>
     
   </channel>

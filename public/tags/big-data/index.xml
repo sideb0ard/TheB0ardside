@@ -12,7 +12,7 @@
       <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/searchnotasolvedproblem/</guid>
-      <description></description>
+      <description>Very good talk from Hilary Mason from a recent Lucene Revolution keynote.</description>
     </item>
     
     <item>
@@ -21,7 +21,9 @@
       <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/immutability/</guid>
-      <description></description>
+      <description>Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :
+
+via igrigorik&#39;s twitter</description>
     </item>
     
     <item>
@@ -30,7 +32,8 @@
       <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/somefavvelocitytalks/</guid>
-      <description></description>
+      <description>Velocity was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!
+Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..</description>
     </item>
     
     <item>
@@ -39,7 +42,7 @@
       <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/backblaze/</guid>
-      <description></description>
+      <description>the legendary Mike Hoover turned me on to Backblaze a few months back - they&#39;re a cloud storage provider, who opened up the design for their chassis and storage pod solution so you can build your own &amp;#8220;Storage Pod 2.0: a 135-terabyte, 4U server for $7,384&amp;#8243; (blog post here)</description>
     </item>
     
     <item>
@@ -48,7 +51,7 @@
       <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
-      <description></description>
+      <description>I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows.</description>
     </item>
     
     <item>
@@ -57,7 +60,9 @@
       <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/realtimestats/</guid>
-      <description></description>
+      <description>Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB&#39;s new real-time analytics system: Watch live streaming video from facebookeducation at livestream.comIn the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::
+Rainbird: Realtime Analytics at Twitter (Strata 2011) View more presentations from Kevin Weil 
+(hello Johan!)</description>
     </item>
     
     <item>
@@ -66,7 +71,8 @@
       <pubDate>Fri, 24 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/zettabytez/</guid>
-      <description></description>
+      <description>yow!
+from cisco blog</description>
     </item>
     
   </channel>

@@ -12,7 +12,11 @@
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/puppetstagesandapt/</guid>
-      <description></description>
+      <description>At work, our old code deployment strategy was basically a wrapper script doing an svn checkout and some symlinking. With our move to Puppet for config management, we also moved to using Apt packaging for our code deployment, tying them together with a line similar to :
+class foo-export {
+package { &amp;#039;foo-export&amp;#039;: ensure = latest }
+}
+So that whenever we deploy a new version of a package to our apt-repo, it can then be installed with a:</description>
     </item>
     
     <item>
@@ -21,7 +25,7 @@
       <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
-      <description></description>
+      <description>I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows.</description>
     </item>
     
   </channel>

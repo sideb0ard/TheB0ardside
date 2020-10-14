@@ -12,7 +12,9 @@
       <pubDate>Fri, 13 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jvmtuningforvms/</guid>
-      <description></description>
+      <description>This is an excellent talk about the interaction between the various layers of memory abstraction from the a machine&#39;s physical memory down through the Hypervisor&#39;s view, to the Guest OS&#39;s and down into the JVM:
+
+// found via Marakana //</description>
     </item>
     
   </channel>

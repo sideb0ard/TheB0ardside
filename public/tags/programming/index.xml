@@ -12,7 +12,8 @@
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/golden-rules-audio-programming/</guid>
-      <description>I&amp;rsquo;ve been dealing with threaded data access race conditions between my ui and audio thread this weekend, so found this talk pretty informative &amp;ndash; !</description>
+      <description>I&amp;rsquo;ve been dealing with threaded data access race conditions between my ui and audio thread this weekend, so found this talk pretty informative &amp;ndash; !
+  </description>
     </item>
     
     <item>
@@ -21,7 +22,8 @@
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/c64-cubase/</guid>
-      <description>This is nuts, some guy wrote an awesome sound editor for the Commodore 64, Cubase64! Link comes via man like Tack</description>
+      <description>This is nuts, some guy wrote an awesome sound editor for the Commodore 64, Cubase64! Link comes via man like Tack
+  </description>
     </item>
     
     <item>
@@ -30,7 +32,8 @@
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/john-hughes-why-functional/</guid>
-      <description>This is a great talk - loved the speaker&amp;rsquo;s mannerisms and humor!</description>
+      <description>This is a great talk - loved the speaker&amp;rsquo;s mannerisms and humor!
+  </description>
     </item>
     
     <item>
@@ -39,7 +42,8 @@
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/efficiency-performance-talk-cppcon2014/</guid>
-      <description>This is a pretty entertaining talk from Chandler Carruth at CppCon 2014 - lots of good takeaways..</description>
+      <description>This is a pretty entertaining talk from Chandler Carruth at CppCon 2014 - lots of good takeaways..
+  </description>
     </item>
     
     <item>
@@ -48,7 +52,9 @@
       <pubDate>Sun, 27 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/historyspiritc/</guid>
-      <description>Some excellent bits of BCPL history in here, which I hadn&amp;rsquo;t come across before&amp;hellip;</description>
+      <description>Some excellent bits of BCPL history in here, which I hadn&amp;rsquo;t come across before&amp;hellip;
+ History and Spirit of C and C++ - Olve Maudal from NDC Conferences on Vimeo.
+ </description>
     </item>
     
     <item>
@@ -57,7 +63,8 @@
       <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/dijkstra-on-elegance/</guid>
-      <description>Excellent wee 20 min documentary with Dijkstra speaking about elegance..</description>
+      <description>Excellent wee 20 min documentary with Dijkstra speaking about elegance..
+  </description>
     </item>
     
     <item>
@@ -67,7 +74,8 @@
       
       <guid>http://theb0ardside.com/ycombinator/</guid>
       <description>Sadly, Jim Weirich, creator of the Ruby Rake tool died a few days back.
-Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:</description>
+Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:
+  </description>
     </item>
     
     <item>
@@ -76,7 +84,9 @@ Here is a great talk he delivered, explaining the concept and an implementation 
       <pubDate>Fri, 25 Oct 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/substackbeepboop/</guid>
-      <description></description>
+      <description>dang, this is awesome::
+
+github code here</description>
     </item>
     
     <item>
@@ -85,7 +95,9 @@ Here is a great talk he delivered, explaining the concept and an implementation 
       <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/immutability/</guid>
-      <description></description>
+      <description>Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :
+
+via igrigorik&#39;s twitter</description>
     </item>
     
     <item>
@@ -94,7 +106,8 @@ Here is a great talk he delivered, explaining the concept and an implementation 
       <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theinformation/</guid>
-      <description></description>
+      <description>I started reading James Gleick&#39;s &amp;#8220;The Information&amp;#8221; last week and haven&#39;t been able to put it down yet - so good!
+I just found this video of a talk he presented at Google last year on the book, looks ace, i&#39;ll save it for watching this evening.</description>
     </item>
     
     <item>
@@ -103,7 +116,7 @@ Here is a great talk he delivered, explaining the concept and an implementation 
       <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
-      <description></description>
+      <description>I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows.</description>
     </item>
     
     <item>
@@ -112,7 +125,7 @@ Here is a great talk he delivered, explaining the concept and an implementation 
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/amooselooseabootthishoose/</guid>
-      <description></description>
+      <description>Really enjoyed programming along with this perl Moose introduction at Linux Journal - The piece and code are nice and concise.</description>
     </item>
     
     <item>
@@ -121,7 +134,10 @@ Here is a great talk he delivered, explaining the concept and an implementation 
       <pubDate>Fri, 16 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/cpandiffscript/</guid>
-      <description></description>
+      <description>I put together a quick perl script for comparing installed CPAN modules between two hosts. Find it here.
+Quite easy to use:
+Usage: ./CompareHostCpanModules.pl login@host1 login@host2
+The script ssh&#39;s into both hosts (so it&#39;s easier if you have your ssh-keys setup) and grabs a list of installed CPAN modules and versions, then outputs the differences - it returns two lists - one of modules installed but having different versions, and another list of modules missing from the second host.</description>
     </item>
     
     <item>
@@ -130,7 +146,8 @@ Here is a great talk he delivered, explaining the concept and an implementation 
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/genxen/</guid>
-      <description></description>
+      <description>I&#39;ve been working pretty extensively with Xen and Puppet in my new job, really loving it! I&#39;ve been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I&#39;ve just finished a script which is over on my github page, which basically automates what was previously a manual process.
+Basically, it copies your existing disk.img and swap.img, generates a new xen.</description>
     </item>
     
     <item>
@@ -139,7 +156,7 @@ Here is a great talk he delivered, explaining the concept and an implementation 
       <pubDate>Sat, 09 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/mohistorylessons/</guid>
-      <description></description>
+      <description>wow, been finding so many good online video talks. I&#39;ve been genning up on node.js, which has led me into studying more javascript, and this latest lecture, is a massive five part series of talks about javascript. It&#39;s the first one which really stands out, and which fits in with the theme of historical lectures i&#39;ve been posting, covering the history of computing from the Jacquard Loom through the evolution of processors and programming languages up to Javascript.</description>
     </item>
     
     <item>
@@ -148,7 +165,7 @@ Here is a great talk he delivered, explaining the concept and an implementation 
       <pubDate>Fri, 24 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/nodejs/</guid>
-      <description></description>
+      <description>I keep coming across mentions of node.js, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks.</description>
     </item>
     
   </channel>

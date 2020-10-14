@@ -13,7 +13,7 @@
       
       <guid>http://theb0ardside.com/algorithmicsoundperl/</guid>
       <description>Super nice demo of algorithmic sound generation with Perl and Portaudio&amp;hellip;
-from here</description>
+  from here</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@ from here</description>
       <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
-      <description></description>
+      <description>I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows.</description>
     </item>
     
     <item>
@@ -31,7 +31,8 @@ from here</description>
       <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/buildingadebpackagefromaperlscript/</guid>
-      <description></description>
+      <description>I have a speedtest perl script i wrote - nothing complicated, takes a file and uploads it to a remote FTP or SFTP server, while calculating how long, then gives you a a measure of the MB/per second bandwidth between two sites.
+I want it available on a selection of machines so it can run from wherever, so I thought i&#39;d package it up as a .DEB file and stick it in our local repo.</description>
     </item>
     
     <item>
@@ -40,7 +41,7 @@ from here</description>
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/amooselooseabootthishoose/</guid>
-      <description></description>
+      <description>Really enjoyed programming along with this perl Moose introduction at Linux Journal - The piece and code are nice and concise.</description>
     </item>
     
     <item>
@@ -49,7 +50,10 @@ from here</description>
       <pubDate>Fri, 16 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/cpandiffscript/</guid>
-      <description></description>
+      <description>I put together a quick perl script for comparing installed CPAN modules between two hosts. Find it here.
+Quite easy to use:
+Usage: ./CompareHostCpanModules.pl login@host1 login@host2
+The script ssh&#39;s into both hosts (so it&#39;s easier if you have your ssh-keys setup) and grabs a list of installed CPAN modules and versions, then outputs the differences - it returns two lists - one of modules installed but having different versions, and another list of modules missing from the second host.</description>
     </item>
     
     <item>
@@ -58,7 +62,8 @@ from here</description>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/genxen/</guid>
-      <description></description>
+      <description>I&#39;ve been working pretty extensively with Xen and Puppet in my new job, really loving it! I&#39;ve been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I&#39;ve just finished a script which is over on my github page, which basically automates what was previously a manual process.
+Basically, it copies your existing disk.img and swap.img, generates a new xen.</description>
     </item>
     
   </channel>

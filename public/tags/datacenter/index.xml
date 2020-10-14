@@ -12,7 +12,8 @@
       <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/user-space-networking/</guid>
-      <description>One theme I&amp;rsquo;ve noticed recently is a move to User Space networking - not for normal application use per se, but for specific high throughput cases, where the kernel&amp;rsquo;s general network stack&amp;rsquo;s overhead is too much. This isn&amp;rsquo;t a new thing, but something I&amp;rsquo;ve never gotten around to exploring. This vid, from last year, provides an overview of three different implementations..</description>
+      <description>One theme I&amp;rsquo;ve noticed recently is a move to User Space networking - not for normal application use per se, but for specific high throughput cases, where the kernel&amp;rsquo;s general network stack&amp;rsquo;s overhead is too much. This isn&amp;rsquo;t a new thing, but something I&amp;rsquo;ve never gotten around to exploring. This vid, from last year, provides an overview of three different implementations..
+  </description>
     </item>
     
   </channel>

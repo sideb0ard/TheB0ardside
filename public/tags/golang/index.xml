@@ -12,7 +12,8 @@
       <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/andrewgerrandgouk2015/</guid>
-      <description>Hah, some awesome bits in here&amp;hellip;</description>
+      <description>Hah, some awesome bits in here&amp;hellip;
+  </description>
     </item>
     
     <item>
@@ -21,7 +22,8 @@
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robpike-go-concurrency/</guid>
-      <description>I thought I had seen this, but no, it&amp;rsquo;s just a similar theme to other talks by Rob Pike I&amp;rsquo;ve seen - this one is quite fun to code along too, its a super neat and compact concurrency app..</description>
+      <description>I thought I had seen this, but no, it&amp;rsquo;s just a similar theme to other talks by Rob Pike I&amp;rsquo;ve seen - this one is quite fun to code along too, its a super neat and compact concurrency app..
+  </description>
     </item>
     
     <item>
@@ -30,7 +32,9 @@
       <pubDate>Thu, 22 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robpikeconcurrency/</guid>
-      <description>This is a great talk by Rob Pike on Go Routines, Channels and concurrency&amp;hellip;</description>
+      <description>This is a great talk by Rob Pike on Go Routines, Channels and concurrency&amp;hellip;
+ Rob Pike - &#39;Concurrency Is Not Parallelism&#39; from Waza on Vimeo.
+ </description>
     </item>
     
     <item>
@@ -39,7 +43,8 @@
       <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robpike-gophercon-2014/</guid>
-      <description>Awesome, awesome talk from Rob Pike, the keynote for GopherCon 2014, some old Unix/C history and lots of details of Go development &amp;ndash;</description>
+      <description>Awesome, awesome talk from Rob Pike, the keynote for GopherCon 2014, some old Unix/C history and lots of details of Go development &amp;ndash;
+  </description>
     </item>
     
     <item>

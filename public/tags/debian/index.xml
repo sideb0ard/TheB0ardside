@@ -12,7 +12,11 @@
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/puppetstagesandapt/</guid>
-      <description></description>
+      <description>At work, our old code deployment strategy was basically a wrapper script doing an svn checkout and some symlinking. With our move to Puppet for config management, we also moved to using Apt packaging for our code deployment, tying them together with a line similar to :
+class foo-export {
+package { &amp;#039;foo-export&amp;#039;: ensure = latest }
+}
+So that whenever we deploy a new version of a package to our apt-repo, it can then be installed with a:</description>
     </item>
     
     <item>
@@ -21,7 +25,8 @@
       <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/buildingadebpackagefromaperlscript/</guid>
-      <description></description>
+      <description>I have a speedtest perl script i wrote - nothing complicated, takes a file and uploads it to a remote FTP or SFTP server, while calculating how long, then gives you a a measure of the MB/per second bandwidth between two sites.
+I want it available on a selection of machines so it can run from wherever, so I thought i&#39;d package it up as a .DEB file and stick it in our local repo.</description>
     </item>
     
   </channel>

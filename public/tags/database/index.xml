@@ -12,7 +12,7 @@
       <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/postgresqlonaws/</guid>
-      <description></description>
+      <description>Excellent video specifically for PostgreSQL on AWS, however the principles are pretty universal information for running anything on AWS -</description>
     </item>
     
     <item>
@@ -21,7 +21,9 @@
       <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/immutability/</guid>
-      <description></description>
+      <description>Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :
+
+via igrigorik&#39;s twitter</description>
     </item>
     
     <item>
@@ -30,7 +32,7 @@
       <pubDate>Mon, 05 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/dontusenosql/</guid>
-      <description></description>
+      <description>enjoyed this talk by Mathias Meyer :</description>
     </item>
     
     <item>
@@ -39,7 +41,7 @@
       <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/perconatablechecksum/</guid>
-      <description></description>
+      <description>I must admit MySQL replication is something I&#39;ve never felt too comfortable with - in most of my positions, I&#39;ve had the luxury of working with a full time DBA who would handle all database related work. In my current workplace we have three major pairs of database machines, and have been going through upgrading them all to Percona MySQL 5.5. As you&#39;d expect data integrity is of the highest importance, so discovering this Percona Table Checksum tool is a real life saver, providing an amazing tool for verifying and fixing any drift or problems with MySQL slaves.</description>
     </item>
     
   </channel>

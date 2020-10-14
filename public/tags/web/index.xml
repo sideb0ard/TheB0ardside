@@ -12,7 +12,8 @@
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/ilyagrigoriktls/</guid>
-      <description>Modern TLS practises</description>
+      <description>Modern TLS practises
+  </description>
     </item>
     
     <item>
@@ -21,7 +22,8 @@
       <pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/airbnbstory/</guid>
-      <description>This is pretty entertaining, one of the AirBnB founders telling their origin story&amp;hellip;</description>
+      <description>This is pretty entertaining, one of the AirBnB founders telling their origin story&amp;hellip;
+  </description>
     </item>
     
     <item>
@@ -31,7 +33,7 @@
       
       <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
       <description>Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..
-// found via https://twitter.com/littlecalculist/status/418800989634695168</description>
+  // found via https://twitter.com/littlecalculist/status/418800989634695168</description>
     </item>
     
     <item>
@@ -49,7 +51,7 @@
       <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jedbergtalkatairbnb/</guid>
-      <description></description>
+      <description>I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -</description>
     </item>
     
     <item>
@@ -58,7 +60,9 @@
       <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/webkitandchromeinternals/</guid>
-      <description></description>
+      <description>I went along to the SF Web Performance Meetup last night, for a talk by Ilya Grigorik which was one of the best and most informative Meetups I&#39;ve been along to - lots of meaty details on how Webkit in general works, and specifically how Chrome uses it across the many platforms it runs on. The video has just been posted here - 
+Video streaming by Ustream
+Ilya starts speaking around the 12 minute mark.</description>
     </item>
     
   </channel>

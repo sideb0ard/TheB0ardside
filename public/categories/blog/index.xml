@@ -13,7 +13,7 @@
       
       <guid>http://theb0ardside.com/stravinksy-sample/</guid>
       <description>This is an absolutely fascinating history of a Stravinsky sample which was included with the first Fairlight Synthesizers - so many songs where this appears!
-(I found the video via this Landr blog post)</description>
+  (I found the video via this Landr blog post)</description>
     </item>
     
     <item>
@@ -22,7 +22,8 @@
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theartofcode/</guid>
-      <description>Super entertaining talk from Dylan Beattie, encompassing history of computational arts, live coding, math and having fun!</description>
+      <description>Super entertaining talk from Dylan Beattie, encompassing history of computational arts, live coding, math and having fun!
+  </description>
     </item>
     
     <item>
@@ -31,7 +32,8 @@
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/soundb0rd-furtherin/</guid>
-      <description>This was my live set from Further_in a few weeks back - Had a list minute thought to stick on my Thor costume!</description>
+      <description>This was my live set from Further_in a few weeks back - Had a list minute thought to stick on my Thor costume!
+  </description>
     </item>
     
     <item>
@@ -50,7 +52,8 @@
       
       <guid>http://theb0ardside.com/oboe-audio/</guid>
       <description>I&amp;rsquo;ve started building a toy Granular Synth for Android, using this Oboe library.
-This video is a great introduction to it..</description>
+This video is a great introduction to it..
+  </description>
     </item>
     
     <item>
@@ -59,7 +62,8 @@ This video is a great introduction to it..</description>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/my-side-of-the-city/</guid>
-      <description>Finished a comic I&amp;rsquo;ve been working on this past year - over at the Drawing B0ard-</description>
+      <description>Finished a comic I&amp;rsquo;ve been working on this past year - over at the Drawing B0ard -
+ </description>
     </item>
     
     <item>
@@ -71,9 +75,10 @@ This video is a great introduction to it..</description>
       <description>Oh, should have posted this a while back!
 All videos from the Algorithmic Art Assembly conference/festival I ran in March, are now online &amp;ndash;
 Friday Day
-Friday Night
-Saturday Day
-Saturday Night</description>
+  Friday Night
+  Saturday Day
+  Saturday Night
+  </description>
     </item>
     
     <item>
@@ -82,7 +87,8 @@ Saturday Night</description>
       <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/letslisp1959/</guid>
-      <description>Nicely delivered talk by Kristoffer Gronlund about the origins of the LISP language..</description>
+      <description>Nicely delivered talk by Kristoffer Gronlund about the origins of the LISP language..
+  </description>
     </item>
     
     <item>
@@ -91,7 +97,8 @@ Saturday Night</description>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/golden-rules-audio-programming/</guid>
-      <description>I&amp;rsquo;ve been dealing with threaded data access race conditions between my ui and audio thread this weekend, so found this talk pretty informative &amp;ndash; !</description>
+      <description>I&amp;rsquo;ve been dealing with threaded data access race conditions between my ui and audio thread this weekend, so found this talk pretty informative &amp;ndash; !
+  </description>
     </item>
     
     <item>
@@ -100,7 +107,8 @@ Saturday Night</description>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/mark-fell-early-computer-music-langs/</guid>
-      <description>Wow, this is great, found this while looking up Mark Fell videos - an exhibition he curated with Luke Fowler, documenting two early computer music languages The Composers Desktop Project (CDP) and Hierarchical Musical Specification Language (HMSL).</description>
+      <description>Wow, this is great, found this while looking up Mark Fell videos - an exhibition he curated with Luke Fowler, documenting two early computer music languages The Composers Desktop Project (CDP) and Hierarchical Musical Specification Language (HMSL).
+  </description>
     </item>
     
     <item>
@@ -109,7 +117,8 @@ Saturday Night</description>
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/joscha-bach-ghost-in-machine/</guid>
-      <description>From this year&amp;rsquo;s Chaos Computer Club, a great talk from a series, &#39; From Computation to Consciousness&#39;, by Joscha Bach &amp;ndash;</description>
+      <description>From this year&amp;rsquo;s Chaos Computer Club, a great talk from a series, &#39; From Computation to Consciousness&#39;, by Joscha Bach &amp;ndash;
+  </description>
     </item>
     
     <item>
@@ -118,7 +127,8 @@ Saturday Night</description>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/ron-pressler-codemesh18/</guid>
-      <description>Found this on hacker newsover Christmas - super good talk by Ron Pressler, spinning an awesome narrative around history of computation, logic and algebra &amp;ndash;</description>
+      <description>Found this on hacker news over Christmas - super good talk by Ron Pressler, spinning an awesome narrative around history of computation, logic and algebra &amp;ndash;
+  </description>
     </item>
     
     <item>
@@ -127,7 +137,8 @@ Saturday Night</description>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/aesthetics-and-narrative/</guid>
-      <description>Great talk on composing functions for creative use!</description>
+      <description>Great talk on composing functions for creative use!
+  </description>
     </item>
     
     <item>
@@ -137,7 +148,8 @@ Saturday Night</description>
       
       <guid>http://theb0ardside.com/sheffield-moot/</guid>
       <description>Just got back from the very awesome Livecode Festival #2 in Sheffield UK, a gathering of like minded music programmers and algorithmic artists - super inspiring!
-Here&amp;rsquo;s a screencast i captured of my set for the Algorave:</description>
+Here&amp;rsquo;s a screencast i captured of my set for the Algorave:
+  </description>
     </item>
     
     <item>
@@ -146,7 +158,8 @@ Here&amp;rsquo;s a screencast i captured of my set for the Algorave:</descriptio
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/tragedy-systemd/</guid>
-      <description>Awesome talk from BSDCan 2018, a balanced look at systemd&amp;rsquo;s history and ideas..</description>
+      <description>Awesome talk from BSDCan 2018, a balanced look at systemd&amp;rsquo;s history and ideas..
+  </description>
     </item>
     
     <item>
@@ -155,7 +168,8 @@ Here&amp;rsquo;s a screencast i captured of my set for the Algorave:</descriptio
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/bcpl-traxx/</guid>
-      <description>Here&amp;rsquo;s a couple of new tracks I&amp;rsquo;ve put together using my Soundb0ard software..</description>
+      <description>Here&amp;rsquo;s a couple of new tracks I&amp;rsquo;ve put together using my Soundb0ard software..
+      </description>
     </item>
     
     <item>
@@ -164,7 +178,8 @@ Here&amp;rsquo;s a screencast i captured of my set for the Algorave:</descriptio
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/procedural-programming/</guid>
-      <description>I found this next video on a great Hacker News thread, &amp;ldquo;What is your favourite tech talk?&amp;quot;</description>
+      <description>I found this next video on a great Hacker News thread, &amp;ldquo;What is your favourite tech talk?&amp;quot;
+  </description>
     </item>
     
     <item>
@@ -174,7 +189,8 @@ Here&amp;rsquo;s a screencast i captured of my set for the Algorave:</descriptio
       
       <guid>http://theb0ardside.com/soundb0ard-algorave/</guid>
       <description>I&amp;rsquo;ve had my head down doing a bunch of work on my Soundb0ard software, in prep for playing at Algosix last weekend. The festival was awesome, so much great live music!
-I was quite happy with my performance, give it a listen/view:</description>
+I was quite happy with my performance, give it a listen/view:
+  </description>
     </item>
     
     <item>
@@ -183,7 +199,9 @@ I was quite happy with my performance, give it a listen/view:</description>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/dalriada/</guid>
-      <description>Check this awesome new skate video out of Scotland - great stuff! Even a wee shot of Toby Patterson in there!</description>
+      <description>Check this awesome new skate video out of Scotland - great stuff! Even a wee shot of Toby Patterson in there!
+ DALRIADA from Iron Giraffe on Vimeo.
+ </description>
     </item>
     
     <item>
@@ -192,7 +210,9 @@ I was quite happy with my performance, give it a listen/view:</description>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/cognitivemodelling/</guid>
-      <description>I ended up missing this recent Dorkbot night, so glad to see the talk turning up online - this is great!</description>
+      <description>I ended up missing this recent Dorkbot night, so glad to see the talk turning up online - this is great!
+ Steve DiPaola, Computational/Cognitive Modelling of Expression &amp;amp; Creativity, Dorkbot-SF, 2018-01-31 from pronoiac on Vimeo.
+ </description>
     </item>
     
     <item>
@@ -202,7 +222,8 @@ I was quite happy with my performance, give it a listen/view:</description>
       
       <guid>http://theb0ardside.com/tidalcyles-tutorial/</guid>
       <description>Alex McLean&amp;rsquo;s TidalCycles has been a big influence on my own Soundb0ard, and lately, now that my instruments are mostly built, I&amp;rsquo;ve been looking for ways to algorithmically modify them more.
-This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:</description>
+This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing source of inspiration - super clear and very entertaining - here&amp;rsquo;s the first episode:
+  </description>
     </item>
     
     <item>
@@ -212,7 +233,8 @@ This series of howto&amp;rsquo;s by Mike Hodnick/Kindohm have been an amazing so
       
       <guid>http://theb0ardside.com/algorave-guardian-article/</guid>
       <description>Nice piece from the Guardian showcasing the Algorave scene in Sheffield.
-Big up Alex McLean!</description>
+Big up Alex McLean!
+  </description>
     </item>
     
     <item>
@@ -221,7 +243,8 @@ Big up Alex McLean!</description>
       <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/rich-code-tiny-computers/</guid>
-      <description>JD from work turned me on to this awesome CppCon talk by Jason Turner - in it he builds a simple commodore64 game using modern C++17 features, and an astounding role for Matt Godbolt&amp;rsquo;s (what a name!) Compiler Explorer</description>
+      <description>JD from work turned me on to this awesome CppCon talk by Jason Turner - in it he builds a simple commodore64 game using modern C++17 features, and an astounding role for Matt Godbolt&amp;rsquo;s (what a name!) Compiler Explorer
+  </description>
     </item>
     
     <item>
@@ -231,7 +254,7 @@ Big up Alex McLean!</description>
       
       <guid>http://theb0ardside.com/bcpl/</guid>
       <description>I&amp;rsquo;m just back from a two week holiday in the UK, and while over there, I took part in the first Energized Labs meetup (thanks Matt!), and gave a talk about my efforts in trying to combine my art and tech influences..
-Also check both Matt and Martin&amp;rsquo;s talks from the same session ..</description>
+  Also check both Matt and Martin&amp;rsquo;s talks from the same session ..</description>
     </item>
     
     <item>
@@ -240,7 +263,8 @@ Also check both Matt and Martin&amp;rsquo;s talks from the same session ..</desc
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/c64-cubase/</guid>
-      <description>This is nuts, some guy wrote an awesome sound editor for the Commodore 64, Cubase64! Link comes via man like Tack</description>
+      <description>This is nuts, some guy wrote an awesome sound editor for the Commodore 64, Cubase64! Link comes via man like Tack
+  </description>
     </item>
     
     <item>
@@ -249,7 +273,8 @@ Also check both Matt and Martin&amp;rsquo;s talks from the same session ..</desc
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/intuitivefft/</guid>
-      <description>Really nicely, and visually, explained introduction to the Fast Fourier Transform - great stuff!</description>
+      <description>Really nicely, and visually, explained introduction to the Fast Fourier Transform - great stuff!
+  </description>
     </item>
     
     <item>
@@ -258,7 +283,8 @@ Also check both Matt and Martin&amp;rsquo;s talks from the same session ..</desc
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/magenta-art/</guid>
-      <description>This is a good chat with Doug Eck, of the Google Magenta projectIt&amp;rsquo;s a project I&amp;rsquo;ve been keeping an eye on, as it has a ton of potential. I&amp;rsquo;ve generated some melodies based on their Melody RNN- although i need to spend more time with it, as I&amp;rsquo;ve been more focussed on own generative algorithms.</description>
+      <description>This is a good chat with Doug Eck, of the Google Magenta project It&amp;rsquo;s a project I&amp;rsquo;ve been keeping an eye on, as it has a ton of potential. I&amp;rsquo;ve generated some melodies based on their Melody RNN - although i need to spend more time with it, as I&amp;rsquo;ve been more focussed on own generative algorithms.
+  </description>
     </item>
     
     <item>
@@ -267,8 +293,10 @@ Also check both Matt and Martin&amp;rsquo;s talks from the same session ..</desc
       <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/monolake-granular/</guid>
-      <description>Hmm, my granular synthhasn&amp;rsquo;t quite come together yet, but I&amp;rsquo;m learning a load.
-This is a pretty informative (promo) video from Robert Henke/Monolake showcasing his &amp;lsquo;Granulator&amp;rsquo; plugin for Ableton Live.If i can get mine to sound anything like that i&amp;rsquo;ll be stoked!</description>
+      <description>Hmm, my granular synth hasn&amp;rsquo;t quite come together yet, but I&amp;rsquo;m learning a load.
+This is a pretty informative (promo) video from Robert Henke/Monolake showcasing his &amp;lsquo;Granulator&amp;rsquo; plugin for Ableton Live.
+If i can get mine to sound anything like that i&amp;rsquo;ll be stoked!
+  </description>
     </item>
     
     <item>
@@ -277,7 +305,7 @@ This is a pretty informative (promo) video from Robert Henke/Monolake showcasing
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/curtis-roads-microsound/</guid>
-      <description>I&amp;rsquo;ve just read &amp;lsquo;Microsound&amp;rsquo; by Curtis Roads. I was well aware of the microsound movement, but hadn&amp;rsquo;t realized the depth of the theory behind granular synthesis, with it&amp;rsquo;s history going back to the 1940s, and early practise from Xenakis (using tapes) and this lad, Curtis Roads, programming his own granular synth on a PDP-11/20 in 1974 - what a bad-ass! Check this sitefor some good background and papers.
+      <description>I&amp;rsquo;ve just read &amp;lsquo;Microsound&amp;rsquo; by Curtis Roads. I was well aware of the microsound movement, but hadn&amp;rsquo;t realized the depth of the theory behind granular synthesis, with it&amp;rsquo;s history going back to the 1940s, and early practise from Xenakis (using tapes) and this lad, Curtis Roads, programming his own granular synth on a PDP-11/20 in 1974 - what a bad-ass! Check this site for some good background and papers.
 I found these videos of Curtis Roads, via the site linked above.</description>
     </item>
     
@@ -287,7 +315,8 @@ I found these videos of Curtis Roads, via the site linked above.</description>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/john-hughes-why-functional/</guid>
-      <description>This is a great talk - loved the speaker&amp;rsquo;s mannerisms and humor!</description>
+      <description>This is a great talk - loved the speaker&amp;rsquo;s mannerisms and humor!
+  </description>
     </item>
     
     <item>
@@ -299,8 +328,8 @@ I found these videos of Curtis Roads, via the site linked above.</description>
       <description>Have you been watching season 3 of Twin Peaks? so fscking good!
 This is kinda up there &amp;ndash;
 Memories Of Cindy Pt. 1
-Memories Of Cindy Pt. 2
-Looking forward to receiving the second volume in the mail.
+  Memories Of Cindy Pt. 2
+  Looking forward to receiving the second volume in the mail.
 Grab a copy</description>
     </item>
     
@@ -311,7 +340,8 @@ Grab a copy</description>
       
       <guid>http://theb0ardside.com/two-jenn-schiffer-talks/</guid>
       <description>Up at XOXO last year, the Jenn Schiffer talk was definitely one of the most fun:
-this older one i found from 2015 is equally as entertaining, I love the opening sequence, it&amp;rsquo;s got a kind of &amp;ldquo;cool&amp;rdquo; Portlandia vibe!</description>
+  this older one i found from 2015 is equally as entertaining, I love the opening sequence, it&amp;rsquo;s got a kind of &amp;ldquo;cool&amp;rdquo; Portlandia vibe!
+  </description>
     </item>
     
     <item>
@@ -320,7 +350,8 @@ this older one i found from 2015 is equally as entertaining, I love the opening 
       <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/let-vim-do-the-typing/</guid>
-      <description>Discovered lots of great vim talks - this one is neat:</description>
+      <description>Discovered lots of great vim talks - this one is neat:
+  </description>
     </item>
     
     <item>
@@ -339,7 +370,8 @@ Coincidentally, I just came across this decent talk from Joel Spolsky, which if 
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/runtime-scheduling-strange-loop-2016/</guid>
-      <description>Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..</description>
+      <description>Super nice low level details of scheduling, from kernel scheduling to user space scheduling, with contrasting demo implementations in Go and Erlang..
+  </description>
     </item>
     
     <item>
@@ -348,7 +380,8 @@ Coincidentally, I just came across this decent talk from Joel Spolsky, which if 
       <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/algomech2016/</guid>
-      <description>I was reading up on ALGOMECH 2016, &amp;ldquo;the first festival of algorithmic and mechanical movement&amp;rdquo; - which looks ace! This video, by one of the performers, Graham Dunning, is kinda mind blowing - pay off around the 3:38 mark:</description>
+      <description>I was reading up on ALGOMECH 2016, &amp;ldquo;the first festival of algorithmic and mechanical movement&amp;rdquo; - which looks ace! This video, by one of the performers, Graham Dunning, is kinda mind blowing - pay off around the 3:38 mark:
+  </description>
     </item>
     
     <item>
@@ -357,7 +390,8 @@ Coincidentally, I just came across this decent talk from Joel Spolsky, which if 
       <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/julia-evans-strange-loop-2016/</guid>
-      <description>Fun talk from Julia Evans, from this year&amp;rsquo;s Strange Loop conference:</description>
+      <description>Fun talk from Julia Evans, from this year&amp;rsquo;s Strange Loop conference:
+  </description>
     </item>
     
     <item>
@@ -370,7 +404,7 @@ Coincidentally, I just came across this decent talk from Joel Spolsky, which if 
 &amp;ldquo;It is one-o-clock in the morning. You&amp;rsquo;ve had a long and tiresome day, and despite your best intentions, dozed off far before you meant to.
 Asleep in the embrace of your old blue La-Z-Boy, you feel a flicker like a breeze full of static at room temperature. You awaken.
 The television is still on.
-Your eyes adjust. The feel of the room has changed.</description>
+Your eyes adjust.</description>
     </item>
     
     <item>
@@ -379,7 +413,8 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/purple-rain/</guid>
-      <description>I was listening to the Creative Coding podcastwith Daniel Shiffman the other day - One thing they discussed was Daniel&amp;rsquo;s new Coding Challenges youtube series - this one to do a &amp;lsquo;Purple Rain&amp;rsquo; in Processing is really fun!</description>
+      <description>I was listening to the Creative Coding podcast with Daniel Shiffman the other day - One thing they discussed was Daniel&amp;rsquo;s new Coding Challenges youtube series - this one to do a &amp;lsquo;Purple Rain&amp;rsquo; in Processing is really fun!
+  </description>
     </item>
     
     <item>
@@ -388,7 +423,8 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/embedded-linux-timeline/</guid>
-      <description>Nicely informed history of Linux in embedded devices..</description>
+      <description>Nicely informed history of Linux in embedded devices..
+  </description>
     </item>
     
     <item>
@@ -397,7 +433,8 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/ashenzjen-wired/</guid>
-      <description>Really great wee short from Wired.com about how Shenzhen became the powerhouse it is now..</description>
+      <description>Really great wee short from Wired.com about how Shenzhen became the powerhouse it is now..
+  </description>
     </item>
     
     <item>
@@ -406,7 +443,8 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/rob-landley-toybox/</guid>
-      <description>Ah, this is ace!</description>
+      <description>Ah, this is ace!
+  </description>
     </item>
     
     <item>
@@ -415,7 +453,8 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/android-audio-performance/</guid>
-      <description>I&amp;rsquo;m currently working on a Brillo audio component, which will require very low latency performance. While searching for some tips and prior art, I came across this talk from Google I/O 2013. A bit older now, but provides an excellent overview of the problem domain and approaches to solving those issues..</description>
+      <description>I&amp;rsquo;m currently working on a Brillo audio component, which will require very low latency performance. While searching for some tips and prior art, I came across this talk from Google I/O 2013. A bit older now, but provides an excellent overview of the problem domain and approaches to solving those issues..
+  </description>
     </item>
     
     <item>
@@ -424,7 +463,8 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/chronicles-unix/</guid>
-      <description>Awesome episode of the Computer Chronicles, this one focussed on Unix. Gary Killdall is a don!</description>
+      <description>Awesome episode of the Computer Chronicles, this one focussed on Unix. Gary Killdall is a don!
+  </description>
     </item>
     
     <item>
@@ -433,7 +473,8 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/efficiency-performance-talk-cppcon2014/</guid>
-      <description>This is a pretty entertaining talk from Chandler Carruth at CppCon 2014 - lots of good takeaways..</description>
+      <description>This is a pretty entertaining talk from Chandler Carruth at CppCon 2014 - lots of good takeaways..
+  </description>
     </item>
     
     <item>
@@ -442,7 +483,8 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/sanfrancisco-vice/</guid>
-      <description>Pretty decent wee documentary on the changing face of SF from VICE mag. Near the beginning a lot of the location shots don&amp;rsquo;t match the narrative, but the interview with Andre Nickatina makes it totally worthwhile!</description>
+      <description>Pretty decent wee documentary on the changing face of SF from VICE mag. Near the beginning a lot of the location shots don&amp;rsquo;t match the narrative, but the interview with Andre Nickatina makes it totally worthwhile!
+  </description>
     </item>
     
     <item>
@@ -451,7 +493,8 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/18-year-old-mainframe/</guid>
-      <description>Heh, funny talk from a young enthusiast who bought, moved, and got up and running, an IBM z890.</description>
+      <description>Heh, funny talk from a young enthusiast who bought, moved, and got up and running, an IBM z890.
+  </description>
     </item>
     
     <item>
@@ -460,7 +503,8 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/cantrill-papers-we-love/</guid>
-      <description>Bryan Cantrill on another awesome one!</description>
+      <description>Bryan Cantrill on another awesome one!
+  </description>
     </item>
     
     <item>
@@ -469,7 +513,8 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/1987-hypercard/</guid>
-      <description>I never played with Hypercard, only ever heard about it - love this demo of it:</description>
+      <description>I never played with Hypercard, only ever heard about it - love this demo of it:
+  </description>
     </item>
     
     <item>
@@ -478,7 +523,8 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/sci-fi-short/</guid>
-      <description>Awesome wee sci-fi short..</description>
+      <description>Awesome wee sci-fi short..
+  </description>
     </item>
     
     <item>
@@ -487,7 +533,9 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Sun, 27 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/historyspiritc/</guid>
-      <description>Some excellent bits of BCPL history in here, which I hadn&amp;rsquo;t come across before&amp;hellip;</description>
+      <description>Some excellent bits of BCPL history in here, which I hadn&amp;rsquo;t come across before&amp;hellip;
+ History and Spirit of C and C++ - Olve Maudal from NDC Conferences on Vimeo.
+ </description>
     </item>
     
     <item>
@@ -496,8 +544,8 @@ Your eyes adjust. The feel of the room has changed.</description>
       <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/embedded-android/</guid>
-      <description>Amazingly smooth presentation under time pressure from Karim Yaghmour, giving a super fast overview of the content in his Embedded Androidbook.
-I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!</description>
+      <description>Amazingly smooth presentation under time pressure from Karim Yaghmour, giving a super fast overview of the content in his Embedded Android book.
+  I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!</description>
     </item>
     
     <item>
@@ -506,7 +554,8 @@ I&amp;rsquo;ve been deep in Android source code these past few weeks - I just mo
       <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/acorn-sophie-wilson/</guid>
-      <description>Sophie Wilson is a boss..</description>
+      <description>Sophie Wilson is a boss..
+  </description>
     </item>
     
     <item>
@@ -516,7 +565,7 @@ I&amp;rsquo;ve been deep in Android source code these past few weeks - I just mo
       
       <guid>http://theb0ardside.com/skateboarding-reservation/</guid>
       <description>Really great use of skateboarding to help build a sense of community for youth on a native american reservation..
-Oh, also, super good soundtrack featuring David Pajo!
+  Oh, also, super good soundtrack featuring David Pajo!
 As pretty much all my skate videos are, found via the awesome The Walloper.</description>
     </item>
     
@@ -535,7 +584,8 @@ As pretty much all my skate videos are, found via the awesome The Walloper.</des
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/howtobuildaskycraper/</guid>
-      <description>Pretty rad skyscraper history as software-engineering-metaphor..</description>
+      <description>Pretty rad skyscraper history as software-engineering-metaphor..
+  </description>
     </item>
     
     <item>
@@ -544,7 +594,8 @@ As pretty much all my skate videos are, found via the awesome The Walloper.</des
       <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/andrewgerrandgouk2015/</guid>
-      <description>Hah, some awesome bits in here&amp;hellip;</description>
+      <description>Hah, some awesome bits in here&amp;hellip;
+  </description>
     </item>
     
     <item>
@@ -554,7 +605,7 @@ As pretty much all my skate videos are, found via the awesome The Walloper.</des
       
       <guid>http://theb0ardside.com/grant-taylor/</guid>
       <description>Absolutely sick skate video, fscking nuts!
-found via The Walloper</description>
+  found via The Walloper</description>
     </item>
     
     <item>
@@ -563,7 +614,8 @@ found via The Walloper</description>
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/visualprogexec/</guid>
-      <description>Super fun live demo of program tracing and visualisation from this years Strange Loop conf..</description>
+      <description>Super fun live demo of program tracing and visualisation from this years Strange Loop conf..
+  </description>
     </item>
     
     <item>
@@ -572,7 +624,8 @@ found via The Walloper</description>
       <pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/solaris-to-illumos/</guid>
-      <description>Bryan Cantrill, as entertaining as always..</description>
+      <description>Bryan Cantrill, as entertaining as always..
+  </description>
     </item>
     
     <item>
@@ -581,7 +634,8 @@ found via The Walloper</description>
       <pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/mos6502-microcontroller/</guid>
-      <description>Nice and short 30 min talk about the origins and background to the MOS Technologies 6502 micro-controller, which came out in 1975 and powered the BBC Micro, the Commodore 64, first Nintendo, amongst many others. Super good!</description>
+      <description>Nice and short 30 min talk about the origins and background to the MOS Technologies 6502 micro-controller, which came out in 1975 and powered the BBC Micro, the Commodore 64, first Nintendo, amongst many others. Super good!
+  </description>
     </item>
     
     <item>
@@ -590,7 +644,8 @@ found via The Walloper</description>
       <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/fortran-intro/</guid>
-      <description>Oh shit! this is incredible - IBM engineer walks through the development of a FORTRAN program, including I&amp;rsquo;m guessing, the first appearance of a GOTO statement! Then, in part two, they have their FORmula TRANslator translate a Fortran program into IBM symbolic language/assembly, and output it to PUNCH CARDS!!. wow..</description>
+      <description>Oh shit! this is incredible - IBM engineer walks through the development of a FORTRAN program, including I&amp;rsquo;m guessing, the first appearance of a GOTO statement! Then, in part two, they have their FORmula TRANslator translate a Fortran program into IBM symbolic language/assembly, and output it to PUNCH CARDS!!. wow..
+    </description>
     </item>
     
     <item>
@@ -600,7 +655,7 @@ found via The Walloper</description>
       
       <guid>http://theb0ardside.com/shitpresent-kickme/</guid>
       <description>Awesome video for awesome track!
-Found via Ben&amp;rsquo;s blog</description>
+  Found via Ben&amp;rsquo;s blog</description>
     </item>
     
     <item>
@@ -610,7 +665,7 @@ Found via Ben&amp;rsquo;s blog</description>
       
       <guid>http://theb0ardside.com/skater-dater-1965/</guid>
       <description>the best short film ever?
-Nominate it for the National Film Registry</description>
+  Nominate it for the National Film Registry</description>
     </item>
     
     <item>
@@ -620,7 +675,7 @@ Nominate it for the National Film Registry</description>
       
       <guid>http://theb0ardside.com/algorithmicsoundperl/</guid>
       <description>Super nice demo of algorithmic sound generation with Perl and Portaudio&amp;hellip;
-from here</description>
+  from here</description>
     </item>
     
     <item>
@@ -629,7 +684,8 @@ from here</description>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/kernighan-history/</guid>
-      <description>The legendary Brian Kernighan speaking to Computerphile about early days of computing. SHort and sweet video..</description>
+      <description>The legendary Brian Kernighan speaking to Computerphile about early days of computing. SHort and sweet video..
+  </description>
     </item>
     
     <item>
@@ -638,7 +694,8 @@ from here</description>
       <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/hashicorp/</guid>
-      <description>Oh man, this talk is nuts - Mitchell Hashimoto introducing Terraform and Consul together..</description>
+      <description>Oh man, this talk is nuts - Mitchell Hashimoto introducing Terraform and Consul together..
+  </description>
     </item>
     
     <item>
@@ -647,9 +704,10 @@ from here</description>
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/early-uk-computers/</guid>
-      <description>I just finished reading Early British Computers by Simon Lavington- super good!
-There&amp;rsquo;s an awesome playlist of videoswhich feature the computers covered.
-Here&amp;rsquo;s a selection..</description>
+      <description>I just finished reading Early British Computers by Simon Lavington - super good!
+There&amp;rsquo;s an awesome playlist of videos which feature the computers covered.
+Here&amp;rsquo;s a selection..
+      </description>
     </item>
     
     <item>
@@ -658,7 +716,8 @@ Here&amp;rsquo;s a selection..</description>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/roots-of-os-1963/</guid>
-      <description>Oh man, this is incredible, seriously best historic piece I&amp;rsquo;ve watched, with the origins of operating system methodoligies, and crazy typewriter I/O UX, pre-CRTs!</description>
+      <description>Oh man, this is incredible, seriously best historic piece I&amp;rsquo;ve watched, with the origins of operating system methodoligies, and crazy typewriter I/O UX, pre-CRTs!
+  </description>
     </item>
     
     <item>
@@ -667,7 +726,8 @@ Here&amp;rsquo;s a selection..</description>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/docker-filesystems/</guid>
-      <description>Super nice quick overview of the importance of Copy-On-Write filesystems to Docker, going into detail of the benefits and downsides to each of the CoW options - AuFS, BTRFS, ZFS, Overlayfs, Device Mapper - great stuff!</description>
+      <description>Super nice quick overview of the importance of Copy-On-Write filesystems to Docker, going into detail of the benefits and downsides to each of the CoW options - AuFS, BTRFS, ZFS, Overlayfs, Device Mapper - great stuff!
+  </description>
     </item>
     
     <item>
@@ -676,7 +736,8 @@ Here&amp;rsquo;s a selection..</description>
       <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/coreosfestcloser/</guid>
-      <description>This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..</description>
+      <description>This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..
+  </description>
     </item>
     
     <item>
@@ -685,7 +746,8 @@ Here&amp;rsquo;s a selection..</description>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/craig-silverstein-google/</guid>
-      <description>I only just learned about this guy Craig Silverstein, who was Google employee #3 after Larry and Sergey. There&amp;rsquo;s a ton more info about him if you go searching, but this is an ace little 10 minute video where he talks about the origins of google..</description>
+      <description>I only just learned about this guy Craig Silverstein, who was Google employee #3 after Larry and Sergey. There&amp;rsquo;s a ton more info about him if you go searching, but this is an ace little 10 minute video where he talks about the origins of google..
+  </description>
     </item>
     
     <item>
@@ -695,7 +757,8 @@ Here&amp;rsquo;s a selection..</description>
       
       <guid>http://theb0ardside.com/vint-cerf-packets/</guid>
       <description>Me and tack went to see the illustrious Vint Cerf speak during the week - he was awesome!
-Here&amp;rsquo;s an excellent youtube interview with him, on the history of packets:</description>
+Here&amp;rsquo;s an excellent youtube interview with him, on the history of packets:
+  </description>
     </item>
     
     <item>
@@ -705,7 +768,8 @@ Here&amp;rsquo;s an excellent youtube interview with him, on the history of pack
       
       <guid>http://theb0ardside.com/b0ardcast28/</guid>
       <description>Here&amp;rsquo;s this week&amp;rsquo;s B0ardcast, broadcast on BFF.fm every friday.
-Tracklist:::
+The B0ardcast Episode 28 by Sideb0ard on Mixcloud
+ Tracklist:::
 Dhobi Fats - She Wants A Daisy
 Betty And The Werewolves - Should I go to Glasgow?
 Orange Juice - Poor Old Soul (Part 1)
@@ -713,9 +777,7 @@ halfsour - target practice (henry&amp;rsquo;s dress cover)
 Japanther - All We Got Is Each Other (Peanucle)
 Kitten Crisis - Yer Hair
 Braves - True Feelings
-peach kelli pop - Bat Wing
-Plantains - Wendy
-SadGirl - Lie Awake</description>
+peach kelli pop - Bat Wing</description>
     </item>
     
     <item>
@@ -724,7 +786,8 @@ SadGirl - Lie Awake</description>
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/system-facebook-scale/</guid>
-      <description>Wow, this is one of the most practical, technical talks I&amp;rsquo;ve seen in a while - super good!</description>
+      <description>Wow, this is one of the most practical, technical talks I&amp;rsquo;ve seen in a while - super good!
+  </description>
     </item>
     
     <item>
@@ -733,7 +796,8 @@ SadGirl - Lie Awake</description>
       <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/weaponizing-your-pets/</guid>
-      <description>My wife and I got a new projector recently (this one), so I had some nerds round to watch some tech talks. My friend Jerome turned us on to this one, super fun!</description>
+      <description>My wife and I got a new projector recently (this one), so I had some nerds round to watch some tech talks. My friend Jerome turned us on to this one, super fun!
+  </description>
     </item>
     
     <item>
@@ -742,7 +806,8 @@ SadGirl - Lie Awake</description>
       <pubDate>Sun, 08 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/netbsd-not-a-linux-distro/</guid>
-      <description>Great intro to FreeBSD from George Neville-Neil presenting history and current status..</description>
+      <description>Great intro to FreeBSD from George Neville-Neil presenting history and current status..
+  </description>
     </item>
     
     <item>
@@ -751,7 +816,8 @@ SadGirl - Lie Awake</description>
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/boston-dynamics-walking-robots/</guid>
-      <description>dang!! Boston Dynamics four legged robots are amazeballs:</description>
+      <description>dang!! Boston Dynamics four legged robots are amazeballs:
+  </description>
     </item>
     
     <item>
@@ -760,7 +826,8 @@ SadGirl - Lie Awake</description>
       <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/etcd2.0/</guid>
-      <description>Excellent overview of Etcd and description of new features / bug fixes in 2.0..</description>
+      <description>Excellent overview of Etcd and description of new features / bug fixes in 2.0..
+  </description>
     </item>
     
     <item>
@@ -769,7 +836,8 @@ SadGirl - Lie Awake</description>
       <pubDate>Fri, 19 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/tony-hoare-univerals/</guid>
-      <description>I&amp;rsquo;m currently reading Tony Hoare&amp;rsquo;s Communicating Sequential Processes- it&amp;rsquo;s awesome! I searched to see if I could find some youtube videos of him - this one is brilliant, him talking about what should be taught in Computer Science, the universal ideas of logic and geometry unpinning computation, going back to Euclid and Artistotle. Great stuff!</description>
+      <description>I&amp;rsquo;m currently reading Tony Hoare&amp;rsquo;s Communicating Sequential Processes - it&amp;rsquo;s awesome! I searched to see if I could find some youtube videos of him - this one is brilliant, him talking about what should be taught in Computer Science, the universal ideas of logic and geometry unpinning computation, going back to Euclid and Artistotle. Great stuff!
+  </description>
     </item>
     
     <item>
@@ -778,7 +846,8 @@ SadGirl - Lie Awake</description>
       <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/user-space-networking/</guid>
-      <description>One theme I&amp;rsquo;ve noticed recently is a move to User Space networking - not for normal application use per se, but for specific high throughput cases, where the kernel&amp;rsquo;s general network stack&amp;rsquo;s overhead is too much. This isn&amp;rsquo;t a new thing, but something I&amp;rsquo;ve never gotten around to exploring. This vid, from last year, provides an overview of three different implementations..</description>
+      <description>One theme I&amp;rsquo;ve noticed recently is a move to User Space networking - not for normal application use per se, but for specific high throughput cases, where the kernel&amp;rsquo;s general network stack&amp;rsquo;s overhead is too much. This isn&amp;rsquo;t a new thing, but something I&amp;rsquo;ve never gotten around to exploring. This vid, from last year, provides an overview of three different implementations..
+  </description>
     </item>
     
     <item>
@@ -787,7 +856,8 @@ SadGirl - Lie Awake</description>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robpike-go-concurrency/</guid>
-      <description>I thought I had seen this, but no, it&amp;rsquo;s just a similar theme to other talks by Rob Pike I&amp;rsquo;ve seen - this one is quite fun to code along too, its a super neat and compact concurrency app..</description>
+      <description>I thought I had seen this, but no, it&amp;rsquo;s just a similar theme to other talks by Rob Pike I&amp;rsquo;ve seen - this one is quite fun to code along too, its a super neat and compact concurrency app..
+  </description>
     </item>
     
     <item>
@@ -796,7 +866,8 @@ SadGirl - Lie Awake</description>
       <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/how-to-debug-anything/</guid>
-      <description>Pretty decent talk on debugging methodology..</description>
+      <description>Pretty decent talk on debugging methodology..
+  </description>
     </item>
     
     <item>
@@ -805,7 +876,8 @@ SadGirl - Lie Awake</description>
       <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vent-cerf-greyglers/</guid>
-      <description>Vint Cerf,the Don..</description>
+      <description>Vint Cerf,the Don..
+  </description>
     </item>
     
     <item>
@@ -815,7 +887,7 @@ SadGirl - Lie Awake</description>
       
       <guid>http://theb0ardside.com/joschabach-ai/</guid>
       <description>Hugely compelling talk by Joscha Bach covering history and possible futures of AI..
-Found here</description>
+  Found here</description>
     </item>
     
     <item>
@@ -824,7 +896,8 @@ Found here</description>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/julia-evans-kernel-hacker/</guid>
-      <description>Brilliant, brilliant talk from Julia Evans, getting excited about kernel hacking. Warning: Super infectious levels of enthusiasm!</description>
+      <description>Brilliant, brilliant talk from Julia Evans, getting excited about kernel hacking. Warning: Super infectious levels of enthusiasm!
+  </description>
     </item>
     
     <item>
@@ -833,7 +906,8 @@ Found here</description>
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/joe-armstrong-strange-loop/</guid>
-      <description>A ton of great talks coming out of the Strange Loop conference - this one by Joe Armstrong, inventor of Erlang, is super fun&amp;hellip;!</description>
+      <description>A ton of great talks coming out of the Strange Loop conference - this one by Joe Armstrong, inventor of Erlang, is super fun&amp;hellip;!
+  </description>
     </item>
     
     <item>
@@ -842,7 +916,8 @@ Found here</description>
       <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/hightower-kubernetes/</guid>
-      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..</description>
+      <description>Kelsey Hightower, very funny, very good practical demo of Kubernetes..
+  </description>
     </item>
     
     <item>
@@ -851,7 +926,8 @@ Found here</description>
       <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/knrunix/</guid>
-      <description>Sad circumstance, lovely stories&amp;hellip;</description>
+      <description>Sad circumstance, lovely stories&amp;hellip;
+  </description>
     </item>
     
     <item>
@@ -860,7 +936,8 @@ Found here</description>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/ilyagrigoriktls/</guid>
-      <description>Modern TLS practises</description>
+      <description>Modern TLS practises
+  </description>
     </item>
     
     <item>
@@ -869,7 +946,8 @@ Found here</description>
       <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vpc-design/</guid>
-      <description>Super detailed and practical VPC design best practises - very cool stuff..</description>
+      <description>Super detailed and practical VPC design best practises - very cool stuff..
+  </description>
     </item>
     
     <item>
@@ -878,7 +956,8 @@ Found here</description>
       <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/underwatercables1939/</guid>
-      <description>Yow, 1056 wires - 1930s style Undersea Telephony biz..</description>
+      <description>Yow, 1056 wires - 1930s style Undersea Telephony biz..
+  </description>
     </item>
     
     <item>
@@ -896,7 +975,8 @@ Found here</description>
       <pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/airbnbstory/</guid>
-      <description>This is pretty entertaining, one of the AirBnB founders telling their origin story&amp;hellip;</description>
+      <description>This is pretty entertaining, one of the AirBnB founders telling their origin story&amp;hellip;
+  </description>
     </item>
     
     <item>
@@ -905,7 +985,8 @@ Found here</description>
       <pubDate>Sun, 29 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/aaronswartz/</guid>
-      <description>Wow, this Aaron Swartz documentary is great, well worth a watch -&amp;gt;</description>
+      <description>Wow, this Aaron Swartz documentary is great, well worth a watch -&amp;gt;
+  </description>
     </item>
     
     <item>
@@ -915,7 +996,7 @@ Found here</description>
       
       <guid>http://theb0ardside.com/urban-giants/</guid>
       <description>Beautifully shot, mind blowing short documentary about New York&amp;rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;amp;T Long Lines Building ..
-Found via BldBlog site</description>
+  Found via BldBlog site</description>
     </item>
     
     <item>
@@ -925,7 +1006,7 @@ Found via BldBlog site</description>
       
       <guid>http://theb0ardside.com/containers-at-google/</guid>
       <description>Eric Brewer&amp;rsquo;s keynote from Dockercon14 -
-Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
+  Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
     </item>
     
     <item>
@@ -934,7 +1015,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/seymourcray/</guid>
-      <description>This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!</description>
+      <description>This 80&amp;rsquo;s three part piece on Seymour Cray is pretty ace - especially the Lou Reed R.A.D. (Rock Against Drugs!) and Greenpeace ad&amp;rsquo;s at about 11m12s in!
+  </description>
     </item>
     
     <item>
@@ -943,7 +1025,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
-      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..</description>
+      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..
+  </description>
     </item>
     
     <item>
@@ -952,7 +1035,7 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Thu, 19 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/deep-learning/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -961,7 +1044,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/brandoncoreos/</guid>
-      <description>Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::</description>
+      <description>Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::
+  </description>
     </item>
     
     <item>
@@ -970,7 +1054,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/dijkstra-on-elegance/</guid>
-      <description>Excellent wee 20 min documentary with Dijkstra speaking about elegance..</description>
+      <description>Excellent wee 20 min documentary with Dijkstra speaking about elegance..
+  </description>
     </item>
     
     <item>
@@ -979,7 +1064,9 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Thu, 22 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robpikeconcurrency/</guid>
-      <description>This is a great talk by Rob Pike on Go Routines, Channels and concurrency&amp;hellip;</description>
+      <description>This is a great talk by Rob Pike on Go Routines, Channels and concurrency&amp;hellip;
+ Rob Pike - &#39;Concurrency Is Not Parallelism&#39; from Waza on Vimeo.
+ </description>
     </item>
     
     <item>
@@ -988,7 +1075,9 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jamesmickens/</guid>
-      <description>Funny stuff, this is ace..</description>
+      <description>Funny stuff, this is ace..
+ Monitorama PDX 2014 - James Mickens from Monitorama on Vimeo.
+ </description>
     </item>
     
     <item>
@@ -997,7 +1086,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/goforsysadmins/</guid>
-      <description>I&amp;rsquo;ve been getting really into both Go and CoreOS recenty, so this video is timely and ACE!</description>
+      <description>I&amp;rsquo;ve been getting really into both Go and CoreOS recenty, so this video is timely and ACE!
+  </description>
     </item>
     
     <item>
@@ -1007,7 +1097,7 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       
       <guid>http://theb0ardside.com/cattheoryintro/</guid>
       <description>Excellent introduction to Category Theory - presentation by Tom LaGatta at LispNYC meetup.
-// via Hakka Labs Mailout</description>
+  // via Hakka Labs Mailout</description>
     </item>
     
     <item>
@@ -1016,7 +1106,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robpike-gophercon-2014/</guid>
-      <description>Awesome, awesome talk from Rob Pike, the keynote for GopherCon 2014, some old Unix/C history and lots of details of Go development &amp;ndash;</description>
+      <description>Awesome, awesome talk from Rob Pike, the keynote for GopherCon 2014, some old Unix/C history and lots of details of Go development &amp;ndash;
+  </description>
     </item>
     
     <item>
@@ -1025,7 +1116,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/systems-architecture-acm/</guid>
-      <description>Yow! this is great! I know my Unix history pretty well, but Multics - aside from knowing it was the precursor to Unix, i didn&amp;rsquo;t know much else of the details or who was involved - WATCH THIS! NOW! :D</description>
+      <description>Yow! this is great! I know my Unix history pretty well, but Multics - aside from knowing it was the precursor to Unix, i didn&amp;rsquo;t know much else of the details or who was involved - WATCH THIS! NOW! :D
+  </description>
     </item>
     
     <item>
@@ -1035,7 +1127,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       
       <guid>http://theb0ardside.com/gracehopperstory/</guid>
       <description>Ooh, very nice - new IndieGoGo campaign for a movie telling the story of Grace Hopper -
-Find out more and donate!</description>
+Find out more and donate!
+  </description>
     </item>
     
     <item>
@@ -1053,7 +1146,8 @@ Find out more and donate!</description>
       <pubDate>Mon, 07 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/basic50/</guid>
-      <description>Now approaching it&amp;rsquo;s 50th birthday, nice wee video about the origins of BASIC and Time Sharing..</description>
+      <description>Now approaching it&amp;rsquo;s 50th birthday, nice wee video about the origins of BASIC and Time Sharing..
+  </description>
     </item>
     
     <item>
@@ -1062,7 +1156,9 @@ Find out more and donate!</description>
       <pubDate>Fri, 04 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/debuggingproduction/</guid>
-      <description></description>
+      <description>  Bryan Cantrill being funny as hell.
+&#34;Bryan Cantrill discusses debugging production systems using post-mortem debugging and dynamic instrumentation, with a bit of history and an introduction to useful debugging tools.&#34;i
+ </description>
     </item>
     
     <item>
@@ -1071,7 +1167,8 @@ Find out more and donate!</description>
       <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jamesgoslingrobots/</guid>
-      <description>Oh man, this is just ace!</description>
+      <description>Oh man, this is just ace!
+  </description>
     </item>
     
     <item>
@@ -1090,7 +1187,9 @@ Fortunately however, I did find this lovely interview with &amp;ldquo;Frank&amp;
       <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/b0ardcast-mixclouds/</guid>
-      <description>Here&amp;rsquo;s a link to the Mixcloud page with the past couple of B0ardcast shows and tracklistings..</description>
+      <description>Here&amp;rsquo;s a link to the Mixcloud page with the past couple of B0ardcast shows and tracklistings..
+The B0ardside Episode #4 - 03/04/2014 by Sideb0ard on Mixcloud
+ </description>
     </item>
     
     <item>
@@ -1099,8 +1198,8 @@ Fortunately however, I did find this lovely interview with &amp;ldquo;Frank&amp;
       <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/tensemen-rnrfon/</guid>
-      <description>Love this new video for Tense Men-
-It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp;rsquo;s old house.</description>
+      <description>Love this new video for Tense Men -
+  It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp;rsquo;s old house.</description>
     </item>
     
     <item>
@@ -1110,7 +1209,8 @@ It&amp;rsquo;s all shot around Stoke Newington in London, super close to Pat&amp
       
       <guid>http://theb0ardside.com/ycombinator/</guid>
       <description>Sadly, Jim Weirich, creator of the Ruby Rake tool died a few days back.
-Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:</description>
+Here is a great talk he delivered, explaining the concept and an implementation of an applicative Y Combinator:
+  </description>
     </item>
     
     <item>
@@ -1119,7 +1219,8 @@ Here is a great talk he delivered, explaining the concept and an implementation 
       <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/paulphillips/</guid>
-      <description>I didn&amp;rsquo;t see this actual talk, but pretty much the same one delivered the following evening - it gave me nightmares!</description>
+      <description>I didn&amp;rsquo;t see this actual talk, but pretty much the same one delivered the following evening - it gave me nightmares!
+  </description>
     </item>
     
     <item>
@@ -1137,7 +1238,8 @@ Here is a great talk he delivered, explaining the concept and an implementation 
       <pubDate>Fri, 07 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/coderush/</guid>
-      <description>Watched this on wednesday - crazy how dated it all seems now, and well, it is! Dang!</description>
+      <description>Watched this on wednesday - crazy how dated it all seems now, and well, it is! Dang!
+  </description>
     </item>
     
     <item>
@@ -1147,7 +1249,7 @@ Here is a great talk he delivered, explaining the concept and an implementation 
       
       <guid>http://theb0ardside.com/bitchin-mac-128/</guid>
       <description>yow, 30 years old &amp;ndash;
-also check Apple&amp;rsquo;s own Mac 30 video</description>
+   also check Apple&amp;rsquo;s own Mac 30 video</description>
     </item>
     
     <item>
@@ -1156,7 +1258,8 @@ also check Apple&amp;rsquo;s own Mac 30 video</description>
       <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/codetraxx/</guid>
-      <description>Oh yeah, that Codetraxx project I mentioned, which me and Tack have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..</description>
+      <description>Oh yeah, that Codetraxx project I mentioned, which me and Tack have been working on - here&amp;rsquo;s a recording made using it. All samples included in the repo too..
+ </description>
     </item>
     
     <item>
@@ -1166,7 +1269,7 @@ also check Apple&amp;rsquo;s own Mac 30 video</description>
       
       <guid>http://theb0ardside.com/joshua-davis-beyond-play/</guid>
       <description>Wow. just wow&amp;hellip;
-This was following me and Tack&amp;rsquo;s Codetraxx project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while. Another friend of mine, Matt Spendlove, had told me about The Nature Of Code which i&amp;rsquo;ve been wanting to read, so I suggested we play with Processing - seems awesome already!</description>
+   [Tack](https://twitter.com/tackyy) turned me onto this guy the other day - i love him! Artist/Skater/Hacker - whats not to love?! This was following me and Tack&amp;rsquo;s Codetraxx project - which is working - we&amp;rsquo;re making music and synchronized via RabbitMQ as we set out to do - however we&amp;rsquo;ve hit a bit of a wall with the algorithmic math behind musical composition, so we&amp;rsquo;ve decided to focus on some mathematical hack nights for a while.</description>
     </item>
     
     <item>
@@ -1176,10 +1279,11 @@ This was following me and Tack&amp;rsquo;s Codetraxx project - which is working 
       
       <guid>http://theb0ardside.com/cardboard-computer-scientists/</guid>
       <description>A wee slideshow of my Cardb0ard Computer Scientists project..
-Previous// Next// or better yet - use your left and right arrow-&amp;gt; keys //
+Previous // Next // or better yet - use your left and right arrow-&amp;gt; keys //
+
 These are all drawn on scraps of cardboard i had around, most are either from frozen pizzas or record mailers!
 So far i have:
-Charles BabbageAda LovelaceAlan TuringJohn Von Neumann // not picturedClaude ShannonKonrad ZuseVannevar BushDoug EngelbartJohn McCarthyDennis Ritchie ken ThompsonTed NelsonSeymour Cray(Using the (Mousetrap)[http://craig.is/killing/mice] library)</description>
+Charles Babbage Ada Lovelace Alan Turing John Von Neumann // not pictured Claude Shannon Konrad Zuse Vannevar Bush Doug Engelbart John McCarthy Dennis Ritchie  ken Thompson Ted Nelson Seymour Cray</description>
     </item>
     
     <item>
@@ -1188,7 +1292,8 @@ Charles BabbageAda LovelaceAlan TuringJohn Von Neumann // not picturedClaude Sha
       <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/streetpunk/</guid>
-      <description>Oh man, just found this Hunx album from 2013 - i had seen this following video for Bad Skin but forgot about the album when it came out - this video is so disgusting and totally my anthem!</description>
+      <description>Oh man, just found this Hunx album from 2013 - i had seen this following video for Bad Skin but forgot about the album when it came out - this video is so disgusting and totally my anthem!
+  </description>
     </item>
     
     <item>
@@ -1198,7 +1303,7 @@ Charles BabbageAda LovelaceAlan TuringJohn Von Neumann // not picturedClaude Sha
       
       <guid>http://theb0ardside.com/acoustic-levitation/</guid>
       <description>more future arrivals now..
-Read more here</description>
+  Read more here</description>
     </item>
     
     <item>
@@ -1207,7 +1312,8 @@ Read more here</description>
       <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vim-fun-with-conway/</guid>
-      <description>Get yer Vim freak on with Damian Conway! Super fun talk..</description>
+      <description>Get yer Vim freak on with Damian Conway! Super fun talk..
+  </description>
     </item>
     
     <item>
@@ -1217,7 +1323,7 @@ Read more here</description>
       
       <guid>http://theb0ardside.com/clientside-mvc-and-routes/</guid>
       <description>Tom Dale, author of Ember.js talking about the symmetry between MVC and restful routes..
-// found via https://twitter.com/littlecalculist/status/418800989634695168</description>
+  // found via https://twitter.com/littlecalculist/status/418800989634695168</description>
     </item>
     
     <item>
@@ -1235,7 +1341,8 @@ Read more here</description>
       <pubDate>Sun, 29 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/computerchess/</guid>
-      <description>This movie is new up on Netflix, from Mumblecore director Andrew Bujalski - really good!</description>
+      <description>This movie is new up on Netflix, from Mumblecore director Andrew Bujalski - really good!
+  </description>
     </item>
     
     <item>
@@ -1244,7 +1351,8 @@ Read more here</description>
       <pubDate>Tue, 24 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/unix70suk/</guid>
-      <description>Lovely wee video talking about the arrival of UNIX into 70&amp;rsquo;s UK Academia &amp;hellip;</description>
+      <description>Lovely wee video talking about the arrival of UNIX into 70&amp;rsquo;s UK Academia &amp;hellip;
+  </description>
     </item>
     
     <item>
@@ -1253,7 +1361,7 @@ Read more here</description>
       <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/cardboardken/</guid>
-      <description></description>
+      <description>Latest is my series of Cardboard Computer Scientists is Ken Thompson, badman of Unix hisself.. </description>
     </item>
     
     <item>
@@ -1274,13 +1382,11 @@ Beyond simply CPU counters and stack trace, they also tie in other JVM flags whi
       <guid>http://theb0ardside.com/toprecords2013/</guid>
       <description>Was hard to cut two out from this selection, so here&amp;rsquo;s my top 12 for the past year, as usual a bit of a mix between the rock n roll and the electronic noise..
 The Pastels &amp;ndash; Slow Summit
-The Spook School &amp;ndash; Dress Up
-Radiator Hospital &amp;ndash; Something Wild
-Zomby &amp;ndash; With Love
-Wyatt Blair &amp;ndash; Banana Cream Dream
-Four Tet &amp;ndash; Beautiful Rewind
-Basic House &amp;ndash; Oats
-Patricia &amp;ndash; Body Issues</description>
+ The Spook School &amp;ndash; Dress Up
+ Radiator Hospital &amp;ndash; Something Wild
+ Zomby &amp;ndash; With Love
+ Wyatt Blair &amp;ndash; Banana Cream Dream
+ Four Tet &amp;ndash; Beautiful Rewind</description>
     </item>
     
     <item>
@@ -1289,7 +1395,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/consumerdrones/</guid>
-      <description>oh wow&amp;hellip;</description>
+      <description>oh wow&amp;hellip;
+ </description>
     </item>
     
     <item>
@@ -1316,7 +1423,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Fri, 25 Oct 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/substackbeepboop/</guid>
-      <description></description>
+      <description>dang, this is awesome::
+
+github code here</description>
     </item>
     
     <item>
@@ -1325,7 +1434,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/apollocomputer/</guid>
-      <description></description>
+      <description>awesome sauce.</description>
     </item>
     
     <item>
@@ -1334,7 +1443,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/bretvictorfutureofprogramming/</guid>
-      <description></description>
+      <description>great stuff!</description>
     </item>
     
     <item>
@@ -1343,7 +1452,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Sun, 11 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/computersforcynics/</guid>
-      <description></description>
+      <description>hah, nice counterpart to all the recent good, but hyperbole books i&#39;ve been reading (What The Dormouse Said, and Dealers Of Lightning) -</description>
     </item>
     
     <item>
@@ -1352,7 +1461,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/stevesoudersoncacheing/</guid>
-      <description></description>
+      <description>from january of this year, HTML5DevConf ::</description>
     </item>
     
     <item>
@@ -1361,7 +1470,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Fri, 21 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/oldschool/</guid>
-      <description></description>
+      <description>(( via google ))</description>
     </item>
     
     <item>
@@ -1370,7 +1479,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/brendangregglinuxperformance/</guid>
-      <description></description>
+      <description>The always interesting Brendan Greg &amp;#8212;</description>
     </item>
     
     <item>
@@ -1379,7 +1488,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/searchnotasolvedproblem/</guid>
-      <description></description>
+      <description>Very good talk from Hilary Mason from a recent Lucene Revolution keynote.</description>
     </item>
     
     <item>
@@ -1388,7 +1497,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/berkshelfthemissingpiece/</guid>
-      <description></description>
+      <description>If you&#39;ve been following my past few posts, you&#39;ve seen i was investigating how best to integrate the plethora of Chef testing tools that&#39;ve been coming out &amp;#8212; foodcritic, chefspec, test-kitchen, mini-test &amp;#8212; and although not testing tools per se, Berkshelf and Vagrant are the other pieces of the puzzle&amp;#8230; but how to fit them all together? What is the directory structure for keeping your Berkfile - at the top of the repo?</description>
     </item>
     
     <item>
@@ -1397,7 +1506,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 27 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/mocheftesting/</guid>
-      <description></description>
+      <description>Following on from my last post about Test Driven Chef, this latest Food Fight show is a great roundup of the current testing tools landscape -</description>
     </item>
     
     <item>
@@ -1406,7 +1515,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 15 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/testdrivenchef/</guid>
-      <description></description>
+      <description>I&#39;m looking to start using Test-Kitchen and Berkshelf, and basically trying to get my head round setting up a proper test driven Chef setup.
+I found this video from last year to be quite a good introduction to some of the setup -</description>
     </item>
     
     <item>
@@ -1415,7 +1525,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Sat, 11 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/netflixoss/</guid>
-      <description></description>
+      <description>Found this to be a particularly good episode of The Food Fight show with Jeremy Edberg and Adrian Cockcroft talking about the Netflix tools and architecture:</description>
     </item>
     
     <item>
@@ -1424,7 +1534,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jedbergtalkatairbnb/</guid>
-      <description></description>
+      <description>I was along at this talk last year, and just now found it online - was one of the most informative talks i&#39;ve been to, learned loads from it -</description>
     </item>
     
     <item>
@@ -1433,7 +1543,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/postgresqlonaws/</guid>
-      <description></description>
+      <description>Excellent video specifically for PostgreSQL on AWS, however the principles are pretty universal information for running anything on AWS -</description>
     </item>
     
     <item>
@@ -1442,7 +1552,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Tue, 09 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/grizzled/</guid>
-      <description></description>
+      <description>yow, the latest OpenStack release is looking rather slick..</description>
     </item>
     
     <item>
@@ -1451,7 +1561,12 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/genekimandetsy/</guid>
-      <description></description>
+      <description>*tumbleweeds rolling through*
+sorry, not being finding much video content to post recently - tho heres a couple of half decent ones.
+Gene Kim at DevOps Days London on Maximizing Flow -
+
+( I just recently read his Phoenix Projects book which was way more enjoyable than it should have been!)
+And a corny but well done April Fools video from John Allspaw at Etsy -</description>
     </item>
     
     <item>
@@ -1460,7 +1575,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Tue, 12 Feb 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/pbsssiliconvalley/</guid>
-      <description></description>
+      <description>Really enjoying this doc:
+Watch Silicon Valley Chapter 1 on PBS. See more from American Experience.
+Full episode available on the PBS website</description>
     </item>
     
     <item>
@@ -1469,7 +1586,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 17 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/etsyscalingvidfrom2011/</guid>
-      <description></description>
+      <description>All well accepted practices by now, but still a good watch.</description>
     </item>
     
     <item>
@@ -1478,7 +1595,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/immutability/</guid>
-      <description></description>
+      <description>Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :
+
+via igrigorik&#39;s twitter</description>
     </item>
     
     <item>
@@ -1487,7 +1606,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jvmandgcperformancetuning/</guid>
-      <description></description>
+      <description>Been working a lot of JVM GC performance problems of late, so this video interview my friend Johan turned me on has some great info -Attila Szegedi on JVM and GC Performance Tuning at Twitter.
+http://www.infoq.com/interviews/szegedi-performance-tuning</description>
     </item>
     
     <item>
@@ -1496,7 +1616,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Sun, 16 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/usenixlisa12/</guid>
-      <description></description>
+      <description>Just got back from the Usenix/Lisa 12 conference in San Diego, and had a great time, super inspiring talks and content.
+Highlight of the conference for me was Brendan Gregg speaking on Performance Analysis Methodologies - most of his talk was based upon a paper he just published in ACM - Thinking Methodically About Performance.
+The talks haven&#39;t yet been published on the Usenix website, but Brendan&#39;s blog has a ton of great looking content and older talks including this one on Visualisations for Performance Analysis</description>
     </item>
     
     <item>
@@ -1505,7 +1627,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 26 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/foodfightshowonchefcookbookbestpractises/</guid>
-      <description></description>
+      <description>this google+ hangout, combined with this post and all it&#39;s links, provides plenty of good discussion and ideas for Chef.</description>
     </item>
     
     <item>
@@ -1514,7 +1636,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 05 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/dontusenosql/</guid>
-      <description></description>
+      <description>enjoyed this talk by Mathias Meyer :</description>
     </item>
     
     <item>
@@ -1523,7 +1645,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/perconatablechecksum/</guid>
-      <description></description>
+      <description>I must admit MySQL replication is something I&#39;ve never felt too comfortable with - in most of my positions, I&#39;ve had the luxury of working with a full time DBA who would handle all database related work. In my current workplace we have three major pairs of database machines, and have been going through upgrading them all to Percona MySQL 5.5. As you&#39;d expect data integrity is of the highest importance, so discovering this Percona Table Checksum tool is a real life saver, providing an amazing tool for verifying and fixing any drift or problems with MySQL slaves.</description>
     </item>
     
     <item>
@@ -1532,7 +1654,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Sat, 22 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/shorthistoryofdevops/</guid>
-      <description></description>
+      <description>nice lil vid - i didn&#39;t know some of these details of how DevOps emerged -
+
+via http://itrevolution.com/the-history-of-devops/</description>
     </item>
     
     <item>
@@ -1541,7 +1665,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theunixway/</guid>
-      <description></description>
+      <description>Ace early Unix infomercial -</description>
     </item>
     
     <item>
@@ -1550,7 +1674,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/perlparpparp/</guid>
-      <description></description>
+      <description>I updated the IP address for both my Name Servers tonite, and was monitoring to see how quickly the new addresses were propagating. First stop was the exceptionally useful Whats My DNS
+At the host level I also wanted to track the incoming DNS queries using tcpdump. I could see them streaming into the new host, and visually you could see an obvious difference when viewing the output of the same command on the old host.</description>
     </item>
     
     <item>
@@ -1559,7 +1684,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/thecomingwarovergeneralpurposecomputing/</guid>
-      <description></description>
+      <description>I saw Cory Doctorow give this same talk a few weeks back as part of the Long Now Foundation, and would highly recommend it..</description>
     </item>
     
     <item>
@@ -1568,7 +1693,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/oldschoolmacdesignteam/</guid>
-      <description></description>
+      <description>// via OS X Daily //</description>
     </item>
     
     <item>
@@ -1577,7 +1702,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Sun, 05 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/cheflessonsfrometsy/</guid>
-      <description></description>
+      <description>really good video from this year&#39;s ChefConf::</description>
     </item>
     
     <item>
@@ -1586,7 +1711,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Tue, 31 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/sightsystems/</guid>
-      <description></description>
+      <description>cool lil 7min sci-fi short via Hacker News. As they point out in the comment section, it&#39;s very close to Charlie Brooker&#39;s Black Mirror</description>
     </item>
     
     <item>
@@ -1595,7 +1720,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/webkitandchromeinternals/</guid>
-      <description></description>
+      <description>I went along to the SF Web Performance Meetup last night, for a talk by Ilya Grigorik which was one of the best and most informative Meetups I&#39;ve been along to - lots of meaty details on how Webkit in general works, and specifically how Chrome uses it across the many platforms it runs on. The video has just been posted here - 
+Video streaming by Ustream
+Ilya starts speaking around the 12 minute mark.</description>
     </item>
     
     <item>
@@ -1604,7 +1731,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/leapmotion/</guid>
-      <description></description>
+      <description>ooh, nice. Just saw this company mentioned in the comments of an HN thread.</description>
     </item>
     
     <item>
@@ -1613,7 +1740,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/scalingatdropbox/</guid>
-      <description></description>
+      <description>I highly recommend this DevOps Weekly mail out. The latest one has a bunch of good links, and one i found especially was this &amp;#8220;Scaling lessons learned at Dropbox, part 1&amp;#8220;.</description>
     </item>
     
     <item>
@@ -1622,7 +1749,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/somefavvelocitytalks/</guid>
-      <description></description>
+      <description>Velocity was on last week, and I was following along enviously on twitter - I&#39;m making a promise to myself that I&#39;ll be along in person next year!
+Quite a few of the talks now appearing online - here&#39;s a couple I&#39;ve watched so far..</description>
     </item>
     
     <item>
@@ -1631,7 +1759,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/tcpdumppatterns/</guid>
-      <description></description>
+      <description>I use tcpdump a lot, but mostly at a reasonably high level, only really restricting the capture to host and port info, then pulling the dump back into Wireshark for nicer visualisation and easier filtering.
+A couple of months back I read Moonwalking With Einsten, which is a nice pop-science history of the importance of memory in previous societies, alongside the contemporary phenomena of competitive memory competitions. The book is great, and explains how feats of memory are achieved via the technique of memory palaces, a technique dating back to Roman times - spatial memory relationships.</description>
     </item>
     
     <item>
@@ -1640,7 +1769,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theonosendaislb10orbsystem/</guid>
-      <description></description>
+      <description>&amp;#8220;The SLB-10 is the latest generation of ORB manufactured by Ono-Sendai, utilizing state of the art EM pulse powered flotation; archive-quality audio and visual recording capabilities; fully CMYK coloured, tactile holographic capability; and guaranteed always-on connection to your personal encrypted data storage facility.
+ORBs have become so integral to our life and yet they are barely a 7 year old technology. It is worth reflecting on the brief history of these astounding devices, upon which we now rely so heavily.</description>
     </item>
     
     <item>
@@ -1649,7 +1779,10 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/aroundtheearthin200ms/</guid>
-      <description></description>
+      <description>A month or two back, i saw an interesting figure on Bram Cohen&#39;s blog:
+&amp;#8220;The speed of light in a fiber optic cable around the earth&amp;rsquo;s circumference is about 200 milliseconds.&amp;#8221;
+(from here)
+I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of those useful metrics to know. I&#39;ve referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -</description>
     </item>
     
     <item>
@@ -1658,7 +1791,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/allspawonanticipation/</guid>
-      <description></description>
+      <description>// via John&#39;s blog at Kitchen Soap //</description>
     </item>
     
     <item>
@@ -1667,7 +1800,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/21stcenturyinternet/</guid>
-      <description></description>
+      <description>via Google Blog</description>
     </item>
     
     <item>
@@ -1676,7 +1809,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Sun, 03 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vonneumannandtheinstituteforadvancedstudy/</guid>
-      <description></description>
+      <description>I&#39;ve started reading George Dyson&#39;s &amp;#8220;Turing&#39;s Cathedral&amp;#8221;, and really enjoying it - I love reading the historical context of technological progress, feels like a lot of sociological reading, filling in another of the endless jigsaw pieces of a larger all-encompassing narrative.
+Here&#39;s George Dyson doing a lecture on the material in the book :</description>
     </item>
     
     <item>
@@ -1685,7 +1819,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/anothercardboardcomputerscientistportrait/</guid>
-      <description></description>
+      <description>Seymour Cray
+The Cardboard Computer Scientists series 2012</description>
     </item>
     
     <item>
@@ -1694,7 +1829,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</guid>
-      <description></description>
+      <description>Maybe they ain&#39;t doing so well with Social, and so what if people are stupid enough to try Bing - It&#39;s visionary efforts like this that show Google still leave most other companies behind in a dust ball of mundanity&amp;#8230;
+
+(( personally, I actually think Google+ is doing fine too - its full of way more techie interesting people and content than all the FB posts by yer aunties and people you went to school with.</description>
     </item>
     
     <item>
@@ -1703,7 +1840,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/backblaze/</guid>
-      <description></description>
+      <description>the legendary Mike Hoover turned me on to Backblaze a few months back - they&#39;re a cloud storage provider, who opened up the design for their chassis and storage pod solution so you can build your own &amp;#8220;Storage Pod 2.0: a 135-terabyte, 4U server for $7,384&amp;#8243; (blog post here)</description>
     </item>
     
     <item>
@@ -1712,7 +1849,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/technologyassocietysengine/</guid>
-      <description></description>
+      <description>Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -
+A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.</description>
     </item>
     
     <item>
@@ -1721,7 +1859,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Fri, 13 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jvmtuningforvms/</guid>
-      <description></description>
+      <description>This is an excellent talk about the interaction between the various layers of memory abstraction from the a machine&#39;s physical memory down through the Hypervisor&#39;s view, to the Guest OS&#39;s and down into the JVM:
+
+// found via Marakana //</description>
     </item>
     
     <item>
@@ -1730,7 +1870,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/thenetworkedcity/</guid>
-      <description></description>
+      <description>[[ image half-inched from here]]
+I started studying Sociology a few years back with the Open University, but never managed to complete my course as I got a job here in the States and turned my study-time back towards practical technology. I did however study it long enough for it have quite a profound effect on my understanding and conceptualisation of networking, and felt especially influenced by the works of Manuel Castells and Stephen Graham.</description>
     </item>
     
     <item>
@@ -1739,7 +1880,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/therealgoogleeyed/</guid>
-      <description></description>
+      <description>ha, my friend Mat turned me on to this spoof version -</description>
     </item>
     
     <item>
@@ -1748,7 +1889,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/goinggoogleeyed/</guid>
-      <description></description>
+      <description>Ah, see, my comic is all true! :D</description>
     </item>
     
     <item>
@@ -1757,7 +1898,11 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/puppetstagesandapt/</guid>
-      <description></description>
+      <description>At work, our old code deployment strategy was basically a wrapper script doing an svn checkout and some symlinking. With our move to Puppet for config management, we also moved to using Apt packaging for our code deployment, tying them together with a line similar to :
+class foo-export {
+package { &amp;#039;foo-export&amp;#039;: ensure = latest }
+}
+So that whenever we deploy a new version of a package to our apt-repo, it can then be installed with a:</description>
     </item>
     
     <item>
@@ -1766,7 +1911,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/thebiologyofcode/</guid>
-      <description></description>
+      <description>Fabulous piece and video chat with George Dyson over at the always reliable Edge -
+A Universe Of Self-replicating Code | Conversation | Edge.</description>
     </item>
     
     <item>
@@ -1775,7 +1921,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/claudeshannonandtheclams/</guid>
-      <description></description>
+      <description>I finished reading James Gleick&#39;s The Information tonite - so good!
+Really, the central character is Claude Shannon, who I&#39;m ashamed to admit I didn&#39;t previously know much about. Had a quick search when i finished it and found this decent little 30 min documentary which gives a good overview -</description>
     </item>
     
     <item>
@@ -1784,7 +1931,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theinformation/</guid>
-      <description></description>
+      <description>I started reading James Gleick&#39;s &amp;#8220;The Information&amp;#8221; last week and haven&#39;t been able to put it down yet - so good!
+I just found this video of a talk he presented at Google last year on the book, looks ace, i&#39;ll save it for watching this evening.</description>
     </item>
     
     <item>
@@ -1793,7 +1941,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/liketreaclesolvingperlnetsftpslowtransferspeeds/</guid>
-      <description></description>
+      <description>I&#39;ve been trying to track down problems with really slow network transfer speeds between my servers and several DSPs. I knew it wasn&#39;t local I/O, as we could hit around 60Mb/s to some services, whereas the problematic ones were a sluggish 0.30Mb/s; I knew we weren&#39;t hitting our bandwidth limit, as cacti showed us daily peaks of only around 500Mb/s of our 600Mb/s line. I was working with the network engineer on the other side, running tcpdump captures while uploading a file and analysing that in Wireshark&#39;s IO Graphs - stream looked absolutely fine, no lost packets, big non-changing tcp receive windows.</description>
     </item>
     
     <item>
@@ -1802,7 +1950,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/buildingadebpackagefromaperlscript/</guid>
-      <description></description>
+      <description>I have a speedtest perl script i wrote - nothing complicated, takes a file and uploads it to a remote FTP or SFTP server, while calculating how long, then gives you a a measure of the MB/per second bandwidth between two sites.
+I want it available on a selection of machines so it can run from wherever, so I thought i&#39;d package it up as a .DEB file and stick it in our local repo.</description>
     </item>
     
     <item>
@@ -1820,7 +1969,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/appleculture/</guid>
-      <description></description>
+      <description>Quite an interesting interview with Adam Lashinsky, author of a new book &amp;#8220;Inside Apple&amp;#8221;:
+
+/* via OS X Daily */</description>
     </item>
     
     <item>
@@ -1829,7 +1980,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/amooselooseabootthishoose/</guid>
-      <description></description>
+      <description>Really enjoyed programming along with this perl Moose introduction at Linux Journal - The piece and code are nice and concise.</description>
     </item>
     
     <item>
@@ -1838,7 +1989,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robot/</guid>
-      <description></description>
+      <description>crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -
+
+// found via Laughing Squid //</description>
     </item>
     
     <item>
@@ -1847,7 +2000,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theedgequestion2012/</guid>
-      <description></description>
+      <description>The Edge just published their annual Q/A in which they pose a question and ask a group of artists, scientists, and various kinds of intellectuals for their answer. This year the question was &amp;#8220;What Is Your Favorite Deep, Elegant, Or Beautiful Explanation?&amp;#8220;
+The list of contributors stretches to 192, most of whom i can&#39;t claim to know, however three names I&#39;m particularly interested in stick out:
+Rudy Rucker on Inverse Power Laws</description>
     </item>
     
     <item>
@@ -1856,7 +2011,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 28 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity/</guid>
-      <description></description>
+      <description>found via Boing Boing, excellent 20min short from 1923 -</description>
     </item>
     
     <item>
@@ -1865,7 +2020,10 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Fri, 16 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/cpandiffscript/</guid>
-      <description></description>
+      <description>I put together a quick perl script for comparing installed CPAN modules between two hosts. Find it here.
+Quite easy to use:
+Usage: ./CompareHostCpanModules.pl login@host1 login@host2
+The script ssh&#39;s into both hosts (so it&#39;s easier if you have your ssh-keys setup) and grabs a list of installed CPAN modules and versions, then outputs the differences - it returns two lists - one of modules installed but having different versions, and another list of modules missing from the second host.</description>
     </item>
     
     <item>
@@ -1874,7 +2032,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Fri, 09 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/bankrobbermorancerf/</guid>
-      <description></description>
+      <description>hah, great (real-life) story -
+
+(( via Bruce Schneier ))</description>
     </item>
     
     <item>
@@ -1883,7 +2043,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 08 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/nextdocumentary/</guid>
-      <description></description>
+      <description>Bookmarked this video via Boing Boing last week, but only got round to watching it tonite - pretty interesting little 20 minute documentary series called &amp;#8220;Entrepreneurs&amp;#8221; doing an episode on Steve Jobs and NeXT back in 1985</description>
     </item>
     
     <item>
@@ -1892,7 +2052,10 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/puppetmastering/</guid>
-      <description></description>
+      <description>At my work, we&#39;re now really digging into using Puppet - no longer just as a TechOps tools, but for our whole development cycle.
+The hardest thing I&#39;ve come across so far is in deploying Perl CPAN packages, although i have been using manifest/recipe i found here -
+http://www.windley.com/archives/2008/10/using_puppet_and_cpan.shtml
+It had been working quite well, but now as we&#39;ve been adding more and more to Puppet, I started seeing an error message:</description>
     </item>
     
     <item>
@@ -1901,7 +2064,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 14 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/bringthenoyce/</guid>
-      <description></description>
+      <description>yow, sorry, that title&#39;s a really bad pun! 
+So two things here - i started to watch this video with Robert Noyce talking about the development of the IC, but in the introduction and in his opening, they talk about an article written by Tom Wolfe about Noyce - now, Tom Wolfe was a massive influence on my teenage self, or at least one of his books, The Electric Kool Aid Acid Test, which a friends older brother passed on to me when i was fifteen.</description>
     </item>
     
     <item>
@@ -1910,7 +2074,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 27 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/themysteriousmegacli/</guid>
-      <description></description>
+      <description>I&#39;ve inherited some Production Sun Fire X4470 boxes, which upon first look appeared to only have 2 x 140GB drives. Checking the purchase orders however, revealed that they should in fact have 4 x 140GB drives, a fact confirmed by &amp;#8220;dmesg |grep scsi&amp;#8221;.
+These Sun Fire servers come with an internal 6Gb SAS PCIe RAID HBA which are managed via the LSI MegaRAID Management Suite. Unfortunately, the LSI website is a nightmare to navigate and has been re-arranged with no-redirects, requires a login and in general makes it very hard to find and download the MegaCLI utility.</description>
     </item>
     
     <item>
@@ -1919,7 +2084,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/genxen/</guid>
-      <description></description>
+      <description>I&#39;ve been working pretty extensively with Xen and Puppet in my new job, really loving it! I&#39;ve been creating a whole load of Xen hosts, most of which are cloned from an initial image I built using Xen-tools. I&#39;ve just finished a script which is over on my github page, which basically automates what was previously a manual process.
+Basically, it copies your existing disk.img and swap.img, generates a new xen.</description>
     </item>
     
     <item>
@@ -1928,7 +2094,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/physicalinternet/</guid>
-      <description></description>
+      <description>Ever since reading Neal Stephenson&#39;s Mother Earth Mother Board article, I&#39;ve been quite fascinated with the undersea cables which physically connect the land masses of the world. This map, linked above is an amazing view into this part of the Internet&#39;s current infrastructure.
+(via flowingdata.com)</description>
     </item>
     
     <item>
@@ -1937,7 +2104,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 05 Sep 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/iperfandvirtualisationandcloudsandclouds/</guid>
-      <description></description>
+      <description>One of the tools i&#39;ve been using a lot of recently is iperf - a really simple and sleek tool for measuring bandwidth between two hosts - rather than write up a full tutorial myself, i&#39;ll simply point you at this one by Jayson Broughton
+more soon!</description>
     </item>
     
     <item>
@@ -1946,7 +2114,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 10 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/internets1962tillnow/</guid>
-      <description></description>
+      <description>Excellent timeline of the Internet&amp;#8216;s evolution from 1962 till the present day..</description>
     </item>
     
     <item>
@@ -1955,7 +2123,10 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vagrantandchefsetup/</guid>
-      <description></description>
+      <description>I&#39;ve been reading through ThoughtWorks&#39; latest &amp;#8216;technology radar&amp;#8216; which led me to look up Vagrant, one of the tools they list as worth exploring.
+Vagrant is a framework for building and deploying Virtual Machine environments, using Oracle VirtualBox for the actual VMs and utilizing Chef for configuration management. Watching through this intro video:
+http://vimeo.com/9976342
+i was quite intrigued as it is very similar to what i was looking to achieve earlier when i was experimenting with installing Xen and configuring with Puppet.</description>
     </item>
     
     <item>
@@ -1964,7 +2135,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Thu, 04 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/advancednetworkreconnaissancewithnmap2006/</guid>
-      <description></description>
+      <description>yow, this is some hardcore indepth port scanning shizzle -</description>
     </item>
     
     <item>
@@ -1973,7 +2144,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/multicoreufos/</guid>
-      <description></description>
+      <description>Interesting article on GigaOm this morning about Facebook benchmarking a 64-core chip from Tilera. The X86 processor architecture has been in a dominant for so many years, not based upon any inherent sophistication, but more based upon chance and circumstance (see this vid for more details around the 48min mark), so it does feel about time for a new advancement in hardware architecture. Be interesting to watch this space and see what develops.</description>
     </item>
     
     <item>
@@ -1982,7 +2153,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
-      <description></description>
+      <description>Watch it here</description>
     </item>
     
     <item>
@@ -1991,7 +2162,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/realtimestats/</guid>
-      <description></description>
+      <description>Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB&#39;s new real-time analytics system: Watch live streaming video from facebookeducation at livestream.comIn the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::
+Rainbird: Realtime Analytics at Twitter (Strata 2011) View more presentations from Kevin Weil 
+(hello Johan!)</description>
     </item>
     
     <item>
@@ -2000,7 +2173,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Sat, 09 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/mohistorylessons/</guid>
-      <description></description>
+      <description>wow, been finding so many good online video talks. I&#39;ve been genning up on node.js, which has led me into studying more javascript, and this latest lecture, is a massive five part series of talks about javascript. It&#39;s the first one which really stands out, and which fits in with the theme of historical lectures i&#39;ve been posting, covering the history of computing from the Jacquard Loom through the evolution of processors and programming languages up to Javascript.</description>
     </item>
     
     <item>
@@ -2009,7 +2182,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/secretmilitaryhistoryofsiliconvalley/</guid>
-      <description></description>
+      <description>This video ties in so well with a lot of other recent histories - from Adam Curtis&#39; &amp;#8220;All Watched Over By Machines Of Loving Grave&amp;#8221; to the Ken Holling&#39;s book I&#39;m in the middle of reading - &amp;#8220;Welcome To Mars&amp;#8221;.
+Video found via Boing Boing</description>
     </item>
     
     <item>
@@ -2018,7 +2192,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Tue, 28 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/thegeneralandlogicaltheoryofautomata/</guid>
-      <description></description>
+      <description>After hearing Ken Hollings read an excerpt from Welcome To Mars at the Atom Town screening last week, I borrowed a copy at the weekend and began reading it. I&#39;m only 47 pages in so far, but it&#39;s already amazing. One of the things referenced in it was John Von Neumann&#39;s 1948 paper &amp;#8216;The General and Logical Theory Of Automata&#39; which &amp;#8220;enlarges upon Turing&#39;s idea of a Universal Machine by proposing a tape-driven, self-producing &amp;#8216;automaton whose output is other automata&#39;&amp;#8221; - A swift google search turns up a pdf of the published paper here</description>
     </item>
     
     <item>
@@ -2027,7 +2201,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Fri, 24 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/nodejs/</guid>
-      <description></description>
+      <description>I keep coming across mentions of node.js, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks.</description>
     </item>
     
     <item>
@@ -2036,7 +2210,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Fri, 24 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/zettabytez/</guid>
-      <description></description>
+      <description>yow!
+from cisco blog</description>
     </item>
     
     <item>
@@ -2054,7 +2229,9 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Sat, 11 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/80shairunixz/</guid>
-      <description></description>
+      <description>History of BSD - this is awesome:
+
+Brief history of NCP -&amp;gt; IP/TCP transition, also awesome:</description>
     </item>
     
     <item>
@@ -2063,7 +2240,8 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/recordstorebot/</guid>
-      <description></description>
+      <description>First draft of my Record Store Bot is live over on Github - basically tying a Chatbot::Eliza style interface to Last.fm web services for an interactive (hopefully amusing) music recommendation bot.
+Works surprisingly well - although only has one method at the moment..</description>
     </item>
     
     <item>
@@ -2072,7 +2250,7 @@ Patricia &amp;ndash; Body Issues</description>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/timetravellingwithunix/</guid>
-      <description></description>
+      <description>I discovered Unix back in 1998. At the time i was a lowly Windows desktop support engineer when i started dabbling with Red Hat Linux v 4.2. Compared to the process of fixing Windows 3.1 systems ( i.e. reinstall drivers and reboot - if that doesn&amp;rsquo;t work, reinstall OS and drivers - repeat until it does work), playing with Linux was a joy of knowledge. Every part of the installation process was a problem hiding a wormhole of required knowledge.</description>
     </item>
     
   </channel>

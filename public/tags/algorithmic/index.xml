@@ -13,7 +13,8 @@
       
       <guid>http://theb0ardside.com/algorave-guardian-article/</guid>
       <description>Nice piece from the Guardian showcasing the Algorave scene in Sheffield.
-Big up Alex McLean!</description>
+Big up Alex McLean!
+  </description>
     </item>
     
     <item>
@@ -23,7 +24,7 @@ Big up Alex McLean!</description>
       
       <guid>http://theb0ardside.com/algorithmicsoundperl/</guid>
       <description>Super nice demo of algorithmic sound generation with Perl and Portaudio&amp;hellip;
-from here</description>
+  from here</description>
     </item>
     
   </channel>

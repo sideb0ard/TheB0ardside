@@ -12,7 +12,11 @@
       <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/puppetstagesandapt/</guid>
-      <description></description>
+      <description>At work, our old code deployment strategy was basically a wrapper script doing an svn checkout and some symlinking. With our move to Puppet for config management, we also moved to using Apt packaging for our code deployment, tying them together with a line similar to :
+class foo-export {
+package { &amp;#039;foo-export&amp;#039;: ensure = latest }
+}
+So that whenever we deploy a new version of a package to our apt-repo, it can then be installed with a:</description>
     </item>
     
     <item>
@@ -21,7 +25,9 @@
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robot/</guid>
-      <description></description>
+      <description>crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -
+
+// found via Laughing Squid //</description>
     </item>
     
     <item>
@@ -30,7 +36,10 @@
       <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/puppetmastering/</guid>
-      <description></description>
+      <description>At my work, we&#39;re now really digging into using Puppet - no longer just as a TechOps tools, but for our whole development cycle.
+The hardest thing I&#39;ve come across so far is in deploying Perl CPAN packages, although i have been using manifest/recipe i found here -
+http://www.windley.com/archives/2008/10/using_puppet_and_cpan.shtml
+It had been working quite well, but now as we&#39;ve been adding more and more to Puppet, I started seeing an error message:</description>
     </item>
     
   </channel>

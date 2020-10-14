@@ -12,7 +12,8 @@
       <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/rich-code-tiny-computers/</guid>
-      <description>JD from work turned me on to this awesome CppCon talk by Jason Turner - in it he builds a simple commodore64 game using modern C++17 features, and an astounding role for Matt Godbolt&amp;rsquo;s (what a name!) Compiler Explorer</description>
+      <description>JD from work turned me on to this awesome CppCon talk by Jason Turner - in it he builds a simple commodore64 game using modern C++17 features, and an astounding role for Matt Godbolt&amp;rsquo;s (what a name!) Compiler Explorer
+  </description>
     </item>
     
     <item>
@@ -31,7 +32,8 @@ Coincidentally, I just came across this decent talk from Joel Spolsky, which if 
       <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/ashenzjen-wired/</guid>
-      <description>Really great wee short from Wired.com about how Shenzhen became the powerhouse it is now..</description>
+      <description>Really great wee short from Wired.com about how Shenzhen became the powerhouse it is now..
+  </description>
     </item>
     
     <item>
@@ -40,7 +42,8 @@ Coincidentally, I just came across this decent talk from Joel Spolsky, which if 
       <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/hashicorp/</guid>
-      <description>Oh man, this talk is nuts - Mitchell Hashimoto introducing Terraform and Consul together..</description>
+      <description>Oh man, this talk is nuts - Mitchell Hashimoto introducing Terraform and Consul together..
+  </description>
     </item>
     
     <item>
@@ -49,7 +52,8 @@ Coincidentally, I just came across this decent talk from Joel Spolsky, which if 
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/docker-filesystems/</guid>
-      <description>Super nice quick overview of the importance of Copy-On-Write filesystems to Docker, going into detail of the benefits and downsides to each of the CoW options - AuFS, BTRFS, ZFS, Overlayfs, Device Mapper - great stuff!</description>
+      <description>Super nice quick overview of the importance of Copy-On-Write filesystems to Docker, going into detail of the benefits and downsides to each of the CoW options - AuFS, BTRFS, ZFS, Overlayfs, Device Mapper - great stuff!
+  </description>
     </item>
     
     <item>
@@ -58,7 +62,8 @@ Coincidentally, I just came across this decent talk from Joel Spolsky, which if 
       <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/coreosfestcloser/</guid>
-      <description>This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..</description>
+      <description>This was the excellent closing talk to the recent CoreOS Fest, Kelsey Hightower walks through differing approaches to deployment, from configuration management to container scheduling, via Kubernetes..
+  </description>
     </item>
     
     <item>
@@ -67,7 +72,8 @@ Coincidentally, I just came across this decent talk from Joel Spolsky, which if 
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/boston-dynamics-walking-robots/</guid>
-      <description>dang!! Boston Dynamics four legged robots are amazeballs:</description>
+      <description>dang!! Boston Dynamics four legged robots are amazeballs:
+  </description>
     </item>
     
     <item>
@@ -76,7 +82,8 @@ Coincidentally, I just came across this decent talk from Joel Spolsky, which if 
       <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vent-cerf-greyglers/</guid>
-      <description>Vint Cerf,the Don..</description>
+      <description>Vint Cerf,the Don..
+  </description>
     </item>
     
     <item>
@@ -86,7 +93,7 @@ Coincidentally, I just came across this decent talk from Joel Spolsky, which if 
       
       <guid>http://theb0ardside.com/joschabach-ai/</guid>
       <description>Hugely compelling talk by Joscha Bach covering history and possible futures of AI..
-Found here</description>
+  Found here</description>
     </item>
     
     <item>
@@ -105,7 +112,7 @@ Found here</description>
       
       <guid>http://theb0ardside.com/containers-at-google/</guid>
       <description>Eric Brewer&amp;rsquo;s keynote from Dockercon14 -
-Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
+  Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
     </item>
     
     <item>
@@ -114,7 +121,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
-      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..</description>
+      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..
+  </description>
     </item>
     
     <item>
@@ -123,7 +131,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/brandoncoreos/</guid>
-      <description>Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::</description>
+      <description>Excellent interview on Linux Action Show with Brandon Philips, lots of great info on understanding and running CoreOS ::
+  </description>
     </item>
     
     <item>
@@ -132,7 +141,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robpike-gophercon-2014/</guid>
-      <description>Awesome, awesome talk from Rob Pike, the keynote for GopherCon 2014, some old Unix/C history and lots of details of Go development &amp;ndash;</description>
+      <description>Awesome, awesome talk from Rob Pike, the keynote for GopherCon 2014, some old Unix/C history and lots of details of Go development &amp;ndash;
+  </description>
     </item>
     
     <item>
@@ -141,7 +151,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/jamesgoslingrobots/</guid>
-      <description>Oh man, this is just ace!</description>
+      <description>Oh man, this is just ace!
+  </description>
     </item>
     
     <item>
@@ -151,7 +162,7 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       
       <guid>http://theb0ardside.com/acoustic-levitation/</guid>
       <description>more future arrivals now..
-Read more here</description>
+  Read more here</description>
     </item>
     
     <item>
@@ -160,7 +171,8 @@ Read more here</description>
       <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/consumerdrones/</guid>
-      <description>oh wow&amp;hellip;</description>
+      <description>oh wow&amp;hellip;
+ </description>
     </item>
     
     <item>
@@ -169,7 +181,7 @@ Read more here</description>
       <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/bretvictorfutureofprogramming/</guid>
-      <description></description>
+      <description>great stuff!</description>
     </item>
     
     <item>
@@ -178,7 +190,9 @@ Read more here</description>
       <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/immutability/</guid>
-      <description></description>
+      <description>Excellent talk from Pat Helland, &amp;#8220;Immutability Changes Everything&amp;#8221; :
+
+via igrigorik&#39;s twitter</description>
     </item>
     
     <item>
@@ -187,7 +201,7 @@ Read more here</description>
       <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/thecomingwarovergeneralpurposecomputing/</guid>
-      <description></description>
+      <description>I saw Cory Doctorow give this same talk a few weeks back as part of the Long Now Foundation, and would highly recommend it..</description>
     </item>
     
     <item>
@@ -196,7 +210,7 @@ Read more here</description>
       <pubDate>Tue, 31 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/sightsystems/</guid>
-      <description></description>
+      <description>cool lil 7min sci-fi short via Hacker News. As they point out in the comment section, it&#39;s very close to Charlie Brooker&#39;s Black Mirror</description>
     </item>
     
     <item>
@@ -205,7 +219,7 @@ Read more here</description>
       <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/leapmotion/</guid>
-      <description></description>
+      <description>ooh, nice. Just saw this company mentioned in the comments of an HN thread.</description>
     </item>
     
     <item>
@@ -214,7 +228,8 @@ Read more here</description>
       <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theonosendaislb10orbsystem/</guid>
-      <description></description>
+      <description>&amp;#8220;The SLB-10 is the latest generation of ORB manufactured by Ono-Sendai, utilizing state of the art EM pulse powered flotation; archive-quality audio and visual recording capabilities; fully CMYK coloured, tactile holographic capability; and guaranteed always-on connection to your personal encrypted data storage facility.
+ORBs have become so integral to our life and yet they are barely a 7 year old technology. It is worth reflecting on the brief history of these astounding devices, upon which we now rely so heavily.</description>
     </item>
     
     <item>
@@ -223,7 +238,7 @@ Read more here</description>
       <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/21stcenturyinternet/</guid>
-      <description></description>
+      <description>via Google Blog</description>
     </item>
     
     <item>
@@ -232,7 +247,9 @@ Read more here</description>
       <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/hitchhikersguidetothegoogleverse/</guid>
-      <description></description>
+      <description>Maybe they ain&#39;t doing so well with Social, and so what if people are stupid enough to try Bing - It&#39;s visionary efforts like this that show Google still leave most other companies behind in a dust ball of mundanity&amp;#8230;
+
+(( personally, I actually think Google+ is doing fine too - its full of way more techie interesting people and content than all the FB posts by yer aunties and people you went to school with.</description>
     </item>
     
     <item>
@@ -241,7 +258,8 @@ Read more here</description>
       <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/technologyassocietysengine/</guid>
-      <description></description>
+      <description>Unfortunately I forget where I found this link - Hacker News? The Edge Newsletter? I dunno, but it&#39;s a pretty interesting one -
+A debate between an MIT professor, Erik Brynjolfsson, and an Economist, Tyler Cowen, about the the role of technology in driving economic growth. My views side with the MIT professor, as does most of the audience in the debate. I won&#39;t repeat any of the arguments made in the debate, but what I will add is that the unequal distribution of wealth we see around today is not a symptom of lack of technological growth, it is purely down to good old fashioned political manipulation and deep rooted traditions of cronyism, a tradition thousands of years old.</description>
     </item>
     
     <item>
@@ -250,7 +268,8 @@ Read more here</description>
       <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/thenetworkedcity/</guid>
-      <description></description>
+      <description>[[ image half-inched from here]]
+I started studying Sociology a few years back with the Open University, but never managed to complete my course as I got a job here in the States and turned my study-time back towards practical technology. I did however study it long enough for it have quite a profound effect on my understanding and conceptualisation of networking, and felt especially influenced by the works of Manuel Castells and Stephen Graham.</description>
     </item>
     
     <item>
@@ -259,7 +278,7 @@ Read more here</description>
       <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/therealgoogleeyed/</guid>
-      <description></description>
+      <description>ha, my friend Mat turned me on to this spoof version -</description>
     </item>
     
     <item>
@@ -268,7 +287,7 @@ Read more here</description>
       <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/goinggoogleeyed/</guid>
-      <description></description>
+      <description>Ah, see, my comic is all true! :D</description>
     </item>
     
     <item>
@@ -277,7 +296,8 @@ Read more here</description>
       <pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/thebiologyofcode/</guid>
-      <description></description>
+      <description>Fabulous piece and video chat with George Dyson over at the always reliable Edge -
+A Universe Of Self-replicating Code | Conversation | Edge.</description>
     </item>
     
     <item>
@@ -295,7 +315,9 @@ Read more here</description>
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/robot/</guid>
-      <description></description>
+      <description>crazy short film Jim Henson did for the Bell Business Communications Seminar back in 1963 -
+
+// found via Laughing Squid //</description>
     </item>
     
     <item>
@@ -304,7 +326,9 @@ Read more here</description>
       <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/theedgequestion2012/</guid>
-      <description></description>
+      <description>The Edge just published their annual Q/A in which they pose a question and ask a group of artists, scientists, and various kinds of intellectuals for their answer. This year the question was &amp;#8220;What Is Your Favorite Deep, Elegant, Or Beautiful Explanation?&amp;#8220;
+The list of contributors stretches to 192, most of whom i can&#39;t claim to know, however three names I&#39;m particularly interested in stick out:
+Rudy Rucker on Inverse Power Laws</description>
     </item>
     
     <item>
@@ -313,7 +337,7 @@ Read more here</description>
       <pubDate>Wed, 28 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/1923videoofeinsteinstheoryofrelativity/</guid>
-      <description></description>
+      <description>found via Boing Boing, excellent 20min short from 1923 -</description>
     </item>
     
     <item>
@@ -322,7 +346,8 @@ Read more here</description>
       <pubDate>Mon, 05 Sep 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/iperfandvirtualisationandcloudsandclouds/</guid>
-      <description></description>
+      <description>One of the tools i&#39;ve been using a lot of recently is iperf - a really simple and sleek tool for measuring bandwidth between two hosts - rather than write up a full tutorial myself, i&#39;ll simply point you at this one by Jayson Broughton
+more soon!</description>
     </item>
     
     <item>
@@ -331,7 +356,10 @@ Read more here</description>
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vagrantandchefsetup/</guid>
-      <description></description>
+      <description>I&#39;ve been reading through ThoughtWorks&#39; latest &amp;#8216;technology radar&amp;#8216; which led me to look up Vagrant, one of the tools they list as worth exploring.
+Vagrant is a framework for building and deploying Virtual Machine environments, using Oracle VirtualBox for the actual VMs and utilizing Chef for configuration management. Watching through this intro video:
+http://vimeo.com/9976342
+i was quite intrigued as it is very similar to what i was looking to achieve earlier when i was experimenting with installing Xen and configuring with Puppet.</description>
     </item>
     
     <item>
@@ -340,7 +368,7 @@ Read more here</description>
       <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/themotherofalldemos1968/</guid>
-      <description></description>
+      <description>Watch it here</description>
     </item>
     
     <item>
@@ -349,7 +377,9 @@ Read more here</description>
       <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/realtimestats/</guid>
-      <description></description>
+      <description>Found this Facebook engineering video quite fascinating, a nicely detailed platform overview of FB&#39;s new real-time analytics system: Watch live streaming video from facebookeducation at livestream.comIn the comment section, someone posted a link to a somewhat similar presentation from Twitter about their real-time solution::
+Rainbird: Realtime Analytics at Twitter (Strata 2011) View more presentations from Kevin Weil 
+(hello Johan!)</description>
     </item>
     
     <item>
@@ -358,7 +388,7 @@ Read more here</description>
       <pubDate>Fri, 24 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/nodejs/</guid>
-      <description></description>
+      <description>I keep coming across mentions of node.js, but wasn&#39;t sure what it was. This morning I&#39;ve been watching some tutorials and reading up a little, and from what I understand it&#39;s basically a network server framework built on top of Google&#39;s V8 JavaScript engine, really an abstraction for socket programming. It&#39;s main advantage is speed and scalability, due to it being based on an event driven I/O model, rather than threaded, like most other languages or frameworks.</description>
     </item>
     
     <item>
@@ -367,7 +397,8 @@ Read more here</description>
       <pubDate>Fri, 24 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/zettabytez/</guid>
-      <description></description>
+      <description>yow!
+from cisco blog</description>
     </item>
     
     <item>
@@ -376,7 +407,8 @@ Read more here</description>
       <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/recordstorebot/</guid>
-      <description></description>
+      <description>First draft of my Record Store Bot is live over on Github - basically tying a Chatbot::Eliza style interface to Last.fm web services for an interactive (hopefully amusing) music recommendation bot.
+Works surprisingly well - although only has one method at the moment..</description>
     </item>
     
   </channel>

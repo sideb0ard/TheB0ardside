@@ -12,7 +12,8 @@
       <pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/tcpdumppatterns/</guid>
-      <description></description>
+      <description>I use tcpdump a lot, but mostly at a reasonably high level, only really restricting the capture to host and port info, then pulling the dump back into Wireshark for nicer visualisation and easier filtering.
+A couple of months back I read Moonwalking With Einsten, which is a nice pop-science history of the importance of memory in previous societies, alongside the contemporary phenomena of competitive memory competitions. The book is great, and explains how feats of memory are achieved via the technique of memory palaces, a technique dating back to Roman times - spatial memory relationships.</description>
     </item>
     
     <item>
@@ -21,7 +22,10 @@
       <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/aroundtheearthin200ms/</guid>
-      <description></description>
+      <description>A month or two back, i saw an interesting figure on Bram Cohen&#39;s blog:
+&amp;#8220;The speed of light in a fiber optic cable around the earth&amp;rsquo;s circumference is about 200 milliseconds.&amp;#8221;
+(from here)
+I clipped it for my ever expanding Evernote tech tips, thinking it&#39;s one of those useful metrics to know. I&#39;ve referred to it a few times now, but I always like to verify things myself, so this morning I looked up the relevant data -</description>
     </item>
     
     <item>
@@ -30,7 +34,7 @@
       <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/21stcenturyinternet/</guid>
-      <description></description>
+      <description>via Google Blog</description>
     </item>
     
     <item>
@@ -39,7 +43,8 @@
       <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/thenetworkedcity/</guid>
-      <description></description>
+      <description>[[ image half-inched from here]]
+I started studying Sociology a few years back with the Open University, but never managed to complete my course as I got a job here in the States and turned my study-time back towards practical technology. I did however study it long enough for it have quite a profound effect on my understanding and conceptualisation of networking, and felt especially influenced by the works of Manuel Castells and Stephen Graham.</description>
     </item>
     
     <item>
@@ -48,7 +53,8 @@
       <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/claudeshannonandtheclams/</guid>
-      <description></description>
+      <description>I finished reading James Gleick&#39;s The Information tonite - so good!
+Really, the central character is Claude Shannon, who I&#39;m ashamed to admit I didn&#39;t previously know much about. Had a quick search when i finished it and found this decent little 30 min documentary which gives a good overview -</description>
     </item>
     
   </channel>

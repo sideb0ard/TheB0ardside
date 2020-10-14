@@ -12,7 +12,8 @@
       <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/rob-landley-toybox/</guid>
-      <description>Ah, this is ace!</description>
+      <description>Ah, this is ace!
+  </description>
     </item>
     
     <item>
@@ -22,7 +23,7 @@
       
       <guid>http://theb0ardside.com/joschabach-ai/</guid>
       <description>Hugely compelling talk by Joscha Bach covering history and possible futures of AI..
-Found here</description>
+  Found here</description>
     </item>
     
     <item>
@@ -31,7 +32,8 @@ Found here</description>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/julia-evans-kernel-hacker/</guid>
-      <description>Brilliant, brilliant talk from Julia Evans, getting excited about kernel hacking. Warning: Super infectious levels of enthusiasm!</description>
+      <description>Brilliant, brilliant talk from Julia Evans, getting excited about kernel hacking. Warning: Super infectious levels of enthusiasm!
+  </description>
     </item>
     
   </channel>

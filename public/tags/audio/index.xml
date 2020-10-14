@@ -22,7 +22,8 @@
       
       <guid>http://theb0ardside.com/oboe-audio/</guid>
       <description>I&amp;rsquo;ve started building a toy Granular Synth for Android, using this Oboe library.
-This video is a great introduction to it..</description>
+This video is a great introduction to it..
+  </description>
     </item>
     
     <item>
@@ -31,7 +32,8 @@ This video is a great introduction to it..</description>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/golden-rules-audio-programming/</guid>
-      <description>I&amp;rsquo;ve been dealing with threaded data access race conditions between my ui and audio thread this weekend, so found this talk pretty informative &amp;ndash; !</description>
+      <description>I&amp;rsquo;ve been dealing with threaded data access race conditions between my ui and audio thread this weekend, so found this talk pretty informative &amp;ndash; !
+  </description>
     </item>
     
     <item>
@@ -40,7 +42,8 @@ This video is a great introduction to it..</description>
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/bcpl-traxx/</guid>
-      <description>Here&amp;rsquo;s a couple of new tracks I&amp;rsquo;ve put together using my Soundb0ard software..</description>
+      <description>Here&amp;rsquo;s a couple of new tracks I&amp;rsquo;ve put together using my Soundb0ard software..
+      </description>
     </item>
     
     <item>
@@ -49,7 +52,8 @@ This video is a great introduction to it..</description>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/c64-cubase/</guid>
-      <description>This is nuts, some guy wrote an awesome sound editor for the Commodore 64, Cubase64! Link comes via man like Tack</description>
+      <description>This is nuts, some guy wrote an awesome sound editor for the Commodore 64, Cubase64! Link comes via man like Tack
+  </description>
     </item>
     
     <item>
@@ -58,7 +62,8 @@ This video is a great introduction to it..</description>
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/intuitivefft/</guid>
-      <description>Really nicely, and visually, explained introduction to the Fast Fourier Transform - great stuff!</description>
+      <description>Really nicely, and visually, explained introduction to the Fast Fourier Transform - great stuff!
+  </description>
     </item>
     
     <item>
@@ -67,7 +72,8 @@ This video is a great introduction to it..</description>
       <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/android-audio-performance/</guid>
-      <description>I&amp;rsquo;m currently working on a Brillo audio component, which will require very low latency performance. While searching for some tips and prior art, I came across this talk from Google I/O 2013. A bit older now, but provides an excellent overview of the problem domain and approaches to solving those issues..</description>
+      <description>I&amp;rsquo;m currently working on a Brillo audio component, which will require very low latency performance. While searching for some tips and prior art, I came across this talk from Google I/O 2013. A bit older now, but provides an excellent overview of the problem domain and approaches to solving those issues..
+  </description>
     </item>
     
     <item>
@@ -77,7 +83,7 @@ This video is a great introduction to it..</description>
       
       <guid>http://theb0ardside.com/algorithmicsoundperl/</guid>
       <description>Super nice demo of algorithmic sound generation with Perl and Portaudio&amp;hellip;
-from here</description>
+  from here</description>
     </item>
     
   </channel>

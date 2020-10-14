@@ -12,8 +12,8 @@
       <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/embedded-android/</guid>
-      <description>Amazingly smooth presentation under time pressure from Karim Yaghmour, giving a super fast overview of the content in his Embedded Androidbook.
-I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!</description>
+      <description>Amazingly smooth presentation under time pressure from Karim Yaghmour, giving a super fast overview of the content in his Embedded Android book.
+  I&amp;rsquo;ve been deep in Android source code these past few weeks - I just moved from an Ops role to Embedded Developer - I&amp;rsquo;ve never read or written so much C code in my life - it&amp;rsquo;s awesome!</description>
     </item>
     
     <item>
@@ -22,7 +22,8 @@ I&amp;rsquo;ve been deep in Android source code these past few weeks - I just mo
       <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/acorn-sophie-wilson/</guid>
-      <description>Sophie Wilson is a boss..</description>
+      <description>Sophie Wilson is a boss..
+  </description>
     </item>
     
     <item>
@@ -31,7 +32,8 @@ I&amp;rsquo;ve been deep in Android source code these past few weeks - I just mo
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/howtobuildaskycraper/</guid>
-      <description>Pretty rad skyscraper history as software-engineering-metaphor..</description>
+      <description>Pretty rad skyscraper history as software-engineering-metaphor..
+  </description>
     </item>
     
     <item>
@@ -40,7 +42,8 @@ I&amp;rsquo;ve been deep in Android source code these past few weeks - I just mo
       <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/vpc-design/</guid>
-      <description>Super detailed and practical VPC design best practises - very cool stuff..</description>
+      <description>Super detailed and practical VPC design best practises - very cool stuff..
+  </description>
     </item>
     
     <item>
@@ -50,7 +53,7 @@ I&amp;rsquo;ve been deep in Android source code these past few weeks - I just mo
       
       <guid>http://theb0ardside.com/urban-giants/</guid>
       <description>Beautifully shot, mind blowing short documentary about New York&amp;rsquo;s early telecoms buildings, the Western Union Building and the AT&amp;amp;T Long Lines Building ..
-Found via BldBlog site</description>
+  Found via BldBlog site</description>
     </item>
     
     <item>
@@ -60,7 +63,7 @@ Found via BldBlog site</description>
       
       <guid>http://theb0ardside.com/containers-at-google/</guid>
       <description>Eric Brewer&amp;rsquo;s keynote from Dockercon14 -
-Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
+  Crazy stuff, definitely feels like Containers have gained mass momentum, and we&amp;rsquo;re about to undergo a major shift in Systems Architecture. Very exciting times!</description>
     </item>
     
     <item>
@@ -69,7 +72,8 @@ Crazy stuff, definitely feels like Containers have gained mass momentum, and we&
       <pubDate>Sat, 21 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>http://theb0ardside.com/solomon-hykes-docker/</guid>
-      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..</description>
+      <description>Solomon Hykes, creator of Docker, speaking at Dockercon - paints a nicely detailed overview of all the new Docker ecosystem libraries released recently - Libcontainer, Libchan, and Libswarm - basically all middle layer abstractions which seem to have buy across all the main platforms and providers. He starts talking about 10mins in..
+  </description>
     </item>
     
   </channel>
