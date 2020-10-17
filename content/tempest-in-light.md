@@ -34,6 +34,3 @@ Returning to our protagonist’s theme from m. 12, we see that she has now gaine
 Kei Terauchi, October 2020
 
 * In putting this piece on a score, I went through the fact checking process, which was filled with surprises. For instance, I didn’t know that “Claire de Lune” was based on Verlaine’s poem of the same title. “While singing in a minor key/ Of victorious love, and the pleasant life/ They seem not to believe in their own happiness/ And their song blends with the moonlight.” How perfect that this unwittingly intersects with Daft Punk.
-
-<img width="800" src = "img/kei-tempest-in-light-score-page1.png">
-<img width="800" src = "img/kei-tempest-in-light-score-page2.png">
