@@ -11,7 +11,7 @@ Slug: "tempest-in-light"
 This is a recording of Kei Terauchi's composition she contributed to the first issue of the B0arside zine:
 
 <video width="400"  controls>
-  <source src="kei-tempest-in-light.mp4" type="video/mp4">
+  <source src="kei-tempest-in-light2.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
