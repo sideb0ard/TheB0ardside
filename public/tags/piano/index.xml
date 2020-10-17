@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>piano on The B0ardside</title>
+    <link>http://theb0ardside.com/tags/piano/</link>
+    <description>Recent content in piano on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/piano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kei Terauchi - Tempest in Light</title>
+      <link>http://theb0ardside.com/tempest-in-light/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/tempest-in-light/</guid>
+      <description>This is a recording of Kei Terauchi&amp;rsquo;s composition she contributed to the first issue of the B0arside zine:
+Your browser does not support the video tag.  The article which accompanies it:
+This piece portrays an experience one might have wandering the Outer Sunset neighborhood from dusk till dawn. The story is extremely simple. It’s nightfall. The protagonist walks and revels in the moonlight and music until the sun rises.</description>
+    </item>
+    
+  </channel>
+</rss>
