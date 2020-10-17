@@ -10,7 +10,7 @@ Slug: "b0ardside-updates"
 
 Well then, well then!
 
-<img width="800" src="img/beulah.png">
+<img width="800" src="beulah.png">
 
 Big changes afoot! This has been my personal blog for many years, just random videos I dig and the occasional content of my own.
 The name 'B0ardside' was one I originally thought of as the name of a venue I would one day own. Well! That time is now.
@@ -21,8 +21,8 @@ Since then, and chatting with friends, <a href="https://www.gorney.studio/">Doug
 
 This weekend, we're going to put on a two day show featuring Brent's work. Zines will be available too. Come check it out!
 
-<img width="800" src="img/brent-flyer.jpg">
+<img width="800" src="brent-flyer.jpg">
 
-<img width="800" src="img/zines.jpg">
+<img width="800" src="zines.jpg">
 
 Here's the <a href="https://sfrichmondreview.com/2020/10/11/press-release-art-news-b0ardside-presents-%e2%80%8blost-city-and-bridge-bardo%e2%80%8b/">full press release in the Sunset Beacon</a>!
