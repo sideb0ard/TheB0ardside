@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://theb0ardside.com/tags/art/</loc>
-    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theb0ardside.com/categories/blog/</loc>
-    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theb0ardside.com/categories/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theb0ardside.com/sunset-mix-2021/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theb0ardside.com/tags/music/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theb0ardside.com/tags/performance/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theb0ardside.com/tags/piano/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theb0ardside.com/tags/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theb0ardside.com/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theb0ardside.com/tags/video/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theb0ardside.com/tags/zine/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theb0ardside.com/tags/art/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theb0ardside.com/tags/flyer/</loc>
@@ -20,19 +44,10 @@
     <loc>http://theb0ardside.com/sunset-sketchers-21/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theb0ardside.com/tags/</loc>
-    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theb0ardside.com/</loc>
-    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theb0ardside.com/sunset/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theb0ardside.com/tags/san-francisco/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theb0ardside.com/tags/video/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theb0ardside.com/tags/backyard-show/</loc>
@@ -59,25 +74,16 @@
     <loc>http://theb0ardside.com/million-dollar-mailbox/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theb0ardside.com/tags/zine/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theb0ardside.com/b0ardside-updates/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theb0ardside.com/tempest-in-light/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theb0ardside.com/tags/piano/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theb0ardside.com/tags/website/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theb0ardside.com/tags/history/</loc>
-    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theb0ardside.com/tags/music/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theb0ardside.com/stravinksy-sample/</loc>
@@ -202,9 +208,6 @@
   </url><url>
     <loc>http://theb0ardside.com/procedural-programming/</loc>
     <lastmod>2018-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theb0ardside.com/tags/performance/</loc>
-    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theb0ardside.com/tags/sound/</loc>
     <lastmod>2018-03-29T00:00:00+00:00</lastmod>
