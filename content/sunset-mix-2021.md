@@ -8,7 +8,7 @@ Categories:
 Slug: "sunset-mix-2021"
 ---
 
-Recordings from Kei Terauchi's to accompany her piece 'What Makes The World Go Around - Outer Sunset Mix 2021'
+Recordings from Kei Terauchi to accompany her piece 'What Makes The World Go Around - Outer Sunset Mix 2021' in The B0ardside zine issue #2.
 
 <p>
 <img src="cassidy.png" width="800"><br>
