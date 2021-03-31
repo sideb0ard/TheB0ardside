@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>live music on The B0ardside</title>
+    <link>http://theb0ardside.com/tags/live-music/</link>
+    <description>Recent content in live music on The B0ardside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://theb0ardside.com/tags/live-music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cindy and China live performances</title>
+      <link>http://theb0ardside.com/cindy-china-live/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://theb0ardside.com/cindy-china-live/</guid>
+      <description>Recordings now ready from the backyard live shows at the weekend!
+Cindy on saturday ..
+  China on sunday&amp;hellip;
+  </description>
+    </item>
+    
+  </channel>
+</rss>
