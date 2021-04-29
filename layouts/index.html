@@ -1,17 +1,17 @@
 {{ template "base/header.html" . }}
 
-  <section id="main">
-    <div>
-      {{ range first 5 .Data.Pages }}
-        {{ .Render "summary"}}
-      {{ end }}
-      <br/>
-      <br/>
-    </div>
-  </section>
-
-  <div id="archive">
-  <a href="http://theb0ardside.com/categories/blog/">// Older Posts //</a>
+<section id="main">
+  <div>
+    {{ range first 10 .Data.Pages }}
+    {{ .Render "summary"}}
+    {{ end }}
+    <br/>
+    <br/>
   </div>
+</section>
+
+<div id="archive">
+  <a href="http://theb0ardside.com/categories/blog/">// Older Posts //</a>
+</div>
 
 {{ template "base/footer.html" . }}
