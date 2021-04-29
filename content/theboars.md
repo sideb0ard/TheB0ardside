@@ -1,5 +1,5 @@
 ---
-Title: "The Boars video"
+Title: "The Boars - 'Kelly Green' video"
 Description: "Boars video directed by Sean Silk"
 Tags: ["video", "music", "b0ardside", "sunset", "zine"]
 Date: "2021-04-29"
